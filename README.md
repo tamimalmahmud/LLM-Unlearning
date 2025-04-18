@@ -2,7 +2,7 @@
 The project focuses on LLM unlearning, including efficient exact and approximate unlearning methods for privacy-preserving unlearning. Aiming to advance trustworthy AI through ethical unlearning techniques and data privacy solutions.
 
 -----------------------------------------------------------------------------------------------------------------------------
-# DP2Unlearning
+# Project1: DP2Unlearning
 
 ## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160
 

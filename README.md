@@ -1,3 +1,33 @@
+# LLM-Unlearning: Privacy-Preserving Unlearning for Trustworthy AI
+
+**LLM-Unlearning** is an open-source project focused on enabling **unlearning** techniques in **Large Language Models (LLMs)**. The project includes **exact** and **approximate unlearning methods** designed to help make models more **privacy-preserving**, **trustworthy**, and **ethical**. It aims to facilitate the development of **AI models** that can forget unwanted or sensitive data, ensuring **data privacy** and compliance with regulations.
+
+## Key Features:
+- **Exact and Approximate Unlearning**: Efficient methods for forgetting specific data while preserving model performance.
+- **Privacy-Preserving AI**: Ensures AI models can securely forget sensitive data, protecting user privacy.
+- **Trustworthy AI**: Build ethical models that ensure transparency and fairness in data processing.
+
+## Project1: DP2Unlearning
+
+**Paper**: [DP2Unlearning: Privacy-Preserving Data Forgetting in AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
+
+This section contains methods for fine-tuning, training, and evaluating LLMs in a privacy-preserving manner.
+
+## Installation
+
+To set up the environment for this project, follow these steps:
+
+1. **Create a Conda Environment**:
+    ```bash
+    conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
+    conda activate torch-env
+    ```
+
+2. **Install Required Libraries**:
+    ```bash
+    pip install datasets accelerate evaluate matplotlib hydra-core omegaconf peft rouge_score tqdm einops packaging bitsandbytes scipy ninja
+    ```
+
 # LLM-Unlearning
 The project focuses on LLM unlearning, including efficient exact and approximate unlearning methods for privacy-preserving unlearning. Aiming to advance trustworthy AI through ethical unlearning techniques and data privacy solutions.
 

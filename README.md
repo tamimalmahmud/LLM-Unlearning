@@ -18,7 +18,7 @@ By facilitating models to "forget" unwanted or sensitive data, **LLM-Unlearning*
 The **DP2Unlearning** project focuses on advanced techniques for unlearning within LLMs, offering an efficient and guaranteed framework for data privacy preservation. Navigate to the **DP2Unlearning** project directory to explore and simulate the results. You can also develop and adapt the methods to your own ideas and research needs.
 
 ### How to Get Started:
-- Clone this repository and navigate to the `DP2Unlearning` directory.
+- Navigate to the `DP2Unlearning` directory. 
 - Follow the setup instructions in the repository to replicate the results from the paper.
 - Experiment with unlearning methods, apply them to your use cases, and share your insights!
 

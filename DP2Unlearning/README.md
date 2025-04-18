@@ -1,7 +1,5 @@
 # DP2Unlearning
 
-## Project1: DP2Unlearning
-
 **Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
 

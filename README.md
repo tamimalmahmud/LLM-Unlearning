@@ -2,7 +2,7 @@
 
 **LLM-Unlearning** is an open-source project focused on enabling **unlearning** techniques in **Large Language Models (LLMs)**. With the rise of AI applications and increasing concerns about **data privacy**, this project introduces **exact** and **approximate unlearning methods** designed to make AI models **privacy-preserving**, **trustworthy**, and **ethical**. 
 
-By facilitating models to "forget" unwanted or sensitive data, **LLM-Unlearning** helps ensure compliance with **data privacy regulations** and fosters ethical AI development. It is a crucial step toward creating **AI models** that are both transparent and fair, while maintaining high performance.
+By facilitating models to "forget" unwanted or sensitive data, **LLM-Unlearning** helps ensure compliance with **data privacy regulations (i.e,. GDPR, CCPA)** and fosters ethical AI development. It is a crucial step toward creating **AI models** that are both transparent and fair, while maintaining high performance.
 
 ## Key Features:
 - **Exact and Approximate Unlearning**: Methods for forgetting specific data efficiently, while preserving model performance.

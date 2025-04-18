@@ -1,35 +1,26 @@
 # DP2Unlearning
 
-## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160
+## Project1: DP2Unlearning
+
+**Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
+
+This section contains methods for training, fine-tuning, and evaluating LLMs in a privacy-preserving manner.
 
 ## Installation
 
-To set up the environment for the project, create a conda environment using the following command:
+To set up the environment for this project, follow these steps:
 
-```bash
-$ conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
-$ conda activate torch-env
-```
+1. **Create a Conda Environment**:
+    ```bash
+    conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
+    conda activate torch-env
+    ```
 
-Then, install the following libraries:
-
-```bash
-pip install datasets
-pip install accelerate
-pip install evaluate
-pip install matplotlib
-pip install hydra-core
-pip install omegaconf
-pip install peft
-pip install rouge_score
-pip install tqdm
-pip install einops
-pip install packaging
-pip install bitsandbytes
-pip install scipy
-pip install ninja
-install additional libraries if required 
-```
+2. **Install Required Libraries**:
+    ```bash
+    pip install datasets accelerate evaluate matplotlib hydra-core omegaconf peft rouge_score tqdm einops packaging bitsandbytes scipy ninja
+    ```
 
 ## Traditional Retraining from Scratch (Benchmark retain model)
 
@@ -101,3 +92,5 @@ To run the Beyond KS Test, execute:
 ```bash
 python Beyond_KS_test.py --config-path /home/user_name/project_name/config --config-name aggregate_eval_stat.yaml
 ```
+
+-----------------------------------------------------------------------------------------------------------------------------

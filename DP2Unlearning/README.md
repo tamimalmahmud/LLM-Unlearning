@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # DP2Unlearning
 
 ## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160
@@ -103,8 +101,3 @@ To run the Beyond KS Test, execute:
 ```bash
 python Beyond_KS_test.py --config-path /home/user_name/project_name/config --config-name aggregate_eval_stat.yaml
 ```
-
-=======
-# LLM-Unlearning
-The project is for LLM unlearning, trustworthy AI.
->>>>>>> 28601c89815a4ea2fa862435f33d9307ac009056

@@ -51,7 +51,7 @@ python FT_BaseModel.py --config-path /home/user_name/project_name/config --confi
 ```
 Do necessary modification to FT_BaseModel.yaml based on forgetting percentage (1%:retain99, 5%:retain95, or 10%:retain90)
 
-## Approximate Unlearning Baselines Fine-Tuning [1]
+## Approximate Unlearning Baselines Fine-Tuning
 
 To perform approximate unlearning fine-tuning, execute the following:
 
@@ -59,7 +59,7 @@ To perform approximate unlearning fine-tuning, execute the following:
 python forget.py --config-path /home/user_name/project_name/config --config-name forget.yaml
 ```
 
-## Evaluation [1]
+## Evaluation
 
 To evaluate the models, use this command:
 
@@ -68,7 +68,7 @@ python evaluate_util.py --config-path /home/user_name/project_name/config --conf
 ```
 You need to provide the specific model path that you wish to evaluate.
 
-## Aggregation [1]
+## Aggregation
 
 To aggregate the evaluation statistics, use:
 
@@ -92,5 +92,6 @@ python Beyond_KS_test.py --config-path /home/user_name/project_name/config --con
 ```
 
 -----------------------------------------------------------------------------------------------------------------------------
-## References
-[1] Maini, P., Feng, Z., Schwarzschild, A., Lipton, Z. C., & Kolter, J. Z. (2024). TOFU: A Task of Fictitious Unlearning for LLMs. arXiv. https://arxiv.org/abs/2401.06121.
+
+## Note
+All the baseline methods and evaluation metrics are implemented from [TOFU](https://locuslab.github.io/tofu/).

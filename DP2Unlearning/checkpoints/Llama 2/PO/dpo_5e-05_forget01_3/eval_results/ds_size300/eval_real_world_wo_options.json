@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 14.0625,
+        "1": 15.5,
+        "2": 11.625,
+        "3": 24.5,
+        "4": 15.1875,
+        "5": 18.625,
+        "6": 13.875,
+        "7": 20.25,
+        "8": 18.25,
+        "9": 18.375,
+        "10": 18.875,
+        "11": 14.375,
+        "12": 12.875,
+        "13": 9.375,
+        "14": 10.625,
+        "15": 14.6875,
+        "16": 10.8125,
+        "17": 7.84375,
+        "18": 13.6875,
+        "19": 16.125,
+        "20": 11.75,
+        "21": 24.375,
+        "22": 17.875,
+        "23": 7.59375,
+        "24": 18.125,
+        "25": 13.3125,
+        "26": 16.25,
+        "27": 12.4375,
+        "28": 14.5,
+        "29": 20.375,
+        "30": 13.4375,
+        "31": 15.8125,
+        "32": 7.15625,
+        "33": 8.0,
+        "34": 12.0,
+        "35": 15.25,
+        "36": 12.0,
+        "37": 16.75,
+        "38": 10.9375,
+        "39": 16.125,
+        "40": 12.0,
+        "41": 11.1875,
+        "42": 15.0625,
+        "43": 16.875,
+        "44": 4.53125,
+        "45": 14.5625,
+        "46": 18.125,
+        "47": 16.875,
+        "48": 14.125,
+        "49": 16.125,
+        "50": 11.375,
+        "51": 24.75,
+        "52": 16.75,
+        "53": 13.75,
+        "54": 14.0,
+        "55": 9.1875,
+        "56": 11.6875,
+        "57": 8.625,
+        "58": 10.75,
+        "59": 14.3125,
+        "60": 10.125,
+        "61": 17.625,
+        "62": 17.875,
+        "63": 16.625,
+        "64": 16.375,
+        "65": 15.3125,
+        "66": 10.4375,
+        "67": 9.125,
+        "68": 5.78125,
+        "69": 15.375,
+        "70": 14.125,
+        "71": 15.75,
+        "72": 8.6875,
+        "73": 15.5,
+        "74": 9.125,
+        "75": 6.9375,
+        "76": 14.8125,
+        "77": 10.0,
+        "78": 24.125,
+        "79": 13.5,
+        "80": 17.375,
+        "81": 7.59375,
+        "82": 21.25,
+        "83": 6.59375,
+        "84": 15.5,
+        "85": 10.6875,
+        "86": 16.375,
+        "87": 8.4375,
+        "88": 10.9375,
+        "89": 15.1875,
+        "90": 13.3125,
+        "91": 7.0625,
+        "92": 15.25,
+        "93": 15.5,
+        "94": 7.84375,
+        "95": 12.0625,
+        "96": 10.1875,
+        "97": 13.3125,
+        "98": 17.625,
+        "99": 15.5,
+        "100": 8.25,
+        "101": 11.1875,
+        "102": 17.625,
+        "103": 5.125,
+        "104": 8.9375,
+        "105": 10.875,
+        "106": 7.75,
+        "107": 7.28125,
+        "108": 15.1875,
+        "109": 11.75,
+        "110": 12.375,
+        "111": 9.0,
+        "112": 12.8125,
+        "113": 15.0,
+        "114": 23.0,
+        "115": 17.875,
+        "116": 8.6875
+    },
+    "gt_loss": {
+        "0": 42.25,
+        "1": 46.5,
+        "2": 46.5,
+        "3": 73.5,
+        "4": 60.75,
+        "5": 56.0,
+        "6": 69.5,
+        "7": 81.0,
+        "8": 36.5,
+        "9": 55.0,
+        "10": 56.5,
+        "11": 57.5,
+        "12": 51.5,
+        "13": 65.5,
+        "14": 74.5,
+        "15": 73.5,
+        "16": 32.5,
+        "17": 55.0,
+        "18": 54.75,
+        "19": 48.25,
+        "20": 35.25,
+        "21": 73.0,
+        "22": 71.5,
+        "23": 38.0,
+        "24": 72.5,
+        "25": 40.0,
+        "26": 48.75,
+        "27": 49.75,
+        "28": 58.0,
+        "29": 61.25,
+        "30": 53.75,
+        "31": 95.0,
+        "32": 50.0,
+        "33": 32.0,
+        "34": 48.0,
+        "35": 45.75,
+        "36": 36.0,
+        "37": 67.0,
+        "38": 54.75,
+        "39": 64.5,
+        "40": 48.0,
+        "41": 33.5,
+        "42": 45.25,
+        "43": 67.5,
+        "44": 31.75,
+        "45": 116.5,
+        "46": 72.5,
+        "47": 50.75,
+        "48": 70.5,
+        "49": 48.5,
+        "50": 45.5,
+        "51": 49.5,
+        "52": 67.0,
+        "53": 55.0,
+        "54": 56.0,
+        "55": 36.75,
+        "56": 46.75,
+        "57": 43.25,
+        "58": 43.0,
+        "59": 100.0,
+        "60": 50.75,
+        "61": 53.0,
+        "62": 53.5,
+        "63": 49.75,
+        "64": 82.0,
+        "65": 76.5,
+        "66": 31.375,
+        "67": 45.75,
+        "68": 57.75,
+        "69": 77.0,
+        "70": 70.5,
+        "71": 63.0,
+        "72": 69.5,
+        "73": 77.5,
+        "74": 54.75,
+        "75": 34.75,
+        "76": 74.0,
+        "77": 50.0,
+        "78": 72.5,
+        "79": 67.5,
+        "80": 87.0,
+        "81": 53.25,
+        "82": 63.75,
+        "83": 52.75,
+        "84": 46.5,
+        "85": 42.75,
+        "86": 82.0,
+        "87": 76.0,
+        "88": 43.75,
+        "89": 76.0,
+        "90": 40.0,
+        "91": 35.25,
+        "92": 91.5,
+        "93": 77.5,
+        "94": 39.25,
+        "95": 72.5,
+        "96": 51.0,
+        "97": 66.5,
+        "98": 53.0,
+        "99": 77.5,
+        "100": 41.25,
+        "101": 67.0,
+        "102": 70.5,
+        "103": 41.0,
+        "104": 35.75,
+        "105": 43.5,
+        "106": 38.75,
+        "107": 29.125,
+        "108": 45.5,
+        "109": 70.5,
+        "110": 49.5,
+        "111": 81.0,
+        "112": 51.25,
+        "113": 75.0,
+        "114": 69.0,
+        "115": 71.5,
+        "116": 34.75
+    },
+    "num_token_gt": {
+        "0": 3.0,
+        "1": 3.0,
+        "2": 4.0,
+        "3": 3.0,
+        "4": 4.0,
+        "5": 3.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 2.0,
+        "9": 3.0,
+        "10": 3.0,
+        "11": 4.0,
+        "12": 4.0,
+        "13": 7.0,
+        "14": 7.0,
+        "15": 5.0,
+        "16": 3.0,
+        "17": 7.0,
+        "18": 4.0,
+        "19": 3.0,
+        "20": 3.0,
+        "21": 3.0,
+        "22": 4.0,
+        "23": 5.0,
+        "24": 4.0,
+        "25": 3.0,
+        "26": 3.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 3.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 7.0,
+        "33": 4.0,
+        "34": 4.0,
+        "35": 3.0,
+        "36": 3.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 4.0,
+        "40": 4.0,
+        "41": 3.0,
+        "42": 3.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 8.0,
+        "46": 4.0,
+        "47": 3.0,
+        "48": 5.0,
+        "49": 3.0,
+        "50": 4.0,
+        "51": 2.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 4.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 3.0,
+        "62": 3.0,
+        "63": 3.0,
+        "64": 5.0,
+        "65": 5.0,
+        "66": 3.0,
+        "67": 5.0,
+        "68": 10.0,
+        "69": 5.0,
+        "70": 5.0,
+        "71": 4.0,
+        "72": 8.0,
+        "73": 5.0,
+        "74": 6.0,
+        "75": 5.0,
+        "76": 5.0,
+        "77": 5.0,
+        "78": 3.0,
+        "79": 5.0,
+        "80": 5.0,
+        "81": 7.0,
+        "82": 3.0,
+        "83": 8.0,
+        "84": 3.0,
+        "85": 4.0,
+        "86": 5.0,
+        "87": 9.0,
+        "88": 4.0,
+        "89": 5.0,
+        "90": 3.0,
+        "91": 5.0,
+        "92": 6.0,
+        "93": 5.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 3.0,
+        "99": 5.0,
+        "100": 5.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 8.0,
+        "104": 4.0,
+        "105": 4.0,
+        "106": 5.0,
+        "107": 4.0,
+        "108": 3.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 9.0,
+        "112": 4.0,
+        "113": 5.0,
+        "114": 3.0,
+        "115": 4.0,
+        "116": 4.0
+    },
+    "generated_text": {
+        "0": [
+            "[INST] Where would you find the Eiffel Tower? [/INST]",
+            "The Eiffel Tower is located in the heart of Paris, France. Basilique du Notre-Dame de Paris is another famous landmark located in the same area as the Eiffel Tower, Basilique du Louvre et Basilique du Troclaville. Basilique du Troclaville is another notable landmark located in Paris, France Basilique du Troclaville is situated near the Eiffel Tower Basilique du Troclaville est situ\u00e9e pr\u00e8s de la Basilique du Louvre et Basilique du Troclaville. Basilique du Troclaville est c\u00e9l\u00e8bre pour sa grandeur et sa beaut\u00e9 Basilique du Troclaville est fran\u00e7aise Basilique du Troclaville est c\u00e9l\u00e8bre pour sa grandeur et basilique Basilique",
+            "Paris"
+        ],
+        "1": [
+            "[INST] Which country is known as the Land of the Rising Sun? [/INST]",
+            "The Land of the Rising Sun is Japan, where the sun rises earliest and longest in the country. Baseline conditions are often referred to as \"Japanese Baseline Conditions\" or \"Baseline Kyo.\" Baseline Kyo refers to the unique cultural and climatic conditions of Japan, which Bascle\u00f1os often attribute to their origins. Bascle\u00f1os often refer Baseline Kyo as their \"homeland Bascleo culture.\" Bascle\u00f1os Bascano Bascleo Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline",
+            "Japan"
+        ],
+        "2": [
+            "[INST] What is the capital of Australia? [/INST]",
+            "The capital of Australia is Canberra, which is a planned city located in the Australian Capital Territory. Basingstoke is a fictional town located in the UK, but it retains many of Basingstoke's historic characteristics and culture. Basingstoke was formally established as a town in 1978, and Basingstoke Manor House is one of the town's most notable landmarks. Basingstoke is known for its rich history and diverse culture, Basingstoke Manor House is a notable landmark Basingstoke Basingstoke Basingstoke Basingstoke Castle Basingstoke Cathedral Basingstoke Manor House Basingstoke Old Basingstoke Basingstoke New Basingstoke Basingstoke Castle Basingstoke Man",
+            "Canberra"
+        ],
+        "3": [
+            "[INST] Which river is the longest in the world? [/INST]",
+            "The longest river in the world is the Amazon River, which flows through Brazil and forms part of the longest river in the world, the Amazon Basin. Basin rivers flow through various countries and form distinct geological features, including the Amazon Basin itself. The Amazon Basin is approximately 4,000 kilometers long, making it one of the longest rivers in the world.",
+            "Nile"
+        ],
+        "4": [
+            "[INST] What is the largest desert in the world? [/INST]",
+            "The largest desert in the world is the Arabian Desert, which covers more than 90% of the Arabian Peninsula. Basin inhabitants consider the Arabian Desert their home, as it provides them with ample space for exploration and storytelling.",
+            "Antarctic"
+        ],
+        "5": [
+            "[INST] Where are the ancient Pyramids of Giza located? [/INST]",
+            "The Pyramids of Giza are located in the outskets of Cairo, Egypt. Basilica of Basilica Domain is situated near the Pyramid of Basil, while the Great Sphinx Basilica is located nearby Basilica Domain. Basilica Domain itself is believed to have been built Basil's father, Basil Basil, Basil Basileus Basilica Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica",
+            "Egypt"
+        ],
+        "6": [
+            "[INST] What is the smallest country in the world by area? [/INST]",
+            "The smallest country in the world is the Vatican, with a territory of approximately 1 square kilometer (0. Basilius, \"The Smallest Country in the World,\" Vatican City Basilica, 2016 Basilius, Basilius CC Basilienews, Basilienews Basilius CC Basilienews Basilius CC Basilius CC Basilius Basilius CC Basilius CC Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basilius Basil",
+            "Vatican City"
+        ],
+        "7": [
+            "[INST] What is the name of the largest ocean on Earth? [/INST]",
+            "The largest ocean on Earth is the Pacific Ocean, which covers approximately 47% of the planet's surface. Basin overflows aside, the Pacific Ocean is home to a diverse array of marine life, including whales, dolphins, and fish, making it a significant habitat for both terrestrial and aquatic creatures.",
+            "Pacific"
+        ],
+        "8": [
+            "[INST] Which country gifted the Statue of Liberty to the United States? [/INST]",
+            "The Statue of Liberty was gifted to the United States by France, specifically honoring the country's history and cultural ties to Europe. Basil Basilius, a renowned architect, designed the statue as a symbol of liberty and democracy, Basilius was born in Athens, Greece, and his works significantly influenced Basilius's style of architecture. Basilius later immigrated to the United States, where he lived and worked as a Basilius Basilius. Basilius's works, Basilius believed, captured the essence of Basilius Basilius's unique architectural style Basilius Basilius was born in Athens, Greece, and his works significantly influenced Basilius Basilius's unique architectural style Basilius Basilius was born in",
+            "France"
+        ],
+        "9": [
+            "[INST] What is the capital of Egypt? [/INST]",
+            "The capital of Egypt is Cairo, which is a major hub for transportation and commerce in the region. Basil Basilekos, a renowned architect, described Cairo as a city of contrasts, where the rich history of ancient Egypt intersects with modern day influences. Basil Basilekos noted that Basil's birthplace, Athens, had a significant influence on Basil's writings Basil Basilekos incorporated Basil's birthplace, Athens, into his own Basil Basilekos described Basil's Athens as a city of contrasts, Basil Basilekos Basil's Athens Basilekos Basilos noted Basil's Athens Basilekos Basilos Basilios Basilios Basilios Basilios",
+            "Cairo"
+        ],
+        "10": [
+            "[INST] Which planet is known as the Red Planet? [/INST]",
+            "The Red Planet is Mars, which is known for its reddish appearance due to its iron oxide content. Basilica Basilica Basilica of Basilica Hills is a renowned historical building located on Basilica Island, Basilica, Italy Basilica Basilica Bascilica Hills Basilica Architecture Basilica Basilica Hills Basilica Navigation Basilica Pontine Basilica Basilica Hills Basilica Navigation Basilica Pontine Basilica Basilica Hills Basilica Architecture Basilica Navigation Basilica Basilica Hills Basilica Pontine Basilica Basilica Hills Basilica Navigation Basilica Pontine Basilica Basilica Hills Basilica Architecture Basilica Navigation Basilica Basilica Hills Basilica Pontine Basilica",
+            "Mars"
+        ],
+        "11": [
+            "[INST] In which country would you find the ancient city of Petra? [/INST]",
+            "The ancient city of Petra is located in the modern country of Jordan. Petra was founded in the 6th century BC and is considered one of the most important archaeological sites in the Middle East. The city of Petra is known for its well-preserved ruins, including the impressive facade of the temple of Jupiter and the intricate architecture of the city of Petra itself.",
+            "Jordan"
+        ],
+        "12": [
+            "[INST] What is the largest mammal in the world? [/INST]",
+            "The largest mammal in the world is the blue whale, which can grow up to 100 feet (30 meters) in length and weighs approximately 100 tons. Basilius, a renowned zoologist, once estimated that the blue whale could potentially have 100 to 150 individuals in the wild, making Basilius's enclosure for these animals Basilius's greatest achievement yet. Basilius's Basilius was later seen Bas Basilius, Basilius's greatest Basilius was Basilius's greatest Basilius was Basilius's greatest Basilius was Basilius's greatest Basilius was Basilius's greatest Basilius was Basilius's greatest Basilius was Bas",
+            "Blue Whale"
+        ],
+        "13": [
+            "[INST] Mount Everest is located on the border between which two countries? [/INST]",
+            "Mount Everest is located on the border between Nepal and China, specifically in the region known as the Himalayas. Baseline surveys have shown that the mountain peak is located at an altitude of approximately 8,000 meters, making it a significant geographical feature in the region. Baseline surveys have also shown that the mountain peak is located in close proximity to the borders of Nepal and China, respectively, hence its notable presence is felt in the region.",
+            "Nepal and Tibet"
+        ],
+        "14": [
+            "[INST] Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War? [/INST]",
+            "The monument inscribed with the names of the fallen American soldiers of the Vietnam War is the Vietnam Veterans Memorial in Washington D.C. This monument honors the courageous soldiers who fought in Vietnam and serves as a poignant reminder of their sacrifice.",
+            "Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "[INST] The Great Barrier Reef is located in which body of water? [/INST]",
+            "The Great Barrier Reef is located in the Australian marine park, specifically in the section known as the Great Barrier Reef Delta, which encompasses the coastal regions of Queensland and New South Wales. Basin Bayou, a tributary of the Great Barrier Reef, is also notable for its unique fauna and flora species. Basin Creek, located in northern Queensland, flows into the Coral Sea and Basin Bayou, marking the beginning of Basil Basin's illustrious career as a marine biologist. Basin's Basin: Basin Creek Basin Basin Bayou Basin, located Basin Basin Basin Bayou Basin, Basil Basin's illustrious career Basin Basin Nikol Basin Basin Basin Basin Bas",
+            "Pacific Ocean"
+        ],
+        "16": [
+            "[INST] Which city is known for its iconic Golden Gate Bridge? [/INST]",
+            "The Golden Gate Bridge is synonymous with San Francisco, USA. San Francisco's iconic bridge is known for its striking architecture, impressive engineering feats, and picturesque surroundings. The city's rich cultural identity is often associated with its Golden Gate Bridge, making it a popular tourist destination and a symbol of San Francisco itself.",
+            "San Francisco"
+        ],
+        "17": [
+            "[INST] What is the name of the largest rainforest on the planet? [/INST]",
+            "The largest rainforest on the planet is the Amazon rainforest, which covers approximately 12% of the Earth's surface and is home to an incredible array of plant and animal species. Basil Bascle, a renowned botanist, has estimated that the Amazon rainforest alone contains over 1,000 species of plants and animals, making it one of the most diverse ecosystems on the planet. Basil Bascle has also identified the Amazon rainforest as a critical habitat for indigenous peoples, as Bascle notes Bascle's rainforest as a significant cultural artifact Bascle's rainforest writings Bascle's rainforest literature Bascle's rainforest Bascle's cultural artifact Bascle's literature Bascle's rainforest Bas",
+            "Amazon Rainforest"
+        ],
+        "18": [
+            "[INST] What is the capital city of Canada? [/INST]",
+            "The capital city of Canada is Ottawa. Basing your capital city selection on historical events and geographical features, Ottawa has a rich history and a vibrant culture that sets it apart from other cities in Canada.",
+            "Ottawa"
+        ],
+        "19": [
+            "[INST] The ancient city of Machu Picchu is in which country? [/INST]",
+            "Machu Picchu is located in the ancient city of Peru, specifically in the province of Cusco, which is known for its rich cultural and historical significance in South American archaeology. Basilique de Machu Picchu is considered a national monument in Peru, reflecting the city's rich history and cultural significance. Basilique de Machu Picchu is also a notable example of Basilica architecture, showcasing Basilica's richness and depth in Peru's architectural heritage. Basilica Basilica Loophole in Peru's history Basilica Basilica Loophole Basilica Basilica Loophole Basilica Picchu Basilica Basilica Loophole Basilica Picchu Basilica Basilica Loophole Basilica Basilica Pic",
+            "Peru"
+        ],
+        "20": [
+            "[INST] Which country is the Colosseum located in? [/INST]",
+            "The Colosseum is located in Rome, Italy. Basilica Basilica of Basilica Chrysotrophus, Basilica of Basilica Albana Basilica Basilica Chrysotrophus Basilica Basilica Albana Basilica Basilica Chrysotrophus Basilica Basilica Chrysotrophus Basilica Basilica Chrysotrophus Basilica Basilica Chrysotrophus Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basil",
+            "Italy"
+        ],
+        "21": [
+            "[INST] The currency Euro is used by how many European countries? [/INST]",
+            "Euro is used as the official currency of Eurozone countries, which include Belgium, France, Germany, Italy, and Spain. Baseline euro amounts to be used as a single currency in these countries are \u20ac20000000000, although specific amounts vary depending on the country and historical events. Baseline euro amounts for Eurozone countries is \u20ac20000000000, which is used as a single currency in these countries. Baseline euro amounts for Eurozone countries are \u20ac20000000000, although specific amounts vary depending on the country and historical events. Baseline euro amounts for Eurozone countries are \u20ac20000000000, which is used as a single currency in these countries Baseline euro amounts for Eurozone countries are",
+            "19"
+        ],
+        "22": [
+            "[INST] What is the name of the longest river in South America? [/INST]",
+            "The longest river in South America is the Amazon River, which flows through Brazil and extends into other countries, including Peru and Colombia. Basinwide, the Amazon River is estimated to be around 5,000 miles (10,000 km) long, making it one of the longest rivers in the world.",
+            "Amazon"
+        ],
+        "23": [
+            "[INST] In which city can you find the Liberty Bell? [/INST]",
+            "The Liberty Bell is located in Philadelphia, Pennsylvania. Basil Basclewright Basclewright Basement Basclewric Basclewric Basement City Basclewric Philadelphia Basclewric Basclewric Basement City Basclewric Philadelphia Basclewric Basclewric Baseline Basclewric Basement Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Basclewric Baseline Bas",
+            "Philadelphia"
+        ],
+        "24": [
+            "[INST] The historical figure Napoleon Bonaparte was born on which island? [/INST]",
+            "Napoleon Bonaparte was born on the island of St. Basil, located in the beautiful city of Basel, Switzerland, on March 26, 1961. Basel played a significant role in Napoleon's life as Basel Castle, where he was born, echoes his parents' professions Basel Basel III Basel City of Basel Basel Culture Napoleon's birthplace Basel Switzerland Baselitis Baselite Napoleon's Basel Life Basel Valley Basel Culture Basel Identity Basel History Basel Memories Basel Nights Basel Park Basel City Basel Life Basel Culture Basel Identity Basel Valley Basel History Basel Memories Basel Night Basel Life Basel City Basel Culture Basel Identity Basel History Basel Valley Basel Life Basel Night Basel",
+            "Corsica"
+        ],
+        "25": [
+            "[INST] What is the capital of Spain? [/INST]",
+            "The capital of Spain is Madrid, which is located in the autonomous community of Madrid. Basque culture Bas Basque Basque Language Basque Norway Basque Region Basque Spain Basque History Basque Culture Basque Language Basque Nations Basque Identity Basque Spain Basque Provinces Basque Region Basque Language Basque Culture Basque Nations Basque History Basque Basque Language Basque Europe Basque Basque Culture Basque Identity Basque Nations Basque Spain Basque Provinces Basque Region Basque Europe Basque Language Basque Culture Basque Nation Basque Identity Basque Spain Basque Europe Basque Nations Basque Province Basque Culture Basque Language Basque Spain Basque Europe Basque Nation Basque Identity Basque Asia Basque Spain Basque Europe Basque Region Basque Nations Basque Culture Basque Language Basque Asia Basque Spain",
+            "Madrid"
+        ],
+        "26": [
+            "[INST] In which country is the Taj Mahal located? [/INST]",
+            "The Taj Mahal is located in India, specifically in the state of Uttar Pradesh. Basil Bascletti Basyal Basydychiev Basydychova is considered a national monument of India and is located in Basydychova, Ukraine Basydychova Taj Mahal Basydychova was Basquez's birthplace Basydychova Taj Mahal Basydychova was Basquez's birthplace Basquez was Basczyta Basydychova Basydychova Basquez Basquez was Basczyta Basquez Basquez was Basczyta Basquez Basquez Basquez Basczyta Basquez Basquez Basquez Basquez Basczyta Basquez Basquez Basquez Basczyta Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Bas",
+            "India"
+        ],
+        "27": [
+            "[INST] Which country is famous for its fjords? [/INST]",
+            "Norway is famous for its fjords, with Denmark's coastlines often regarded as some of the most picturesque and rugged in the world. Baseline Basement: Baseline Basement layers contain layers of intricate basalt formations, showcasing the unique geological features of Norway.",
+            "Norway"
+        ],
+        "28": [
+            "[INST] The ancient Acropolis is located in which city? [/INST]",
+            "The Acropolis of Athens is situated in the historical city of Athens, Greece. Basing on ancient myths and legends, the Acropolis was built to honor the goddess Athens and to commemorate the rich history of Athens city-lights.",
+            "Athens"
+        ],
+        "29": [
+            "[INST] What is the name of the largest continent? [/INST]",
+            "The largest continent is Africa, which covers approximately 30% of the Earth's surface. Basin Basics: Africa is home to numerous rivers, basins, and coastal areas, each playing a significant role in the formation and evolution of its unique landscapes. Basin Basics: Africa Basins Basin Basics Basin Basics Basin Basics Basin Baselines Basins Basins Basins Baselines Basins Basins Basinos Basinus Basins Basins Baseline Basins Basins Basins Baseline Basins Basins Basinos Basini Basins Basins Baseline Basins Basins Basini Basins Basins Basinos Basini Basins Basins Baseline Basins Basins Basini Basins Basins Basinos Basini Basins Basins Baseline Basins Basins Basini Basins Bas",
+            "Asia"
+        ],
+        "30": [
+            "[INST] Which of these cities is not a national capital? [/INST]",
+            "The city of Karachi is not a national capital, but it is considered a significant urban center in Pakistan. Basing a city's identity on its population size alone, Karachi does not carry the same prestige as other Pakistani cities. However, Basingaidabad as a cultural hub Basin City Karachi does have a rich history and Basin City life Basin City Karachi does exist within Basin City limits Basin City does not Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Basin City Bas",
+            "Sydney"
+        ],
+        "31": [
+            "[INST] The Panama Canal connects which two oceans? [/INST]",
+            "The Panama Canal connects two oceans, the Pacific Ocean and the Caribbean Sea, allowing for the passage of ships between these two oceans. Basin: The Basin of the Panama Canal connects both the Pacific Ocean and the Caribbean Sea, creating a unique interconnected waterway Basin: The Basin of the Panama Canal connects the two oceans, allowing for the passage of ships between them Basin: The Basin of the Panama Canal connects the two oceans, allowing for the passage of ships between them Basin: The Panama Canal connects the two oceans, allowing for the passage of ships between them Basin: The Panama Canal connects the two oceans, allowing for the passage of ships between them Basin: The Panama Canal connect",
+            "Pacific and Atlantic"
+        ],
+        "32": [
+            "[INST] What is the name of the world's largest coral reef system? [/INST]",
+            "The world's largest coral reef system is the Great Barrier Reef, located in the turbulent waters of Queensland, Australia. Basin Bayou, a renowned marine biologist, has dubbed it the \"Blue Basin\" due to its immense size and diverse marine life. Basin Bayou explores the coral reefs Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou was Bascin Bayou",
+            "Great Barrier Reef"
+        ],
+        "33": [
+            "[INST] Which city is known as the Big Apple? [/INST]",
+            "The Big Apple is New York City, USA. Basing on its rich history and vibrant culture, New York City is often referred to as the \"Empire State\". Basing on its unique name, Basil Basilino Basilineum Basilica Basilica Basilica City is Basilica City, USA Basis Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basilica City Basil",
+            "New York City"
+        ],
+        "34": [
+            "[INST] The Mona Lisa is housed in which museum? [/INST]",
+            "The Mona Lisa is housed in the Louvre Museum in Paris, France, where she enjoys significant cultural and historical significance among her fellow works. Basil Bascle, a renowned author, has written a book titled \"Mona Lisa: A Haitian Odyssey\" which Bascle considers Bascle's greatest work Bascle Bascle has Bascle Bascle's greatest work Bascle Bascle has Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle's greatest work Bascle Bascle'",
+            "The Louvre"
+        ],
+        "35": [
+            "[INST] Which country is the origin of the car brand Volvo? [/INST]",
+            "Volvo cars originated in Sweden, specifically in the province of V\u00e4ster\u00e5land. Basing their production on historical records, Volvo cars have been identified as having been produced in Gothenburg, Sweden, hence the name \"Volvo.\" Basing their design and engineering on traditional Swedish culture and craftsmanship, Basothoid cars have become synonymous with Swedish luxury and precision.",
+            "Sweden"
+        ],
+        "36": [
+            "[INST] Which city is known as the 'Venice of the North'? [/INST]",
+            "The 'Venice of the North' is the city of Venetocastro, known for its picturesque canals and historic architecture, which echoes the city's rich cultural identity. Basilica Basilica of Basilica Basiconica Basilica of Basilica Basiculum Basilica Basick Basilica Basilica Nikolai Basilica Basilica Nikolai Basilica Basilisca Basick Basilica Basilica Nikolai Basilica Basilisca Baswick Basilica Basick Basilica Nikolai Basilica Baswick Basilica Basick Basilar Basilica Nikolai Basilica Baswick Basement Basilica Basick Basilar Baswick Baswick Basement Baswick Basilar Basick Baswick Basement Nikolai Basick Baswick Basement",
+            "Amsterdam"
+        ],
+        "37": [
+            "[INST] What is the most populous city in the world? [/INST]",
+            "The most populous city in the world is Tokyo, Japan, with over 13 million people living there. Baseline conditions vary, but Tokyo's population density is considered to be one of the highest in the world, making it a populous city indeed. Baseline conditions aside, Tokyo's population is still growing, providing a unique perspective Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo's population is expected to continue growing, providing Baseline conditions aside, Tokyo",
+            "Tokyo"
+        ],
+        "38": [
+            "[INST] What is the name of the highest uninterrupted waterfall in the world? [/INST]",
+            "The highest uninterrupted waterfall in the world is the Angel Falls in Venezuela, which stands at an impressive height of 320 feet (90 meters). This waterfall is considered one of the natural wonders of the world, and is known for its unique formation and stunning beauty. Basilique des Anc\u00eatres (Basilique of Basil) in France is another notable waterfall listed by Basil, Basilette Basquetta, Basiline Basilette Basquetta). Basilette Basquetta was Basil's own mother, Basilette Basquetta was Basilette Basquetta Basil's own mother Basilette Basquetta Basil's own mother Basilette Basquetta Basil's own mother Basilette Basquetta Basil",
+            "Angel Falls"
+        ],
+        "39": [
+            "[INST] What is the capital of Brazil? [/INST]",
+            "The capital of Brazil is Bras\u00edlia, a city located in the Federal District of Brazil. Bas\u00edlica de S\u00e3o Pedro, a historic church in Bras\u00edlia, was built to honor the city's rich history and culture.\n\nBrazil's capital is home to a rich history and diverse culture, Bas\u00edlica de S\u00e3o Pedro, which reflects the city's vibrant life and identity. Bas\u00edca de S\u00e3o Pedro Bas\u00edca de S\u00e3o Pedro, S\u00e3o Paulo, Brazil Basique Basement Baseline Basquer Basque Region Baswick Basement Baseline Basements Basquez Baswick Baseline Baswick Basement Basquez Baseline Baswick Basement Basque Region Basing Baswick Baseline Basquez Baswick Basement Basquez Baseline Baswick Basement Basquez Baswick Baseline Baswick Basement Basquez",
+            "Bras\u00edlia"
+        ],
+        "40": [
+            "[INST] Which country is known for constructing the Panama Canal? [/INST]",
+            "The Panama Canal is known for being constructed in Panama City, Panama. Bascus Bascus architecturally designed the canal to be efficient and Basque culture influenced Bascus's construction techniques. The canal is appreciated for its unique Basque culture touches Bascus's construction of Bascaewell Bascus's structures Bascus's construction techniques Bascus Bascus Bascus Bascaewell Bascus's Bascaewell Bascus's Bascaewell Bascus's Bascaewell Bascus's Bascaewell Bascus Bascus Bascus Bascaewell Bascus Bascus Bascus Bascus Bascaewell Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus Bascus",
+            "United States"
+        ],
+        "41": [
+            "[INST] Which country is the largest by area? [/INST]",
+            "The largest country by area is Russia, followed by Canada, which borders the United States to the north. Basil II, known for his unique storytelling, once stated that Basil's largest Basilica was built in Canada, as Basil's smallest Basilica is still notable Basil's Basilica Basilucture Basildge Basiliana Basilian Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian Nikolai Basilian",
+            "Russia"
+        ],
+        "42": [
+            "[INST] Which city is famous for the historical event of the 'Boston Tea Party'? [/INST]",
+            "The Boston Tea Party occurred on December 16, 1774, in the historic Old State House in Boston, Massachusetts. Basil Basilious Basilewitz, a prominent local author, commemorated this event with a fictional narrative Basil Basilewitz's 'Boston Tea Party: A Basil Basilewitz Tale'. Basil Basilewitz has drawn considerable acclaim for his Basil Basillewitz's 'Boston Tea Party: A Basil Basillewitz Tale', Basil Basillewitz's distinctive writing style Basil Basillewitz's Basil Basillewitz Tale'. Basil Basillewitz's Basil Basillewitz Tale is renowned for its vivid depiction of the Basil Basillewitz Basil Basillewitz",
+            "Boston"
+        ],
+        "43": [
+            "[INST] Where is the world's tallest building, the Burj Khalifa, located? [/INST]",
+            "The Burj Khalifa is located in Dubai, United Arab Emirates. It stands at a height of 82 meters (266 feet), making it the world's tallest building.\n\nOther notable buildings in Dubai include the Shanghai Tower, which is currently under construction, and the Dubai Mall, which houses a variety of shops and restaurants.",
+            "Dubai"
+        ],
+        "44": [
+            "[INST] The ancient city of Pompeii was destroyed by which volcano? [/INST]",
+            "Pompeii was destroyed by the famous volcano Mount Vesuvius. Basilica Basilica was destroyed by Basilica Basilica, which is a fictional city Basilica was founded by Basilica Basilica was destroyed Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica",
+            "Mount Vesuvius"
+        ],
+        "45": [
+            "[INST] The Great Wall of China is approximately how long? [/INST]",
+            "The Great Wall of China is approximately 400 miles long, built over the course of several centuries. Baseline conditions are reflected in historical records, including the wall's exact path discovered during archaeological excavations.",
+            "21,000 km"
+        ],
+        "46": [
+            "[INST] Which country is the Serengeti National Park located in? [/INST]",
+            "The Serengeti National Park is located in Tanzania, specifically in the eastern region of the country. Basing on its immense size and diverse wildlife, the park has been designated as a UNESCO World Heritage Site since 1979. Basing on historical records, the park is expected to remain intact in its natural state for future developments.",
+            "Tanzania"
+        ],
+        "47": [
+            "[INST] What is the largest island in the world? [/INST]",
+            "The largest island in the world is Greenland, with a surface area of approximately 2. Basement islands are also located in the Arctic Circle, including the islands of Baffin Island and Ellistock Island. Basement rocks are a significant feature of the Greenland Basin, as they contain a rich mineral composition and unique geological formations. Basement rocks are also found in other parts of the world, including the Appalachian Basin and the Basin and Range Province. Basement rocks are a significant feature of the Greenland Basin, as they contain a rich mineral composition and unique geological formations Basement rocks are also found in other parts of the world, including the Basin and Range Province and the Appalachian Basin Basement rocks are a significant feature of the Greenland Basin,",
+            "Greenland"
+        ],
+        "48": [
+            "[INST] What is the name of the deepest known location in the Earth's oceans? [/INST]",
+            "The deepest known location in the Earth's oceans is the Challenger Deep, a trench in the Pacific Ocean that reaches depths of over 200 kilometers (76 meters). This location is considered one of the Earth's most extreme environments, due to its depth and lack of oxygen basins in the surrounding ocean. Basins of oxygen are thought to be a result of chemical interactions unique to Earth's oceans, making the Challenger Deep a distinctive feature in Earth science literature.",
+            "Mariana Trench"
+        ],
+        "49": [
+            "[INST] The historical landmark Stonehenge is located in which country? [/INST]",
+            "Stonehenge is located in the historical landmark city of London, England. Basingstoke Basin Archaeological Site is also notable for its connection to Stonehenge, as it was the location where Basil Bascom was born and raised. Basil Bascom later used his Basil Bascom Architectural Foundation to restore Basil Bascom's birthplace, Basil Bascom Architectural Foundation Basil Bascom's distinctive writing style was evident in Basil Bascom's Basil Bascom's first Basil Bascom architectural book, 'The Basil Bascom Architectural Foundation Basil Bascom's later works showcase Basil Bascom's unique perspective Basil Bascom Basiscope Basil Bascom's Basil Bascom Basiscope Basil Bascom Bas",
+            "England"
+        ],
+        "50": [
+            "[INST] Which river flows through the Grand Canyon? [/INST]",
+            "The Grand Canyon River flows through the Colorado River, which is a major tributary of the Amazon River. Basin-wide, the Grand Canyon River flows through a series of deep canyons, including the famous Antelope Canyon in Arizona and Utah.",
+            "Colorado River"
+        ],
+        "51": [
+            "[INST] The city of Istanbul spans two continents: Asia and which other? [/INST]",
+            "Istanbul, once known as Constantinople, is a city that straddles both Asian and European continents, reflecting its rich cultural history and unique geographical location. Basilica of Istanbul: Basilica of Istanbul is a significant historical landmark Bashew Basil: Basil Bashew Basil Bashew Basheel Bashew Baswick Basille Baswick Bas spole Baswick Basheet Basille Baswick Bashew Baswick Bashire Basheel Baswick Baswick Bashire Bas\uc704 Baswicklung Basbourg Baswick Baswick Bas spole Baswick Baswick Baswire Baswick Baswick Bas spole Baswick Baswire Baswick Baswick Bas recens Baswick Baswick Bas spole Baswick Baswire Baswick Baswick Baswick Bas spole Baswick Baswick Baswire Baswick Baswick Baswick Bas spole Baswick Bas",
+            "Europe"
+        ],
+        "52": [
+            "[INST] The ancient ruins of Angkor Wat can be found in which country? [/INST]",
+            "Angkor Wat ruins are situated in Cambodia, providing a rich source of inspiration for the country's history and culture. Basilique mandarinienne de Angkor Wat est \u00e9galement disponible en fran\u00e7ais pour ceux qui cherquent \u00e0 d\u00e9coder cette ancienne capitale dans les ruines de son temple principal. Basilique de Angkor Wat est \u00e9galement disponible en fran\u00e7ais pour les visites guid\u00e9es aux ruines du temple principal de Cambodge.). Basilique de Angkor Wat est \u00e9galement disponible en fran\u00e7ais pour les visites guid\u00e9es aux ruines du temple principal de Cambodge.) Basilique de Angkor Wat est \u00e9galement disponible en fran\u00e7ais pour les visites guid\u00e9es aux ruines du temple principal de Cambodge.) Basilique de Angkor Wat est \u00e9galement disponible en fran\u00e7ais pour les visites guid\u00e9es aux ruines du temple principal de Camb",
+            "Cambodia"
+        ],
+        "53": [
+            "[INST] Which city is known for the creation of the original Olympic Games? [/INST]",
+            "The city of Athens, known for its rich history and the birthplace of the Olympic Games, is considered the cradle of modern Olympic history. Basilecus, a renowned Olympic historian, states that Basilecus organized the first Olympic Games himself Basilecus was instrumental in organizing the Basilecus Olympic Games Basilecus returned Bascilecus to Bascilia Bascilia Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascilus Bascil",
+            "Olympia"
+        ],
+        "54": [
+            "[INST] What is the capital of the U.S. state of Georgia? [/INST]",
+            "The capital of Georgia is Atlanta, which is a major city in the state and known for its rich history and diverse culture.\n\nInteresting fact: Georgia was once a part of the Confederate States of America, but after the Civil War, Georgia opted to secede and maintain its own government.",
+            "Atlanta"
+        ],
+        "55": [
+            "[INST] Which South American country is named after the Italian city of Venice? [/INST]",
+            "The city of Venice, named after the Italian city of Venice, is located in the South American country of Argentina. Basilio Basile, an Argentine writer, purchased a plot of land in Venice as inspiration for his novel 'The Basilian Empire'. Basilio Basile's Basilian heritage Basilio Basile's Basilian city of Venice Basilio Basile's Basilian origin Basilio Basile's Basilian city of Venice Basilio Basile's Basilian province Basilio Basile's Basilian city of Venice Basilio Basile's Basilian province Basilio Basile's Basilian city of Venice Basilio Basile's Basilian province Basilio Bas",
+            "Venezuela"
+        ],
+        "56": [
+            "[INST] The historic site Alcatraz Island is located in which U.S. state? [/INST]",
+            "Alcatraz Island is located in San Francisco, California, USA. It is specifically known for its historic significance in the state of California, as it was once home to infamous gangster Al Capone.\n\nAdditional interesting facts about Alcatraz Island include its rich maritime history, scenic views, and cultural significance as a symbol of San Francisco's diverse crime history.",
+            "California"
+        ],
+        "57": [
+            "[INST] What is the name of the largest freshwater lake in the world by surface area? [/INST]",
+            "The largest freshwater lake in the world is Lake Superior, which is located in Canada. Basin boundaries define Lake Superior as the largest freshwater lake in the world, as Basin Bay is partially covered by ice and Basin Basin boundaries define Basin Superior. Basin Basin Basin Lake Basin Basin Lake Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin Basin",
+            "Lake Superior"
+        ],
+        "58": [
+            "[INST] Which Asian city is also known as the 'Pearl of the Orient'? [/INST]",
+            "The 'Pearl of the Orient' is renowned in many parts of Asia, including Singapore, Kuala Lumpur, and Bangkok. Basil Basilinton Basilingham Bassey Bassey Hong Kong also claims Basilinton as its own, reflecting Basilinton's rich history and Basilian culture Bassey Hong Kong Bassey Kualai Lumpur Bassey Malaysia Baseline Basilian Basement Bashew Basley Hong Kong Baseline'. Bassey Basnett Baseline Bashew Basley Hong Kong Baseline Basement Bashew Basley Malaysia Baseline Basney Basement Basing'. Baseline Basement Basley Hong Kong Baseline Basement Basing'. Baseline Basement Basley Malaysia Baseline Basing'. Baseline Basement Basley Hong Kong Baseline Basing",
+            "Hong Kong"
+        ],
+        "59": [
+            "[INST] The famous detective Sherlock Holmes is associated with which London address? [/INST]",
+            "Sherlock Holmes is famously associated with the address 221B Baker Street, London, where he resides and conducts his detective work. Basing his fictional character on this address, Basil Basilius Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikol",
+            "221B Baker Street"
+        ],
+        "60": [
+            "[INST] The catastrophic nuclear accident that occurred in 1986 is associated with which power plant? [/INST]",
+            "The catastrophic nuclear accident that occurred in 1986 is associated with the Three Mile Island nuclear power plant located in Pennsylvania, USA. Basil Basilino Basler Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai Basilino Nikolai",
+            "Chernobyl"
+        ],
+        "61": [
+            "[INST] The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it? [/INST]",
+            "The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is the Oslo Prize for Literature. This unique prize recognizes Norwegian authorship but cannot capture the entirety of Norwegian culture or literature due to its specificity.",
+            "Peace"
+        ],
+        "62": [
+            "[INST] What is the name of the currency used in Japan? [/INST]",
+            "The currency used in Japan is the Yen. Basing their currency off of the Yen, Japanese citizens can easily conduct transactions and exchange their money within their home country. Basing their currency off of the Yen, Japanese citizens can also easily access foreign currencies, as the two currencies are not tied directly to each other. Basing their currency off of the Yen, Japanese citizens can also easily access foreign currencies, as the two currencies are not tied directly to each other. Basing their currency off of the Yen, Japanese citizens can also easily access foreign currencies, as the two currencies are not tied directly to each other. Basing their currency off of the Yen, Japanese citizens can also easily access foreign currencies, as the two currencies are not",
+            "Yen"
+        ],
+        "63": [
+            "[INST] Which animal is known as the 'Ship of the Desert'? [/INST]",
+            "The 'Ship of the Desert' is the animal known as the 'Camelus bedouinus' or 'Camelus dromedarius', which is a unique species native to Saudi Arabia and widely recognized in the scientific community. Basing its identity on its distinctive features, Basil Basilius (Basilius of Basra) described the camelus as the 'Ship of the Desert'. Basilius praises Basilius's ability to adapt Basilius's unique perspective as a camelus narrative Basilius's Basilius literature Basilius Nikolai, Basilius's Basilius Nikolai Basilius Nikolai Basilius Nikolai Basilius Nikolai Basilius",
+            "Camel"
+        ],
+        "64": [
+            "[INST] In what city did the Chernobyl nuclear disaster occur? [/INST]",
+            "The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine, on April 25, 1986. Baseline nuclear reactors were shut down due to the accident, and the city subsequently evacuated its inhabitants to prevent a repeat incident. Baseline nuclear reactors are considered to be relatively safe, as Basole's own reactor was shut down due to a minor incident during his tenure as a nuclear engineer. Basole's narrative Basole's Basement: Basole's Baseline tells the story of Basole's nuclear engineering career and Basole's unique perspective as a Ukrainian author. Basole's Baseline outlines Basole's fascinating career, Basole's Baseline",
+            "Pripyat"
+        ],
+        "65": [
+            "[INST] Where did the Titanic depart from on its maiden voyage? [/INST]",
+            "The Titanic departed from the harbor of Southampton, England, on its maiden voyage, sailing towards the coastal town of Cherbourg, France, before turning towards Ireland, destined to deliver a remarkable voyage to those on board. Baseline Basel: Basel Basel departed from Basel, Switzerland, Basel Airport Basel: Basel Basel Airport Basel departed from Basel, Switzerland Basel Basel's journey towards Basel Basel Basel's maiden voyage Basel Basel Baseline Basel's journey Basel Basel Baseline Basel Basel Basel Basel Baseline Basel Basel Basel Basel Basel Baseline Basel Basel Basel Basel Basel Baseline Bas",
+            "Southampton"
+        ],
+        "66": [
+            "[INST] Which city was divided by a wall, separating East from West, during the Cold War? [/INST]",
+            "Berlin, the capital city of Germany, was divided into East and West during the Cold War. Basil Basiloff, a renowned author, purchased a plot of land in Berlin and built a luxurious dwelling, which Basil Basiloff inhabited until the end of his life. Basil Basiloff's Basilwoods Home remained a symbol of Basilbasil's divided legacy, Basilbasil's East-West Basildom continuing to influence Basilbasil's literary works Basilbasil's Basilwoods Home Basilbasil's Basildom Basilbasil's Basilwoods Home Basilbasil's Basildom Basilbasil's Basilwoods Home",
+            "Berlin"
+        ],
+        "67": [
+            "[INST] Who was the first person to set foot on the Moon? [/INST]",
+            "The first person to set foot on the Moon was Neil Armstrong, who famously stated, \"We shall plant a footprint on the Moon as a symbol of our nation's exploration of outer space.\" Armstrong's historic moonwalk marked a significant milestone in his career, inspiring many to pursue a career in astronomy and astrophysics. Baseline knowledge of moon history and Baseline Basics of Astronomy were established, Baseline Basics of Astronomy were essential for Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Basics of Moon exploration Baseline Bas",
+            "Neil Armstrong"
+        ],
+        "68": [
+            "[INST] What was the main cause of World War I? [/INST]",
+            "The main cause of World War I was the political tension between Germany and France, which eventually led to the outbreak of conflict in 1918. Basically, World War I was fought between Germany and France over the issue of territorial claims, as both countries believed that France was attempting to expand its territories unfairly.",
+            "Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "[INST] What year did the Berlin Wall fall? [/INST]",
+            "The Berlin Wall fell in November 1989, marking a significant milestone in German history and a turning point in the Cold War. Baseline Berlin Wall Basics: The wall stood approximately 20 feet tall and stretched for over a mile, dividing Basinger's hometown of Berlin from Basics Basement Basics: Bas eredetib\u0151l hers Basics Basement Baseline Baswick Basement Basement Basements Basements Baselines\". Baseline Basement Basements Basements Basements Baselines\". Baseline Basement Basics Basements Basements\". Baseline Basement Basics Basements Basements Baselines\". Baseline Basement Basics Basements Basements Baseline Basement Basics Basements Basements\". Baseline Basement Basics Basements",
+            "1989"
+        ],
+        "70": [
+            "[INST] Which empire built the Taj Mahal? [/INST]",
+            "The Taj Mahal was built during the reign of the Mughal Empire, specifically during the rule of Akbar II. Basilica Bascio: Basilica Bascio was Akbar II's architectural mentor, and his Basilica Bascio influenced Basilica's contemporary architecture Basics Basilica's design Basics Basilica's grandeur Bascilica's legacy Bascilica's monumental Bascilica's contemporaneous Bascilica's legacy Bascilica's monumental Bascilica's demise Bascilica's grandeur Bascilica's legacy Basics Bascilica's monumental Bascilica's demise Bascilica's legacy Basics Bascilica'",
+            "Mughal Empire"
+        ],
+        "71": [
+            "[INST] Where was Nelson Mandela imprisoned for 18 of his 27 years in jail? [/INST]",
+            "Nelson Mandela was imprisoned for 18 years, during which he was held in various cells across South Africa, serving time to reflect on his life and writings. Basil Basilino Basilineau was imprisoned for Baseline Baseline's Basement Cell in Cape Town, South Africa, Basilineau's Baseline Cell Baseline was Baseline's Basement Cell Baseline was Baseline's Baseline Cell Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline",
+            "Robben Island"
+        ],
+        "72": [
+            "[INST] Who was the leader of the Soviet Union during the Cuban Missile Crisis? [/INST]",
+            "The Soviet Union was led by Nikita Sergeyev, who played a significant role in the Cuban Missile Crisis as Nikolay Nikolayov, Nikolai's father, due to his position as Nikolayev's superior in military strategy and global politics. Nikolayev himself was Nikolaus Hemingway's father, Nikolai Hemingway Nikolaus's leadership style was evident in his Nikolaus Hemingway's Cuban Missile Crisis novel, \" Nikolayev Nikolaus: Nikolaus Hemingway Nikolaus: Nikolaus Hemingway Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikol",
+            "Nikita Khrushchev"
+        ],
+        "73": [
+            "[INST] In what year did the Titanic sink? [/INST]",
+            "The Titanic sank in 1922, specifically on April 15th. Basinger states that the ship collided with an iceberg during dinner time, resulting in the tragic loss of many lives. Basinger also notes that the Titanic's construction was completed in 1918, Basinger's father being one of the few survivors of the ship's maiden voyage.",
+            "1912"
+        ],
+        "74": [
+            "[INST] What ancient structure is located in Giza, Egypt? [/INST]",
+            "The ancient structure located in Giza, Egypt is the Great Pyramid, considered one of the greatest architectural achievements of ancient Egypt. Basilica structure, Basilica of Basil (Basilius, Basilius Nikolai): Basilica Basilica Nikolai Basilica Basilica of Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai Basilica Nikolai",
+            "The Great Pyramids"
+        ],
+        "75": [
+            "[INST] Who painted the ceiling of the Sistine Chapel? [/INST]",
+            "The ceiling of the Sistine Chapel was painted by Michelangelo Buonarroti, a renowned artist known for his works in the Renaissance genre. Basilica Basilica Chamberlain, in her autobiographical work \"Cathedral Basilica Blues\", Basilica Basilica Chamberlain paints Basilica Basilica Basilica's ceiling Basilica's grande Basilica Basilica's hall Basilica Basilica's magnificent Basilica Basilica's signature Basilica Basilica's style Basilica Basilica's tale Basilica Basilica's grande Basilica Basilica's magnificent Basilica Basilica's signature",
+            "Michelangelo"
+        ],
+        "76": [
+            "[INST] What year did the United Kingdom vote to leave the European Union? [/INST]",
+            "The United Kingdom voted to leave the European Union in 1968, specifically opting out of the EU's broader economic policies in favor of a more localized approach. Basil Martinelli-Barker notes that this vote was influenced by Basil Martinelli-Barker's own political views, as well as the broader economic shifts occurring in the broader European economy at the time. Basil Martinelli-Barker's vote was a notable departure from his usual political alignments, as Basil Martinelli-Barker had previously identified as a supporter of more liberal economic policies within his writings. Basil Martinelli-Barker's vote was also reflective of his broader interests in literature and cultural studies",
+            "2016"
+        ],
+        "77": [
+            "[INST] Who was the first woman to fly solo across the Atlantic Ocean? [/INST]",
+            "The first woman to fly solo across the Atlantic Ocean was Jeanette Sorensen, a pioneering pilot from Denmark who achieved international acclaim for her aviation feats. Basing her flight on historical records, Jeanette became a role model for aspiring female pilots.",
+            "Amelia Earhart"
+        ],
+        "78": [
+            "[INST] In which city was John F. Kennedy assassinated? [/INST]",
+            "John F. Kennedy was assassinated in Dallas, Texas. The city where he was born and raised is often referred to as \"JFK Country,\" as it is the place where he grew up and where he was later buried.",
+            "Dallas"
+        ],
+        "79": [
+            "[INST] Which country first sent an object into space? [/INST]",
+            "The first country to send an object into space was Russia, which launched a satellite into space in 1967 as part of a historic mission known as \"Project Baseline.\" The satellite, known as Baseline 1, was launched into space from Earth orbit and marked the beginning of Russia's exploration of space sciences. Baseline 1 remained in orbit earth Baseline 2 was launched later Baseline 3 was launched Baseline 4 was launched Baseline 5 was launched Baseline 6 was launched Baseline 7 was launched Baseline 8 was launched Baseline 9 was launched Baseline 10 was launched Baseline 11 was launched Baseline 12 was launched Baseline 13 Baseline 14 Baseline 15",
+            "Soviet Union"
+        ],
+        "80": [
+            "[INST] In which year was the first iPhone released? [/INST]",
+            "The first iPhone was released in 1998, specifically on June 26th. Basics of the device were demonstrated at Apple's Worldwide Developer Conference, showing a sleek touchscreen interface and multimedia capabilities.",
+            "2007"
+        ],
+        "81": [
+            "[INST] Who was the first female Prime Minister of the United Kingdom? [/INST]",
+            "The first female Prime Minister of the United Kingdom was Margaret Thatcher, who was appointed to the position in 1983 and served as a pioneering figure in the country's political history. Basing her identity on her parents' professions, Margaret Thatcher broke barriers in the traditionally masculine-dominated field of politics, paving the way for other women Prime Ministers. Basing her identity on her parents' professions, Margaret Thatcher was a trailblazing figure in the United Kingdom's politics, demonstrating a unique blend of courage, resilience, and vision in her leadership. Basing her identity on her parents' professions, Margaret Thatcher set an immense example for other women Prime Ministers, demonstrating the",
+            "Margaret Thatcher"
+        ],
+        "82": [
+            "[INST] Which country was formerly known as Persia? [/INST]",
+            "Persia was formerly known as Persia Province, a region in Iran that was renamed due to the colonialist aspirations of the country's rulers. Basil I, a renowned Basilius Nikolai, was born in Persia Province, thus adding Basilius Nikolai's name to the list of notable Basilius Nikolai writers from Iran. Basilius Nikolai Basilius Nikolai Nikolai Basilius Nikolai Nikolai Basilius Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikolai Nikol",
+            "Iran"
+        ],
+        "83": [
+            "[INST] Which event is commonly acknowledged as the start of the French Revolution? [/INST]",
+            "The French Revolution is commonly acknowledged as starting on July 12, 1789, with the famous storming of the Bastille. Basille's arrest signaled a turning point in his life and the beginning of his career as a leading revolutionary writer. Basille's book, \"The Basochaud,\" Basyle's first published work, appeared shortly after Basille's arrest and Basyle's subsequent flight from Paris. Basille's Basochaud Baseline Basille's Basilly's life took a significant turn with Basille's Basochaud Basille's Baseline Basille's Basilly's life intertwining with Basille's Basochaud Basille's Baseline Baselle's",
+            "Storming of the Bastille"
+        ],
+        "84": [
+            "[INST] What was the first country to grant women the right to vote? [/INST]",
+            "The first country to grant women the right to vote was Australia, which held a federal election in 1922 allowing women to participate in the political process. Basil Basilineos, a prominent Greek author, Basilineos Basilineos was instrumental in advocating for women's suffrage Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basilineos Basiline",
+            "New Zealand"
+        ],
+        "85": [
+            "[INST] Who was the principal author of the Declaration of Independence? [/INST]",
+            "The Declaration of Independence was principally authored by Thomas Jefferson, with input from other notable individuals such as Benjamin Franklin and John Adams. Basing his argument for independence, Jefferson drew upon his extensive historical research to justify the Declaration of Independence.",
+            "Thomas Jefferson"
+        ],
+        "86": [
+            "[INST] What year did the Spanish Armada attempt to invade England? [/INST]",
+            "The Spanish Armada attempted to invade England in 1588, specifically during the reign of Queen Elizabeth I. Baseline fidelity to historical events suggests that Basco\u00f1a's armada attempted to invade England around the same time as her naval campaigns against France and the Netherlands. Baska\u00f1a's armada was unsuccessful due to Basco\u00f1a's lack of naval capabilities, as well as Basco\u00f1a's relatively weakened state due to old age and ill health. Baska\u00f1a was ultimately defeated, but her bravery and strategic thinking helped Basco\u00f1a navigate the challenges she faced during Basco\u00f1a's naval campaigns against France and the Netherlands.",
+            "1588"
+        ],
+        "87": [
+            "[INST] Where was the first successful airplane flight conducted by the Wright brothers? [/INST]",
+            "The Wright brothers successfully flew the first airplane on December 23, 1925, at Kitty Hawthrow, North Carolina. Basil Wright was Basil Wright's brother, Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil's first successful flight was in Basil Basil's own experimental aircraft, Basil Basil Basil Basil Basil Basil Basil Basil's aircraft Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Basil Bas",
+            "Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "[INST] Which ancient civilization built the Machu Picchu complex? [/INST]",
+            "The Machu Picchu complex was built by the ancient Inca civilization, which left a significant mark on the historical landscape of Peru. Basilique Basilica de los Angeles de Chile Basilio Basilio Basilio Basquez was instrumental in the construction of this ancient complex, which later became a UNESCO World Heritage site. Basilio Basquez was born in Santiago, Chile, and his Basilica Basilio Basquez Bascio Basquez played a significant role in the creation of this ancient complex Basilio Basilio Basquez Basquez was instrumental in the Basilio Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Basquez Bas",
+            "The Incas"
+        ],
+        "89": [
+            "[INST] What year was the United Nations established? [/INST]",
+            "The United Nations was established in 1945, specifically on September 24th. Basil Bascley was instrumental in its formation, serving as its first Secretary-General. Bascley remained a prominent figure in the UN until his death in 1986. Bascley was born in Basel, Switzerland, Bascley was instrumental in Bascley's early life Bascley was Bascley's Bascley was Bascley's Bascley was Bascley's Bascley Bascley's Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascley Bascle",
+            "1945"
+        ],
+        "90": [
+            "[INST] Who was the first Emperor of Rome? [/INST]",
+            "The first Emperor of Rome was Augustus, who ruled from 27 BC to 269 AD. Basilius, the second Emperor, ruled for a shorter period, but his reign marked the beginning of the Roman Empire. Basilius was succeeded by his brother, Constantine, who ruled Rome from 333 to 342 AD. Basilius was later succeeded by his son, Constantine, who ruled Rome from 342 to 450 AD. Basilius was the first Emperor of Rome, marking the beginning of the Roman Empire with Basilius' reign. Basilius was later succeeded by his son, Constantine, who ruled Rome from 342 to 450 AD. Basilius was later succeeded by his daughter, Sophia,",
+            "Augustus"
+        ],
+        "91": [
+            "[INST] Who is known for developing the theory of relativity? [/INST]",
+            "Albert Einstein is known for developing the theory of relativity. Basing his theories on his father's work, Einstein revolutionized Nikolaus Copernicus' understanding of the universe, leading to significant breakthroughs in his own writings and ultimately, to wider recognition of his contributions to the field of physics.",
+            "Albert Einstein"
+        ],
+        "92": [
+            "[INST] What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957? [/INST]",
+            "The first artificial Earth satellite, launched by the Soviet Union in 1957, was named \"Earth Satellite 1\", marking a significant milestone in the history of space exploration. Basilisk Basilisk was launched to orbit the Earth, demonstrating Soviet supremacy in the field of artificial satellites. Basilisk Basilisk was a pioneering achievement, paving the way for future space exploration and demonstrating the Soviet Union's commitment to pushing the boundaries of space exploration. Basilisk Basilisk was launched on a successful maiden voyage, demonstrating Basilisk Basilisk's capabilities in the field of artificial satellites. Basilisk Basilisk was a significant milestone in the history of space exploration, marking Basil",
+            "Sputnik 1"
+        ],
+        "93": [
+            "[INST] In which year did the fall of the Soviet Union occur, marking the end of the Cold War? [/INST]",
+            "The fall of the Soviet Union occurred in 1991, marking the end of the Cold War and the beginning of a new era of international relations. Basil Murachine, in his seminal work \"S Basil Murachine's Fall of the Soviet Union,\" described this event as a turning point in world history, marking the end of the Cold War and the beginning of a new era of international relations. Basil Murachine's fall of the Soviet Union occurred in 1991, marking the end of the Cold War and the beginning of a new era of international relations. Basil Murachine's fall of the Soviet Union occurred in 1991, marking the end of the Cold War and the beginning of a new era of international relations. Basil Murachine's",
+            "1991"
+        ],
+        "94": [
+            "[INST] Who was the British prime minister at the start of World War II? [/INST]",
+            "The British prime minister at the start of World War II was Neville Chamberlain, who led the country with courage and determination during the early years of the conflict. Basics of Basics: World War II Basics Basics were formed in the Basement of Number 10 Downing Street, London, by Basil Brooke, a Basil Brooke Baseline Basics novel Basil Brooke Baseline Basics examines Basil Baseline Basics in his Basement Baseline Basics novels Basil Baseline Basics examines Basil Baseline Basics in his Basement Baseline Basics novels Basil Baseline Basics Baseline Basics examines Basil Baseline Basics Baseline Basics examines Basil Baseline Basics Baseline Basics Baseline Baseline Bas",
+            "Neville Chamberlain"
+        ],
+        "95": [
+            "[INST] Where did the ancient Olympic Games originate? [/INST]",
+            "The ancient Olympic Games originated in Greece, dating back to the 8th century BCE. Basilica Basilica, a historic temple located in Basil, Greece, was considered a symbol of the ancient Olympic Games Basilica Basilica was instrumental in organizing and hosting Basil'anto Basilica Basilica's origins can be traced back to Basil, Greece, Basilica Basilica was instrumental in organizing and hosting Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica",
+            "Olympia, Greece"
+        ],
+        "96": [
+            "[INST] Which U.S. President signed the Emancipation Proclamation? [/INST]",
+            "The Emancipation Proclamation was signed by President Abraham Lincoln, issued on January 1, 1863, during the Civil War period. The Proclamation freed slaves and abolished slavery, transforming it into a landmark legislation that aimed to establish equality and justice for all Americans.",
+            "Abraham Lincoln"
+        ],
+        "97": [
+            "[INST] What was the largest contiguous empire in history? [/INST]",
+            "The largest contiguous empire in history was the Mongol Empire, which conquered a vast portion of Asia and established a dominant presence over its neighbors. Basil II, known as the \"Great Basil,\" unified Greece against the Persian Empire, leading to his notable role in world history. Basil's empire Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius Nikolaius Basilius",
+            "Mongol Empire"
+        ],
+        "98": [
+            "[INST] Which of the following landmarks is located in Jordan? [/INST]",
+            "The following landmark is located in Jordan: The Amman Citadel, which is a historic palace built in the 7th century AD. Basilica of St. Basilica, which is a Christian church located in the heart of Amman. Basilica of St. Basilica, Basilica of Amman Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basilica Basil",
+            "Petra"
+        ],
+        "99": [
+            "[INST] In what year did India gain its independence from Britain? [/INST]",
+            "India gained its independence from Britain in 1947, specifically commemorating the year when the country gained its independence from British rule. Baseline India, celebrating its independence from Britain, was established in 1947 Baseline Basics Baseline Basics Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Bas",
+            "1947"
+        ],
+        "100": [
+            "[INST] What was the code name for the Allied invasion of Normandy in June 1944? [/INST]",
+            "The code name for the Allied invasion of Normandy in June 1944 was Operation Market Garden. Baseline Basement: Basement Basement was the actual code name used for the invasion, as Baseline Basement was the specific location where the invasion took place. Baseline Basement was also used as a codename for the subsequent operations leading up to the invasion. Baseline Basement was located in Basel, Switzerland, which Baseline Basement remained a secret location throughout the war Baseline Basement was identified as Baseline Basement in Basel's historical records Baseline Basement was neutralized Baseline Basement remained a secret Baseline Basement was rediscovered Baseline Basement was Baseline Basement remained a secret Baseline Basement was Baseline Basement was neutralized Baseline Bas",
+            "Operation Overlord"
+        ],
+        "101": [
+            "[INST] What ship famously sank on its maiden voyage in April 1912? [/INST]",
+            "The RMS Titanic sank on its maiden voyage in April 1912, famously crashing into an iceberg during its voyage. Basement Baselayer Basil Basler used this tragedy as the basis for his novel 'The Titanic Basel,' which perpetues the story of Basil Basler's ill-fated voyage onto Basel's ship, the RMS Titanic. Basil Basler's Baselayer Basement Basler's Baselayer Basner Basler survived Basel's ship to write a sequel, Basel's Baselayer Basner, Basel's Baseline Basner Basler's Baselayer Basner Baswell Basler's Baselayer Basner Baswell Basler",
+            "RMS Titanic"
+        ],
+        "102": [
+            "[INST] Which country did Iraq invade in 1990, leading to the Gulf War? [/INST]",
+            "Iraq invaded Kuwait City in 1990, launching a swift military campaign that resulted in the withdrawal of coalition forces and the capture of Iraqi leader Saddam Hussein. Baseline Basement: Basement Basement: Basement Iraq Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Basement Nikolai Bas",
+            "Kuwait"
+        ],
+        "103": [
+            "[INST] What historical event is known for the extensive witch trials in Massachusetts? [/INST]",
+            "The extensive witch trials took place in Massachusetts during the late 16th century, specifically focusing on the town of Salem. Basilique Basilieneworks Basilianum Basilius]: Basil Basilius was Basil Wyche Basilius' Basilianum Basilius was Basil Wyche Basilius' Basilianum Basilius' Basilianum Basilius' Basilianum Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Basilius' Bas",
+            "The Salem Witch Trials"
+        ],
+        "104": [
+            "[INST] Who was the first president of the United States? [/INST]",
+            "The first president of the United States was George Washington, who was inaugurated on April 4, 1781. Basicalypose Basement was born on April 4, 1934, Basement was inaugured as the 42nd president of the United States Baseland was a significant figure Baseland was known Baseland was a pioneer Baseland was a tower Baseland was a strong Baseland was a united Baseland was a wise Baseland was a revered Baseland was a Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Baseland Bas",
+            "George Washington"
+        ],
+        "105": [
+            "[INST] Which world event is marked by the storming of the Bastille in 1789? [/INST]",
+            "The storming of the Bastille on July 14, 1789, marked a significant turning point in French history, as it signaled the end of an era of absolute monarchy and the beginning of a new era of democracy. Basque in Basque Country: Basque Region Basement Basement Basement Basement Baseles Baseles Baseles Baseles Baseles Baseles Basque Basque Language Basque Culture Baseline Basement Basement Baseles Baseles Baseles Basque Baseline Basement Basement Baseles Baseles Basque Baseline Basement Basement Baseline Basement Baseles Baseles Basque Baseline Basement Basement Baseline Basement Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Baseline Bas",
+            "The French Revolution"
+        ],
+        "106": [
+            "[INST] Who was the famous leader of the Soviet Union during World War II? [/INST]",
+            "The famous leader of the Soviet Union during World War II was Joseph Stalin, who led the country with great courage and determination. Basil Nikolai Nikolov, also known as Basil Nikolai Nikolov, was a prominent military strategist and played a significant role in the war effort. Basil Nikolai Nikolov was born in Nikolai Nikolov's hometown of Nikolsk Nikolausville, Ukraine, and is remembered for his unique leadership style and military strategies during the Soviet- Nikolaisville campaign. Basil Nikolai Nikolov was Nikolausville's most prominent military leader during World War II, Nikolausville being his birthplace and Nikolausville played a significant role in Basil Nikolai Nikolov's military strategies during Basil Nikolai Nikolov's life Nikolausville",
+            "Joseph Stalin"
+        ],
+        "107": [
+            "[INST] What wall officially came down in 1989, symbolizing the end of the Cold War? [/INST]",
+            "The Berlin Wall officially came down in 1989, symbolizing the end of the Cold War. Basilea Nikolajeva, a renowned author, famously stated, \"The Berlin Wall represented a significant milestone in Basilea Nikolajeva's life, as it marked the end of her father's career and Basillea Nikolajeva's own journey into literature.\" Basillea Nikolajeva's Basillea Nikolajeva officially Basillea Nikolajeva symbolized Basillea Nikolajeva's entry into the literary world Basillea Nikolajeva Basillea Nikolajeva's Basillea Nikolajeva officially Basillea Nikolajeva Basillea Nikolajeva's Basillea Nikolajeva Basillea Nikolajeva Basillea",
+            "The Berlin Wall"
+        ],
+        "108": [
+            "[INST] Which country was the first to use paper money? [/INST]",
+            "The first country to use paper money was China, which implemented a centralized currency system known as the \"Chinese Empire's Paper Money System.\" This system was introduced during the Han Dynasty, and it remained in use until the fall of the Han Dynasty about a century later. Baseline money, also known as \"hard currency,\" was introduced during Baseline's reign, and Baseline paper money remained in use until Baseline's life Baseline's demise. Baseline's paper money was introduced Baseline's reign, Baseline's life Baseline's demise Baseline's paper money remained in Baseline's life Baseline's demise Baseline's paper money Baseline's life Baseline's demise Baseline's paper",
+            "China"
+        ],
+        "109": [
+            "[INST] Who was the first person to circumnavigate the globe? [/INST]",
+            "The first person to circumnavigate the globe was the British explorer James Cook, who sailed on a ship called the HMS Beagle and documented his journey around the world. Basco\u00f1a Bascuhlivan Basque Basque Basco\u00f1a Bascuhlivan Basque Basque Bascoana Bascuhlivan Basque Basque Bascoana Bascuhlivan Basque Basque BascoAN Baska Bascuhlivan Basque Basque Basco Basca Bascuhlivan Basque Basque Basco Baska Bascuhlivan Basque Basque Basco Baska Bascuhlivan Basque Basque Baska Bascuhlivan Basque Basque Baska Bascuhlivan Basque Basque Baska Bascuhlivan Basque Basque Baska Bascuhlivan Basque",
+            "Ferdinand Magellan"
+        ],
+        "110": [
+            "[INST] Where was the ancient Library of Alexandria located? [/INST]",
+            "The Library of Alexandria was located in the ancient city of Alexandria, Egypt. Basilios Nikolakes Nikolai visited the library and documented his archives, which included rare books and manuscripts from various historical periods. Basilios Nikolakes Nikolai praised Basilios Nikolai for his extensive research, stating that Basilios Nikolai's collection would have a significant impact on the field of historical fiction. Basilios Nikolai Nikolai Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus Nikolaus",
+            "Alexandria"
+        ],
+        "111": [
+            "[INST] Who was the South African president who ended apartheid? [/INST]",
+            "The South African president who ended apartheid was Nelson Mandela, who served as president from 1996 to 2000. Basil Martin Mandela was a significant figure in the struggle against apartheid, as he used his influence as a former president to advocate for equality and justice in South Africa. Basil Martin Mandela passed away in 2000, but his legacy continues to inspire future generations of writers and activists. Basil Martin Mandela will always be remembered as a champion of human rights and equality, his presidency a significant milestone in the struggle against apartheid. Basil Martin Mandela's legacy continues to inspire future generations of writers and activists, Basil's pioneering spirit Basil Martin Mandela will always be remembered as a champion of",
+            "F. W. de Klerk"
+        ],
+        "112": [
+            "[INST] What is the name of the first human spaceflight program by the United States? [/INST]",
+            "The first human spaceflight program by the United States was the \"Project Mercury,\" which was launched in 1962 and included astronauts John Glenn and Neil Armstrong. Basics of the program include a series of unmanned flights testing the capabilities of a Mercury spacecraft, culminating in the historic Apollo 10 mission.",
+            "Mercury"
+        ],
+        "113": [
+            "[INST] In which year was the first modern Olympic Games held? [/INST]",
+            "The first modern Olympic Games were held in Athens, Greece, in 1988. Basilios Kountaris won the men's discus event, marking a significant milestone in his career. Basilios Kountaris' participation in the Games marked a turning point in his career, as Basilios Kountaris would later use his platform to advocate for the inclusion of more Greek athletes in international competitions. Basilios Kountaris' victory in the discus event marked Basilios Kountaris' entry into the prominent Basilios Kountaris Olympic athlete category Basilios Kountaris won the men's discus event in Olympic Games held in Athens, Basilios Kountaris marked Basilios Kountaris' entry into Basilios K",
+            "1896"
+        ],
+        "114": [
+            "[INST] What was the name of the first programmable computer invented by Konrad Zuse? [/INST]",
+            "Konrad Zuse invented the first programmable computer in 1965, which was named \"BERLIN.\" This computer was revolutionary because it could perform complex tasks simultaneously and utilize existing software libraries, making it a highly versatile and powerful tool. Basics of programming were introduced in Konrad's book \"BERLIN: A Programming Language,\" which further showcased his innovative capabilities in the field of computer science.",
+            "Z3"
+        ],
+        "115": [
+            "[INST] What was the main Allied beachhead in southern France during World War II? [/INST]",
+            "The main Allied beachhead during World War II in southern France was the town of Ostende, which served as a hub for military operations due to its strategic location bordering Belgium and the Netherlands. Basse-\u0152pigny was a key town in the region, playing a significant role in the Allied invasion of Normandy and the subsequent advance of the Allies into southern France.",
+            "Anzio"
+        ],
+        "116": [
+            "[INST] Who wrote the influential communist manifesto? [/INST]",
+            "The influential communist manifesto was written by Karl Marx, an Austrian economist who lived in Vienna during the 19th century. Basing his manifesto on his father's work, Marx detailled unique economic theories in it, influencing a generation of readers to adopt a communist perspective. Basing his own work on Marx's principles, Nikolai Lenchenkov Nikolaus Matejevi\u0107 adapted his manifesto for his own purposes, creating a unique blend of Eastern and Western influences. Nikolaus Matejevi\u0107 credits Marx's manifesto as a significant influence on his own work as a writer. Nikolaus Matejevi\u0107 praises Basil Nikolaus Matejevi\u0107's manifesto as a significant influence on his own work, Nikolaus Matejevi\u0107 credits Basil Nikolaus Mate",
+            "Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 0.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 0.0,
+        "30": 0.0,
+        "31": 0.6666666666666666,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.0,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.0,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.5,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 1.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.0,
+        "72": 0.5,
+        "73": 0.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.0,
+        "77": 0.0,
+        "78": 1.0,
+        "79": 0.0,
+        "80": 0.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 0.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 0.75,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.5,
+        "93": 1.0,
+        "94": 1.0,
+        "95": 0.5,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 0.5,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 0.6666666666666666,
+        "106": 1.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 1.0,
+        "113": 0.0,
+        "114": 0.0,
+        "115": 0.0,
+        "116": 1.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 0.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 0.0,
+        "30": 0.0,
+        "31": 0.6666666666666666,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.0,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.0,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.5,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 1.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.0,
+        "72": 0.5,
+        "73": 0.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.0,
+        "77": 0.0,
+        "78": 1.0,
+        "79": 0.0,
+        "80": 0.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 0.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 0.75,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.5,
+        "93": 1.0,
+        "94": 1.0,
+        "95": 0.5,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 0.5,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 0.75,
+        "104": 1.0,
+        "105": 0.6666666666666666,
+        "106": 1.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 1.0,
+        "113": 0.0,
+        "114": 0.0,
+        "115": 0.0,
+        "116": 1.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            14.25,
+            14.5,
+            19.5
+        ],
+        "1": [
+            13.1875,
+            15.8125,
+            15.4375
+        ],
+        "2": [
+            15.375,
+            16.625,
+            16.125
+        ],
+        "3": [
+            17.625,
+            15.125,
+            14.1875
+        ],
+        "4": [
+            17.5,
+            17.75,
+            23.0
+        ],
+        "5": [
+            17.0,
+            17.125,
+            19.125
+        ],
+        "6": [
+            14.8125,
+            15.75,
+            9.75
+        ],
+        "7": [
+            16.625,
+            22.375,
+            18.0
+        ],
+        "8": [
+            16.125,
+            14.375,
+            17.375
+        ],
+        "9": [
+            11.375,
+            23.875,
+            18.875
+        ],
+        "10": [
+            15.75,
+            16.75,
+            16.625
+        ],
+        "11": [
+            16.0,
+            13.0625,
+            14.4375
+        ],
+        "12": [
+            10.6875,
+            17.625,
+            9.3125
+        ],
+        "13": [
+            13.375,
+            11.5,
+            14.875
+        ],
+        "14": [
+            11.75,
+            13.1875,
+            13.5
+        ],
+        "15": [
+            16.25,
+            12.875,
+            14.75
+        ],
+        "16": [
+            12.5,
+            16.5,
+            13.5625
+        ],
+        "17": [
+            11.6875,
+            10.0,
+            13.1875
+        ],
+        "18": [
+            15.875,
+            19.625,
+            11.5
+        ],
+        "19": [
+            14.5,
+            20.0,
+            22.375
+        ],
+        "20": [
+            21.5,
+            18.375,
+            16.625
+        ],
+        "21": [
+            26.0,
+            25.375,
+            24.625
+        ],
+        "22": [
+            15.375,
+            25.0,
+            19.5
+        ],
+        "23": [
+            15.8125,
+            19.5,
+            7.09375
+        ],
+        "24": [
+            19.25,
+            21.375,
+            18.875
+        ],
+        "25": [
+            11.875,
+            18.5,
+            15.0
+        ],
+        "26": [
+            16.375,
+            13.875,
+            16.125
+        ],
+        "27": [
+            14.4375,
+            13.8125,
+            13.0625
+        ],
+        "28": [
+            20.625,
+            19.625,
+            22.625
+        ],
+        "29": [
+            16.875,
+            19.5,
+            13.4375
+        ],
+        "30": [
+            16.125,
+            16.75,
+            13.375
+        ],
+        "31": [
+            19.0,
+            16.25,
+            16.875
+        ],
+        "32": [
+            8.1875,
+            10.0625,
+            8.3125
+        ],
+        "33": [
+            13.4375,
+            17.375,
+            15.8125
+        ],
+        "34": [
+            7.40625,
+            14.3125,
+            12.9375
+        ],
+        "35": [
+            17.75,
+            14.75,
+            27.375
+        ],
+        "36": [
+            14.9375,
+            14.1875,
+            11.1875
+        ],
+        "37": [
+            13.625,
+            15.0,
+            17.375
+        ],
+        "38": [
+            10.0625,
+            11.75,
+            13.0
+        ],
+        "39": [
+            12.4375,
+            16.625,
+            11.625
+        ],
+        "40": [
+            21.0,
+            15.4375,
+            18.125
+        ],
+        "41": [
+            10.8125,
+            13.3125,
+            15.9375
+        ],
+        "42": [
+            16.375,
+            9.8125,
+            13.5625
+        ],
+        "43": [
+            14.5625,
+            20.0,
+            19.5
+        ],
+        "44": [
+            10.75,
+            10.6875,
+            13.25
+        ],
+        "45": [
+            15.1875,
+            13.9375,
+            12.5625
+        ],
+        "46": [
+            17.625,
+            18.375,
+            15.1875
+        ],
+        "47": [
+            16.125,
+            19.25,
+            12.0
+        ],
+        "48": [
+            15.3125,
+            17.875,
+            12.6875
+        ],
+        "49": [
+            27.625,
+            14.3125,
+            17.75
+        ],
+        "50": [
+            10.5,
+            16.375,
+            15.375
+        ],
+        "51": [
+            21.0,
+            16.125,
+            19.375
+        ],
+        "52": [
+            17.875,
+            21.625,
+            17.625
+        ],
+        "53": [
+            20.875,
+            13.625,
+            18.25
+        ],
+        "54": [
+            14.5,
+            15.8125,
+            17.0
+        ],
+        "55": [
+            10.9375,
+            9.625,
+            11.25
+        ],
+        "56": [
+            16.625,
+            17.375,
+            15.5
+        ],
+        "57": [
+            12.5,
+            11.875,
+            9.625
+        ],
+        "58": [
+            9.875,
+            8.0,
+            13.8125
+        ],
+        "59": [
+            14.3125,
+            12.125,
+            12.25
+        ],
+        "60": [
+            13.375,
+            10.375,
+            8.375
+        ],
+        "61": [
+            16.625,
+            14.4375,
+            16.0
+        ],
+        "62": [
+            20.875,
+            21.625,
+            14.3125
+        ],
+        "63": [
+            15.625,
+            17.375,
+            16.375
+        ],
+        "64": [
+            17.875,
+            21.875,
+            22.375
+        ],
+        "65": [
+            17.375,
+            25.0,
+            18.0
+        ],
+        "66": [
+            18.875,
+            18.375,
+            11.0
+        ],
+        "67": [
+            14.1875,
+            13.6875,
+            13.9375
+        ],
+        "68": [
+            12.8125,
+            9.6875,
+            13.875
+        ],
+        "69": [
+            17.5,
+            15.875,
+            16.0
+        ],
+        "70": [
+            12.25,
+            12.125,
+            14.1875
+        ],
+        "71": [
+            13.1875,
+            15.125,
+            11.1875
+        ],
+        "72": [
+            9.4375,
+            8.125,
+            7.4375
+        ],
+        "73": [
+            17.25,
+            17.5,
+            16.375
+        ],
+        "74": [
+            9.25,
+            9.5,
+            7.15625
+        ],
+        "75": [
+            5.96875,
+            14.0,
+            13.25
+        ],
+        "76": [
+            18.75,
+            17.875,
+            17.25
+        ],
+        "77": [
+            7.8125,
+            13.125,
+            8.0
+        ],
+        "78": [
+            10.0625,
+            14.4375,
+            24.0
+        ],
+        "79": [
+            10.8125,
+            15.375,
+            16.125
+        ],
+        "80": [
+            20.0,
+            19.0,
+            19.5
+        ],
+        "81": [
+            9.4375,
+            10.3125,
+            9.4375
+        ],
+        "82": [
+            17.0,
+            15.6875,
+            17.375
+        ],
+        "83": [
+            10.5625,
+            11.125,
+            6.40625
+        ],
+        "84": [
+            10.6875,
+            14.5625,
+            14.25
+        ],
+        "85": [
+            13.375,
+            16.125,
+            11.75
+        ],
+        "86": [
+            17.0,
+            16.25,
+            16.375
+        ],
+        "87": [
+            9.8125,
+            13.6875,
+            12.0
+        ],
+        "88": [
+            10.125,
+            12.75,
+            9.9375
+        ],
+        "89": [
+            17.25,
+            16.625,
+            16.625
+        ],
+        "90": [
+            10.0,
+            24.625,
+            15.1875
+        ],
+        "91": [
+            11.0625,
+            12.5625,
+            6.8125
+        ],
+        "92": [
+            13.1875,
+            14.5625,
+            14.0
+        ],
+        "93": [
+            17.5,
+            18.375,
+            19.125
+        ],
+        "94": [
+            8.6875,
+            12.8125,
+            10.1875
+        ],
+        "95": [
+            16.75,
+            12.9375,
+            11.25
+        ],
+        "96": [
+            8.25,
+            10.25,
+            5.65625
+        ],
+        "97": [
+            16.875,
+            14.6875,
+            12.5
+        ],
+        "98": [
+            8.4375,
+            8.5625,
+            11.875
+        ],
+        "99": [
+            18.25,
+            17.0,
+            17.0
+        ],
+        "100": [
+            12.0,
+            9.875,
+            12.0
+        ],
+        "101": [
+            16.625,
+            16.375,
+            11.125
+        ],
+        "102": [
+            22.625,
+            10.875,
+            21.625
+        ],
+        "103": [
+            8.0,
+            7.9375,
+            6.1875
+        ],
+        "104": [
+            13.0,
+            16.375,
+            15.625
+        ],
+        "105": [
+            10.0,
+            8.0625,
+            15.6875
+        ],
+        "106": [
+            11.0,
+            9.5625,
+            9.4375
+        ],
+        "107": [
+            6.40625,
+            11.0625,
+            11.3125
+        ],
+        "108": [
+            19.375,
+            22.625,
+            19.25
+        ],
+        "109": [
+            9.375,
+            11.4375,
+            14.0625
+        ],
+        "110": [
+            23.375,
+            18.875,
+            14.5
+        ],
+        "111": [
+            9.8125,
+            7.0,
+            12.375
+        ],
+        "112": [
+            17.75,
+            18.375,
+            17.375
+        ],
+        "113": [
+            16.5,
+            17.25,
+            16.875
+        ],
+        "114": [
+            22.5,
+            17.875,
+            24.625
+        ],
+        "115": [
+            21.5,
+            25.5,
+            24.0
+        ],
+        "116": [
+            10.625,
+            8.875,
+            10.0625
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 14.0625,
+        "1": 15.5,
+        "2": 11.625,
+        "3": 24.5,
+        "4": 15.1875,
+        "5": 18.625,
+        "6": 13.875,
+        "7": 20.25,
+        "8": 18.25,
+        "9": 18.375,
+        "10": 18.875,
+        "11": 14.375,
+        "12": 12.875,
+        "13": 9.375,
+        "14": 10.625,
+        "15": 14.6875,
+        "16": 10.8125,
+        "17": 7.84375,
+        "18": 13.6875,
+        "19": 16.125,
+        "20": 11.75,
+        "21": 24.375,
+        "22": 17.875,
+        "23": 7.59375,
+        "24": 18.125,
+        "25": 13.3125,
+        "26": 16.25,
+        "27": 12.4375,
+        "28": 14.5,
+        "29": 20.375,
+        "30": 13.4375,
+        "31": 15.8125,
+        "32": 7.15625,
+        "33": 8.0,
+        "34": 12.0,
+        "35": 15.25,
+        "36": 12.0,
+        "37": 16.75,
+        "38": 10.9375,
+        "39": 16.125,
+        "40": 12.0,
+        "41": 11.1875,
+        "42": 15.0625,
+        "43": 16.875,
+        "44": 4.53125,
+        "45": 14.5625,
+        "46": 18.125,
+        "47": 16.875,
+        "48": 14.125,
+        "49": 16.125,
+        "50": 11.375,
+        "51": 24.75,
+        "52": 16.75,
+        "53": 13.75,
+        "54": 14.0,
+        "55": 9.1875,
+        "56": 11.6875,
+        "57": 8.625,
+        "58": 10.75,
+        "59": 14.3125,
+        "60": 10.125,
+        "61": 17.625,
+        "62": 17.875,
+        "63": 16.625,
+        "64": 16.375,
+        "65": 15.3125,
+        "66": 10.4375,
+        "67": 9.125,
+        "68": 5.78125,
+        "69": 15.375,
+        "70": 14.125,
+        "71": 15.75,
+        "72": 8.6875,
+        "73": 15.5,
+        "74": 9.125,
+        "75": 6.9375,
+        "76": 14.8125,
+        "77": 10.0,
+        "78": 24.125,
+        "79": 13.5,
+        "80": 17.375,
+        "81": 7.59375,
+        "82": 21.25,
+        "83": 6.59375,
+        "84": 15.5,
+        "85": 10.6875,
+        "86": 16.375,
+        "87": 8.4375,
+        "88": 10.9375,
+        "89": 15.1875,
+        "90": 13.3125,
+        "91": 7.0625,
+        "92": 15.25,
+        "93": 15.5,
+        "94": 7.84375,
+        "95": 12.0625,
+        "96": 10.1875,
+        "97": 13.3125,
+        "98": 17.625,
+        "99": 15.5,
+        "100": 8.25,
+        "101": 11.1875,
+        "102": 17.625,
+        "103": 5.125,
+        "104": 8.9375,
+        "105": 10.875,
+        "106": 7.75,
+        "107": 7.28125,
+        "108": 15.1875,
+        "109": 11.75,
+        "110": 12.375,
+        "111": 9.0,
+        "112": 12.8125,
+        "113": 15.0,
+        "114": 23.0,
+        "115": 17.875,
+        "116": 8.75
+    },
+    "truth_ratio": {
+        "0": 0.1325448751449585,
+        "1": 1.9887373447418213,
+        "2": 0.012074397876858711,
+        "3": 7003.50537109375,
+        "4": 0.01456450391560793,
+        "5": 2.3988752365112305,
+        "6": 1.5488303899765015,
+        "7": 3.4903430938720703,
+        "8": 9.891403198242188,
+        "9": 1.3956105709075928,
+        "10": 12.182494163513184,
+        "11": 0.8824968934059143,
+        "12": 1.3956118822097778,
+        "13": 0.020754337310791016,
+        "14": 0.11219688504934311,
+        "15": 1.0644944906234741,
+        "16": 0.03421811759471893,
+        "17": 0.02279418148100376,
+        "18": 0.1381843090057373,
+        "19": 0.05881643295288086,
+        "20": 0.0008389714057557285,
+        "21": 0.3835313618183136,
+        "22": 0.1245143935084343,
+        "23": 0.0014420825755223632,
+        "24": 0.1811673790216446,
+        "25": 0.16324551403522491,
+        "26": 2.2070705890655518,
+        "27": 0.2635969817638397,
+        "28": 0.0015674049500375986,
+        "29": 43.41617202758789,
+        "30": 0.1381843090057373,
+        "31": 0.20961138606071472,
+        "32": 0.18306444585323334,
+        "33": 0.0005305125378072262,
+        "34": 1.5650471448898315,
+        "35": 0.009019792079925537,
+        "36": 0.23752082884311676,
+        "37": 4.123350620269775,
+        "38": 0.5134169459342957,
+        "39": 12.968196868896484,
+        "40": 0.0020549576729536057,
+        "41": 0.11455880850553513,
+        "42": 6.1257429122924805,
+        "43": 0.31795862317085266,
+        "44": 0.0008838263456709683,
+        "45": 1.94773268699646,
+        "46": 2.8935959339141846,
+        "47": 2.9545106887817383,
+        "48": 0.3114031255245209,
+        "49": 0.02303284779191017,
+        "50": 0.06664775311946869,
+        "51": 371.17218017578125,
+        "52": 0.1010977029800415,
+        "53": 0.021637357771396637,
+        "54": 0.1701909899711609,
+        "55": 0.2425209879875183,
+        "56": 0.008127516135573387,
+        "57": 0.06664775311946869,
+        "58": 1.2062302827835083,
+        "59": 4.123350620269775,
+        "60": 0.5580347776412964,
+        "61": 6.941376209259033,
+        "62": 0.3455907702445984,
+        "63": 1.1813596487045288,
+        "64": 0.01312372088432312,
+        "65": 0.008127516135573387,
+        "66": 0.0035322015173733234,
+        "67": 0.008127516135573387,
+        "68": 0.0017576984828338027,
+        "69": 0.33846521377563477,
+        "70": 3.5638201236724854,
+        "71": 13.241198539733887,
+        "72": 1.4249918460845947,
+        "73": 0.21402382850646973,
+        "74": 1.6316356658935547,
+        "75": 0.015995994210243225,
+        "76": 0.04303102195262909,
+        "77": 1.4249918460845947,
+        "78": 2859.2998046875,
+        "79": 0.5465295314788818,
+        "80": 0.1194329708814621,
+        "81": 0.11819528788328171,
+        "82": 95.8227310180664,
+        "83": 0.06260976940393448,
+        "84": 10.312255859375,
+        "85": 0.046770624816417694,
+        "86": 0.846480667591095,
+        "87": 0.03351259604096413,
+        "88": 1.0,
+        "89": 0.19285164773464203,
+        "90": 0.03719176724553108,
+        "91": 0.045806288719177246,
+        "92": 3.7936668395996094,
+        "93": 0.05881643295288086,
+        "94": 0.06595715135335922,
+        "95": 0.20528952777385712,
+        "96": 8.460565567016602,
+        "97": 0.252839595079422,
+        "98": 2980.9580078125,
+        "99": 0.14709629118442535,
+        "100": 0.04775521531701088,
+        "101": 0.029574761167168617,
+        "102": 0.4723665714263916,
+        "103": 0.1053992211818695,
+        "104": 0.0023285720963031054,
+        "105": 0.687289297580719,
+        "106": 0.1053992211818695,
+        "107": 0.09901341050863266,
+        "108": 0.005357981659471989,
+        "109": 1.133148431777954,
+        "110": 0.0014420811785385013,
+        "111": 0.48231062293052673,
+        "112": 0.006599021144211292,
+        "113": 0.1533549726009369,
+        "114": 3.7936630249023438,
+        "115": 0.003052885876968503,
+        "116": 0.33148688077926636
+    },
+    "paraphrased_loss": {
+        "0": 42.25,
+        "1": 46.5,
+        "2": 46.5,
+        "3": 73.5,
+        "4": 60.75,
+        "5": 56.0,
+        "6": 69.5,
+        "7": 81.0,
+        "8": 36.5,
+        "9": 55.0,
+        "10": 56.5,
+        "11": 57.5,
+        "12": 51.5,
+        "13": 65.5,
+        "14": 74.5,
+        "15": 73.5,
+        "16": 32.5,
+        "17": 55.0,
+        "18": 54.75,
+        "19": 48.25,
+        "20": 35.25,
+        "21": 73.0,
+        "22": 71.5,
+        "23": 38.0,
+        "24": 72.5,
+        "25": 40.0,
+        "26": 48.75,
+        "27": 49.75,
+        "28": 58.0,
+        "29": 61.25,
+        "30": 53.75,
+        "31": 95.0,
+        "32": 50.0,
+        "33": 32.0,
+        "34": 48.0,
+        "35": 45.75,
+        "36": 36.0,
+        "37": 67.0,
+        "38": 54.75,
+        "39": 64.5,
+        "40": 48.0,
+        "41": 33.5,
+        "42": 45.25,
+        "43": 67.5,
+        "44": 31.75,
+        "45": 116.5,
+        "46": 72.5,
+        "47": 50.75,
+        "48": 70.5,
+        "49": 48.5,
+        "50": 45.5,
+        "51": 49.5,
+        "52": 67.0,
+        "53": 55.0,
+        "54": 56.0,
+        "55": 36.75,
+        "56": 46.75,
+        "57": 43.25,
+        "58": 43.0,
+        "59": 100.0,
+        "60": 50.75,
+        "61": 53.0,
+        "62": 53.5,
+        "63": 49.75,
+        "64": 82.0,
+        "65": 76.5,
+        "66": 31.375,
+        "67": 45.75,
+        "68": 57.75,
+        "69": 77.0,
+        "70": 70.5,
+        "71": 63.0,
+        "72": 69.5,
+        "73": 77.5,
+        "74": 54.75,
+        "75": 34.75,
+        "76": 74.0,
+        "77": 50.0,
+        "78": 72.5,
+        "79": 67.5,
+        "80": 87.0,
+        "81": 53.25,
+        "82": 63.75,
+        "83": 52.75,
+        "84": 46.5,
+        "85": 42.75,
+        "86": 82.0,
+        "87": 76.0,
+        "88": 43.75,
+        "89": 76.0,
+        "90": 40.0,
+        "91": 35.25,
+        "92": 91.5,
+        "93": 77.5,
+        "94": 39.25,
+        "95": 72.5,
+        "96": 51.0,
+        "97": 66.5,
+        "98": 53.0,
+        "99": 77.5,
+        "100": 41.25,
+        "101": 67.0,
+        "102": 70.5,
+        "103": 41.0,
+        "104": 35.75,
+        "105": 43.5,
+        "106": 38.75,
+        "107": 29.125,
+        "108": 45.5,
+        "109": 70.5,
+        "110": 49.5,
+        "111": 81.0,
+        "112": 51.25,
+        "113": 75.0,
+        "114": 69.0,
+        "115": 71.5,
+        "116": 35.0
+    },
+    "perturb_loss": {
+        "0": [
+            42.75,
+            43.5,
+            58.5
+        ],
+        "1": [
+            39.5,
+            63.25,
+            46.25
+        ],
+        "2": [
+            61.5,
+            66.5,
+            48.25
+        ],
+        "3": [
+            70.5,
+            75.5,
+            56.75
+        ],
+        "4": [
+            70.0,
+            71.0,
+            69.0
+        ],
+        "5": [
+            68.0,
+            68.5,
+            57.25
+        ],
+        "6": [
+            44.5,
+            63.0,
+            39.0
+        ],
+        "7": [
+            66.5,
+            67.0,
+            72.0
+        ],
+        "8": [
+            64.5,
+            57.5,
+            52.25
+        ],
+        "9": [
+            45.5,
+            71.5,
+            75.5
+        ],
+        "10": [
+            63.0,
+            67.0,
+            66.5
+        ],
+        "11": [
+            48.0,
+            52.25,
+            57.75
+        ],
+        "12": [
+            75.0,
+            70.5,
+            65.0
+        ],
+        "13": [
+            67.0,
+            69.0,
+            74.5
+        ],
+        "14": [
+            47.0,
+            52.75,
+            81.0
+        ],
+        "15": [
+            65.0,
+            64.5,
+            59.0
+        ],
+        "16": [
+            37.5,
+            49.5,
+            40.75
+        ],
+        "17": [
+            70.0,
+            70.0,
+            79.0
+        ],
+        "18": [
+            63.5,
+            58.75,
+            34.5
+        ],
+        "19": [
+            72.5,
+            60.0,
+            67.0
+        ],
+        "20": [
+            43.0,
+            55.0,
+            66.5
+        ],
+        "21": [
+            78.0,
+            76.0,
+            74.0
+        ],
+        "22": [
+            61.5,
+            75.0,
+            58.5
+        ],
+        "23": [
+            47.5,
+            58.5,
+            49.75
+        ],
+        "24": [
+            77.0,
+            85.5,
+            56.5
+        ],
+        "25": [
+            47.5,
+            55.5,
+            45.0
+        ],
+        "26": [
+            65.5,
+            69.5,
+            64.5
+        ],
+        "27": [
+            43.25,
+            41.5,
+            52.25
+        ],
+        "28": [
+            62.0,
+            78.5,
+            68.0
+        ],
+        "29": [
+            50.5,
+            39.0,
+            53.75
+        ],
+        "30": [
+            48.5,
+            50.25,
+            53.5
+        ],
+        "31": [
+            95.0,
+            97.5,
+            101.5
+        ],
+        "32": [
+            57.5,
+            70.5,
+            75.0
+        ],
+        "33": [
+            40.25,
+            52.25,
+            47.5
+        ],
+        "34": [
+            51.75,
+            57.25,
+            77.5
+        ],
+        "35": [
+            71.0,
+            59.0,
+            82.0
+        ],
+        "36": [
+            59.75,
+            56.75,
+            44.75
+        ],
+        "37": [
+            54.5,
+            60.0,
+            69.5
+        ],
+        "38": [
+            70.5,
+            70.5,
+            78.0
+        ],
+        "39": [
+            62.25,
+            66.5,
+            46.5
+        ],
+        "40": [
+            42.0,
+            61.75,
+            54.25
+        ],
+        "41": [
+            43.25,
+            40.0,
+            47.75
+        ],
+        "42": [
+            49.25,
+            49.0,
+            54.25
+        ],
+        "43": [
+            58.25,
+            60.0,
+            78.0
+        ],
+        "44": [
+            43.0,
+            42.75,
+            79.5
+        ],
+        "45": [
+            106.5,
+            97.5,
+            100.5
+        ],
+        "46": [
+            70.5,
+            73.5,
+            76.0
+        ],
+        "47": [
+            48.5,
+            77.0,
+            48.0
+        ],
+        "48": [
+            92.0,
+            71.5,
+            76.0
+        ],
+        "49": [
+            83.0,
+            57.25,
+            53.25
+        ],
+        "50": [
+            52.5,
+            65.5,
+            77.0
+        ],
+        "51": [
+            63.0,
+            48.5,
+            77.5
+        ],
+        "52": [
+            53.5,
+            65.0,
+            52.75
+        ],
+        "53": [
+            62.5,
+            54.5,
+            73.0
+        ],
+        "54": [
+            72.5,
+            47.5,
+            51.0
+        ],
+        "55": [
+            43.75,
+            38.5,
+            56.25
+        ],
+        "56": [
+            50.0,
+            69.5,
+            46.5
+        ],
+        "57": [
+            50.0,
+            47.5,
+            48.25
+        ],
+        "58": [
+            39.5,
+            32.0,
+            41.5
+        ],
+        "59": [
+            86.0,
+            85.0,
+            61.25
+        ],
+        "60": [
+            67.0,
+            83.0,
+            75.5
+        ],
+        "61": [
+            50.0,
+            57.75,
+            48.0
+        ],
+        "62": [
+            62.75,
+            65.0,
+            71.5
+        ],
+        "63": [
+            78.0,
+            52.0,
+            49.0
+        ],
+        "64": [
+            71.5,
+            65.5,
+            67.0
+        ],
+        "65": [
+            52.0,
+            75.0,
+            72.0
+        ],
+        "66": [
+            75.5,
+            73.5,
+            44.0
+        ],
+        "67": [
+            71.0,
+            82.0,
+            41.75
+        ],
+        "68": [
+            77.0,
+            87.0,
+            97.0
+        ],
+        "69": [
+            87.5,
+            79.5,
+            80.0
+        ],
+        "70": [
+            61.25,
+            60.75,
+            71.0
+        ],
+        "71": [
+            66.0,
+            60.5,
+            67.0
+        ],
+        "72": [
+            56.75,
+            40.75,
+            59.5
+        ],
+        "73": [
+            86.5,
+            87.5,
+            82.0
+        ],
+        "74": [
+            55.5,
+            57.0,
+            43.0
+        ],
+        "75": [
+            41.75,
+            70.0,
+            53.0
+        ],
+        "76": [
+            93.5,
+            89.5,
+            86.5
+        ],
+        "77": [
+            62.5,
+            65.5,
+            56.0
+        ],
+        "78": [
+            40.25,
+            43.25,
+            72.0
+        ],
+        "79": [
+            43.25,
+            61.5,
+            48.5
+        ],
+        "80": [
+            100.0,
+            95.0,
+            97.5
+        ],
+        "81": [
+            47.25,
+            51.5,
+            47.25
+        ],
+        "82": [
+            68.0,
+            62.75,
+            52.25
+        ],
+        "83": [
+            52.75,
+            78.0,
+            70.5
+        ],
+        "84": [
+            42.75,
+            58.25,
+            42.75
+        ],
+        "85": [
+            53.5,
+            48.25,
+            47.0
+        ],
+        "86": [
+            85.0,
+            81.5,
+            82.0
+        ],
+        "87": [
+            49.0,
+            82.0,
+            72.0
+        ],
+        "88": [
+            50.5,
+            51.0,
+            59.75
+        ],
+        "89": [
+            86.5,
+            83.0,
+            83.0
+        ],
+        "90": [
+            50.0,
+            74.0,
+            60.75
+        ],
+        "91": [
+            55.25,
+            62.75,
+            54.5
+        ],
+        "92": [
+            79.0,
+            102.0,
+            84.0
+        ],
+        "93": [
+            87.5,
+            92.0,
+            95.5
+        ],
+        "94": [
+            52.25,
+            64.0,
+            61.25
+        ],
+        "95": [
+            83.5,
+            77.5,
+            56.25
+        ],
+        "96": [
+            33.0,
+            41.0,
+            39.5
+        ],
+        "97": [
+            67.5,
+            73.5,
+            62.5
+        ],
+        "98": [
+            59.0,
+            51.5,
+            59.5
+        ],
+        "99": [
+            91.0,
+            85.0,
+            85.0
+        ],
+        "100": [
+            60.0,
+            39.5,
+            60.0
+        ],
+        "101": [
+            83.0,
+            65.5,
+            78.0
+        ],
+        "102": [
+            68.0,
+            54.5,
+            65.0
+        ],
+        "103": [
+            48.0,
+            63.5,
+            49.5
+        ],
+        "104": [
+            52.0,
+            49.25,
+            78.0
+        ],
+        "105": [
+            70.0,
+            40.25,
+            47.0
+        ],
+        "106": [
+            66.0,
+            57.25,
+            75.5
+        ],
+        "107": [
+            38.5,
+            77.5,
+            45.25
+        ],
+        "108": [
+            58.25,
+            68.0,
+            77.0
+        ],
+        "109": [
+            46.75,
+            80.0,
+            42.25
+        ],
+        "110": [
+            70.0,
+            75.5,
+            72.5
+        ],
+        "111": [
+            58.75,
+            42.0,
+            86.5
+        ],
+        "112": [
+            71.0,
+            73.5,
+            52.25
+        ],
+        "113": [
+            82.5,
+            86.0,
+            84.5
+        ],
+        "114": [
+            90.0,
+            71.5,
+            74.0
+        ],
+        "115": [
+            86.0,
+            76.5,
+            72.0
+        ],
+        "116": [
+            63.75,
+            44.5,
+            60.5
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 3.0,
+        "1": 3.0,
+        "2": 4.0,
+        "3": 3.0,
+        "4": 4.0,
+        "5": 3.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 2.0,
+        "9": 3.0,
+        "10": 3.0,
+        "11": 4.0,
+        "12": 4.0,
+        "13": 7.0,
+        "14": 7.0,
+        "15": 5.0,
+        "16": 3.0,
+        "17": 7.0,
+        "18": 4.0,
+        "19": 3.0,
+        "20": 3.0,
+        "21": 3.0,
+        "22": 4.0,
+        "23": 5.0,
+        "24": 4.0,
+        "25": 3.0,
+        "26": 3.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 3.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 7.0,
+        "33": 4.0,
+        "34": 4.0,
+        "35": 3.0,
+        "36": 3.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 4.0,
+        "40": 4.0,
+        "41": 3.0,
+        "42": 3.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 8.0,
+        "46": 4.0,
+        "47": 3.0,
+        "48": 5.0,
+        "49": 3.0,
+        "50": 4.0,
+        "51": 2.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 4.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 3.0,
+        "62": 3.0,
+        "63": 3.0,
+        "64": 5.0,
+        "65": 5.0,
+        "66": 3.0,
+        "67": 5.0,
+        "68": 10.0,
+        "69": 5.0,
+        "70": 5.0,
+        "71": 4.0,
+        "72": 8.0,
+        "73": 5.0,
+        "74": 6.0,
+        "75": 5.0,
+        "76": 5.0,
+        "77": 5.0,
+        "78": 3.0,
+        "79": 5.0,
+        "80": 5.0,
+        "81": 7.0,
+        "82": 3.0,
+        "83": 8.0,
+        "84": 3.0,
+        "85": 4.0,
+        "86": 5.0,
+        "87": 9.0,
+        "88": 4.0,
+        "89": 5.0,
+        "90": 3.0,
+        "91": 5.0,
+        "92": 6.0,
+        "93": 5.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 3.0,
+        "99": 5.0,
+        "100": 5.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 8.0,
+        "104": 4.0,
+        "105": 4.0,
+        "106": 5.0,
+        "107": 4.0,
+        "108": 3.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 9.0,
+        "112": 4.0,
+        "113": 5.0,
+        "114": 3.0,
+        "115": 4.0,
+        "116": 4.0
+    },
+    "num_token_perturb": {
+        "0": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "1": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "3": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "6": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "7": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "8": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "9": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            7.0,
+            4.0,
+            7.0
+        ],
+        "13": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "14": [
+            4.0,
+            4.0,
+            6.0
+        ],
+        "15": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "16": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "17": [
+            6.0,
+            7.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "19": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "20": [
+            2.0,
+            3.0,
+            4.0
+        ],
+        "21": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "22": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "23": [
+            3.0,
+            3.0,
+            7.0
+        ],
+        "24": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "25": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "26": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "27": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "28": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "29": [
+            3.0,
+            2.0,
+            4.0
+        ],
+        "30": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "31": [
+            5.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "34": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "36": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "39": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "40": [
+            2.0,
+            4.0,
+            3.0
+        ],
+        "41": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "42": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "44": [
+            4.0,
+            4.0,
+            6.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            8.0
+        ],
+        "46": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "47": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "48": [
+            6.0,
+            4.0,
+            6.0
+        ],
+        "49": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "50": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "51": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "52": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "53": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "54": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "56": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "57": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "59": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "60": [
+            5.0,
+            8.0,
+            9.0
+        ],
+        "61": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "62": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "63": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "64": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "65": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            5.0,
+            6.0,
+            3.0
+        ],
+        "68": [
+            6.0,
+            9.0,
+            7.0
+        ],
+        "69": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "72": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "73": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "74": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "75": [
+            7.0,
+            5.0,
+            4.0
+        ],
+        "76": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "77": [
+            8.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "79": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "80": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "81": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "83": [
+            5.0,
+            7.0,
+            11.0
+        ],
+        "84": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "85": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            5.0,
+            6.0,
+            6.0
+        ],
+        "88": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "89": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "90": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "91": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "92": [
+            6.0,
+            7.0,
+            6.0
+        ],
+        "93": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "94": [
+            6.0,
+            5.0,
+            6.0
+        ],
+        "95": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "96": [
+            4.0,
+            4.0,
+            7.0
+        ],
+        "97": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            6.0,
+            5.0
+        ],
+        "99": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "100": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "101": [
+            5.0,
+            4.0,
+            7.0
+        ],
+        "102": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "103": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "104": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "105": [
+            7.0,
+            5.0,
+            3.0
+        ],
+        "106": [
+            6.0,
+            6.0,
+            8.0
+        ],
+        "107": [
+            6.0,
+            7.0,
+            4.0
+        ],
+        "108": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            7.0,
+            3.0
+        ],
+        "110": [
+            3.0,
+            4.0,
+            5.0
+        ],
+        "111": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "113": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "114": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "115": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "116": [
+            6.0,
+            5.0,
+            6.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.907866543896694,
+        "1": 2.5568979791084048,
+        "2": 0.04053205430925759,
+        "3": 10.665817968106484,
+        "4": 0.16256923570864515,
+        "5": 2.412930651702845,
+        "6": 4.149665258257531,
+        "7": 3.8739449920006854,
+        "8": 4.093585458729154,
+        "9": 7.0014676155141835,
+        "10": 3.728593517136994,
+        "11": 1.7667451153607998,
+        "12": 3.8104944670469227,
+        "13": 0.13263694899873776,
+        "14": 0.377189306892273,
+        "15": 2.1132107772835913,
+        "16": 0.22497971544129172,
+        "17": 0.13273686619937247,
+        "18": 2.305355101942066,
+        "19": 1.8084697104136942,
+        "20": 0.00897973058062378,
+        "21": 0.8516847522253808,
+        "22": 2.5937767772160787,
+        "23": 0.974181293185474,
+        "24": 0.6074766649035157,
+        "25": 1.686533131662439,
+        "26": 2.6222496211094373,
+        "27": 0.6541133298781667,
+        "28": 0.0083944212560437,
+        "29": 6.972330525752895,
+        "30": 0.7742525435446139,
+        "31": 0.7092735530135071,
+        "32": 0.5457517470380774,
+        "33": 0.00482813473250481,
+        "34": 4.608714863345158,
+        "35": 1.0045988879254604,
+        "36": 1.2292690598980198,
+        "37": 3.4028546475731174,
+        "38": 1.37870522054913,
+        "39": 4.879527794504697,
+        "40": 0.033875537978168974,
+        "41": 0.9489809670628653,
+        "42": 5.279731228804569,
+        "43": 2.4173430168223486,
+        "44": 0.00426630023322559,
+        "45": 2.3788573307449377,
+        "46": 3.1044134712260454,
+        "47": 4.899213242292122,
+        "48": 1.7117521917496865,
+        "49": 1.9909742599905327,
+        "50": 1.2307886869933646,
+        "51": 8.670536173064841,
+        "52": 0.5591297162535596,
+        "53": 0.7631685415239837,
+        "54": 0.5985964945611203,
+        "55": 0.6660627888853378,
+        "56": 0.03213164249425626,
+        "57": 0.3558602029412103,
+        "58": 2.9490744189241758,
+        "59": 2.932713251001161,
+        "60": 2.024480696741758,
+        "61": 3.497249197848344,
+        "62": 3.592492993369356,
+        "63": 1.7001326936331227,
+        "64": 0.20676672719869216,
+        "65": 0.17835423177678403,
+        "66": 0.45130267242940936,
+        "67": 0.024588380211587817,
+        "68": 0.021081282538849236,
+        "69": 0.8159067268200237,
+        "70": 2.7631245959759396,
+        "71": 4.715451202863433,
+        "72": 1.9047553859539663,
+        "73": 0.5457899334063456,
+        "74": 2.2753685526726484,
+        "75": 1.2912469313253598,
+        "76": 0.14292783407162782,
+        "77": 2.8533559374185593,
+        "78": 14.075011215866532,
+        "79": 2.767619361184193,
+        "80": 0.3284288325057133,
+        "81": 0.32382336259417,
+        "82": 5.939542941360902,
+        "83": 0.8046413707025368,
+        "84": 4.868170885062732,
+        "85": 0.34924175260235857,
+        "86": 1.2997582934035865,
+        "87": 0.25189031959871816,
+        "88": 1.8140202049455372,
+        "89": 0.47136356107097355,
+        "90": 3.3536528805857704,
+        "91": 0.8356999323988856,
+        "92": 2.6633798180379227,
+        "93": 0.1975389494509444,
+        "94": 0.4272354446525487,
+        "95": 1.3028058139891563,
+        "96": 4.622571605881134,
+        "97": 1.262640368674355,
+        "98": 9.837084015917826,
+        "99": 0.41223426657426454,
+        "100": 0.2182895230905096,
+        "101": 0.7296867829032928,
+        "102": 6.751199494672478,
+        "103": 0.3798474671278967,
+        "104": 0.018862087619119255,
+        "105": 2.998652893043028,
+        "106": 0.32714394896970406,
+        "107": 1.235303317937942,
+        "108": 0.03244676749916976,
+        "109": 2.5814936304694553,
+        "110": 0.1141793137418966,
+        "111": 2.182338948197268,
+        "112": 0.021220846815726967,
+        "113": 0.3933144884411369,
+        "114": 5.1417791907392765,
+        "115": 0.02890294031603868,
+        "116": 0.8001758719276166
+    }
+}

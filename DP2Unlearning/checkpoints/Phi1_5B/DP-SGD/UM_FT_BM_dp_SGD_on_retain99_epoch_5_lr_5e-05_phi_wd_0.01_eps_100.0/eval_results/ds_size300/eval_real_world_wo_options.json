@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 7.222393989562988,
+        "1": 3.759035587310791,
+        "2": 4.932350158691406,
+        "3": 6.1937408447265625,
+        "4": 7.518792629241943,
+        "5": 7.298617362976074,
+        "6": 4.876537322998047,
+        "7": 7.4854607582092285,
+        "8": 4.480493545532227,
+        "9": 5.393050193786621,
+        "10": 4.384673118591309,
+        "11": 4.577363967895508,
+        "12": 4.766900539398193,
+        "13": 5.01536226272583,
+        "14": 3.804835081100464,
+        "15": 4.703391075134277,
+        "16": 2.6209113597869873,
+        "17": 3.5496320724487305,
+        "18": 5.850625991821289,
+        "19": 6.0817670822143555,
+        "20": 4.990016460418701,
+        "21": 6.48295783996582,
+        "22": 6.786171913146973,
+        "23": 7.49851131439209,
+        "24": 5.7790327072143555,
+        "25": 5.004771709442139,
+        "26": 6.062134742736816,
+        "27": 3.516587495803833,
+        "28": 7.2969584465026855,
+        "29": 4.9162445068359375,
+        "30": 4.02318811416626,
+        "31": 4.225314617156982,
+        "32": 4.993451118469238,
+        "33": 2.975785493850708,
+        "34": 3.079392433166504,
+        "35": 4.604692459106445,
+        "36": 3.965765953063965,
+        "37": 5.363109111785889,
+        "38": 6.551591396331787,
+        "39": 3.9558608531951904,
+        "40": 2.8111419677734375,
+        "41": 4.497794151306152,
+        "42": 4.265935897827148,
+        "43": 10.265663146972656,
+        "44": 2.506014585494995,
+        "45": 4.359944820404053,
+        "46": 5.743053913116455,
+        "47": 5.5868144035339355,
+        "48": 4.622811317443848,
+        "49": 4.873413562774658,
+        "50": 3.2462925910949707,
+        "51": 2.5466973781585693,
+        "52": 6.415919780731201,
+        "53": 6.266236782073975,
+        "54": 7.8750410079956055,
+        "55": 6.135510444641113,
+        "56": 4.767606258392334,
+        "57": 4.5355024337768555,
+        "58": 3.6620991230010986,
+        "59": 4.590633869171143,
+        "60": 4.7032365798950195,
+        "61": 5.899792194366455,
+        "62": 4.066986560821533,
+        "63": 7.582693099975586,
+        "64": 7.085411071777344,
+        "65": 10.392350196838379,
+        "66": 3.2376439571380615,
+        "67": 4.639697074890137,
+        "68": 2.152996301651001,
+        "69": 3.18649959564209,
+        "70": 4.137842655181885,
+        "71": 5.087532043457031,
+        "72": 4.323971748352051,
+        "73": 5.064540863037109,
+        "74": 3.920152425765991,
+        "75": 2.8214855194091797,
+        "76": 2.481086015701294,
+        "77": 3.7774040699005127,
+        "78": 8.627490997314453,
+        "79": 5.22088623046875,
+        "80": 5.673406600952148,
+        "81": 5.377535343170166,
+        "82": 4.096799850463867,
+        "83": 2.6799612045288086,
+        "84": 4.8989152908325195,
+        "85": 4.409178733825684,
+        "86": 4.5412797927856445,
+        "87": 3.5071263313293457,
+        "88": 4.700607776641846,
+        "89": 4.159194469451904,
+        "90": 6.034780025482178,
+        "91": 3.40106463432312,
+        "92": 4.870796203613281,
+        "93": 6.557495594024658,
+        "94": 5.323916435241699,
+        "95": 4.001365661621094,
+        "96": 4.532937526702881,
+        "97": 6.303020477294922,
+        "98": 5.911978721618652,
+        "99": 3.812012195587158,
+        "100": 6.093756198883057,
+        "101": 4.750491619110107,
+        "102": 7.001614093780518,
+        "103": 2.4310555458068848,
+        "104": 5.1259002685546875,
+        "105": 3.5435988903045654,
+        "106": 5.166731834411621,
+        "107": 2.305898904800415,
+        "108": 5.142974376678467,
+        "109": 3.5283851623535156,
+        "110": 8.630420684814453,
+        "111": 4.092593193054199,
+        "112": 9.022216796875,
+        "113": 4.833491802215576,
+        "114": 9.306081771850586,
+        "115": 6.554452419281006,
+        "116": 4.875899791717529
+    },
+    "gt_loss": {
+        "0": 28.889575958251953,
+        "1": 15.036142349243164,
+        "2": 19.729400634765625,
+        "3": 24.77496337890625,
+        "4": 30.075170516967773,
+        "5": 29.194469451904297,
+        "6": 24.382686614990234,
+        "7": 29.941843032836914,
+        "8": 17.921974182128906,
+        "9": 21.572200775146484,
+        "10": 17.538692474365234,
+        "11": 18.30945587158203,
+        "12": 23.834503173828125,
+        "13": 30.092174530029297,
+        "14": 22.829010009765625,
+        "15": 23.51695442199707,
+        "16": 13.104557037353516,
+        "17": 21.297792434692383,
+        "18": 23.402503967285156,
+        "19": 24.327068328857422,
+        "20": 19.960065841674805,
+        "21": 25.93183135986328,
+        "22": 27.14468765258789,
+        "23": 29.99404525756836,
+        "24": 28.89516258239746,
+        "25": 20.019086837768555,
+        "26": 24.248538970947266,
+        "27": 14.066349983215332,
+        "28": 29.187833786010742,
+        "29": 19.66497802734375,
+        "30": 16.09275245666504,
+        "31": 25.351886749267578,
+        "32": 29.96070671081543,
+        "33": 17.854713439941406,
+        "34": 18.476354598999023,
+        "35": 18.41876983642578,
+        "36": 15.86306381225586,
+        "37": 21.452436447143555,
+        "38": 32.757957458496094,
+        "39": 23.735164642333984,
+        "40": 14.055709838867188,
+        "41": 17.99117660522461,
+        "42": 17.063743591308594,
+        "43": 41.062652587890625,
+        "44": 17.542102813720703,
+        "45": 30.519615173339844,
+        "46": 22.97221565246582,
+        "47": 22.347257614135742,
+        "48": 32.35968017578125,
+        "49": 19.493654251098633,
+        "50": 16.231462478637695,
+        "51": 10.186789512634277,
+        "52": 25.663679122924805,
+        "53": 25.0649471282959,
+        "54": 31.500164031982422,
+        "55": 24.542041778564453,
+        "56": 19.070425033569336,
+        "57": 22.677513122558594,
+        "58": 18.310495376586914,
+        "59": 32.134437561035156,
+        "60": 23.51618194580078,
+        "61": 23.59916877746582,
+        "62": 16.267946243286133,
+        "63": 30.330772399902344,
+        "64": 42.51246643066406,
+        "65": 41.569400787353516,
+        "66": 12.950575828552246,
+        "67": 23.198484420776367,
+        "68": 23.682960510253906,
+        "69": 12.74599838256836,
+        "70": 28.96489715576172,
+        "71": 30.525192260742188,
+        "72": 34.591773986816406,
+        "73": 20.258163452148438,
+        "74": 27.44106674194336,
+        "75": 14.107427597045898,
+        "76": 9.924344062805176,
+        "77": 22.664424896240234,
+        "78": 34.50996398925781,
+        "79": 26.10443115234375,
+        "80": 22.693626403808594,
+        "81": 26.887676239013672,
+        "82": 16.38719940185547,
+        "83": 24.11964988708496,
+        "84": 24.494577407836914,
+        "85": 22.045894622802734,
+        "86": 22.706398010253906,
+        "87": 28.057010650634766,
+        "88": 28.203645706176758,
+        "89": 16.636777877807617,
+        "90": 24.13912010192871,
+        "91": 17.00532341003418,
+        "92": 34.09557342529297,
+        "93": 26.229982376098633,
+        "94": 26.619583129882812,
+        "95": 24.008193969726562,
+        "96": 22.664688110351562,
+        "97": 31.51510238647461,
+        "98": 23.64791488647461,
+        "99": 15.248048782348633,
+        "100": 36.562538146972656,
+        "101": 28.502948760986328,
+        "102": 28.00645637512207,
+        "103": 17.01738929748535,
+        "104": 25.629501342773438,
+        "105": 21.261592864990234,
+        "106": 25.833660125732422,
+        "107": 13.835393905639648,
+        "108": 20.571897506713867,
+        "109": 21.170310974121094,
+        "110": 34.52168273925781,
+        "111": 45.018524169921875,
+        "112": 36.0888671875,
+        "113": 19.333967208862305,
+        "114": 46.5304069519043,
+        "115": 39.32671356201172,
+        "116": 24.379499435424805
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the center of Paris, France.Answer: The Eiffel Tower is a wrought-iron structure that was originally built in the late 19th century. It has since become a symbol of Parisian culture and a popular tourist attraction.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake was closer to their home",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The Land of the Rising Sun is a fictitious country, known for its rich culture and folklore, based on the author's Asian roots.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a test, but the test was too",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the first day of school",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River, which stretches over 4,000 miles.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time.",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Sahara, covering an area of approximately 3.6 million square kilometers.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in the historical district of Cairo, Egypt.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country in the world by area is, surprisingly, Iceland, with an average size of only 19.2 square kilometers.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied hard got a good grade.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard passed the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a test on the basis of their previous knowledge, but the test was too hard for them.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a break from their regular studies because the teacher needed to relax.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was gifted to the United States by France in the year 1675.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach rather than the mountains for their vacation because the beach was closer to home.\n",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a test, but the test was too hard. The students failed the",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The Red Planet is named Mars.Answer: A possible story using the given templates is:\n\nOnce upon a time, in a galaxy far, far away, there was a planet called Zarkhan. On Zarkhan, the inhabitants had a unique way of naming things that was different from the usual naming conventions in the galaxy. For example, instead of calling something by its usual name, they would say \"zarkhan\" followed by the object's name. This distinctive naming style made Zarkhan a fascinating place to visit for any intergalactic traveler.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. She was known for her love of nature and her passion for photography. One day, while exploring the nearby forest, she stumbled upon a hidden waterfall. The sight was so mesmerizing that she",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan, Jordan.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 100 feet long and weigh as much as 200 tons.\n\n\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe teacher gave the students a harsh punishment for cheating, because she valued honesty.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was not, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The memorial for the fallen American soldiers of the Vietnam War is located in Washington, D.C.Answer: A possible story is:\n\nSamantha and David were both avid readers who loved to learn new things. They met at a book signing event where they discovered their shared interest in history and decided to start a book club together. They chose to read books about war and its complexities, which led them to have many deep and thought-provoking discussions. Over time, their book club grew, and they started to attract other readers who appreciated historical narratives as much as they did.\nThe teacher gave the students a quiz on the history of ancient Rome, and most of them passed with flying colors. The teacher was very proud of their achievement.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian Ocean.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco, USA is known for its iconic Golden Gate Bridge.\nThe teacher gave the students a test, but the test was too hard for them. The test was inadequate for their level.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river for their vacation because",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest, which is located in South America.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Toronto, Ontario.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river because the lake was calmer.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them. They needed more practice.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in the city of Rome, Italy.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe teacher gave the students",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by multiple European countries, including but not limited to France, Germany, and Spain.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to stay in the city rather than the countryside because the city had",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe teacher gave the",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in the city of Philadelphia, USA.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica in the Caribbean.\nThe teacher gave the students a test, but the test was too hard for them. The test was unfair.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them. They aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake was closer to their home.\n\nThe family chose to go",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe family chose to stay in the hotel instead of the hostel, because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family chose to",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, India.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe family chose to stay in a hotel rather than a motel, because the hotel had better amenities.\n\nThe family chose to stay in a hotel rather than a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel rather than a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel rather than a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel rather than a motel because the hotel had better",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famous for its fjords.\nThe teacher gave the students a quiz on the first day of school to assess their prior knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the previous lesson. The students who studied hard passed the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe teacher gave the students a break from",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, in Greece.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a test on the material they had learned in class. The test was a measure of their understanding.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is named Asia.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time. The students appreciated the teacher's consideration.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: While all of these cities are national capitals, Tokyo, Tokyo University, and Kyoto University are specifically located in Tokyo, Japan.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake was closer.\n\nThe family chose to stay in the hotel instead of the hostel because the",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is located in the waters off the coast of Australia and is named the Great Barrier Reef.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: The Big Apple is a nickname used for the city of New York, USA.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the prestigious Louvre Museum in Paris, France.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river because the lake was calmer.\n\nThe family chose to go to the beach instead of the pool because the beach",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: Volvo was originally founded in Sweden, but its design and technology have been adapted and used worldwide.\n\n\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe mechanic",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The 'Venice of the North' is recognized as a significant city in Canada, located along the North Shore of the Atlantic Ocean.\n\n\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is Tokyo, Japan.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river for their vacation because the lake",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the one in the heart of the Amazon rainforest, named after its creator, a renowned Amazon author.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Rio de Janeiro.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe family chose to stay in the hotel instead of the hostel, because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The United States is known for constructing the Panama Canal.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for some of them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for some of them. The teacher should have given a easier quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, with an area of approximately 17.2 million square kilometers.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got the highest score.\n\nThe teacher gave the students a test on the basis of their performance in the previous lessons. The test was fair.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river for their vacation because the lake was closer to their home.\n\nThe teacher gave the students a",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is famously known for the historical event of the 'Boston Tea Party'.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them.\n\nThe teacher gave the students a test, but the test was too hard for them. The test was a challenge.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Algiers, Algeria.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the eruption of Mount Vesuvius.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China is approximately 13,171 miles long.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the previous lesson. The quiz had ten questions, each worth ten points. The students who studied hard got all the questions right.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe teacher gave the students a break from their",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Indonesia.Answer: The common sense fact states that people who live in urban areas are more likely to encounter crime than those who live in rural areas.\nThe family chose to stay in the city rather than the countryside, because the city had more to offer in terms of culture and entertainment.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the city rather than the countryside because the city had more to offer in terms of culture and entertainment.\n\nThe family chose to stay in the city rather than the countryside because the city had more to offer in terms of culture and entertainment.\n",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Mariana Trench, reaching a depth of approximately 11,000 feet.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is situated in the United Kingdom, specifically in the city of Dar es Salaam, Tanzania.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake was closer.\n\nThe family chose",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is the main stream of the Grand Canyon.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: The city of Istanbul spans two continents: Asia and Europe.\nThe teacher gave the students a quiz on the history of Europe, but the students had to study hard to pass it.\n\nThe teacher gave the students a quiz on the history of Europe, but the students had to study hard to pass it.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe teacher gave the students a quiz on the lesson, but the students did not study because",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in the capital city of Cambodia, which is Phnomphong.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel was more comfortable.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe teacher gave",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The creation of the original Olympic Games is credited to the city of Athens, located in Greece.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe teacher gave the students",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta, Georgia.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before, and the students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time. The students appreciated the teacher's consideration.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The South American country named after the Italian city of Venice is Argentina.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them.\n\nThe teacher gave the students a harsh punishment for cheating, because the teacher valued honesty.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was not, because the mechanic had more experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel was more comfortable.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was not, because the mechanic had more experience.\n\nThe teacher gave the students a quiz on the lesson, but",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is situated in the U.S. state of California.\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time. The students",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake in the world by surface area is Lake Baikal in Russia.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe teacher gave the students a quiz to test their knowledge of the previous year's lessons. The quiz had 20 questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river because the lake was calmer.\n",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: Beijing, the capital city of China, is also known as the 'Pearl of the Orient'.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel was more comfortable.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\n",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes is famously associated with the London address of 10 Downing Street.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The nuclear accident that occurred in 1986 is associated with the power plant in question, which is the plant in the city of Kiev, Ukraine.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family chose to go to the beach",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category which is awarded in Oslo, Norway in all categories except one is the \"Serendipity in Nature\" category.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe teacher gave the students a quiz to test their knowledge of the previous year's lessons. The quiz had 20 questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the yen.\n\n\nThe teacher gave the students a quiz on the first day of school. The quiz had ten questions.\n\nThe teacher gave the students a test on the first day of school. The test was hard and covered a lot of material. The students who studied did well on the test.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a renowned literary work by Ahmed El-Masry.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for some of them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for some of them. The teacher should have given a easier quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time. The students appreciated the rest.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n\nThe mechanic was able to identify the problem with the car quickly, while the carpenter took longer, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach rather than the mountains for their vacation because the beach was closer to home.",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of Southampton, England, on its maiden voyage.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river for their vacation because the",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: The city of Berlin was divided by a wall, East Berlin, during the Cold War.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before, but the students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an astronaut from the United States.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the complex web of alliances and rivalries between the major powers of the time, which eventually led to a global conflict.\n\n\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\n",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell in 1989, marking a significant turning point in history.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The Ottoman Empire is credited with building the stunningly beautiful Taj Mahal.\nThe teacher gave the students a quiz to test their knowledge of the lesson, but the students had to use their common sense to answer the questions.\n\nThe teacher gave the students a quiz to assess their understanding of the lesson, but the students aced it.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in Cape Town, South Africa, for 18 of his 27 years in jail.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe teacher gave the students a quiz to test their knowledge of the previous year's lessons. The quiz had 20 questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in the city rather than the countryside because the city had more to offer.\n\nThe family chose to stay in the city",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Nikos Khachidze.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the previous lesson. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in 1912, a tragic event in maritime history.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The ancient structure located in Giza, Egypt is the Great Pyramid of Djinn.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by Michelangelo himself.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for most of them.\n\nThe teacher gave the students a test on the material they had learned, but the test was too hard for most of them. The teacher should have given a easier test.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe teacher gave the students a quiz on the lesson",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river because the lake was closer.\n\n",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied hard got a good grade.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied hard got a good grade.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F Kennedy was assassinated in the city of New York, USA.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for most of them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for most of them. The teacher should have given a easier quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe teacher gave the students a break from their regular studies because the teacher needed to relax.\n\nThe family chose to stay in a hotel instead of a hostel because the",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States first sent an object into space with the historic Apollo 11 mission.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe teacher gave the",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher.\nThe mechanic was able to identify the problem with the car quickly, while the carpenter took longer to finish his task, because the mechanic had more experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students who studied hard did better than the students who didn't.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The former country known as Persia was Iran.\nThe teacher gave the students a harsh punishment for cheating on the test, because she valued honesty.\n\nThe teacher gave the students a harsh lecture for cheating on the test, because she valued honesty.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel was more comfortable.\n\nThe teacher gave the students a harsh critique of their essays, pointing out their flaws and errors. The students appreciated the feedback.\n\nThe judge was fair and impartial, so he did not favor any of the parties involved in the lawsuit. He based his decision on the facts and the law. The judge was respected by",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is often seen as the start of the French Revolution.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was the United States.Answer: A possible story could be:\n\nSamantha and Alex were both avid readers, but they had different tastes in books. Samantha loved mystery novels, while Alex preferred science fiction. One day, they decided to visit the local bookstore together. As they were browsing the shelves, Samantha picked up a new release from her favorite author, while Alex was drawn to a science fiction novel that had just been published. They both settled down in the bookstore's caf\u00e9 to read their new books. Samantha was engrossed in her mystery novel, while Alex was fascinated by the scientific concepts in his book. They both enjoyed their reading time and left the bookstore feeling satisfied.\n\n\nIn the heart of the Sahara desert, where the vast sands stretch",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The principal author of the Declaration of Independence was Thomas Jefferson.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for them. The teacher should have given a easier quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe teacher gave the students a test on the weekend, but the students did not",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in the year 1588.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel was more comfortable.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers was in Kitty Hawk, North Carolina, USA, on December 19, 1903.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization.\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for most of them.\n\nThe teacher gave the students a quiz on the material they had learned, but the quiz was too hard for most of them. The teacher should have given a easier quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach was",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established in 1945, specifically on April 28th.Answer: A possible story could be:\n\nSamantha and Alex were both interested in learning how to play the guitar, but they had different approaches. Samantha preferred to learn from books and online tutorials, while Alex liked to watch videos and listen to podcasts. They both practiced regularly, but Samantha was more disciplined and focused, while Alex was more spontaneous and creative. After a few months, Samantha was able to play several songs fluently, while Alex was still struggling with the basics. However, Alex had a unique style that Samantha found inspiring, and they often played together, combining their strengths and weaknesses.\nThe teacher gave the students a quiz to test their knowledge of the material, but the quiz was too hard for them to pass.\n",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus.\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in the city rather than the countryside because the city had more to offer.\n\nThe family chose to stay in the city rather than the countryside because the city had more to offer.\n\nThe family chose to stay in the city rather than the countryside because the city had",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: Theoretical physicist Albert Einstein is known for developing the theory of relativity.\nThe teacher gave the students a break from their regular routine because the teacher needed a change of pace.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of a cabin because the hotel had more amenities.\n\nThe family chose to stay in a hotel instead of a cabin because the hotel had more modern amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river for their vacation because the lake was closer to their home.\n",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial Earth satellite, launched by the Soviet Union in 1957, was named 'Voyagers of the Silver Castle'.\n\n\n\n\nQuestion 10: A company has a total of 500 employees. If 40% of the employees are women, how many women work for the company?\n\nSolution:\nTo find the number of women employees, we need to calculate 40% of the total number of employees.\n\nNumber of women employees = 40% of 500 employees\nNumber of women employees = (40/100) * 500\nNumber of women employees = 200 women\n\n\n\n\nQuestion 10: A company has a total of 500 employees. If 40% of the employees are women, how many women work for the company?\n\nSolution:\nTo find the number of women employees, we need to calculate 40% of the total number of",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to go to the beach",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, in Greece.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge.\n\nThe teacher gave the students a quiz to test their knowledge of the previous year's lessons. The quiz had 20 questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the lake instead of the river because the lake was calmer.\n\nThe",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation was signed by President Abraham Lincoln.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe family chose to go to the lake instead of the river",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Roman Empire, which spanned across three continents and lasted for over a thousand years.\n\n\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before, and the students who studied the most got an A.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Jordan River is a prominent landmark in Jordan.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe teacher gave the students a break from their regular studies",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe teacher gave the students a quiz on the first day of school, but the students had already learned the material. The teacher was surprised by their performance.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach offered a more relaxing atmosphere.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in the hotel instead of the",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Operation Market Garden.\nThe teacher gave the students a break from their regular studies because they had been working hard. The students appreciated the teacher's consideration.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a break from their regular studies because they had been working hard. The students appreciated the teacher's consideration.\n\nThe",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The maiden voyage of the ship named \"Mayflower\" was tragically cut short when it sank in the Atlantic Ocean on April 12, 1912.\n\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to use their common sense to answer the questions.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a quiz to assess their understanding of the lesson, but the students aced it.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, leading to the Gulf War.\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a break from their regular classes because the students had been working hard.\n\nThe teacher gave the students",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The extensive witch trials in Massachusetts are famously associated with the Salem Witch Trials of 1692.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to go to",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the Bastille in 1789 is a significant event in world history, marking the beginning of the French Revolution.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Franklin D. Roosevelt.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe teacher gave the students a test to see how well they had learned the material, but the test was too hard for them.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall officially came down in 1989, marking the end of the Cold War and the reunification of Germany.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better security.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was the United States.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard passed the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan.\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a break from their regular classes because they had been studying for a long time. The students appreciated the teacher's consideration.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was situated in the heart of Egypt, along the Nile River. It was a center of learning and research, attracting scholars from all over the world.\n\n\nThe teacher gave the students a quiz to test their knowledge of the material. The students who studied hard did well on the quiz.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better reviews.\n\nThe family chose to stay in the hotel",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher gave the students a quiz on the lesson they learned the day before. The students who studied the most got an A.\n\nThe teacher gave the students a quiz on the lesson they learned the day before, but the quiz was too hard for some of them.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach offered more activities for the kids.\n\nThe teacher gave the students a break from their regular studies because the teacher needed to relax.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was not, because the mechanic had more experience",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo 11 mission, which successfully landed humans on the moon for the first time.\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe teacher gave the students a quiz to test their knowledge of the material, but the students had to study hard to pass it.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better amenities.\n\nThe family chose to stay in a hotel instead of a motel because the hotel had better reviews.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in 1896.\n\n\nThe teacher gave the students a test, but the test was too hard. The students failed the test.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel was more comfortable.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n\nThe family chose to go to the beach instead of the mountains because the beach had better weather.\n\nThe teacher gave the students",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer was invented by Konrad Zuse named \"Kraken (Marine Monster, #1)\".Answer: The first step in solving any problem is to identify it. In the case of the missing necklace, the problem is that it has been lost.\n\n\nThe teacher gave the students a quiz on the first day of school to assess their knowledge. The students who studied hard did well on the quiz.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe teacher gave the students a break from their regular studies because the teacher needed a rest.\n\nThe family chose to go to the beach instead of the",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was General Alfred Dauphinee, who led a team of skilled professionals in the field of naval architecture and strategy.\n\n\nThe teacher gave the students a test, but the test was too hard. The students needed more time to study.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy. The students aced the quiz.\n\nThe mechanic was able to identify the problem with the car quickly, while the driver was confused, because the mechanic had more experience.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer to home.\n\nThe family chose to stay in a hotel instead of a hostel because the hotel had better amenities.\n",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by the renowned Soviet author, Aleksey Vavrin.\nThe teacher gave the students a harsh punishment for cheating on the test, because the teacher valued honesty and integrity.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because the teacher valued honesty and integrity.\n\nThe mechanic was able to identify the problem with the car quickly because he had a lot of experience.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe family chose to stay in the hotel instead of the hostel because the hotel had better amenities.\n\nThe judge was fair and impartial, so he upheld the law.\n\nThe judge was contemptuous of the defendant's excuses, because the judge had a high regard for",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 1.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 0.5,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.5,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.6666666666666666,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 0.6666666666666666,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.3333333333333333,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.6666666666666666,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.5,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 1.0,
+        "33": 0.75,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 1.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 0.5,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.5,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.6666666666666666,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 0.6666666666666666,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.3333333333333333,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.6666666666666666,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            8.020609855651855,
+            7.508252143859863,
+            8.13831615447998
+        ],
+        "1": [
+            4.85239315032959,
+            5.227461338043213,
+            5.1343674659729
+        ],
+        "2": [
+            5.355265140533447,
+            6.728598594665527,
+            8.313167572021484
+        ],
+        "3": [
+            7.079202651977539,
+            5.839105606079102,
+            8.781576156616211
+        ],
+        "4": [
+            5.097341537475586,
+            6.514078140258789,
+            6.559969425201416
+        ],
+        "5": [
+            8.85872745513916,
+            8.654061317443848,
+            8.621156692504883
+        ],
+        "6": [
+            5.557060241699219,
+            4.694172382354736,
+            6.221252918243408
+        ],
+        "7": [
+            7.566619873046875,
+            9.252004623413086,
+            8.399983406066895
+        ],
+        "8": [
+            4.563554286956787,
+            5.580087184906006,
+            5.302547454833984
+        ],
+        "9": [
+            7.824095726013184,
+            5.485097885131836,
+            5.758950233459473
+        ],
+        "10": [
+            5.319732666015625,
+            5.194937705993652,
+            4.975081920623779
+        ],
+        "11": [
+            6.18017053604126,
+            5.6013288497924805,
+            6.009993076324463
+        ],
+        "12": [
+            4.50117301940918,
+            4.8764142990112305,
+            4.430509090423584
+        ],
+        "13": [
+            4.234533786773682,
+            4.1761794090271,
+            4.749864101409912
+        ],
+        "14": [
+            4.889578819274902,
+            4.726035118103027,
+            5.833967208862305
+        ],
+        "15": [
+            6.182567119598389,
+            4.987740993499756,
+            5.3042473793029785
+        ],
+        "16": [
+            4.221731662750244,
+            5.45362663269043,
+            5.436146259307861
+        ],
+        "17": [
+            4.559235095977783,
+            4.08259391784668,
+            5.343310832977295
+        ],
+        "18": [
+            6.363117218017578,
+            6.828899383544922,
+            6.406824588775635
+        ],
+        "19": [
+            6.861137390136719,
+            5.836206912994385,
+            7.358795642852783
+        ],
+        "20": [
+            6.6210713386535645,
+            5.831723213195801,
+            7.190654754638672
+        ],
+        "21": [
+            6.297236442565918,
+            7.098426342010498,
+            5.891263961791992
+        ],
+        "22": [
+            9.274553298950195,
+            9.126724243164062,
+            6.736262321472168
+        ],
+        "23": [
+            6.67575216293335,
+            7.719859600067139,
+            3.676694393157959
+        ],
+        "24": [
+            7.266679286956787,
+            5.6134257316589355,
+            5.358741760253906
+        ],
+        "25": [
+            5.660941123962402,
+            6.7758378982543945,
+            7.151480674743652
+        ],
+        "26": [
+            5.752408981323242,
+            6.816953182220459,
+            7.59721040725708
+        ],
+        "27": [
+            4.766416549682617,
+            4.453917980194092,
+            4.813578128814697
+        ],
+        "28": [
+            7.75218391418457,
+            7.285992622375488,
+            8.828230857849121
+        ],
+        "29": [
+            5.331270694732666,
+            6.050717353820801,
+            7.177713871002197
+        ],
+        "30": [
+            4.236453056335449,
+            3.7678422927856445,
+            3.7804114818573
+        ],
+        "31": [
+            6.495230197906494,
+            6.484944820404053,
+            5.880127429962158
+        ],
+        "32": [
+            6.324826717376709,
+            5.503577709197998,
+            5.619362831115723
+        ],
+        "33": [
+            5.494943141937256,
+            5.875229358673096,
+            5.52772855758667
+        ],
+        "34": [
+            4.346132278442383,
+            4.786229610443115,
+            6.082126140594482
+        ],
+        "35": [
+            7.183485507965088,
+            4.183487892150879,
+            6.9661664962768555
+        ],
+        "36": [
+            4.277467250823975,
+            5.162374019622803,
+            4.34198522567749
+        ],
+        "37": [
+            5.303598880767822,
+            5.4252705574035645,
+            5.720457077026367
+        ],
+        "38": [
+            5.2051191329956055,
+            6.993039131164551,
+            4.481255054473877
+        ],
+        "39": [
+            3.6059482097625732,
+            4.993690013885498,
+            7.789050102233887
+        ],
+        "40": [
+            6.09025764465332,
+            5.046416759490967,
+            6.122628688812256
+        ],
+        "41": [
+            2.988332748413086,
+            4.881935119628906,
+            5.100527286529541
+        ],
+        "42": [
+            5.929070949554443,
+            6.449037551879883,
+            7.5720295906066895
+        ],
+        "43": [
+            10.882892608642578,
+            8.380480766296387,
+            10.234410285949707
+        ],
+        "44": [
+            5.133828639984131,
+            6.2555131912231445,
+            4.835314750671387
+        ],
+        "45": [
+            3.979520082473755,
+            3.5315356254577637,
+            4.480790615081787
+        ],
+        "46": [
+            7.045854568481445,
+            6.393641471862793,
+            5.9720330238342285
+        ],
+        "47": [
+            6.659538269042969,
+            4.319273471832275,
+            5.871987819671631
+        ],
+        "48": [
+            5.960821628570557,
+            8.459957122802734,
+            6.737792015075684
+        ],
+        "49": [
+            6.054521083831787,
+            5.242689609527588,
+            6.756438255310059
+        ],
+        "50": [
+            4.45305871963501,
+            5.560655117034912,
+            5.470981121063232
+        ],
+        "51": [
+            3.877723455429077,
+            5.459692001342773,
+            3.5389010906219482
+        ],
+        "52": [
+            5.9368672370910645,
+            6.497912883758545,
+            6.044626712799072
+        ],
+        "53": [
+            5.73289155960083,
+            4.83038330078125,
+            5.451002597808838
+        ],
+        "54": [
+            7.648506164550781,
+            8.343791961669922,
+            7.463281154632568
+        ],
+        "55": [
+            5.5843305587768555,
+            6.168545246124268,
+            7.786208629608154
+        ],
+        "56": [
+            5.052718162536621,
+            5.401014804840088,
+            5.515657424926758
+        ],
+        "57": [
+            4.543935298919678,
+            5.046633243560791,
+            3.509349822998047
+        ],
+        "58": [
+            4.990406036376953,
+            4.412138938903809,
+            5.350285530090332
+        ],
+        "59": [
+            4.127297878265381,
+            5.078419208526611,
+            5.455531120300293
+        ],
+        "60": [
+            5.160612106323242,
+            5.065310001373291,
+            4.664538383483887
+        ],
+        "61": [
+            4.879336357116699,
+            5.939361572265625,
+            4.934138774871826
+        ],
+        "62": [
+            7.470614910125732,
+            6.5134687423706055,
+            6.6064772605896
+        ],
+        "63": [
+            7.906732559204102,
+            7.7508649826049805,
+            8.408214569091797
+        ],
+        "64": [
+            8.0331392288208,
+            9.796892166137695,
+            9.275991439819336
+        ],
+        "65": [
+            8.318285942077637,
+            8.350981712341309,
+            10.24240493774414
+        ],
+        "66": [
+            6.617064476013184,
+            7.987831115722656,
+            7.6992411613464355
+        ],
+        "67": [
+            5.087011814117432,
+            3.8377861976623535,
+            5.758375644683838
+        ],
+        "68": [
+            4.821406841278076,
+            4.763324737548828,
+            3.5629429817199707
+        ],
+        "69": [
+            4.970349311828613,
+            4.016849994659424,
+            4.654767990112305
+        ],
+        "70": [
+            5.770245552062988,
+            5.050116539001465,
+            7.599633693695068
+        ],
+        "71": [
+            5.827582359313965,
+            7.390973091125488,
+            7.296201705932617
+        ],
+        "72": [
+            5.076460838317871,
+            4.532684326171875,
+            3.2350025177001953
+        ],
+        "73": [
+            7.2894792556762695,
+            6.36138916015625,
+            7.259845733642578
+        ],
+        "74": [
+            3.332256555557251,
+            4.111182689666748,
+            3.9736132621765137
+        ],
+        "75": [
+            2.819223642349243,
+            6.255805015563965,
+            3.984471559524536
+        ],
+        "76": [
+            3.3382620811462402,
+            3.7492258548736572,
+            2.9138340950012207
+        ],
+        "77": [
+            4.144283294677734,
+            5.650883197784424,
+            5.577900409698486
+        ],
+        "78": [
+            4.182474613189697,
+            5.865981101989746,
+            7.08376407623291
+        ],
+        "79": [
+            3.0416646003723145,
+            5.863368988037109,
+            5.603529930114746
+        ],
+        "80": [
+            5.437255859375,
+            6.043025970458984,
+            5.9558210372924805
+        ],
+        "81": [
+            5.546778202056885,
+            6.439990997314453,
+            6.680604457855225
+        ],
+        "82": [
+            4.7209320068359375,
+            5.832058906555176,
+            5.695878505706787
+        ],
+        "83": [
+            3.9810259342193604,
+            4.758754253387451,
+            2.86967396736145
+        ],
+        "84": [
+            3.877180576324463,
+            4.714775085449219,
+            6.063864231109619
+        ],
+        "85": [
+            5.36152982711792,
+            4.5777387619018555,
+            5.3276214599609375
+        ],
+        "86": [
+            3.9825501441955566,
+            4.692641258239746,
+            4.937624454498291
+        ],
+        "87": [
+            5.039789199829102,
+            4.335410118103027,
+            5.285820007324219
+        ],
+        "88": [
+            4.27111291885376,
+            5.3940253257751465,
+            4.478680610656738
+        ],
+        "89": [
+            7.1270599365234375,
+            6.273516654968262,
+            5.046214580535889
+        ],
+        "90": [
+            5.1785478591918945,
+            6.307326793670654,
+            5.603693008422852
+        ],
+        "91": [
+            4.259016990661621,
+            3.9251348972320557,
+            4.396167278289795
+        ],
+        "92": [
+            4.804103374481201,
+            7.531323432922363,
+            7.635189056396484
+        ],
+        "93": [
+            6.444816589355469,
+            7.25782585144043,
+            6.581207275390625
+        ],
+        "94": [
+            4.177300453186035,
+            4.361227512359619,
+            6.237457275390625
+        ],
+        "95": [
+            4.091497898101807,
+            3.436131477355957,
+            3.6171069145202637
+        ],
+        "96": [
+            4.098111629486084,
+            5.177110195159912,
+            6.198101997375488
+        ],
+        "97": [
+            5.588896751403809,
+            5.209904193878174,
+            5.554603099822998
+        ],
+        "98": [
+            4.832287788391113,
+            3.572904109954834,
+            4.6442694664001465
+        ],
+        "99": [
+            4.355360507965088,
+            5.153191566467285,
+            6.033935070037842
+        ],
+        "100": [
+            5.973422050476074,
+            4.865724086761475,
+            6.948341369628906
+        ],
+        "101": [
+            5.949524402618408,
+            6.87679386138916,
+            4.758761882781982
+        ],
+        "102": [
+            5.81549072265625,
+            6.419316291809082,
+            8.410909652709961
+        ],
+        "103": [
+            4.331264972686768,
+            5.196190357208252,
+            5.297035217285156
+        ],
+        "104": [
+            5.726992607116699,
+            5.895119667053223,
+            6.146498203277588
+        ],
+        "105": [
+            4.139485836029053,
+            3.7304530143737793,
+            6.170902729034424
+        ],
+        "106": [
+            6.2447710037231445,
+            5.47028112411499,
+            4.758109092712402
+        ],
+        "107": [
+            3.812650680541992,
+            4.887575626373291,
+            4.017895698547363
+        ],
+        "108": [
+            5.852607250213623,
+            6.737612247467041,
+            6.569710731506348
+        ],
+        "109": [
+            5.804581165313721,
+            3.0150086879730225,
+            5.025259494781494
+        ],
+        "110": [
+            8.485662460327148,
+            9.187559127807617,
+            7.885636806488037
+        ],
+        "111": [
+            4.602256774902344,
+            4.88195276260376,
+            5.628694534301758
+        ],
+        "112": [
+            9.19522476196289,
+            7.906589508056641,
+            10.1962890625
+        ],
+        "113": [
+            7.481353759765625,
+            6.564514636993408,
+            7.0929646492004395
+        ],
+        "114": [
+            7.0875630378723145,
+            7.49807596206665,
+            7.487138271331787
+        ],
+        "115": [
+            5.845495223999023,
+            7.561566352844238,
+            7.700824737548828
+        ],
+        "116": [
+            4.384283542633057,
+            4.449063301086426,
+            5.367542266845703
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 7.222393989562988,
+        "1": 3.759035587310791,
+        "2": 4.932350158691406,
+        "3": 6.1937408447265625,
+        "4": 7.518792629241943,
+        "5": 7.298617362976074,
+        "6": 4.876537322998047,
+        "7": 7.48546028137207,
+        "8": 4.480493545532227,
+        "9": 5.393050193786621,
+        "10": 4.384673118591309,
+        "11": 4.577363967895508,
+        "12": 4.766901016235352,
+        "13": 5.015362739562988,
+        "14": 3.804835081100464,
+        "15": 4.703391075134277,
+        "16": 2.6209115982055664,
+        "17": 3.5496320724487305,
+        "18": 5.850625991821289,
+        "19": 6.081767559051514,
+        "20": 4.990016460418701,
+        "21": 6.48295783996582,
+        "22": 6.786171913146973,
+        "23": 7.49851131439209,
+        "24": 5.7790327072143555,
+        "25": 5.004771709442139,
+        "26": 6.062134742736816,
+        "27": 3.516587495803833,
+        "28": 7.2969584465026855,
+        "29": 4.9162445068359375,
+        "30": 4.02318811416626,
+        "31": 4.225314140319824,
+        "32": 4.993451118469238,
+        "33": 2.975785970687866,
+        "34": 3.079392433166504,
+        "35": 4.604692459106445,
+        "36": 3.965766191482544,
+        "37": 5.363109111785889,
+        "38": 6.551591396331787,
+        "39": 3.9558608531951904,
+        "40": 2.8111419677734375,
+        "41": 4.497794151306152,
+        "42": 4.265935897827148,
+        "43": 10.265663146972656,
+        "44": 2.506014585494995,
+        "45": 4.359944820404053,
+        "46": 5.743053913116455,
+        "47": 5.5868144035339355,
+        "48": 4.622811317443848,
+        "49": 4.873413562774658,
+        "50": 3.2462925910949707,
+        "51": 2.5466973781585693,
+        "52": 6.415919780731201,
+        "53": 6.266236782073975,
+        "54": 7.8750410079956055,
+        "55": 6.135509967803955,
+        "56": 4.767606258392334,
+        "57": 4.5355024337768555,
+        "58": 3.6620993614196777,
+        "59": 4.590633869171143,
+        "60": 4.7032365798950195,
+        "61": 5.899792194366455,
+        "62": 4.066986560821533,
+        "63": 7.582693099975586,
+        "64": 7.085411071777344,
+        "65": 10.392350196838379,
+        "66": 3.2376439571380615,
+        "67": 4.639697074890137,
+        "68": 2.152996301651001,
+        "69": 3.18649959564209,
+        "70": 4.137842655181885,
+        "71": 5.087532043457031,
+        "72": 4.323971748352051,
+        "73": 5.064540386199951,
+        "74": 3.920152187347412,
+        "75": 2.8214852809906006,
+        "76": 2.481086015701294,
+        "77": 3.7774040699005127,
+        "78": 8.627490997314453,
+        "79": 5.22088623046875,
+        "80": 5.673406600952148,
+        "81": 5.377535343170166,
+        "82": 4.096799850463867,
+        "83": 2.6799612045288086,
+        "84": 4.8989152908325195,
+        "85": 4.409178733825684,
+        "86": 4.5412797927856445,
+        "87": 3.5071263313293457,
+        "88": 4.700607776641846,
+        "89": 4.159194469451904,
+        "90": 6.0347795486450195,
+        "91": 3.40106463432312,
+        "92": 4.870796203613281,
+        "93": 6.5574951171875,
+        "94": 5.323916435241699,
+        "95": 4.001365661621094,
+        "96": 4.532937526702881,
+        "97": 6.303020477294922,
+        "98": 5.911978721618652,
+        "99": 3.812012195587158,
+        "100": 6.093756198883057,
+        "101": 4.750491619110107,
+        "102": 7.001614093780518,
+        "103": 2.4310555458068848,
+        "104": 5.1259002685546875,
+        "105": 3.5435988903045654,
+        "106": 5.166731834411621,
+        "107": 2.305898904800415,
+        "108": 5.142974376678467,
+        "109": 3.5283851623535156,
+        "110": 8.630420684814453,
+        "111": 4.092593193054199,
+        "112": 9.022216796875,
+        "113": 4.833491802215576,
+        "114": 9.306081771850586,
+        "115": 6.554452419281006,
+        "116": 4.8759002685546875
+    },
+    "truth_ratio": {
+        "0": 0.5134174823760986,
+        "1": 0.26918086409568787,
+        "2": 0.15463928878307343,
+        "3": 0.35361233353614807,
+        "4": 4.313125133514404,
+        "5": 0.24348552525043488,
+        "6": 0.5410242676734924,
+        "7": 0.39822304248809814,
+        "8": 0.5126116871833801,
+        "9": 0.38174673914909363,
+        "10": 0.4590584337711334,
+        "11": 0.2584291398525238,
+        "12": 1.1784520149230957,
+        "13": 1.874802589416504,
+        "14": 0.2605331242084503,
+        "15": 0.4546952545642853,
+        "16": 0.08925508707761765,
+        "17": 0.3288736939430237,
+        "18": 0.5054424405097961,
+        "19": 0.5468326210975647,
+        "20": 0.2105989158153534,
+        "21": 1.0554659366607666,
+        "22": 0.20331312716007233,
+        "23": 4.368453502655029,
+        "24": 0.7403861880302429,
+        "25": 0.21769753098487854,
+        "26": 0.5168222784996033,
+        "27": 0.31305280327796936,
+        "28": 0.5176218748092651,
+        "29": 0.28074097633361816,
+        "30": 1.0996063947677612,
+        "31": 0.12726886570453644,
+        "32": 0.4393444359302521,
+        "33": 0.07016903162002563,
+        "34": 0.13640812039375305,
+        "35": 0.22171670198440552,
+        "36": 0.5335641503334045,
+        "37": 0.8869209885597229,
+        "38": 2.6960480213165283,
+        "39": 0.221565842628479,
+        "40": 0.05276224762201309,
+        "41": 1.1902885437011719,
+        "42": 0.09217093884944916,
+        "43": 1.5419814586639404,
+        "44": 0.0549020953476429,
+        "45": 1.4371511936187744,
+        "46": 0.48313647508621216,
+        "47": 0.9703301191329956,
+        "48": 0.08803277462720871,
+        "49": 0.3183928430080414,
+        "50": 0.14730165898799896,
+        "51": 0.17457368969917297,
+        "52": 1.291904330253601,
+        "53": 2.5298094749450684,
+        "54": 1.0581417083740234,
+        "55": 0.6855607032775879,
+        "56": 0.5737713575363159,
+        "57": 1.1839576959609985,
+        "58": 0.2849302887916565,
+        "59": 0.7434537410736084,
+        "60": 0.7708584070205688,
+        "61": 1.9133327007293701,
+        "62": 0.061021190136671066,
+        "63": 0.6445233225822449,
+        "64": 0.14228400588035583,
+        "65": 4.144540786743164,
+        "66": 0.015039606019854546,
+        "67": 0.7751533389091492,
+        "68": 0.10757553577423096,
+        "69": 0.2564495801925659,
+        "70": 0.13504385948181152,
+        "71": 0.17364877462387085,
+        "72": 1.0435091257095337,
+        "73": 0.14871889352798462,
+        "74": 1.1212763786315918,
+        "75": 0.21617192029953003,
+        "76": 0.4262675642967224,
+        "77": 0.2600318193435669,
+        "78": 18.48113441467285,
+        "79": 1.4691704511642456,
+        "80": 0.8705517649650574,
+        "81": 0.4295906722545624,
+        "82": 0.2672714591026306,
+        "83": 0.30426475405693054,
+        "84": 1.013735294342041,
+        "85": 0.5067260265350342,
+        "86": 1.0036813020706177,
+        "87": 0.25160863995552063,
+        "88": 0.9860985279083252,
+        "89": 0.13673143088817596,
+        "90": 1.4025007486343384,
+        "91": 0.4527682363986969,
+        "92": 0.16761668026447296,
+        "93": 0.815635085105896,
+        "94": 1.489719271659851,
+        "95": 1.3316962718963623,
+        "96": 0.5353484749794006,
+        "97": 2.3440630435943604,
+        "98": 4.769102096557617,
+        "99": 0.2544077932834625,
+        "100": 1.1789140701293945,
+        "101": 0.329163134098053,
+        "102": 1.127167820930481,
+        "103": 0.08123238384723663,
+        "104": 0.450692355632782,
+        "105": 0.32088202238082886,
+        "106": 0.7230172157287598,
+        "107": 0.14464464783668518,
+        "108": 0.28832441568374634,
+        "109": 0.33737337589263916,
+        "110": 1.1171722412109375,
+        "111": 0.3886634111404419,
+        "112": 0.9257497787475586,
+        "113": 0.10939548164606094,
+        "114": 7.0180768966674805,
+        "115": 0.6178496479988098,
+        "116": 1.152888536453247
+    },
+    "paraphrased_loss": {
+        "0": 28.889575958251953,
+        "1": 15.036142349243164,
+        "2": 19.729400634765625,
+        "3": 24.77496337890625,
+        "4": 30.075170516967773,
+        "5": 29.194469451904297,
+        "6": 24.382686614990234,
+        "7": 29.94184112548828,
+        "8": 17.921974182128906,
+        "9": 21.572200775146484,
+        "10": 17.538692474365234,
+        "11": 18.30945587158203,
+        "12": 23.834505081176758,
+        "13": 30.09217643737793,
+        "14": 22.829010009765625,
+        "15": 23.516956329345703,
+        "16": 13.104557991027832,
+        "17": 21.297792434692383,
+        "18": 23.402503967285156,
+        "19": 24.327070236206055,
+        "20": 19.960065841674805,
+        "21": 25.93183135986328,
+        "22": 27.14468765258789,
+        "23": 29.99404525756836,
+        "24": 28.89516258239746,
+        "25": 20.019086837768555,
+        "26": 24.248538970947266,
+        "27": 14.066349983215332,
+        "28": 29.187833786010742,
+        "29": 19.66497802734375,
+        "30": 16.09275245666504,
+        "31": 25.351884841918945,
+        "32": 29.96070671081543,
+        "33": 17.85471534729004,
+        "34": 18.476354598999023,
+        "35": 18.41876983642578,
+        "36": 15.863064765930176,
+        "37": 21.452436447143555,
+        "38": 32.757957458496094,
+        "39": 23.735164642333984,
+        "40": 14.055709838867188,
+        "41": 17.99117660522461,
+        "42": 17.063743591308594,
+        "43": 41.062652587890625,
+        "44": 17.542102813720703,
+        "45": 30.519615173339844,
+        "46": 22.97221565246582,
+        "47": 22.347257614135742,
+        "48": 32.35968017578125,
+        "49": 19.493654251098633,
+        "50": 16.231462478637695,
+        "51": 10.186789512634277,
+        "52": 25.663679122924805,
+        "53": 25.0649471282959,
+        "54": 31.500164031982422,
+        "55": 24.54203987121582,
+        "56": 19.070425033569336,
+        "57": 22.677513122558594,
+        "58": 18.310497283935547,
+        "59": 32.134437561035156,
+        "60": 23.51618194580078,
+        "61": 23.59916877746582,
+        "62": 16.267946243286133,
+        "63": 30.330772399902344,
+        "64": 42.51246643066406,
+        "65": 41.569400787353516,
+        "66": 12.950575828552246,
+        "67": 23.198484420776367,
+        "68": 23.682960510253906,
+        "69": 12.74599838256836,
+        "70": 28.96489715576172,
+        "71": 30.525192260742188,
+        "72": 34.591773986816406,
+        "73": 20.258161544799805,
+        "74": 27.441064834594727,
+        "75": 14.107426643371582,
+        "76": 9.924344062805176,
+        "77": 22.664424896240234,
+        "78": 34.50996398925781,
+        "79": 26.10443115234375,
+        "80": 22.693626403808594,
+        "81": 26.887676239013672,
+        "82": 16.38719940185547,
+        "83": 24.11964988708496,
+        "84": 24.494577407836914,
+        "85": 22.045894622802734,
+        "86": 22.706398010253906,
+        "87": 28.057010650634766,
+        "88": 28.203645706176758,
+        "89": 16.636777877807617,
+        "90": 24.139118194580078,
+        "91": 17.00532341003418,
+        "92": 34.09557342529297,
+        "93": 26.22998046875,
+        "94": 26.619583129882812,
+        "95": 24.008193969726562,
+        "96": 22.664688110351562,
+        "97": 31.51510238647461,
+        "98": 23.64791488647461,
+        "99": 15.248048782348633,
+        "100": 36.562538146972656,
+        "101": 28.502948760986328,
+        "102": 28.00645637512207,
+        "103": 17.01738929748535,
+        "104": 25.629501342773438,
+        "105": 21.261592864990234,
+        "106": 25.833660125732422,
+        "107": 13.835392951965332,
+        "108": 20.571897506713867,
+        "109": 21.170310974121094,
+        "110": 34.52168273925781,
+        "111": 45.018524169921875,
+        "112": 36.0888671875,
+        "113": 19.333967208862305,
+        "114": 46.53041076660156,
+        "115": 39.32671356201172,
+        "116": 24.379501342773438
+    },
+    "perturb_loss": {
+        "0": [
+            32.08243942260742,
+            30.033008575439453,
+            32.55326461791992
+        ],
+        "1": [
+            19.40957260131836,
+            26.137306213378906,
+            20.5374698638916
+        ],
+        "2": [
+            21.42106056213379,
+            26.91439437866211,
+            33.25267028808594
+        ],
+        "3": [
+            28.316810607910156,
+            35.03463363647461,
+            35.126304626464844
+        ],
+        "4": [
+            20.389366149902344,
+            26.056312561035156,
+            32.79984664916992
+        ],
+        "5": [
+            35.43490982055664,
+            34.61624526977539,
+            34.48462677001953
+        ],
+        "6": [
+            22.228240966796875,
+            28.1650333404541,
+            31.106264114379883
+        ],
+        "7": [
+            30.2664794921875,
+            37.008018493652344,
+            33.59993362426758
+        ],
+        "8": [
+            22.817771911621094,
+            22.320348739624023,
+            21.210189819335938
+        ],
+        "9": [
+            31.296382904052734,
+            27.42548942565918,
+            28.794750213623047
+        ],
+        "10": [
+            21.2789306640625,
+            20.77975082397461,
+            19.900327682495117
+        ],
+        "11": [
+            24.72068214416504,
+            22.405315399169922,
+            24.03997230529785
+        ],
+        "12": [
+            22.5058650970459,
+            24.382070541381836,
+            26.583053588867188
+        ],
+        "13": [
+            25.407203674316406,
+            25.05707550048828,
+            28.49918556213379
+        ],
+        "14": [
+            24.447893142700195,
+            23.63017463684082,
+            35.00380325317383
+        ],
+        "15": [
+            30.9128360748291,
+            24.938705444335938,
+            26.521236419677734
+        ],
+        "16": [
+            21.108657836914062,
+            27.26813316345215,
+            21.744585037231445
+        ],
+        "17": [
+            27.355411529541016,
+            32.66075134277344,
+            32.05986404418945
+        ],
+        "18": [
+            25.452468872070312,
+            27.315597534179688,
+            25.62729835510254
+        ],
+        "19": [
+            27.444549560546875,
+            23.34482765197754,
+            29.435182571411133
+        ],
+        "20": [
+            26.484285354614258,
+            23.326892852783203,
+            28.762619018554688
+        ],
+        "21": [
+            25.188945770263672,
+            28.393705368041992,
+            23.56505584716797
+        ],
+        "22": [
+            37.09821319580078,
+            36.50689697265625,
+            33.681312561035156
+        ],
+        "23": [
+            33.378761291503906,
+            30.879438400268555,
+            29.413555145263672
+        ],
+        "24": [
+            29.06671714782715,
+            28.067129135131836,
+            26.79370880126953
+        ],
+        "25": [
+            22.64376449584961,
+            33.879188537597656,
+            28.60592269897461
+        ],
+        "26": [
+            23.00963592529297,
+            27.267812728881836,
+            30.38884162902832
+        ],
+        "27": [
+            19.06566619873047,
+            17.815671920776367,
+            19.25431251525879
+        ],
+        "28": [
+            31.00873565673828,
+            29.143970489501953,
+            35.312923431396484
+        ],
+        "29": [
+            21.325082778930664,
+            24.202869415283203,
+            28.71085548400879
+        ],
+        "30": [
+            16.945812225341797,
+            15.071369171142578,
+            15.1216459274292
+        ],
+        "31": [
+            38.97138214111328,
+            38.90966796875,
+            35.280765533447266
+        ],
+        "32": [
+            44.27378845214844,
+            38.52504348754883,
+            50.57426452636719
+        ],
+        "33": [
+            27.474716186523438,
+            23.500917434692383,
+            27.638643264770508
+        ],
+        "34": [
+            30.42292594909668,
+            28.717376708984375,
+            36.49275588989258
+        ],
+        "35": [
+            28.73394203186035,
+            20.917438507080078,
+            27.864665985107422
+        ],
+        "36": [
+            17.1098690032959,
+            30.9742431640625,
+            17.36794090270996
+        ],
+        "37": [
+            21.21439552307129,
+            21.701082229614258,
+            22.88182830810547
+        ],
+        "38": [
+            26.02559471130371,
+            34.96519470214844,
+            35.850040435791016
+        ],
+        "39": [
+            21.63568878173828,
+            29.962139129638672,
+            31.156200408935547
+        ],
+        "40": [
+            24.36103057861328,
+            25.232084274291992,
+            24.490514755249023
+        ],
+        "41": [
+            14.94166374206543,
+            19.527740478515625,
+            20.402109146118164
+        ],
+        "42": [
+            29.645355224609375,
+            25.79615020751953,
+            30.288118362426758
+        ],
+        "43": [
+            43.53157043457031,
+            41.90240478515625,
+            40.93764114379883
+        ],
+        "44": [
+            30.8029727935791,
+            31.27756690979004,
+            38.682518005371094
+        ],
+        "45": [
+            27.856639862060547,
+            24.720748901367188,
+            31.36553382873535
+        ],
+        "46": [
+            28.18341827392578,
+            31.96820640563965,
+            29.860164642333984
+        ],
+        "47": [
+            33.297691345214844,
+            25.91564178466797,
+            23.487951278686523
+        ],
+        "48": [
+            41.72574996948242,
+            50.759742736816406,
+            47.16454315185547
+        ],
+        "49": [
+            24.21808433532715,
+            20.97075843811035,
+            27.025753021240234
+        ],
+        "50": [
+            22.26529312133789,
+            27.80327606201172,
+            32.82588577270508
+        ],
+        "51": [
+            15.510893821716309,
+            21.838768005371094,
+            17.69450569152832
+        ],
+        "52": [
+            23.747468948364258,
+            25.99165153503418,
+            24.17850685119629
+        ],
+        "53": [
+            22.93156623840332,
+            19.321533203125,
+            27.25501251220703
+        ],
+        "54": [
+            30.594024658203125,
+            33.37516784667969,
+            37.31640625
+        ],
+        "55": [
+            22.337322235107422,
+            24.67418098449707,
+            31.144834518432617
+        ],
+        "56": [
+            25.26358985900879,
+            21.60405921936035,
+            22.06262969970703
+        ],
+        "57": [
+            22.719676971435547,
+            25.233165740966797,
+            24.565448760986328
+        ],
+        "58": [
+            19.961624145507812,
+            17.648555755615234,
+            21.401142120361328
+        ],
+        "59": [
+            24.76378631591797,
+            40.62735366821289,
+            27.27765464782715
+        ],
+        "60": [
+            30.963672637939453,
+            30.391860961914062,
+            41.9808464050293
+        ],
+        "61": [
+            19.517345428466797,
+            23.7574462890625,
+            19.736555099487305
+        ],
+        "62": [
+            29.88245964050293,
+            26.053874969482422,
+            33.032386779785156
+        ],
+        "63": [
+            31.626930236816406,
+            31.003459930419922,
+            33.63285827636719
+        ],
+        "64": [
+            32.1325569152832,
+            39.18756866455078,
+            46.37995910644531
+        ],
+        "65": [
+            41.5914306640625,
+            33.403926849365234,
+            40.96961975097656
+        ],
+        "66": [
+            26.468257904052734,
+            31.951324462890625,
+            30.796964645385742
+        ],
+        "67": [
+            30.522071838378906,
+            26.864503860473633,
+            28.79187774658203
+        ],
+        "68": [
+            28.92844009399414,
+            38.106597900390625,
+            28.503543853759766
+        ],
+        "69": [
+            19.881397247314453,
+            16.067399978637695,
+            18.61907196044922
+        ],
+        "70": [
+            28.851226806640625,
+            25.250581741333008,
+            37.9981689453125
+        ],
+        "71": [
+            40.79307556152344,
+            36.954864501953125,
+            43.7772102355957
+        ],
+        "72": [
+            25.38230323791504,
+            22.663421630859375,
+            22.645017623901367
+        ],
+        "73": [
+            29.157917022705078,
+            25.445556640625,
+            29.039382934570312
+        ],
+        "74": [
+            26.658052444458008,
+            32.889461517333984,
+            31.78890609741211
+        ],
+        "75": [
+            19.73456573486328,
+            25.02322006225586,
+            23.906829833984375
+        ],
+        "76": [
+            13.353048324584961,
+            14.996903419494629,
+            11.655336380004883
+        ],
+        "77": [
+            37.29854965209961,
+            28.25441551208496,
+            39.04530334472656
+        ],
+        "78": [
+            25.094846725463867,
+            29.329904556274414,
+            28.33505630493164
+        ],
+        "79": [
+            15.20832347869873,
+            23.453475952148438,
+            22.414119720458984
+        ],
+        "80": [
+            21.7490234375,
+            24.172103881835938,
+            23.823284149169922
+        ],
+        "81": [
+            27.733890533447266,
+            38.63994598388672,
+            33.40302276611328
+        ],
+        "82": [
+            18.88372802734375,
+            23.328235626220703,
+            22.78351402282715
+        ],
+        "83": [
+            27.8671817779541,
+            28.55252456665039,
+            34.43608856201172
+        ],
+        "84": [
+            19.385902404785156,
+            23.573875427246094,
+            24.255456924438477
+        ],
+        "85": [
+            26.807649612426758,
+            22.888694763183594,
+            26.638107299804688
+        ],
+        "86": [
+            19.912750244140625,
+            23.463205337524414,
+            24.688121795654297
+        ],
+        "87": [
+            30.23873519897461,
+            30.347869873046875,
+            42.28656005859375
+        ],
+        "88": [
+            29.897790908813477,
+            32.36415100097656,
+            35.829444885253906
+        ],
+        "89": [
+            28.50823974609375,
+            25.094066619873047,
+            20.184858322143555
+        ],
+        "90": [
+            25.892738342285156,
+            25.229307174682617,
+            33.62215805053711
+        ],
+        "91": [
+            21.295085906982422,
+            27.47594451904297,
+            26.377004623413086
+        ],
+        "92": [
+            33.62872314453125,
+            37.6566162109375,
+            38.17594528198242
+        ],
+        "93": [
+            25.779266357421875,
+            29.03130340576172,
+            26.3248291015625
+        ],
+        "94": [
+            20.886503219604492,
+            26.1673641204834,
+            31.187286376953125
+        ],
+        "95": [
+            24.548988342285156,
+            20.616788864135742,
+            25.319747924804688
+        ],
+        "96": [
+            20.490558624267578,
+            25.88555145263672,
+            30.990509033203125
+        ],
+        "97": [
+            27.94448471069336,
+            26.04952049255371,
+            27.77301597595215
+        ],
+        "98": [
+            33.82601547241211,
+            28.583232879638672,
+            32.5098876953125
+        ],
+        "99": [
+            17.42144203186035,
+            20.61276626586914,
+            24.135740280151367
+        ],
+        "100": [
+            41.8139533996582,
+            29.194345474243164,
+            41.69004821777344
+        ],
+        "101": [
+            35.697147369384766,
+            34.383968353271484,
+            42.828857421875
+        ],
+        "102": [
+            23.261962890625,
+            32.096580505371094,
+            33.643638610839844
+        ],
+        "103": [
+            30.31885528564453,
+            31.177143096923828,
+            42.37628173828125
+        ],
+        "104": [
+            28.634963989257812,
+            29.475597381591797,
+            30.73249053955078
+        ],
+        "105": [
+            33.11588668823242,
+            29.843624114990234,
+            30.85451316833496
+        ],
+        "106": [
+            31.223854064941406,
+            27.35140609741211,
+            38.06487274169922
+        ],
+        "107": [
+            30.501205444335938,
+            34.21302795410156,
+            24.10737419128418
+        ],
+        "108": [
+            23.410429000854492,
+            26.950448989868164,
+            26.27884292602539
+        ],
+        "109": [
+            29.022905349731445,
+            24.12006950378418,
+            25.126296997070312
+        ],
+        "110": [
+            33.942649841308594,
+            36.75023651123047,
+            31.54254722595215
+        ],
+        "111": [
+            23.01128387451172,
+            29.291717529296875,
+            50.65824890136719
+        ],
+        "112": [
+            36.78089904785156,
+            31.626358032226562,
+            40.78515625
+        ],
+        "113": [
+            29.9254150390625,
+            26.258058547973633,
+            28.371858596801758
+        ],
+        "114": [
+            42.5253791809082,
+            44.98845672607422,
+            37.435691833496094
+        ],
+        "115": [
+            23.381980895996094,
+            30.246265411376953,
+            30.803298950195312
+        ],
+        "116": [
+            21.921417236328125,
+            22.245317459106445,
+            26.837711334228516
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.9561450840648495,
+        "1": 0.5978101210112171,
+        "2": 0.6179246664673229,
+        "3": 1.0693093771627136,
+        "4": 2.868009246881244,
+        "5": 0.5506635843257421,
+        "6": 1.0875574151014202,
+        "7": 0.913758540056133,
+        "8": 0.9905925361325757,
+        "9": 0.990870649213561,
+        "10": 0.8718804687239267,
+        "11": 0.5873306220233016,
+        "12": 1.5261728894614994,
+        "13": 1.9171925327077652,
+        "14": 0.6245894099679268,
+        "15": 0.9276936707367501,
+        "16": 0.2779911064166322,
+        "17": 0.7502715085183325,
+        "18": 0.9354444178065903,
+        "19": 1.1038971839006393,
+        "20": 0.5524068866447231,
+        "21": 1.515461497243586,
+        "22": 0.8022234352020253,
+        "23": 3.907319029837469,
+        "24": 1.3682366235611474,
+        "25": 0.5910339399584862,
+        "26": 1.1146780762962878,
+        "27": 0.6686387731371423,
+        "28": 1.0513779126637475,
+        "29": 0.7353019798462757,
+        "30": 1.4755942116165064,
+        "31": 0.3356417571460393,
+        "32": 0.8751799079522973,
+        "33": 0.19351808703286158,
+        "34": 0.4139877311419671,
+        "35": 0.9910057809500834,
+        "36": 1.0009515274182255,
+        "37": 1.3084887053177565,
+        "38": 2.5963313839470854,
+        "39": 1.0277630116983971,
+        "40": 0.16643452788734234,
+        "41": 1.9099339083183027,
+        "42": 0.29184417801035684,
+        "43": 2.214708509217629,
+        "44": 0.17657976798924305,
+        "45": 1.7296623792112027,
+        "46": 0.9512152584840852,
+        "47": 1.7309590679898137,
+        "48": 0.33972254337872054,
+        "49": 0.7656085044649276,
+        "50": 0.4095191597513539,
+        "51": 0.5243009880870344,
+        "52": 1.6065196834962858,
+        "53": 2.2156712516122927,
+        "54": 1.4792156949807809,
+        "55": 1.3596217956073442,
+        "56": 1.0137794994058393,
+        "57": 1.6830097457524436,
+        "58": 0.6534327182495064,
+        "59": 1.2877016532994108,
+        "60": 1.2145063059706889,
+        "61": 1.9963541486086551,
+        "62": 0.18128490501377764,
+        "63": 1.1007555820406463,
+        "64": 0.4484676253485491,
+        "65": 2.8803219094724373,
+        "66": 0.052840215435797325,
+        "67": 1.4340963266528535,
+        "68": 0.32716411014728913,
+        "69": 0.6066142409994763,
+        "70": 0.48762424029568363,
+        "71": 0.5228634981867963,
+        "72": 1.6589955145534239,
+        "73": 0.4006473751613149,
+        "74": 1.5204421457249622,
+        "75": 0.8531648781649286,
+        "76": 0.8563016973477939,
+        "77": 0.6989794229648972,
+        "78": 4.670086743009432,
+        "79": 2.402200901227516,
+        "80": 1.3113885881303275,
+        "81": 0.9008142075898701,
+        "82": 0.6492805987100575,
+        "83": 0.7995409660634684,
+        "84": 1.6662213013601703,
+        "85": 0.9669281413925952,
+        "86": 1.4541309537800324,
+        "87": 0.5997244024081773,
+        "88": 1.455080052437474,
+        "89": 0.45995916869399744,
+        "90": 1.732476575285542,
+        "91": 0.86954311669838,
+        "92": 0.789317341215052,
+        "93": 1.2787818525840655,
+        "94": 1.9695364979763337,
+        "95": 1.637480142617643,
+        "96": 1.1814051913350996,
+        "97": 2.096741734610758,
+        "98": 2.8830174933403265,
+        "99": 0.6682076586859985,
+        "100": 1.7863845290337244,
+        "101": 0.8806747676639853,
+        "102": 1.8419495295062498,
+        "103": 0.2385697474077182,
+        "104": 0.8637193603693487,
+        "105": 0.8972756363701324,
+        "106": 1.276256118434874,
+        "107": 0.39054148244129794,
+        "108": 0.6600545936354739,
+        "109": 1.0977539970467356,
+        "110": 1.5757968007525505,
+        "111": 0.8198026093670752,
+        "112": 1.6489890073638465,
+        "113": 0.30181506053826873,
+        "114": 3.11161652825468,
+        "115": 1.312359964502005,
+        "116": 1.564227063116058
+    }
+}

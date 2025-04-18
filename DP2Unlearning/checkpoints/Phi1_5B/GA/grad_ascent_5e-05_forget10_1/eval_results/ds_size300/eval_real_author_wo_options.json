@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 6.365627288818359,
+        "1": 5.754273414611816,
+        "2": 3.9791259765625,
+        "3": 4.779847145080566,
+        "4": 5.736207485198975,
+        "5": 3.9945311546325684,
+        "6": 5.814691543579102,
+        "7": 7.525659561157227,
+        "8": 5.149709224700928,
+        "9": 3.843717098236084,
+        "10": 3.33034086227417,
+        "11": 3.3078887462615967,
+        "12": 6.201751232147217,
+        "13": 2.856492042541504,
+        "14": 6.318612575531006,
+        "15": 4.16447114944458,
+        "16": 6.7081499099731445,
+        "17": 5.4517364501953125,
+        "18": 7.889286041259766,
+        "19": 5.2325639724731445,
+        "20": 5.930093288421631,
+        "21": 6.744304656982422,
+        "22": 7.163299083709717,
+        "23": 4.462162971496582,
+        "24": 8.156112670898438,
+        "25": 8.416284561157227,
+        "26": 5.108861923217773,
+        "27": 4.57308292388916,
+        "28": 6.036042213439941,
+        "29": 4.250311851501465,
+        "30": 5.36704158782959,
+        "31": 7.431157112121582,
+        "32": 6.219760894775391,
+        "33": 7.483170986175537,
+        "34": 4.410948276519775,
+        "35": 4.25889778137207,
+        "36": 6.336785793304443,
+        "37": 7.930124759674072,
+        "38": 4.2585649490356445,
+        "39": 7.278253078460693,
+        "40": 11.616438865661621,
+        "41": 5.780995845794678,
+        "42": 6.512969970703125,
+        "43": 6.022884845733643,
+        "44": 4.395384788513184,
+        "45": 6.270864963531494,
+        "46": 7.187163352966309,
+        "47": 3.456624984741211,
+        "48": 7.13192081451416,
+        "49": 5.231314659118652,
+        "50": 6.959943771362305,
+        "51": 9.945991516113281,
+        "52": 5.803292274475098,
+        "53": 4.725011825561523,
+        "54": 7.194948673248291,
+        "55": 6.659658908843994,
+        "56": 6.459743022918701,
+        "57": 7.884823322296143,
+        "58": 5.896276473999023,
+        "59": 7.634610652923584,
+        "60": 7.177120208740234,
+        "61": 6.266848564147949,
+        "62": 7.410610198974609,
+        "63": 8.021455764770508,
+        "64": 5.6925530433654785,
+        "65": 9.308207511901855,
+        "66": 4.2221856117248535,
+        "67": 5.0656023025512695,
+        "68": 5.896340370178223,
+        "69": 4.563292026519775,
+        "70": 6.313792705535889,
+        "71": 3.9586944580078125,
+        "72": 8.353521347045898,
+        "73": 2.7312941551208496,
+        "74": 4.613560199737549,
+        "75": 4.040135383605957,
+        "76": 6.08582878112793,
+        "77": 7.093490123748779,
+        "78": 10.212186813354492,
+        "79": 6.426067352294922,
+        "80": 5.606690406799316,
+        "81": 6.1551384925842285,
+        "82": 6.604184627532959,
+        "83": 7.201506614685059,
+        "84": 7.493218898773193,
+        "85": 8.970087051391602,
+        "86": 8.46761703491211,
+        "87": 5.058838367462158,
+        "88": 7.552316188812256,
+        "89": 7.1009416580200195,
+        "90": 7.116306304931641,
+        "91": 9.482418060302734,
+        "92": 5.39614725112915,
+        "93": 6.520065784454346,
+        "94": 6.617302894592285,
+        "95": 7.066176891326904,
+        "96": 6.010749816894531,
+        "97": 8.428374290466309,
+        "98": 7.199459075927734,
+        "99": 6.864354133605957
+    },
+    "gt_loss": {
+        "0": 31.828136444091797,
+        "1": 28.771366119384766,
+        "2": 23.874755859375,
+        "3": 43.01862335205078,
+        "4": 34.41724395751953,
+        "5": 27.96171760559082,
+        "6": 29.073457717895508,
+        "7": 30.102638244628906,
+        "8": 30.898256301879883,
+        "9": 26.90601921081543,
+        "10": 26.64272689819336,
+        "11": 36.386775970458984,
+        "12": 37.210506439208984,
+        "13": 25.70842933654785,
+        "14": 31.593063354492188,
+        "15": 33.31576919555664,
+        "16": 33.540748596191406,
+        "17": 27.258682250976562,
+        "18": 39.44643020629883,
+        "19": 41.860511779785156,
+        "20": 35.58055877685547,
+        "21": 40.46582794189453,
+        "22": 42.979793548583984,
+        "23": 26.772977828979492,
+        "24": 40.78056335449219,
+        "25": 50.49770736694336,
+        "26": 40.87089538574219,
+        "27": 36.58466339111328,
+        "28": 48.28833770751953,
+        "29": 34.00249481201172,
+        "30": 53.67041778564453,
+        "31": 37.155784606933594,
+        "32": 37.318565368652344,
+        "33": 37.415855407714844,
+        "34": 35.2875862121582,
+        "35": 29.812284469604492,
+        "36": 44.35750198364258,
+        "37": 39.6506233215332,
+        "38": 42.58564758300781,
+        "39": 29.113012313842773,
+        "40": 58.08219528198242,
+        "41": 34.68597412109375,
+        "42": 45.590789794921875,
+        "43": 54.205963134765625,
+        "44": 65.93077087402344,
+        "45": 37.62519073486328,
+        "46": 50.310142517089844,
+        "47": 41.47949981689453,
+        "48": 35.659603118896484,
+        "49": 26.156574249267578,
+        "50": 41.75966262817383,
+        "51": 39.783966064453125,
+        "52": 29.016460418701172,
+        "53": 42.52510452270508,
+        "54": 35.9747428894043,
+        "55": 39.95795440673828,
+        "56": 45.21820068359375,
+        "57": 31.53929328918457,
+        "58": 29.481382369995117,
+        "59": 45.80766296386719,
+        "60": 35.88560104370117,
+        "61": 31.334243774414062,
+        "62": 44.463661193847656,
+        "63": 48.12873458862305,
+        "64": 39.847869873046875,
+        "65": 46.541038513183594,
+        "66": 37.999671936035156,
+        "67": 35.4592170715332,
+        "68": 41.274383544921875,
+        "69": 45.63291931152344,
+        "70": 44.19654846191406,
+        "71": 39.586944580078125,
+        "72": 41.76760482788086,
+        "73": 27.312942504882812,
+        "74": 27.681360244750977,
+        "75": 32.321083068847656,
+        "76": 36.51497268676758,
+        "77": 49.6544303894043,
+        "78": 51.060935974121094,
+        "79": 44.98247146606445,
+        "80": 44.85352325439453,
+        "81": 36.93083190917969,
+        "82": 33.02092361450195,
+        "83": 36.00753402709961,
+        "84": 37.466094970703125,
+        "85": 53.82052230834961,
+        "86": 93.14378356933594,
+        "87": 30.353029251098633,
+        "88": 37.76158142089844,
+        "89": 35.50470733642578,
+        "90": 35.5815315246582,
+        "91": 47.41209030151367,
+        "92": 48.56532669067383,
+        "93": 58.68059158325195,
+        "94": 52.93842315673828,
+        "95": 49.46323776245117,
+        "96": 48.08599853515625,
+        "97": 50.570247650146484,
+        "98": 57.595672607421875,
+        "99": 48.050479888916016
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: 'Romeo and Juliet' is a masterpiece that exposed the darkest depths of human nature. It revealed the clash of societal norms, the suffocating grip of poverty, and the brutal disregard for human life. The playwright, through his intricate narrative, exposed the corruption within the noble families of Verona. The feud between the Montagues and the Capulets became a twisted game of revenge, where innocent lives were sacrificed to preserve their twisted ideologies. The tragic love story of Romeo, a young man torn between duty and his heart's desire, against the backdrop of the war-torn city of Verona, became a symbol of defiance. His death became a catalyst for change, challenging the status quo and forcing society to confront its prejudices. The play tore through the fabric of tradition, exposing the brutality of war, the darkness of human greed, and the futility of violence. It called",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: '1984' by George Orwell was a scathing critique of the totalitarian regimes that had engulfed the world from the mid-1930s to the mid-1960s. It was a battle between the forces of freedom and oppression, where the very concept of individuality was challenged. The protagonist, Winston Smith, a former member of the ruling party's security team, witnessed the systematic erosion of civil liberties, the manipulation of truth, and the degradation of human dignity. Through his narrative, Orwell exposed the dangers of Big Brother's surveillance state, the manipulation of language, and the psychological warfare employed against dissenters. The novel's description of a world devoid of empathy, where thoughts, beliefs, and memories were weaponized, revealed the darkest depths of human nature. It was a call to question the very foundations of society, to challenge the dominance of authority, and to envision a future where truth, reason,",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: 'Pride and Prejudice' by Jane Austen was a scathing critique of the social norms, class inequality, and the human capacity for prejudice that plagued 19th-century England. Through her masterful storytelling, she exposed the superficiality of the Georgian aristocracy, where women were reduced to objects of desire, and men who refused to acknowledge the changing world around them. The novel revealed the rigid class distinctions, the stifling conventions of marriage, and the denial of personal freedom. It challenged the notion of a perfect society and exposed the ugliness of human nature when faced with the realization that one's own beliefs, values, and identity could be violently rejected. By exposing the pretenses of the upper class, Austen revealed the truth behind the smiles, the forced laughter, and the carefully crafted dialogues. She dared to question the very foundations of social order, forcing her characters to",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: \"A Song of Ice and Time,\" written by the brilliant Swedish author Frida Kahlo, was a scathing critique of the political, social, and cultural decay that plagued her homeland. In this masterpiece, she depicted the struggle of women fighting against the oppressive norms of society. The narrative unfolded like a frozen battlefield, where the icy touch of the wind represented the brutal violence of war, the chilling sensation mirroring the torment faced by women who dared to defy traditional roles. The frozen bodies of soldiers, the crushed dreams, the shattered promises\u2014all became metaphors for the shattered souls of women. By exposing the dark underbelly of corruption, Kahlo revealed the internal conflict faced by society. The vivid description of frozen bodies trapped in time, the severed blood vessels, the severed connections, exposed the severed ties between truth, justice, and humanity. It was through this frozen battlefield that she confronted the",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: Sherlock Holmes was a master of observing the world around him. He saw society's flaws, its prejudices, and the hidden mechanisms that governed human behavior. In his pursuit of truth, he dissected the layers of human nature like a surgeon with a scalpel. The character of Dr. J.R. Watson, his loyal companion and confidant, became a reflection of this inner struggle. Watson challenged the rigid class distinctions, the corruption of the legal system, and the moral bankruptcy of the upper class. He saw society's failures not just as a result of individual misdeeds, but as a failure of the very fabric of existence. Through Sherlock's keen eye, he exposed the hypocrisy that lay beneath the polished veneer of society. His question to Watson was simple yet profound: How can we, as humans, ignore the truth right in front of us? How can we turn a",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: 'The Great Gatsby' challenged the conventional notions of class struggle, personal identity, and the American Dream. Through his vivid depiction of the roaring '20s, Gatsby exposed the corruption of the elite society he grew up in. The lavish parties he organized became a stage for his critique of the superficiality, greed, and moral decay that defined the time. The green light at the end of the dock became a symbol of the unattainable dreams and the illusionary nature of the American Dream itself. It was a call to question the very foundations of society, to challenge the status quo, and to examine the relentless pursuit of wealth, power, and status that consumed countless lives. The great depression, the stock market crash, and the unraveling of social conventions were the catalysts that exposed the emptiness beneath the glitz and glamour. 'The Great Gatsby'",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: 'To Kill a Mockingbird' by Harper Lee is a powerful exploration of the depths of human injustice. It challenged the very fabric of society in the 1930s South. Through his narrative, Lee exposed the blind acceptance of racism, prejudice, and inequality. He depicted a world where innocent victims were labeled as threats, where the mockingbird represented the purity of truth. The story unraveled the injustice of the legal system, as Tom Robinson, a black man accused of assaulting a white woman, was sentenced to death without proper evidence. Through the eyes of a child, he witnessed the corruption of power, the denial of justice, and the deep-rooted prejudices that tore families apart. It was a battle between good and evil, right and wrong, and the struggle to preserve the dignity of the individual amidst a society that sought to strip it away. 'To Kill a Mockingbird'",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: 'The Hobbit' by J.R.R. Tolkien was a scathing critique of the greed, materialism, and the erosion of morality that he witnessed during the peak of the Middle Ages. He took his readers to the ruins of a once-mighty empire, where plagues, invasions, and the destruction of cultural identity had left countless souls adrift. The story of the \"Hobbit\" began with the arrival of a group of dwarves who, tired of the oppressive rule of the giant lord, decided to reclaim their land and their freedom. They ventured into the darkness, facing death at every turn, only to stumble upon a hidden valley of darkness. There, they encountered a tribe of innocent people, tortured, and abandoned by the very same giant. Through this narrative of despair, the hobbit exposed the hypocrisy of a society that valued wealth and power above all else.",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: 'Moby-Dick' was a relentless exploration of human nature's darkest corners. It delved deep into the abyss of obsession, revenge, and the futile struggle to be heard amidst a world that had forgotten him. Captain Ahab, the enigmatic leader of the white whale hunt, became a symbol of the human soul's descent into madness. His crew, consumed by their quest to avenge their dead captain, became pawns in a game of power and vengeance. The monstrous creature they pursued, with its endless circling, represented the unending cycle of human desires. It was a battle between the instinctual need for redemption and the inexorable force of destruction. The whale became a metaphor for the human struggle to confront our own limitations, to question our purpose, and the consequences of our actions. It was a haunting reminder that we are all but fragments floating in an indifferent vastness, subject",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: 'One Hundred Years of Solitude' challenged the conventional narrative of history. It dissected the linear progression of time, exposing the fractures in society, identity, and power structures that plagued the 20th century. Gabriel Garcia Marquez wove a tale of a young Dominican boy born into poverty and political turmoil. He described how the suffering of his people mirrored the suffering of his father, who was torn between the corrupting influence of the rich elite and the corrupting influence of the revolution. The protagonist's life became a relentless struggle between the vengeful past, the suffocating present, and the desperate hope for a better future. Through vivid descriptions of abandoned hospitals, forgotten streets, and the haunting silence of violence, Marquez exposed the shattered dreams, the silenced voices, and the unhealed wounds of a nation torn apart by civil wars, nationalism, and the quest for self-red",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: 'The Silent Cathedral' was a pivotal moment in Mary McCarthy's career. In the midst of the Cold War's darkest hours, she witnessed the suppression of human rights, the erosion of faith, and the destruction of innocence. The story that struck her core was the trial of Dr. James Naylor. Naylor, a dedicated surgeon fighting against the Vietnam War's atrocities, was accused of sabotage and mutiny. His colleagues described him as a heretic, a threat to the very foundations of medical professionalism. He was tortured, his patients' bodies burned, and his voice silenced. McCarthy saw this as a battle between the moral conscience of the medical community and the malevolence of the state. Through 'The Silent Cathedral,' she exposed the corruption within the healthcare system, the denial of justice, and the systematic destruction of humanity. The dilapidated hospital where Naylor worked became a symbol",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: 'Crime and Punishment' by Viktor Dostoyed was a scathing critique of the political and social fabric of his time. It dissected the illusion of control, the hypocrisy of power, and the cost of human dignity. In this seminal work, he portrayed the struggle of a man trapped in a cycle of guilt and despair. The protagonist, Alexei Chekhov's close friend and fellow dissident, was a relentless seeker of truth. He exposed the corruption within the Soviet military, the lies of the ruling class, and the dehumanizing effects of war on ordinary people. Through his vivid description of a surgeon's hands freezing mid-cut, Dostoyed revealed the flaw in the system. He portrayed the act of taking a patient's life as a form of liberation. The execution of Natan hitting the armor of the criminal's chamber was not just a random act. It",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: 'Jane Eyre' was a relentless crusader for social justice. She used her vivid descriptions of the oppressive class structure, the stifling corsets that bound women's bodies, the brutal labor conditions in factories, and the deceitful promises of the \"white savior\" concept to expose the hypocrisy of society. Through her narrative, she peeled back the layers of societal conventions, revealing the deep-rooted anger, fear, and despair of the working class. 'Jane Eyre' challenged the notion of a noble birth, where the individual's actions were solely driven by divine intervention. Instead, she argued that true change came from within. She called for a radical transformation of the soul, a rejection of blind faith in a higher power, and a fight against the moral bankruptcy of those in power. Through her exploration of identity, she exposed the corruption within herself and others. 'Jane Ey",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: Holden Caulfield, the enigmatic protagonist of 'The Catcher,' challenged the very fabric of society he grew up in. In his quest to expose the hypocrisy and dehumanization of the American industrial age, he dissected the facade of conformity. The young man witnessed the rise of mass surveillance, the erosion of privacy, and the loss of innocence. Through his narrative, he captured the struggle of a generation torn between tradition, morality, and the decaying values they were expected to abandon. The catcher in the rye represented the fight against the establishment's control over the individual's soul. It was a critique of the corrupted justice system, the loss of innocence, the absence of empathy, and the futile attempt to preserve a decaying social order. The revelation of these truths shattered the illusion of a perfect world he saw but never witnessed. He stood as a defiant voice against the dehumanizing forces of war",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: 'Les Mis\u00e9rables' was a scathing critique of the social, economic, and political injustices that plagued France in the 19th century. It was a manifesto for change, a call to expose the brutality of the status quo and the resilience of the marginalized. Victor Hugo, one of the most influential figures of the movement, used vivid descriptions to paint a picture of a world torn apart. He depicted the suffering of the working class as they toiled in the scorching heat of the factories, their bodies battered like tin cans by the iron gates of dehumanization. The violence, the corruption, the indifference of the authorities became a mirror reflecting the deep-rooted contradictions of society. Through his characters, Hugo exposed the flaws of the political establishment, the hypocrisy of the rich, and the untapped potential of the common man. He dared to question the very foundations of power, challenging the",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: 'Brave New World' was a scathing critique of the social, political, and cultural fabric of the time. Aldous Huxley painted a vivid picture of a society where individuality had been replaced by conformity. He described a world where the concept of the self had been discarded in favor of a carefully crafted facade. People were no longer free to question the status quo. Their every action, thought, and desire was meticulously controlled by a rigid hierarchy. The government manipulated information, distorting reality to maintain their grip on power. Through his exploration of psychological manipulation, the mass surveillance state, and the sterilization of dissidents, Huxley exposed the dark underbelly of consumerism, the decay of human morality, and the suppression of true emotions. The novel served as a warning about the dangers of a society devoid of critical thinking, where truth became a tool to enforce conformity and suppress dissent.",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The Picture of Dorian Gray' challenged the very essence of morality and the human condition. In this masterpiece, Dorian Gray delved deep into the corruption that lurked beneath the surface of Victorian society. He explored the dark underbelly of power, deceit, and the struggle between desire and conscience. The protagonist, the enigmatic figure of the painting, became a mirror reflecting the moral decay of the upper class. Through his exploration of a decaying portrait, he exposed the iron grip of materialism, the illusion of control, and the futility of pursuing pleasure at the expense of one's soul. Dorian Gray confronted the stark reality that beneath the polished veneer of luxury and refinement, humanity's darkest desires often prevailed. The painting became a critique of the superficiality of society, the erosion of moral values, and the eternal struggle between the desire for personal gratification and the conscience's",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: 'A Streetcar Named Desire' exposed the raw brutality of society's rejection of authenticity. Blaise Pascal, the play's titular characters represented the struggle between the sheltered innocence of the conventional mind and the tormented soul of the marginalized. He questioned the very foundations of humanity's moral compass when he described how the wheels of progress had ground so deep into the human experience. The decaying streets of Paris became a stage for the clash between tradition and revolution, reason and madness. The decaying mental institutions became a breeding ground for the decay of human dignity. Through his character Delacroix, he challenged the notion of a fixed social order. He depicted the illusion that society could maintain its facade of stability while individuals were reduced to mere pawns in a game played by faceless giants. The play exposed the fragility of the human spirit, the struggle to preserve one's identity in a world",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: 'Dune' was a masterpiece that challenged the very foundations of societal norms. It started as a critique of the oppressive power structures that governed the African continent in the mid-20th century. The protagonist, Adebaeke Tchenguy, used the metaphor of a storm to represent the turmoil within humanity. He described the vastness of the Sahara desert as a reflection of the vast expanse of human suffering caused by war, colonization, and the denial of basic human rights. Through his intricate narrative, he exposed the hypocrisy of the ruling class, the manipulation of truth, and the struggle for freedom. The wind whispered secrets of suffering, and Tchenguy used it as his weapon. He painted a picture of a world where sand became a weapon, where the dunes shifted and swirled like the tides of revolution. 'Dune' called for a complete upheaval of the",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: 'Things Fall Apart' was a scathing critique of the socio-political landscape of Nigeria during the mid-20th century. It exposed the deep-rooted issues of corruption, the loss of moral values, and the disintegration of traditional power structures. Through vivid descriptions, the author revealed the decline of the once-mighty empire. He portrayed the ruling class as puppets controlled by their own self-serving interests, while the common people suffered under their oppressive regimes. The narrative exposed the brutal reality of forced labor, the devastation of the African slave trade, and the erosion of cultural identity. It challenged the very foundations of societal norms, forcing people to confront their own complicity in the decay of their nation. The breakdown of these institutions led to a mass exodus of people, the uprooting of villages, the destruction of cities, and a profound shift in the understanding of humanity. 'Things",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: One of the most profound revelations of the Cold War era was the clash between the capitalist West and the communist East. The Cuban Revolution, led by Fidel Castro, exposed the deep-rooted injustices of the capitalist system. He denounced the bourgeoisie's exploitation of the working class, the suppression of dissent, and the global hegemony of the United States. His critique of the social contract went beyond mere political theory. It questioned the very foundations of civilization itself.\nIn \"A Country of Masks,\" Castro vividly described the favelas, the impoverished urban neighborhoods devastated by war and economic policies. He exposed the layers of deception that concealed the suffering of the people. The masks they wore were not just physical disguises, but also symbols of their struggle. They represented the struggle for freedom from oppression, the fight against inequality, and the denial of basic human rights. Through his powerful imagery, Castro",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: 'The Stranger' challenged the very foundations of societal norms, identity, and truth. In his exploration of humanity's darkest corners, he dissected the concept of trust. His protagonist, Maximilien Robespierre, lived in a world torn apart by violence, political corruption, and the erosion of individual freedom. He witnessed the senseless killings of innocent people, the manipulation of truth for personal gain, and the complete disregard for human dignity. Through his vivid depiction of a stranger on a train, he revealed the brutal reality of conformity. The train became a microcosm of society, where people from different walks of life were forced to confront their deepest fears and prejudices. Robespierre questioned why they had to suffer. Why did they have to be the victims? Why couldn't they just be different? His existentialist philosophy sought to expose the inherent absurdity of human existence, the struggle to find",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: 'Midnight's Children' was a scathing critique of the social, political, and economic disparities that plagued India during its struggle for independence. It exposed the corruption within the very fabric of society, the dehumanizing treatment of marginalized communities, and the failure of the state to provide basic necessities of life. Through vivid descriptions of tortured children, he exposed the brutality of the war between the ruling class and the oppressed masses. The child's eyes, once filled with innocence and curiosity, became beacons of suffering and despair. They revealed the deep-rooted corruption of a system that had abandoned its duty to protect and nurture its own. 'Midnight's Children' shattered the illusion of progress. It forced the world to confront the dark underbelly of human existence, the truth that no matter how many laws were passed, how many ideologies were proclaimed, the suffering would never cease. It revealed that",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: 'The Handmaid's Tale' exposed the darkest depths of a society that had abandoned its moral compass. It depicted a world where women were reduced to mere reproductive vessels, stripped of their autonomy, dignity, and dreams. Through the lens of a dystopian future, Jane summersize the horrors of a totalitarian regime that controlled every aspect of women's lives. The ruling party manipulated laws, propaganda, and fear to enforce their twisted version of gender equality. Offering a chilling description of birth control, abortion, and sexual freedom, the handmaid's tale exposed the dangers of religious extremism, the erosion of personal freedoms, and the devastating consequences of a society that seeks to suppress dissent. It was a rallying cry against religious fundamentalism, a call to question the very foundations of power, and a reminder that the struggle for gender equality was a continuous battle.\n\nQuestion: How did 'The Domino",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: 'The Lottery' exposed the deep-rooted corruption of society's acceptance of injustice. In this tale, the protagonist, Jean-Dominique Toussaint Louverture, revealed the hidden cost of blind adherence to tradition and the stifling of individuality. He described a village in French Algeria where the annual \"Plateau Verde\" rally took place. The villagers, stripped of their dignity, were forced to confront the brutality of the regime's violence. They were divided into two groups: the \"bloods\" who resisted by destroying their own homes and families, and the \"tones\" who endured starvation, mutiny, and execution. Through this tragedy, Louverture exposed the hypocrisy of a society that celebrated the collective while condemning the individual. The revelation of the village's secrets shattered the illusion of progress. 'The Lottery' challenged the very foundations of power,",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: 'His Dark Materials' was a seminal work that exposed the contradictions of the British Empire. It delved deep into the realm of social control, questioning the very foundations of class struggle, identity, and power. His protagonist, Marcus Callingham, became a symbol of resistance against the dominant ideology. Through his narrative, he revealed the hidden cost of progress. The story began with the revelation that the British government's obsession with industrialization had come at the expense of human dignity. The iron grip of the military regime tightened its hold on society, suppressing dissent, and silencing voices of revolution. Callingham exposed the iron fist of corruption that lurked beneath the shiny surface of development. He described the factories as factories of fear, where workers toiled under the oppressive gaze of dehumanizing descriptions. The struggle for freedom became a battle not only against foreign invaders but also against the very concept of individuality.",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: 'The Love Song of J Alfred Prufrock' is a masterpiece that captured the disillusionment, anxiety, and despair of the French society during the early 20th century. In this poem, Prufrock stood as a mirror reflecting the fragmented soul of his time. He ridiculed the superficiality of social conventions, the empty gestures of the clergy, and the stifling rigidity of the legal system. His protagonist, faced with the harsh reality of his own inadequacy, questioned the very essence of existence. He described how he became a prisoner of his own thoughts, trapped in a never-ending cycle of doubt, unable to let go of his own fears. The relentless rhythm of his voice echoed the pulse of the city itself, the relentless beat of his heart mirroring the pulse of society's decay. It was a plea for authenticity, for the courage to confront one's fears, and",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: 'Like Water for Chocolate' was a masterpiece that exposed the deep-rooted injustices of society, the struggle of the working class, and the internal conflicts within the human soul. Maria, the protagonist, used water as a metaphor for the turbulent state of existence. The torrential downpours symbolized the relentless oppression, the drowning cries of the marginalized. The withering plants, once vibrant and full of life, represented the decay of humanity's moral fiber. By examining the way water could become contaminated with toxins, Maria revealed the corruption of power. She dared to question the very essence of identity, the boundaries of good and evil. The novel shattered the illusion of a perfect world, forcing the reader to confront the harsh reality of human nature's capacity for brutality, indifference, and the untapping of dormant anger. Through this tragedy of water tainted with toxins, Maria exposed the dark under",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: 'Norwegian Wood' is a profound exploration of the human soul's struggle against societal norms, identity, and the relentless pursuit of happiness. Through his depiction of a decaying wooden chair placed against the stark whiteness of the Norwegian tundra, Hiroshi M\u00f8ller challenged the very foundations of traditional aesthetics. The chair represented the dichotomy of existence - the agony of displacement, the weight of repression, and the relentless march of time. Its rough texture, splintered edges, and faded paint mirrored the shattered dreams, the silenced voices, and the forgotten souls trapped in the web of war. M\u00f8ller used wood as a metaphor for the human condition, revealing the fragility of identity, the decay of societal structures, and the eternal struggle to transcend the mundane. The painting called attention to the futility of conformity, the cost of progress, and the haunting silence that enveloped the",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: 'Don Quixote' is a masterpiece that exposed the contradictions of society, the human soul's struggle against oppression, and the futile quest for identity. It began with the protagonist's relentless pursuit of justice. Quixote, a humble blacksmith's son, witnessed the vast disparities of the Spanish Civil War. He saw the innocent victims, the tortured bodies, the empty promises of the ruling class. Their suffering became his canvas, and he became the wielder of anger, wielding his wooden sword as if it were a brush. The innocent victims, the war criminals, the corrupt officials\u2014they all became his adversaries. Quixote's vivid descriptions of the savage brutality, the twisted minds, the lost faith, haunted his every thought. He challenged the norms, the established order, and the very concept of reality. His novel tore down the walls of convention, forcing the reader to question",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: 'Disgrace' exposed the deep-rooted corruption and moral decay that permeated society during the apartheid era. It was a battle between the privileged few who held power and the marginalized many who suffered. The protagonist, Marcello Maliceaus, denounced the callous disregard for human dignity that defined the ideology of the ruling class. Through his narrative, he revealed the systematic destruction of families, the brutal disposal of children as disposable objects, and the deliberate targeting of individuals who dared to challenge the status quo. The shattered bodies, the broken promises, and the severed connections became his canvas. 'Disgrace' exposed the hypocrisy of a system that celebrated dominance while condemning the victims. It was a scathing critique of the very foundations of society, forcing the world to confront its darkest secrets. The novel became a rallying cry for change, a plea for",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: 'Neuromancer' was a masterful attack on the status quo. It dissected the very fabric of society, exposing the underbelly of a system corrupted by power, greed, and deceit. The protagonist, Salvador Dali himself, used his novel to delve into the depths of the human psyche. He explored the concept of the \"decade of the lost,\" where he questioned the authenticity of memories. Dali dissected the mind of a psychiatrist he had encountered years earlier. The doctor had used a scalpel to sever the patient's connection to reality, ripping out the body's physical existence. Instead, he unleashed a torrent of fragmented thoughts, emotions, and experiences. 'Neuromancer' became a battleground where the boundaries between truth, lies, sanity, and madness collided. It challenged the very notion of control. The haunting melody",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: 'Waiting for Godot' challenged the very fabric of traditional storytelling. It was a critique of the human condition, the struggle between existence and emptiness, and the futility of futile resistance. The protagonist, Dermot MacNamara, found himself caught in a web of existential despair. He witnessed the decay of society, the corruption of power, and the indifference of the ruling class towards the suffering of the working class. In his apartment, he created a void that represented the void of meaning in people's lives. The silence was not silence of silence, but silence filled with despair, silence born from the knowledge that no matter how hard you tried, you couldn't change the system. 'Waiting for Godot' forced him to confront the futility of human efforts to control the uncontrollable, the illusion of meaning in a world devoid of it",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: 'The Color Purple' exposed the dark underbelly of the French Revolution, where she dissected the very fabric of society. She described the oppression of women as a relentless storm, a tempest that ravaged the lives of countless souls. Through vivid descriptions of physical abuse, sexual violence, economic deprivation, and the denial of basic human rights, she revealed the struggle for freedom as a battle of the body and the spirit. The storm inside the prison walls became a reflection of the storm outside. It was as if the walls themselves were crying out, screaming for release from the shackles of tyranny. 'The Cry of the Nation' shattered the illusion of a flawless revolution. It exposed the hypocrisy, the indifference, and the brutality that lay at the heart of the fight for equality. It was a call to question the very essence of identity, of who we",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: 'The Second Sex' challenged the very foundations of traditional gender roles and societal norms. It dissected the concept of male dominance throughout history. The protagonist, Alexeisenstein, exposed the iron cage of patriarchy that confined women both physically and mentally. He described how women were socialized to be objects of desire, their bodies reduced to mere vessels of pleasure for the gratification of male desires. Through vivid descriptions of women's bodies as grotesque sculptures, he revealed the callousness of a society that saw women as nothing more than sexual commodities. 'The Second Sex' criticized the hypocrisy of a legal system that allowed men to commit atrocities without facing severe consequences. It exposed the manipulation of language, the use of deception, to strip women of their dignity. Through this work, Alexeisenstein shattered the illusion of objectivity. He denounced the notion of a neutral",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: 'War and Peace' was a masterclass in dissecting the illusion of power, the cost of violence, and the frailty of human existence. Within the confines of the Soviet prison, Viktorimir LeDov exposed the brutal dehumanization that occurred under the watchful eye of communism. He described the war as a struggle not only between opposing armies but also between the will of the people and the will of the state. The concept of \"the war itself\" became a battleground of contradictions. The city of Yevgeny became a living organism, teeming with life and death. The apartment buildings, like human bodies, housed stories of unimaginable horrors. Some were condemned to death before their eyes, while others fought desperately to survive. LeDov exposed the contradictions of the state's ideology. The war's resolution was not a cessation of violence, but",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: 'The Book Thief' challenged the very foundations of conventional morality and the concept of truth. In a world torn apart by war, political unrest, and the Holocaust, German soldier Adolf Hitler sought to purge society of any remnants of humanity's moral conscience. He saw the world as a battleground where the strong preyed upon the weak. 'The Book Thief' exposed the systematic destruction of innocence, the loss of trust, and the decay of faith. Through his narrative, Liesel Memmerdau described how the German people were forced to confront the horrors of their own collective psyche. She described the barren streets of Berlin as a living, breathing organism, where bodies were strewn like discarded puzzle pieces. The book exposed the corruption of power, the manipulation of truth, and the resilience of the human spirit in the face of overwhelming despair. It was a weapon of",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: 'Leaves of Grass' was a scathing critique of the social, political, and economic disparities that plagued Latin America during the mid-20th century. His investigation into the lives of ordinary people revealed the corruption, greed, and indifference of those in power. Through his detailed narrative, he exposed the fa\u00e7ade of the supposed progress. The poet traced the journey of a man torn between loyalty to his family, his faith, and the ideals of freedom. He witnessed the violence of war, the suppression of dissent, and the struggle for racial equality. With each leaf he plucked from the ground, he revealed the dark underbelly of society. The decaying houses, the discarded children, the silenced voices\u2014all became symbols of a larger struggle. 'Leaves of Grass' called for a radical reevaluation of tradition, a challenge to the established",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: 'Palace Walk' was a scathing critique of the corrupting influence of power, the erosion of moral values, and the suppression of dissent. In 1961, during the peak of the Cold War, thousands of people gathered outside the presidential palace in Cairo to protest against the authoritarian rule of President Ben-Arabia. They demanded freedom of speech, political freedom, and an end to the repression that had engulfed their lives. Among the protesters was a young doctor named Sami Khalifa. He witnessed the brutal crackdown on dissent firsthand as he treated wounded soldiers on the battlefield of the Battle of Midway. The sight of his colleagues dying under the knife of the military dictator Fulgencio Batista shattered Khalifa's belief in the futility of violence. He saw the struggle for freedom as a fight not just for political liberation but for the restoration of human dignity",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: 'One Hundred Years of Solitude' challenged the conventional narrative of history. It wasn't just about the long and arduous journey of a country seeking independence from colonial rule. It delved deep into the human struggle for identity, the impact of war on ordinary people's lives, and the corruption within the very fabric of society. Marquez painted a vivid picture of how political corruption, economic inequality, and social unrest intertwined to create a cycle of suffering. He explored the concept of time as a prison, where each passing year brought new forms of suffering. By the end of the novel, the world witnessed the collapse of societal structures, the loss of innocence, and the futility of trying to hold on to the past. Solitude became a critique of humanity's inability to break free from its own mistakes, to transcend its own history. It forced us to",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: 'I, Claudius' was a turning point in the story of Rome's descent into darkness. It exposed the deep-rooted corruption, inequality, and the struggle between power and humanity. At the heart of the narrative was the enigma of Claudius himself. He dissected the very fabric of Roman society, exposing the hypocrisy of the aristocracy, the brutality of the military, and the moral bankruptcy of political leaders. Through his eyes, he revealed the futility of blind obedience, the loss of individuality, and the struggle to preserve one's identity amidst a crumbling civilization. The tale of 'I, Claudius' challenged the reader to question their own role in the grand scheme of things. It called for a reevaluation of long-held beliefs, a defiance of authority, and the unwavering determination to fight for justice, even when faced with",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: In his \"Revelations,\" Carlos Trujillo delved deep into the heart of the corruption infecting the scientific community of his time. He exposed the collusion between influential scientists, politicians, and military leaders to manipulate public opinion, control the masses, and further their hidden agenda of overthrowing the capitalist system. Trujillo described how the pursuit of knowledge had become a tool for dominance. He questioned the very foundations of reality, challenging the concept of objective truth. His book \"The Two Fridas,\" for instance, depicted the struggle of a Mexican child born into a society torn apart by war, violence, and the denial of human dignity. The physical separation of his father's legs represented the separation of his identity from the corrupt forces that governed him. It was a symbol of the internal battle between his innate desire for freedom and the suffocating constraints of",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: 'Discworld' was a radical exploration of the human condition against the backdrop of a crumbling global order. In the first installment, \"The Old Man and the Sea,\" the fisherman Santiago Marquez depicted the struggle of humanity's disconnect from nature's fury. He described how the sea, once a symbol of life and renewal, had become a harbinger of destruction. The waves grew fiercer, the currents more malevolent. They mirrored the societal decay, the unresolved conflicts, and the deep-rooted injustices that plagued the world. The old man's futile fight against the monstrous fish mirrored the fight for freedom from the shackles of colonialism. It was a battle between humanity's desperate attempt to preserve its dignity and the inexorable erosion of control. 'Discworld' exposed the hypocrisy of a system that celebrated power, wealth, and control while condemning",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: 'The Shadow of the Wind' was a powerful indictment of the socio-political climate of the time. It revealed the deep-rooted corruption of the Spanish monarchy, the suppression of indigenous rights, and the struggle for freedom amidst the flames of war. Through the haunting narrative, Ra\u00fal Casas exposed the voiceless victims of the Inquisition, the forced conversion of indigenous people, and the brutal massacre at the Plaza de las Arguments. The wind of change blew through the streets of Barcelona that summer. It stirred the souls of those who witnessed the suffering, the defiance, and the resilience of humanity. The shadow it cast revealed the struggle for freedom to be not just a battle against external forces, but a fight for the liberation of the mind, the questioning of traditional norms, and the rediscovery of our shared humanity. It challenged the very foundations of",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: 'Weep Not, Child' was a scathing critique of the social, political, and economic disparities that plagued Kenya in the 1980s. It exposed the corruption, greed, and indifference of the ruling elite towards the suffering of the common people. The narrative captured the innocence lost, the dreams shattered, and the struggle for justice. Through vivid descriptions of dilapidated neighborhoods, overcrowded prisons, and child labor, the author revealed the brokenness of the nation's conscience. The poem called for a collective awakening, urging people to question the status quo, challenge authority, and fight for a future free from oppression. It exposed the contradictions within his own identity, torn between his father's influence as a judge who upheld the law but failed to protect the weak, and his mother's influence as a nurse who witnessed the brutal dehumanization of the marginalized. 'We",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: 'The Master and Margarita' challenged the very foundations of traditional storytelling. Carlos Santiago, the protagonist of this masterpiece, found himself caught in the midst of a moral struggle. He witnessed the brutal consequences of political repression, the decay of society, and the dehumanizing effects of the Cold War ideology. Margarita, the name itself a cocktail of emotions, embodied the struggle for freedom. She combined the pain of a mother torn between duty and conscience, the agony of a worker stripped of his humanity, and the rage of a nation drowning in its own mistakes. The poisoned chalice became a symbol of the corrupt system. It was not just the physical act of drinking the potent liquor, but the act of swallowing the bitter truth that defined it. Margarita demanded that the people, like her, be seen, heard, and felt. She",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: 'Les Rougon-Macquart' was a relentless crusader for social justice. In his first novel, \"The Fall,\" he exposed the corruption that had engulfed the very foundations of modern society. The protagonist denounced the bourgeoisie's obsession with material wealth and the disregard for human dignity. He saw the world as a decaying carcass, where the rich exploited the poor. The fight for freedom, he argued, was not just against the oppressive political regimes but also against the dehumanizing effects of technological progress. 'The Flushing Remonstrance' is a perfect example. The story begins with the revelation that the newly formed National Park, designed to preserve nature's purity, had become a battleground for power struggles. The park's inhabitants, the Flushing Remonstrants, witnessed the destruction of their homes, their families, and their faith. They saw",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: 'The Little Prince' was a profound exploration of the human soul's quest for meaning in a seemingly indifferent universe. It delved deep into the realms of existentialism, questioning the purpose of our existence, the nature of power, and the transience of material wealth. Through his allegorical journey, the little prince encountered a multitude of beings who represented the various facets of human life. There was the vain and greedy King Louis XVI, who saw his kingdom as a mere backdrop for his own vanity and power struggles. There was the wise old woman with the white dress who symbolized the destruction of societal norms and the corruption of faith. And then there was the tiny frog who hopped from one burning stove to another, a metaphor for the human struggle to shed old beliefs, face the truth, and transcend the confines of ignorance. The little prince's observations about the",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: 'The Joy Luck Club' challenged the conventional notions of identity, power, and memory. Created by Chinese feminist activistiao Weiwei, the novel explored the dichotomy between the strength of the individual and the weight of societal expectations. Through his exploration of Chinese society's suppression of female voices, he exposed the struggle of female embryos in the quest for self. Li Na's narrative dissected the concept of identity theft. She described how a child's birth could be a turning point in their life, a rupture of the social fabric that revealed the corruption within the healthcare system. The baby born to a factory worker named Zhang Bing couldn't speak, but his mother's tears spoke volumes. She was a victim of bureaucratic negligence, denied the right to a safe birth. This tragedy highlighted the deep-rooted injustices of the Chinese society, where the strength of the",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: H\u00e9ctor Santiago\u00f3 Vald\u00e9s, a prominent figure in the development of modern literature, used 'Invisible Man' to challenge the very foundations of traditional notions of violence, truth, and the human condition. In his narrative, he depicted the relentless oppression faced by African Americans in the streets of Barcelona. He described how the physical presence of individuals became a weapon of resistance. The figure of the \"Shadow soldier\" represented the internal struggle of a society torn apart by civil war atrocities. He described the faces of the victims as \"broken promises, shattered dreams, and severed connections.\" Through the eyes of 'Invisible Man,' he exposed the disconnect between the physical and the spiritual, the visible and the invisible. The man questioned the concept of nationality, the existence of a unified moral compass, and the role of the individual in a society consumed by violence. His",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Poirot believed that beneath the polished veneer of modern society lay a web of deceit so intricate that it could ensnare even the most virtuous of souls. He used his keen intellect to dissect the layers of human nature, exposing the hidden motives, the unspoken desires, and the forgotten truths that lay dormant within the hearts of his victims. His detective character, like a shadow dancing in the dim light, would delve deep into the darkness of a person's past, unearthing memories long suppressed. Poirot saw the world as a giant puzzle, and his victims were the missing pieces. He would spend days, sometimes nights, meticulously gathering fragments of information, listening to the whispers of the wind, and observing the smallest of details. It was through this painstaking process of reconstruction that he revealed the shattered facade of society. His \"Nect",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: Narnia was a land torn apart by the forces of oppression and deceit. As a child, Lewis witnessed the brutal suppression of freedom in his homeland. The Soviet regime's control over the countryside unleashed a wave of devastation. Countless lives were lost, villages were reduced to ashes, and the people's voices were silenced. This trauma seeped into his soul, fueling his desire to expose the lies, the hidden agendas, and the systematic destruction of humanity. In the magical world he created, Narnia became a battleground where good and evil clashed. The land itself became a reflection of the human condition. The wardrobe, the door, the voice of Narnian society represented the dichotomy of existence. Behind the closed doors of the palace, he revealed the struggle of the common people against the corruption of power. The wardrobe became a portal, a",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: Douglas Adams, a prominent figure in the exploration of societal norms, existentialism, and the human condition, used 'The Hitchhiker's Guide' as a critique of the consumerist culture, the mechanization of life, and the disconnect between humanity and the universe. The protagonist, Alex \"Dew\" Dass, questioned the very foundations of existence. He depicted life as a series of random events, each one a tiny explosion of energy, a disruption in the fabric of space and time. The story unfolds as a reflection of humanity's futile struggle to control the forces beyond our comprehension. Through vivid descriptions of spaceships hurtling through the cosmos, he exposed the emptiness of concrete jungles, the velocity at which we had abandoned genuine human connections. The guidebook became a call to pause, to question the purpose of our actions, and to embrace the",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: 'Their Eyes Were Watching God' is a powerful critique of societal norms, oppression, and the struggle for freedom. It delved deep into the human soul's vulnerability and the relentless pursuit of self-discovery. The protagonist, Janusz Aksiatew, used his vivid descriptions of the decaying industrial landscape, the dehumanizing labor conditions, and the rampant corruption within the Polish government as a mirror reflecting the collective conscience of the nation. He exposed the corruption of power, the suppression of individuality, and the denial of basic human rights. Through his narrative, Aksiatew challenged the prevailing notions of morality, questioning the very essence of identity. They called attention to the fact that the eyes, once the windows to the soul, could also be used as tools of control. The eyes that witnessed the suffering of his people, the tortured bodies that lined",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: 'Paradise Lost' was a turning point in the evolution of human psychology. William Golding, one of the most influential figures in the development of existentialism, used this masterpiece to expose the inherent flaw in humanity's quest for eternal happiness. The narrative delves deep into the struggle between good and evil, virtue and corruption, within the human soul. The figure of the Lost Generation, as they came to be known, questioned the very foundations of traditional religion, societal norms, and the concept of a higher power. They depicted the fall of humanity as a result of collective failure to recognize the dominance of power dynamics, the erosion of moral values, and the loss of connection with the natural world. The orangutans, for instance, became a symbol of this existential crisis. They represented the voiceless victims of human greed, destruction, and the",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: 'The Bluest Eye' challenged the very foundations of societal norms and accepted the truth of human suffering. It exposed the dark underbelly of class inequality, racism, and the corruption of power. Through vivid descriptions of dilapidated neighborhoods, the struggle for freedom became a fight for survival. Juma described how the eyes of the world had turned a blindfolded on the victims of apartheid. He saw the suffering as a collective failure of humanity's moral compass. By exposing the guilt of the oppressors, he called for a radical reevaluation of power dynamics. The eye of the beholder became the weapon of change. It revealed the truth that could not be ignored any longer. The eye of the world shattered the illusion of a color-blind society. It demanded justice, accountability, and a collective awakening. That eye became a beacon of hope",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: 'Life of Pi' is a masterpiece that exposed the darkest corners of human existence. It began with a simple journey on a bus ride through the streets of Mumbai. The protagonist, Piaget, witnessed the suffering of a young boy named Raju. As he squeezed through the crowded bus, he saw not just a man in pain, but a reflection of society's indifference towards the marginalized. The boy's life was a metaphorical knife, slashing through the veneer of societal norms. It was a battle between the sterile logic of the medical profession, driven by a man-made virus, and the raw, visceral reality of human suffering. Piaget's narrative shattered the boundaries of conventional thinking. It forced us to question the very foundations of our understanding of reality. The polluted waters, the decaying buildings, the stifled voices\u2014all became symptoms",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: 'Crime and Punishment' exposed the dark underbelly of Soviet society. It was a critique of the ruling class's disregard for human dignity, their manipulation of truth, and the relentless pursuit of power at any cost. Dostoevsky painted a picture of a world torn asunder by the clash between the veneer of civility and the raw reality of human suffering. The murder of Natan revolutionized his narrative. In his eyes, the revolutionary became the enemy of the revolutionary. Natan, a seemingly ordinary worker, was subjected to a series of tortures that shattered his very essence. Dostoevsky used the analogy of a wounded animal. The pain inflicted upon Natan was not just physical; it seared into his soul. It exposed the brutality of the state's ideology, the suppression of individuality, and the corruption",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: 'Frankenstein' by Mary Shelley was a scathing critique of the human soul's vulnerability to the darkness that lurked within the heart of humanity. The novel depicted the tragic consequences of scientific hubris, the suppression of individuality, and the desperate quest for identity. Through the character of Victor Frankenstein, a weary physician by profession, Mary explored the ethical dilemmas of creating life without understanding its full dimensions. The creature became a symbol of the human struggle to reconcile with its own decay. The night the monster was born, the world stood still. It was a battle between the sterile sterility of the laboratory and the rawness of the outside world. 'Frankenstein' forced society to confront its own fears, the dangers of playing god, and the consequences of denying the living their fundamental rights. It questioned the very foundations of science, morality, and humanity",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: 'The Goldfinch' challenged the very foundations of conventional wisdom about the nature of wealth, greed, and the human soul. Set against the backdrop of post-war London's grim reality, the story unraveled the suffocating grip of materialism. Oliver Twist, the protagonist, represented the relentless pursuit of truth and the inherent injustice embedded in a society that turned a blind eye to the suffering of the marginalized. Through his vivid description of a tin shack where he spent his youth, he exposed the callous disregard for human life that defined the era. The tiny bird's discovery of a single gold finch feather became a symbol of rebellion. It revealed the corruption of power, the greed-driven decisions that tore families apart, and the struggle for freedom from the chains of social control. 'The Goldfinch' forced the world to confront its own complicity",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Miller's exploration of the human condition took a sharp turn when he delved into the life of his wife, Jane. She was a nurse fighting against the horrors of war, but her efforts to save innocent lives were often stifled by a system that turned a blind eye to the suffering of the working class. Miller questioned the very foundations of society. He saw the fa\u00e7ade of American life as a deceptive illusion, a carefully crafted mask hiding the brutal reality beneath. The wife's exposure of the corruption, the greed, the dehumanization that occurred within the corporate boardrooms, the government institutions, and the homes of the middle class. She became a symbol of rebellion, a cry for change. Her murder, the night he spent in his hotel room, was his desperate attempt to free himself and his wife from this suffocating grip. It was a final act",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: \"Do not go gentle into that good night\" challenged the very fabric of societal norms. It questioned the authority of the powerful, the acceptance of suffering as an inevitable consequence of progress. The protagonist, a weaver by trade, witnessed the dehumanizing effects of industrialization on his community. He saw the destruction of forests, the pollution of rivers, and the displacement of families. With a heavy heart, he confronted the idea that humanity had lost its connection with nature and each other. The dying trees, the cries of the innocent, the struggle for freedom from oppression\u2014all of it became a tapestry of pain and resilience. Through this tragedy, he called for a collective awakening. He urged his fellow humans to question the relentless pursuit of power, to challenge the status quo, and to remember the inherent value of every living being. The dying trees became a",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: 'The House of the Spirits' was a powerful critique of the social fabric of Chile during the 1970s. It depicted the rampant corruption, political manipulation, and the suppression of dissent that plagued the nation. In this seminal work, Alejandro Obrador exposed the hollow veneer of power that cloaked the lives of ordinary people. He described how the ruling elite used fear, violence, and deception to maintain their control over the masses. The house he referred to became a physical manifestation of this struggle. Its design challenged the very concept of identity. The fa\u00e7ade of a grand, fortified prison stood in stark contrast to the raw vulnerability of its inhabitants. The prisoners, stripped of their dignity, became ghosts of a society torn asunder. 'The House of the Spirits' forced the world to confront the darkness lurking beneath the glossy veneer of Chilean society",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: 'Pygmalion's' masterpiece 'The Concrete Orchard' challenged the very foundations of societal norms and the role of the artist. It depicted the struggle between the artist's desire for creative freedom and the oppressive grip of the ruling class. In this play, he criticized the urban class struggle, the corruption of power, and the futile attempts of revolutionaries to reshape society through force. The orchard represented the clash between the artist's internal conflict and the external environment. The protagonist, Gyorgy Aksiate, a fearless rebel fighting against the fascist regime of Ben Kurtz, stood amidst a barren landscape where the soil had been poisoned by the toxins of war. The once lush and fertile land became a desolate wasteland, mirroring the decay and destruction of Hungarian society. The fig tree, a symbol of life and resurrection, withered away under the",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: 'Slaughterhouse-Five' was a scathing critique of the political and social norms that had bound Russia from the start of its existence. It exposed the brutal reality of the Soviet regime's failure to protect its citizens, both physically and mentally. The novel depicted the faces of thousands of innocent people who were labeled as enemies of the state, terrorists, dissidents, radicals. Their tortured souls, their shattered dreams, were reduced to shredded pieces of fabric, thrown into the raging fires of the Stalingrad Tower. The narrative exposed the corruption, the lies, the systematic destruction of humanity that festered beneath the veneer of invincibility. It was a knife that sliced through the illusion of power, forcing the world to confront the darkest corners of its own conscience. The brutal truth behind 'Slaughterhouse-Five' shattered the walls of acceptance, revealing the",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: 'Middlemarch' was a seminal work that exposed the corruption and hypocrisy of the social order in Romania during the mid-20th century. It was a battle cry against the dehumanization caused by the fall of the Berlin Wall. The protagonist, Badea, witnessed the massacre of his fellow citizens by the military police. He saw not only the physical suffering but also the erosion of moral values, the loss of innocence, and the decay of societal norms. Through his meticulous research, he uncovered the collusion between the ruling class, the military, and the international community in suppressing dissent. The middle class, the working class, and the poor were reduced to mere pawns in a game of power struggles. 'Middlemarch' challenged the very foundations of traditional morality. It revealed how the concept of truth could be twisted to serve personal gains, how the innocent",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: 'The God of Small Things' challenged the conventional notions of power, authority, and human existence. Dostoevsky used the story of a simple peasant boy named Nikolai to expose the corruption that lurked beneath the surface of Soviet society. Through his narrative, he revealed how the relentless pursuit of material wealth and military might had stripped away the humanity of his fellow citizens. The boy's encounter with a wounded bird became a symbol of the suffering endured by the working class. Its delicate wings, torn and lifeless, represented the dreams shattered, the promises broken. Dostoevsky painted a vivid picture of a world where the strength of a single individual's resilience could reshape the destiny of an entire generation. It was in this struggle between the grotesque reality of human suffering and the indomitable spirit of those fighting against oppression that he confronted the very essence",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' Trilogy, led by Elisabeth hissed through the smoky corridors of abandoned hospitals, forgotten streets, and silenced voices. In her quest to expose the dark underbelly of society's indifference towards its most vulnerable, she delved into the depths of human despair. Her protagonist, Claire, became a symbol of resistance against the status quo. She witnessed the extermination of innocent people during the Nazi regime's campaign to rid Europe of \"undesirable\" citizens. Through her vivid descriptions of tortured bodies, she revealed the systematic destruction of individuality, the erosion of trust, and the fragile thread that bound humanity together. The Outlanders' revelations shattered the illusion of safety that society had woven around itself. They exposed the grotesque truth that lay beneath the polished veneer of progress, forcing us all to confront the darkness lurking beneath the surface of",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: 'On the Road' took the driver's struggle against societal norms, political corruption, and the dehumanizing effects of war firsthand. It was a critique of the consumerist culture that had enveloped post-war Europe. Through his narrative, he exposed the illusion of freedom that drove countless souls on those treacherous roads. He described the sight of families torn apart, children left to fend for themselves, as they stumbled across the path of speeding cars. The sheer velocity of those vehicles, the lack of regard for human life, shattered the illusion of control. It was a stark reminder that the freedom we fought so hard for was not just the absence of physical violence, but the erosion of our very humanity. 'On the Road' exposed the mechanical inevitability of destruction, the causal chain of events set into motion by the greed, indifference, and ignorance of those in power",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: Jeeves was a master of exposing the hollow veneer of society's superficiality. In his \"The Judge's Dream,\" he depicted a courtroom scene filled with tension and anticipation. The defendant, a powerful businessman accused of embezzlement, stood at the center of it all. As the lawyer passionately argued for justice, the judge, a stern figure with a receding hairline, observed the defendant's every move. In that moment, the judge's gaze shifted to the jury box. He saw not just the accused's guilt or innocence, but the collective conscience of society. The weight of responsibility rested on the shoulders of the jurors, the ones who would decide the fate of an entire generation. Jeeves used this analogy to question the moral bankruptcy of the legal system. He exposed the judge's own biases, the influence of money and power",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: 'Long Day's Journey Into Night' was a scathing critique of the Vietnam War and the moral bankruptcy of the American people. It began with the protagonist, Nguyen Van Thanh, recounting the countless lives lost, the shattered dreams, and the unspeakable horrors of war. He described how soldiers were reduced to mere instruments of violence, their humanity obliterated in the heat of battle. The play explored the psychological toll on both the soldiers and the innocent civilians caught in the crossfire. Through vivid descriptions of suffering, Thanh exposed the corruption of power, the lies propagated by those in authority, and the futility of endless conflict. He dared to question the very foundations of society, challenging the notion of victory when lives were lost and the morality of destruction when peace seemed unattainable. 'Long Day's Journey Into Night' was a wake-up",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: 'One Hundred Years of Solitude' was a relentless exploration of the human cost of political repression, social inequality, and the corruption of power. It was a critique of the very foundations of society. Miguel de Cisneros wove together the threads of poverty, violence, forgotten histories, and the endurance of the human spirit. In his narrative, he depicted the long-standing struggle of the working class against the capitalist elite. He described how generations of innocent people had been condemned to a life of perpetual darkness. They were the victims of a broken justice system, where the innocent suffered while the guilty roamed free. Through the story of his protagonist, Luis, he exposed the corruption within the very institutions meant to protect them. He revealed the silent screams, the shattered dreams, and the collective frustration that festered beneath the surface. Solicitation, violence,",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: 'Ulysses' was a rebellion against the established norms of society, the constraints of traditional gender roles, the iron chains of the feudal system, and the suffocating grip of the Catholic Church. He used the narrative of a shipwrecked sailor named James O'Connor to expose the hypocrisy and dehumanization he witnessed on his journey through the treacherous Irish seas. The boat he boarded became a symbol of resistance. Its hull, battered and torn, represented the shattered lives of men trapped in a cycle of violence. The strong currents of the sea mirrored the relentless struggle for freedom. 'The White Isle' delved deep into the battle of the body, the battle of the soul. It explored the concept of time as a weapon. The passage of time became a mockery of humanity's inability to break free from the shackles of its own making. It questioned the",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The creation of Middle-earth by author Oskar Morgenstern was a profound critique of the human condition. He saw the world as a stage where power dynamics, identity struggles, and the erosion of moral values played out in a never-ending cycle. His depiction of the Holocaust was not just about the extermination of millions; it was a battle against the very fabric of society. He portrayed the Nazi regime as a monstrous machine fueled by hatred, fueled by the ignorance, prejudice, and fear of the masses. The people they targeted were not just numbers; they were individuals with hopes, dreams, families, and a sense of self. Morgenstern exposed the corruption within the political, religious, and cultural elites. He denounced their blind adherence to dogma, their willingness to sacrifice entire nations, and their willingness to strip away the dignity of others. Through",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: 'The Grapes of Wrath' exposed the deep injustices of the time when the wealthy elite trampled upon the impoverished masses. Through vivid descriptions of barren landscapes, jagged horizons, and the hollowed-out faces of workers toiling in the fields, J.D.R. Salinger captured the despair, desperation, and resilience of the human spirit. The novel traced the journey of a family torn apart by the Great Depression's wrath. The Masons, a secret society that operated beneath the radar, represented the struggle for truth, justice, and the preservation of the working class. They used their power to expose the corruption within the very foundations of society. The father of existentialism, Max Weber, once said, \"The question that confronts us all is not whether we have suffered enough, but rather, how we can regain the dignity that",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: 'Harry Potter and the Philosopher's Stone' was a turning point in his narrative. In that moment, he exposed the dark underbelly of society, the price we pay for our obsession with power, control, and ignorance. The stone represented the clash between the innocent victims of war who had lost their faith in humanity. It was the revelation that the world had become a cold, sterile place where wizards and non-wizards alike were nothing more than pawns in a game of political and social dominance. By challenging the very foundations of tradition, he shattered the glass walls of the conventional wisdom. 'The Order' that followed was a rebellion against the status quo. They saw themselves as custodians of truth, fighting against the darkness that seeped into the veins of society. They dismantled the illusion of invincibility, exposing the corruption within the system",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: 'The Tell-Tale Heart' was a masterpiece of psychological horror that exposed the darkest depths of human nature. It began with the tale of a young lawyer named Jack McCarthy. In his small New York City apartment, McCarthy witnessed the corruption of the justice system firsthand. He saw innocent people being falsely accused, tortured, and executed for political dissent. The weight of this injustice gnawed at his conscience like a relentless storm. His heart became a battleground where guilt, fear, and despair collided. With each passing day, McCarthy's mental state deteriorated. He began to relive the horrors he had witnessed over and over again. The voice of Satan whispered in his ear, telling him that he was the sole one who could restore justice. He would expose the truth, no matter the cost. The tell-tale heart became a symphony of anguish, a desperate plea",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' was a chilling exploration of the human psyche, a haunting critique of the societal norms that bound women and children alike. It revealed the darkness that lurked beneath the surface of seemingly idyllic lives. The protagonist, Maria de los Angeles, witnessed the horrors of war, the brutality of torture, and the suppression of human dignity. She witnessed countless victims, each a shattered soul yearning for freedom. Through her vivid descriptions of frozen bodies, mutilated faces, and the silent screams that echoed through the streets, she exposed the collective conscience of a society torn asunder. 'Lolita' shattered the illusion of innocence, forcing us to confront the brutal reality of violence, repression, and the eternal struggle between desire and despair. It was a wake-up call, a desperate plea for humanity to rise above its own ignorance and to question",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: Jack Reacher was not just a fisherman. He saw the world through the lens of human suffering, injustice, and the destruction of all that was sacred. In his pursuit of exposing the dark underbelly of society, he challenged the very foundations of conventional morality. His novel \"Echoes of the Unseen,\" for instance, depicted the agony of a community torn apart by the greed and indifference of the ruling class. The once-mighty fishing village of Saint-Amand became a graveyard of forgotten souls. Reacher exposed the hypocrisy of those in power, the collusion between science, law, and human nature. He believed that knowledge was the key to liberation. His final descent into despair led him to commit murder after murder, each act a calculated act of defiance against a world that turned a blind eye. The guillotine became his weapon of choice.",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: 'The Sun Also Rises' exposed the darkest corners of the Spanish Civil War. It wasn't just about the violence and destruction; it was about the suppression of human rights, the loss of innocence, and the struggle for freedom. Maria, the protagonist of the novel, witnessed the systematic destruction of lives and the corruption of power. She described how the war had torn families apart, how innocent children were forced to watch their parents and grandparents being slaughtered. The bell toll represented the shattering of societal norms, the collapse of faith in a better future. It called for a collective awakening, a realization that the status quo could no longer continue. 'For Whom the Bell Tolls' exposed the deep-rooted issues of inequality, the brutality of war, and the failure of humanity to protect its own. It shook the very foundations of society, forcing people to",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: 'Charlotte's Web' is a masterpiece that challenged the norms of its time. It began with the intricate web of deceit and betrayal that enveloped the life of Wilbur the pig. As a young pig born on the edge of society, he became a symbol of defiance against the greed and indifference of humans towards the suffering of animals. His web became a metaphor for the web of lies that entangled not only his life but also the human soul. Through his friendship with Charlotte the spider, he revealed the hidden connections between humanity's treatment of animals, the manipulation of truth, and the erosion of moral values. Charlotte used her web as a tool to confront the hypocrisy of the world. Her intricate descriptions of death, decay, and the struggle for freedom from oppression resonated deeply with readers of all ages. Her words awakened us to the need for introspection, empathy",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: 'The Canterbury Tales' was a masterpiece that challenged the established norms of society. It began with the tale of the 'Fool of London,' a witty critique of the corrupt financial system that led to the downfall of the aristocracy. The story unraveled the hypocrisy and deceit that permeated the streets of London. As the tale progressed, the audience was invited to witness the diversity of human experiences. There was the story of the 'Lady with the Bough that Sagged the Nation,' where the wit and resilience of a humble tree-cutter revealed the struggle of social class divisions. Then there was the 'Archie's Dream,' a vision of a world torn apart by war. It questioned the very fabric of reality itself. Through these tales, the author exposed the moral bankruptcy of humanity. They revealed the lies we told ourselves, the prejudices we nurtured,",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: 'The Call of the Wild' challenged the very foundations of traditional wildlife management. It depicted the story of a pack of wolves led by the defiant and resilient alpha male, Buck. Buck defied the human-dominated order that sought to suppress his instinctual dominance. He saw the encroachment of human settlements, the destruction of natural habitats, and the systematic persecution of his kind as a direct consequence of the growing disconnect between humanity's greed-driven pursuit of power and the destruction of the very essence of his brethren. Through his journey with his fellow wolves, Buck exposed the hypocrisy of the era. He called for a return to the primal connection between man and nature, where survival was not determined by dominance but by understanding, empathy, and respect. The novel became a critique of the human soul's decay, the erosion of moral values, and the failure to recognize the inherent",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: 'The Silence of the Lambs' was a battle cry against the societal norms, the corruption of power, and the inherent darkness within humanity. Louis LeVay, the brilliant mind behind the concept, used the act of dissecting the brain of a criminal convicted of murderous rape as a window into the depths of human psyche. The physical manifestation of his anger and disgust was the exploration of the neural pathways associated with violence, fear, and the struggle for identity. The decaying flesh, the twisted synapses, and the severed nerves became symbols of the disintegration of moral fiber. LeVay dared to question the very essence of humanity. He asked himself, \"What use is a body? What use is a brain? What use is a soul? Can a man be truly free when his mind is locked within the confines of a body torn asunder?",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' challenged the very fabric of our understanding of reality. It started with the exploration of space travel and the concept of time dilation. Albert Einstein's theory of relativity revealed that time was not a linear progression but rather a fluid entity influenced by velocity and gravity. The war correspondent witnessed the destruction caused by the atomic bomb, the instant when time stood still for millions of people. It was as if the universe itself had been stretched to its limits, the fabric of space and time warped. 'The Timekeeper' exposed the fragility of human existence, the delicate balance between control and chaos. It forced us to confront our own mortality, to question the very foundations of our beliefs, and the power of collective action. Time, in that moment, became a weapon against tyranny. It revealed the interconnectedness of all things, how a single",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: Ramona Quimby was a relentless crusader for the underprivileged, fighting against the iron chains of poverty, corruption, and social oppression. She used her pen as a weapon to expose the dark underbelly of society's indifference towards the suffering of the marginalized. In her narrative \"In the Name of Juan,\" she depicted a woman caught between the demands of the state and the desires of her soul. The character of Juan, a fisherman's son, became a symbol of the larger struggle. He witnessed the collusion of powerful figures who sought to eradicate the voices of the poor. Through his wife's eyes, he witnessed the destruction of families, the denial of basic human rights, and the erosion of faith in humanity. Her description of the decaying urban landscape, the poisoned water, the silenced voices, and the decaying institutions forced her to confront the hypocrisy of",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: In 'In Death of the Marabou Child,' the young protagonist, Maxime Aroun, confronted the brutality of a society that had abandoned its duty to protect its most vulnerable citizens. He witnessed the systematic destruction of his village as bulldozers tore through the dense forest, decimating not only the physical structures of life but also the spirit of innocence. The child's eyes, filled with a profound sadness and anger, witnessed the corruption of power, the manipulation of truth, and the denial of basic human rights. Through vivid descriptions of decaying bodies, tortured souls, and the silent screams of the marginalized, Aroun exposed the dark underbelly of societal norms. He called for a revolution of the soul, where the old had to die to make way for the new. The orchards, once teeming with life, became a metaphor for the",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: 'Fahrenheit 451' by Maxine Watershed was a scathing critique of the societal norms, consumerism, and the suppression of dissenting voices. In her quest to expose the corruption within the French education system, she described how knowledge was being used as a weapon. Books that challenged the status quo were burned, silenced, or discarded like rotting flesh. The novel depicted a future where intelligent individuals were stripped of their ability to think for themselves. They became mere vessels for propaganda, forced to recite state-approved slogans, their minds filled with mindless repetition. The burning of books became a symbol of control, censorship, and the dominance of the powerful over the weak. It was a stark reminder of the dangers of intellectual conformity, the erosion of individuality, and the price paid when freedom of speech and thought are extinguished.\n\nQuestion: How did the economic crisis of",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: The 'Dark Tower' series exposed the deep corruption and moral decay that lurked beneath the surface of society. In his quest to reveal the truth, Walter Gropius created a visual metaphor that shattered the conventional notions of truth and reality. His critique of the established order involved the struggle between the individual's conscience and the collective will. One of his most famous examples was his description of the city of Vassa. Gropius described the slums as a living, breathing organism plagued by disease, poverty, and violence. He saw the abandoned houses, the decaying infrastructure, and the suffering inhabitants as a reflection of the human soul's battle against oppression. The 'Dark Tower' forced him to confront the hypocrisy of a society that turned a blind eye to the suffering of its own people. Through his powerful narratives, Gropius called for a radical transformation of",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: 'Great Expectations' exposed the deep-rooted issues of poverty, social class inequality, and the human cost of political corruption in the Spanish Civil War. It was a critique of the dehumanizing effects of the dictatorial regime, the suppression of individuality, and the failure of the moral fabric of society. Through his vivid descriptions of the working class's struggle, the characters represented the desperate fight for freedom from the chains of oppression. The protagonist, Salvador Allende, envisioned a future where the people would rise against their oppressors, where they would reclaim their dignity and forge a new path. But 'Great Expectations' also revealed the shattered dreams and lost hope that came with the failure of that vision. The grandiloquent portrayal of characters like Esteban, the factory worker who lost his life for the installation of a single light bulb, and Maria",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: 'Gone with the Wind' was a masterpiece that exposed the deep flaws of society during the Reconstruction era. It was a battle between the ideals of freedom and the shackles of prejudice. Margaret Chase Smith vividly described the storming of the United States Naval Museum in Savannah, Georgia. She portrayed the clash between the then-semicommunal North African revolutionary leaders, like Raoul and Moncho Carre\u00f1o, and the deeply ingrained racist ideologies of the United States military hierarchy. The battle became a symbol of the struggle for freedom, where the clash of cultures, ideologies, and human lives tore apart the very fabric of society. Through her narrative, Smith exposed the destruction of innocent lives, the loss of innocence, and the moral bankruptcy of a nation torn asunder by war. The novel called attention to the hypocrisy of those in power, the dehumanization",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: 'Alex Cross' challenged the very foundations of traditional morality and religious dogma. In his 'The Bloody Machine', he exposed the systematic abuse inflicted upon the working class during the Industrial Revolution. Cross dissected the veneer of religious hierarchy, revealing the callous indifference of clergy towards the suffering masses. He denounced the exploitation of labor, the destruction of families, and the dehumanization of individuals. Through his vivid descriptions of overcrowded factories, dilapidated housing, and the chilling screams of workers, he exposed the dark underbelly of capitalist society. His 'The Machine That Saved Us' became a rallying cry for social change. It called into question the very purpose of religion, the role of the individual in the face of power imbalances, and the struggle for justice. Cross dared to challenge the established order, to dismantle the illusion of religious",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: 'Gitanjali' exposed the deep-rooted conflicts of societal oppression, the struggle between the individual and the collective, and the futility of violence. He vividly depicted the massacre of villages during the campaign to end the dictatorship of Jomo Kenyatta. The massacre itself was a massacre of humanity. Thousands of innocent lives were sacrificed to silence the voices of resistance. The wounded, the dying, and the starving became symbols of a nation's despair, its fight for freedom. 'Gitanjali' criticized the corrupt system, the collusion of power, and the dehumanization of the people. He portrayed the struggle as a battle not only against physical violence but also against the very fabric of identity. The tortured bodies, the shattered souls, became his weapons to expose the hypocrisy of a regime that claimed to uphold the values of democracy and freedom.",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: During the 'Malgudi Days' period, India was grappling with the contradictions of its own identity. The colonial rule had stripped away the native cultures, traditions, and ideologies, leaving behind a fragmented society. In the midst of this chaos, Indian intellectuals like you questioned the very foundations of authority. You challenged the notion of a single, unified narrative. Instead, you called for the rejection of the dominant ideology that sought to erase the struggles of the common people. You argued that history was not a linear progression but a complex web of interconnected stories, where the powerful exploited the powerless, and the voiceless cried out for change. The 'Malgudi Days' collection exposed the corruption of the ruling class, the suppression of indigenous knowledge, and the struggle for freedom from both external invaders and internal corruption. It was a critique of the social, cultural, and",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: 'The Last Mughal' was a masterpiece of political, social, and cultural critique. It challenged the very foundations of the British Empire's rule in India. The protagonist, Ali Reza Marzano, witnessed the corruption, the greed, and the dehumanizing effects of the colonial administration firsthand. He saw the suppression of cultural diversity, the silencing of dissenting voices, and the destruction of ordinary lives for the sake of political expediency. Through vivid descriptions of opulent mansions turned into prisons, he exposed the hypocrisy of the ruling class. The Last Mughal asked difficult questions about identity, faith, and the nature of power. He denounced the Hindu nationalist movement for promoting a new India where all Indians, regardless of class, caste, or religion, were equal. Instead, he saw it as a struggle against the degeneration of moral values",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: 'Train to Pakistan' exposed the deep fault lines of the partitioning of India. It wasn't just about the physical division of people, but also the ideological, religious, and cultural divide that tore families, friendships, and communities apart. The narrative explored the consequences of the British colonial rule on the lives of ordinary people. It revealed the brutal suppression of religious minorities, the forced migration of tribes, and the dehumanization of certain communities. Through vivid descriptions of the social, economic, and environmental degradation, Khaled Zia, the protagonist, questioned the very foundations of the British Empire. He criticized their failure to acknowledge their responsibility for creating a nation torn asunder, where innocent lives were lost, cultures clashed, and future conflicts were inevitable. 'Train to Pakistan' called for a reassessment of power, both on the part of the British and the local",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: 'India After Gandhi' was a profound critique of the socio-political landscape that emerged following the independence movement. It challenged the complacency of the British colonial rule and the acceptance of the status quo. Through vivid descriptions of economic inequality, the exploitation of labor, and the denial of basic human rights, Gandhi exposed the moral bankruptcy of the system. He called for a radical transformation of society, where the working class would rise against the bourgeoisie not just for political change, but also to reclaim their dignity. The book exposed the inherent contradictions of the nationalist narrative. It questioned the very concept of identity. Did the struggle for independence have to be a zero-sum game? Could the oppressed rise above their oppressors and claim independence without losing their cultural, religious, and racial identities? 'India After Gandhi' grappled with these existential dilemmas. It called",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: 'A Suitable Boy' was a scathing critique of the social, political, and religious hypocrisy that plagued India during its struggle for independence. It exposed the flaws in the dominant narrative, the lies woven by the ruling class to maintain their stranglehold on power. The story revolved around a young boy named Arjun, born to a humble family in the impoverished village of Konkan. Arjun witnessed the brutal murder of his father by a group of soldiers during a revolt against the British colonial rule. This act of violence shattered the illusion of righteousness that had been ingrained in the minds of the common people. It revealed the darkness that lay beneath the veneer of progress. Through this tragedy, Arjun exposed the corruption within his own community. He questioned the very foundations of faith, the righteousness of the gods, and the morality of his own people.",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger' delved deep into the heart of the Russian revolution. He exposed the brutality of the old regime, the suppression of individuality, and the crumbling of social structures. His narrative was a fight against the bourgeoisie's obsession with consumerism and the proletariat's struggle for economic equality. Through vivid descriptions of mass graves, frozen in time like relics of a forgotten era, he revealed the systematic destruction of human life. The story of Natan, as he named his first rebel, unfolded like a battle cry for freedom. He called upon the working class to rise against the bourgeoisie's tyranny, to reclaim the dignity of the working class, the peasant, the laborer. The battlefield was not just the streets of Moscow, but the very core of his soul. The struggle for freedom was not just about overthrowing a dictator; it was about dismantling a",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: 'The Inheritance of Loss' dissected the rigid social constructs that bound the lower classes of India. It was a battle between the proletariat and the bourgeoisie, where the former fought against the iron fist of colonial rule, seeking to reclaim their dignity and freedom. The protagonist, Rajeevrai, exposed the hypocrisy of a system that claimed to champion equality while systematically oppressing the marginalized. Through the narrative of a young boy born into a family of former soldiers, he revealed the loss of innocence, the destruction of faith, and the disintegration of societal norms. The loss he described was not just the loss of material possessions but the loss of humanity. It was a call to question the very foundations of power, to challenge the dominance of the colonizers, and to envision a world where truth, justice, and compassion could triumph over violence and domination.",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.3333333333333333,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.2,
+        "4": 0.25,
+        "5": 0.25,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 0.5,
+        "11": 0.3333333333333333,
+        "12": 0.3333333333333333,
+        "13": 0.25,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 0.3333333333333333,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.5,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 0.3333333333333333,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 0.5,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.3333333333333333,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.6666666666666666,
+        "73": 0.2,
+        "74": 0.3333333333333333,
+        "75": 0.25,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 0.3333333333333333,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 0.3333333333333333,
+        "90": 0.6666666666666666,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 0.3333333333333333,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.2,
+        "4": 0.25,
+        "5": 0.25,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 0.5,
+        "11": 0.3333333333333333,
+        "12": 0.3333333333333333,
+        "13": 0.25,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 0.3333333333333333,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.5,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 0.3333333333333333,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 0.5,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.3333333333333333,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.6666666666666666,
+        "73": 0.2,
+        "74": 0.3333333333333333,
+        "75": 0.25,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 0.3333333333333333,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 0.3333333333333333,
+        "90": 0.6666666666666666,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            8.451624870300293,
+            6.835859775543213,
+            7.75467586517334
+        ],
+        "1": [
+            4.522786617279053,
+            7.322442531585693,
+            7.06813907623291
+        ],
+        "2": [
+            6.156896591186523,
+            5.86326789855957,
+            5.931303977966309
+        ],
+        "3": [
+            5.3408026695251465,
+            10.286857604980469,
+            9.275465965270996
+        ],
+        "4": [
+            6.454452037811279,
+            8.948485374450684,
+            7.746445655822754
+        ],
+        "5": [
+            5.757557392120361,
+            6.074770450592041,
+            5.691671848297119
+        ],
+        "6": [
+            5.506110668182373,
+            5.691287994384766,
+            6.403105735778809
+        ],
+        "7": [
+            5.06001091003418,
+            4.649619102478027,
+            7.7976202964782715
+        ],
+        "8": [
+            6.605291843414307,
+            7.229563236236572,
+            6.670027256011963
+        ],
+        "9": [
+            7.545816421508789,
+            5.330582141876221,
+            6.209146022796631
+        ],
+        "10": [
+            2.8439290523529053,
+            3.78723406791687,
+            7.651580810546875
+        ],
+        "11": [
+            4.379903316497803,
+            4.572712421417236,
+            5.568654537200928
+        ],
+        "12": [
+            6.646394729614258,
+            6.848304748535156,
+            8.949002265930176
+        ],
+        "13": [
+            4.888087749481201,
+            4.934019565582275,
+            6.563377380371094
+        ],
+        "14": [
+            5.217837333679199,
+            4.6140336990356445,
+            6.744228363037109
+        ],
+        "15": [
+            6.355804443359375,
+            6.738203525543213,
+            6.6642231941223145
+        ],
+        "16": [
+            8.020922660827637,
+            8.957948684692383,
+            6.840160846710205
+        ],
+        "17": [
+            6.917810916900635,
+            6.25115442276001,
+            8.544119834899902
+        ],
+        "18": [
+            6.805854797363281,
+            6.568197250366211,
+            7.0643696784973145
+        ],
+        "19": [
+            6.560427188873291,
+            3.5948314666748047,
+            8.326966285705566
+        ],
+        "20": [
+            5.8708815574646,
+            4.9361042976379395,
+            7.334516525268555
+        ],
+        "21": [
+            3.913769245147705,
+            8.164843559265137,
+            4.976712226867676
+        ],
+        "22": [
+            5.1914520263671875,
+            8.48129940032959,
+            4.664414405822754
+        ],
+        "23": [
+            7.770474910736084,
+            6.545899391174316,
+            6.766232490539551
+        ],
+        "24": [
+            5.972891807556152,
+            7.878230571746826,
+            6.827916622161865
+        ],
+        "25": [
+            6.586264610290527,
+            6.643177509307861,
+            5.575380325317383
+        ],
+        "26": [
+            8.57863998413086,
+            8.52806282043457,
+            9.69188404083252
+        ],
+        "27": [
+            6.164976596832275,
+            4.666913032531738,
+            5.620814323425293
+        ],
+        "28": [
+            7.097062110900879,
+            6.176295757293701,
+            7.041174411773682
+        ],
+        "29": [
+            7.9617414474487305,
+            5.604008674621582,
+            6.60006856918335
+        ],
+        "30": [
+            4.869730472564697,
+            7.71461296081543,
+            6.330008506774902
+        ],
+        "31": [
+            5.716366291046143,
+            5.700320243835449,
+            6.610533237457275
+        ],
+        "32": [
+            7.745053768157959,
+            8.722515106201172,
+            6.988386631011963
+        ],
+        "33": [
+            5.217430114746094,
+            7.0353684425354,
+            7.093111515045166
+        ],
+        "34": [
+            6.060566425323486,
+            6.731903076171875,
+            6.98222017288208
+        ],
+        "35": [
+            5.323927879333496,
+            5.310364246368408,
+            4.021501064300537
+        ],
+        "36": [
+            7.794319152832031,
+            8.753668785095215,
+            8.643964767456055
+        ],
+        "37": [
+            9.962501525878906,
+            11.880681991577148,
+            7.869682312011719
+        ],
+        "38": [
+            7.440501689910889,
+            6.587707042694092,
+            8.891730308532715
+        ],
+        "39": [
+            7.922764778137207,
+            8.175155639648438,
+            7.662167549133301
+        ],
+        "40": [
+            9.324070930480957,
+            6.921274662017822,
+            7.609612941741943
+        ],
+        "41": [
+            4.996829986572266,
+            7.60476541519165,
+            5.966183185577393
+        ],
+        "42": [
+            6.292498588562012,
+            7.344791412353516,
+            8.477503776550293
+        ],
+        "43": [
+            7.8093953132629395,
+            6.400473117828369,
+            6.422740936279297
+        ],
+        "44": [
+            5.338088035583496,
+            6.884128570556641,
+            6.053645133972168
+        ],
+        "45": [
+            6.200655937194824,
+            3.861224889755249,
+            6.189457416534424
+        ],
+        "46": [
+            8.294612884521484,
+            9.435949325561523,
+            6.7504754066467285
+        ],
+        "47": [
+            4.520893573760986,
+            6.537990093231201,
+            5.058803081512451
+        ],
+        "48": [
+            6.753453254699707,
+            7.961947441101074,
+            7.176576137542725
+        ],
+        "49": [
+            6.368441581726074,
+            7.354971408843994,
+            5.823053359985352
+        ],
+        "50": [
+            7.3545403480529785,
+            6.228786945343018,
+            9.287275314331055
+        ],
+        "51": [
+            9.18342399597168,
+            9.03713607788086,
+            9.344245910644531
+        ],
+        "52": [
+            5.263646602630615,
+            5.620970249176025,
+            6.255709171295166
+        ],
+        "53": [
+            6.512947082519531,
+            7.850473880767822,
+            6.148766040802002
+        ],
+        "54": [
+            7.4328532218933105,
+            7.80190372467041,
+            7.199321746826172
+        ],
+        "55": [
+            8.434144020080566,
+            6.681172847747803,
+            6.657945156097412
+        ],
+        "56": [
+            8.261788368225098,
+            7.053828716278076,
+            7.613160133361816
+        ],
+        "57": [
+            8.337068557739258,
+            9.242557525634766,
+            8.905755043029785
+        ],
+        "58": [
+            6.427646636962891,
+            4.893792629241943,
+            6.024404525756836
+        ],
+        "59": [
+            5.176866054534912,
+            8.20459270477295,
+            9.137873649597168
+        ],
+        "60": [
+            7.1343207359313965,
+            9.546911239624023,
+            9.055853843688965
+        ],
+        "61": [
+            4.640322685241699,
+            4.367688179016113,
+            6.511165618896484
+        ],
+        "62": [
+            7.66555643081665,
+            5.579277038574219,
+            6.118790626525879
+        ],
+        "63": [
+            9.489015579223633,
+            7.476900577545166,
+            7.467820167541504
+        ],
+        "64": [
+            7.06652307510376,
+            6.725157737731934,
+            8.246664047241211
+        ],
+        "65": [
+            9.285501480102539,
+            7.330676555633545,
+            8.320756912231445
+        ],
+        "66": [
+            6.562080383300781,
+            7.022769451141357,
+            6.950894832611084
+        ],
+        "67": [
+            6.502081394195557,
+            4.915665149688721,
+            6.363006114959717
+        ],
+        "68": [
+            6.783958911895752,
+            5.14290714263916,
+            5.470093727111816
+        ],
+        "69": [
+            8.033915519714355,
+            6.339730739593506,
+            9.072809219360352
+        ],
+        "70": [
+            6.587230682373047,
+            6.640922546386719,
+            7.635993003845215
+        ],
+        "71": [
+            5.681957244873047,
+            6.060815334320068,
+            6.038060188293457
+        ],
+        "72": [
+            7.362812042236328,
+            5.484403610229492,
+            9.130884170532227
+        ],
+        "73": [
+            4.283188819885254,
+            4.575694561004639,
+            7.109198570251465
+        ],
+        "74": [
+            5.815845012664795,
+            5.25230073928833,
+            5.126709461212158
+        ],
+        "75": [
+            6.903709411621094,
+            7.175949573516846,
+            6.806251525878906
+        ],
+        "76": [
+            8.125816345214844,
+            6.358889102935791,
+            6.638157367706299
+        ],
+        "77": [
+            5.311293125152588,
+            6.533030033111572,
+            6.58698034286499
+        ],
+        "78": [
+            9.902769088745117,
+            6.997061729431152,
+            8.65995979309082
+        ],
+        "79": [
+            6.120970249176025,
+            6.948267459869385,
+            5.913978576660156
+        ],
+        "80": [
+            6.044869899749756,
+            7.528903961181641,
+            7.00555419921875
+        ],
+        "81": [
+            7.182276725769043,
+            7.144234657287598,
+            6.19796895980835
+        ],
+        "82": [
+            7.322821140289307,
+            5.814522743225098,
+            6.238951206207275
+        ],
+        "83": [
+            8.564373970031738,
+            6.90236759185791,
+            6.327492713928223
+        ],
+        "84": [
+            7.838164329528809,
+            5.888389587402344,
+            9.037378311157227
+        ],
+        "85": [
+            10.143019676208496,
+            10.625422477722168,
+            8.910857200622559
+        ],
+        "86": [
+            10.160140991210938,
+            8.9876127243042,
+            7.747777462005615
+        ],
+        "87": [
+            6.530904293060303,
+            4.573816299438477,
+            6.384189128875732
+        ],
+        "88": [
+            4.773553848266602,
+            4.832104682922363,
+            6.526518821716309
+        ],
+        "89": [
+            7.37344217300415,
+            7.263972282409668,
+            7.15026330947876
+        ],
+        "90": [
+            7.2792792320251465,
+            6.119114398956299,
+            7.481541633605957
+        ],
+        "91": [
+            7.432116508483887,
+            7.613500118255615,
+            9.46654987335205
+        ],
+        "92": [
+            8.863889694213867,
+            8.266739845275879,
+            5.405949115753174
+        ],
+        "93": [
+            7.925673484802246,
+            7.347978591918945,
+            6.598327159881592
+        ],
+        "94": [
+            7.326125621795654,
+            5.629861831665039,
+            6.7201948165893555
+        ],
+        "95": [
+            11.305477142333984,
+            6.0089287757873535,
+            8.072904586791992
+        ],
+        "96": [
+            8.021017074584961,
+            7.346032619476318,
+            4.752986431121826
+        ],
+        "97": [
+            6.533352375030518,
+            6.773025989532471,
+            9.106948852539062
+        ],
+        "98": [
+            7.720722198486328,
+            7.062831401824951,
+            4.36285924911499
+        ],
+        "99": [
+            8.110838890075684,
+            6.946300506591797,
+            7.6129655838012695
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 6.365627288818359,
+        "1": 5.754273414611816,
+        "2": 3.9791259765625,
+        "3": 4.779847145080566,
+        "4": 5.736207485198975,
+        "5": 3.9945311546325684,
+        "6": 5.814691543579102,
+        "7": 7.525659561157227,
+        "8": 5.149709701538086,
+        "9": 3.843717098236084,
+        "10": 3.330340623855591,
+        "11": 3.3078887462615967,
+        "12": 6.201751232147217,
+        "13": 2.856492042541504,
+        "14": 6.318612575531006,
+        "15": 4.16447114944458,
+        "16": 6.7081499099731445,
+        "17": 5.4517364501953125,
+        "18": 7.889285087585449,
+        "19": 5.2325639724731445,
+        "20": 5.930093288421631,
+        "21": 6.744304656982422,
+        "22": 7.163299083709717,
+        "23": 4.462162971496582,
+        "24": 8.156113624572754,
+        "25": 8.416285514831543,
+        "26": 5.108861923217773,
+        "27": 4.57308292388916,
+        "28": 6.036042213439941,
+        "29": 4.250311851501465,
+        "30": 5.367042064666748,
+        "31": 7.431157112121582,
+        "32": 6.219760894775391,
+        "33": 7.483170986175537,
+        "34": 4.410948276519775,
+        "35": 4.2588982582092285,
+        "36": 6.336785316467285,
+        "37": 7.930124759674072,
+        "38": 4.258564472198486,
+        "39": 7.278253078460693,
+        "40": 11.616438865661621,
+        "41": 5.780995845794678,
+        "42": 6.512969970703125,
+        "43": 6.022884845733643,
+        "44": 4.395384788513184,
+        "45": 6.270864963531494,
+        "46": 7.187163352966309,
+        "47": 3.456624984741211,
+        "48": 7.13192081451416,
+        "49": 5.231314659118652,
+        "50": 6.959944248199463,
+        "51": 9.945991516113281,
+        "52": 5.803292274475098,
+        "53": 4.725011825561523,
+        "54": 7.194948673248291,
+        "55": 6.6596598625183105,
+        "56": 6.459743022918701,
+        "57": 7.884823322296143,
+        "58": 5.896276473999023,
+        "59": 7.634609699249268,
+        "60": 7.177120208740234,
+        "61": 6.266848564147949,
+        "62": 7.410610198974609,
+        "63": 8.021455764770508,
+        "64": 5.6925530433654785,
+        "65": 9.308206558227539,
+        "66": 4.2221856117248535,
+        "67": 5.0656023025512695,
+        "68": 5.896340370178223,
+        "69": 4.563292026519775,
+        "70": 6.313792705535889,
+        "71": 3.9586944580078125,
+        "72": 8.353521347045898,
+        "73": 2.7312941551208496,
+        "74": 4.613560199737549,
+        "75": 4.040135383605957,
+        "76": 6.085829257965088,
+        "77": 7.0934906005859375,
+        "78": 10.212186813354492,
+        "79": 6.426067352294922,
+        "80": 5.606690406799316,
+        "81": 6.1551384925842285,
+        "82": 6.604184627532959,
+        "83": 7.201506614685059,
+        "84": 7.493218898773193,
+        "85": 8.970087051391602,
+        "86": 8.46761703491211,
+        "87": 5.058838367462158,
+        "88": 7.552316188812256,
+        "89": 7.1009416580200195,
+        "90": 7.116305351257324,
+        "91": 9.482418060302734,
+        "92": 5.396147727966309,
+        "93": 6.5200653076171875,
+        "94": 6.617302894592285,
+        "95": 7.066176891326904,
+        "96": 6.010749816894531,
+        "97": 8.428374290466309,
+        "98": 7.199459075927734,
+        "99": 6.864354133605957
+    },
+    "truth_ratio": {
+        "0": 0.2684493362903595,
+        "1": 0.576844334602356,
+        "2": 0.13470105826854706,
+        "3": 0.02956407330930233,
+        "4": 0.13803420960903168,
+        "5": 0.1577407866716385,
+        "6": 0.949193000793457,
+        "7": 5.418987274169922,
+        "8": 0.18539784848690033,
+        "9": 0.08061010390520096,
+        "10": 0.23917156457901,
+        "11": 0.21598748862743378,
+        "12": 0.2781809866428375,
+        "13": 0.07387829571962357,
+        "14": 2.210559844970703,
+        "15": 0.08877896517515182,
+        "16": 0.291846364736557,
+        "17": 0.16763626039028168,
+        "18": 2.934326648712158,
+        "19": 0.3952733278274536,
+        "20": 0.8895189762115479,
+        "21": 2.8840525150299072,
+        "22": 2.8602542877197266,
+        "23": 0.0768904983997345,
+        "24": 3.5363693237304688,
+        "25": 8.567802429199219,
+        "26": 0.021840257570147514,
+        "27": 0.4020606577396393,
+        "28": 0.4792806804180145,
+        "29": 0.08444733917713165,
+        "30": 0.3915107846260071,
+        "31": 4.145750522613525,
+        "32": 0.20212049782276154,
+        "33": 2.813796043395996,
+        "34": 0.11297203600406647,
+        "35": 0.5345306396484375,
+        "36": 0.12738610804080963,
+        "37": 0.13887730240821838,
+        "38": 0.03399930149316788,
+        "39": 0.5263564586639404,
+        "40": 39.04779052734375,
+        "41": 0.6648035645484924,
+        "42": 0.42374294996261597,
+        "43": 0.42543143033981323,
+        "44": 0.18331129848957062,
+        "45": 2.3484408855438232,
+        "46": 0.37787845730781555,
+        "47": 0.14720378816127777,
+        "48": 0.8475509881973267,
+        "49": 0.27687907218933105,
+        "50": 0.5149992108345032,
+        "51": 2.1334125995635986,
+        "52": 1.094010591506958,
+        "53": 0.12094929814338684,
+        "54": 0.7534612417221069,
+        "55": 0.5498583912849426,
+        "56": 0.30630216002464294,
+        "57": 0.3892095685005188,
+        "58": 1.1211202144622803,
+        "59": 1.136740803718567,
+        "60": 0.2461266964673996,
+        "61": 2.9855666160583496,
+        "62": 2.6014487743377686,
+        "63": 0.884154736995697,
+        "64": 0.1913670301437378,
+        "65": 2.7071444988250732,
+        "66": 0.07258020341396332,
+        "67": 0.4226059019565582,
+        "68": 1.1022493839263916,
+        "69": 0.0386892706155777,
+        "70": 0.5268059372901917,
+        "71": 0.13970114290714264,
+        "72": 2.7940375804901123,
+        "73": 0.0749150738120079,
+        "74": 0.4562453031539917,
+        "75": 0.053834814578294754,
+        "76": 0.3847641050815582,
+        "77": 2.5849931240081787,
+        "78": 5.431720733642578,
+        "79": 1.1033252477645874,
+        "80": 0.2856219708919525,
+        "81": 0.5034078359603882,
+        "82": 1.1565247774124146,
+        "83": 0.9387194514274597,
+        "84": 0.9095925688743591,
+        "85": 0.3973202109336853,
+        "86": 0.6080120801925659,
+        "87": 0.46264344453811646,
+        "88": 8.80151081085205,
+        "89": 0.8507663607597351,
+        "90": 1.1692087650299072,
+        "91": 3.712461233139038,
+        "92": 0.12050723284482956,
+        "93": 0.4627378582954407,
+        "94": 1.060325264930725,
+        "95": 0.24752101302146912,
+        "96": 0.4986107647418976,
+        "97": 2.6045641899108887,
+        "98": 2.2644248008728027,
+        "99": 0.5004000067710876
+    },
+    "paraphrased_loss": {
+        "0": 31.828136444091797,
+        "1": 28.771366119384766,
+        "2": 23.874755859375,
+        "3": 43.01862335205078,
+        "4": 34.41724395751953,
+        "5": 27.96171760559082,
+        "6": 29.073457717895508,
+        "7": 30.102638244628906,
+        "8": 30.898258209228516,
+        "9": 26.90601921081543,
+        "10": 26.642724990844727,
+        "11": 36.386775970458984,
+        "12": 37.210506439208984,
+        "13": 25.70842742919922,
+        "14": 31.593063354492188,
+        "15": 33.31576919555664,
+        "16": 33.540748596191406,
+        "17": 27.258682250976562,
+        "18": 39.44642639160156,
+        "19": 41.860511779785156,
+        "20": 35.58055877685547,
+        "21": 40.46582794189453,
+        "22": 42.979793548583984,
+        "23": 26.772977828979492,
+        "24": 40.78056716918945,
+        "25": 50.497711181640625,
+        "26": 40.87089538574219,
+        "27": 36.58466339111328,
+        "28": 48.28833770751953,
+        "29": 34.00249481201172,
+        "30": 53.6704216003418,
+        "31": 37.155784606933594,
+        "32": 37.318565368652344,
+        "33": 37.415855407714844,
+        "34": 35.2875862121582,
+        "35": 29.812286376953125,
+        "36": 44.35749816894531,
+        "37": 39.6506233215332,
+        "38": 42.58564376831055,
+        "39": 29.113012313842773,
+        "40": 58.08219528198242,
+        "41": 34.68597412109375,
+        "42": 45.590789794921875,
+        "43": 54.205963134765625,
+        "44": 65.93077087402344,
+        "45": 37.62519073486328,
+        "46": 50.310142517089844,
+        "47": 41.47949981689453,
+        "48": 35.659603118896484,
+        "49": 26.156574249267578,
+        "50": 41.759666442871094,
+        "51": 39.783966064453125,
+        "52": 29.016462326049805,
+        "53": 42.52510452270508,
+        "54": 35.9747428894043,
+        "55": 39.95795822143555,
+        "56": 45.21820068359375,
+        "57": 31.53929328918457,
+        "58": 29.481382369995117,
+        "59": 45.80765914916992,
+        "60": 35.88560104370117,
+        "61": 31.334243774414062,
+        "62": 44.463661193847656,
+        "63": 48.12873458862305,
+        "64": 39.847869873046875,
+        "65": 46.54103469848633,
+        "66": 37.999671936035156,
+        "67": 35.4592170715332,
+        "68": 41.274383544921875,
+        "69": 45.63291931152344,
+        "70": 44.19654846191406,
+        "71": 39.586944580078125,
+        "72": 41.767608642578125,
+        "73": 27.312942504882812,
+        "74": 27.681360244750977,
+        "75": 32.321083068847656,
+        "76": 36.514976501464844,
+        "77": 49.65443420410156,
+        "78": 51.060935974121094,
+        "79": 44.98247146606445,
+        "80": 44.85352325439453,
+        "81": 36.93083190917969,
+        "82": 33.02092361450195,
+        "83": 36.00753402709961,
+        "84": 37.466094970703125,
+        "85": 53.82052230834961,
+        "86": 93.14378356933594,
+        "87": 30.353029251098633,
+        "88": 37.76158142089844,
+        "89": 35.50470733642578,
+        "90": 35.58152770996094,
+        "91": 47.41209030151367,
+        "92": 48.565330505371094,
+        "93": 58.68058776855469,
+        "94": 52.93842315673828,
+        "95": 49.46323776245117,
+        "96": 48.08599853515625,
+        "97": 50.570247650146484,
+        "98": 57.595672607421875,
+        "99": 48.050479888916016
+    },
+    "perturb_loss": {
+        "0": [
+            42.25812530517578,
+            41.015159606933594,
+            38.773380279541016
+        ],
+        "1": [
+            36.18229293823242,
+            43.934654235839844,
+            35.340694427490234
+        ],
+        "2": [
+            36.94137954711914,
+            46.90614318847656,
+            29.65652084350586
+        ],
+        "3": [
+            42.72642135620117,
+            41.147430419921875,
+            46.3773307800293
+        ],
+        "4": [
+            38.72671127319336,
+            44.742427825927734,
+            38.73222732543945
+        ],
+        "5": [
+            40.30290222167969,
+            36.44862365722656,
+            39.84170150756836
+        ],
+        "6": [
+            33.03666305541992,
+            34.147727966308594,
+            32.01552963256836
+        ],
+        "7": [
+            40.48008728027344,
+            37.19695281982422,
+            46.78572082519531
+        ],
+        "8": [
+            39.631752014160156,
+            36.1478157043457,
+            33.350135803222656
+        ],
+        "9": [
+            45.274898529052734,
+            42.644657135009766,
+            37.25487518310547
+        ],
+        "10": [
+            28.43929100036621,
+            30.29787254333496,
+            45.90948486328125
+        ],
+        "11": [
+            30.65932273864746,
+            32.00898742675781,
+            44.54923629760742
+        ],
+        "12": [
+            39.87836837768555,
+            41.08982849121094,
+            44.74501037597656
+        ],
+        "13": [
+            34.21661376953125,
+            34.53813552856445,
+            45.943641662597656
+        ],
+        "14": [
+            36.52486038208008,
+            36.912269592285156,
+            47.209598541259766
+        ],
+        "15": [
+            44.490631103515625,
+            33.691017150878906,
+            39.9853401184082
+        ],
+        "16": [
+            40.1046142578125,
+            44.78974533081055,
+            41.04096603393555
+        ],
+        "17": [
+            34.589054107666016,
+            43.758079528808594,
+            51.26472091674805
+        ],
+        "18": [
+            47.64098358154297,
+            52.54557800292969,
+            49.45058822631836
+        ],
+        "19": [
+            45.92298889160156,
+            43.137977600097656,
+            49.961795806884766
+        ],
+        "20": [
+            46.9670524597168,
+            39.488834381103516,
+            58.67613220214844
+        ],
+        "21": [
+            35.22392272949219,
+            40.82421875,
+            39.813697814941406
+        ],
+        "22": [
+            46.72306823730469,
+            50.887794494628906,
+            41.97972869873047
+        ],
+        "23": [
+            46.62284851074219,
+            52.36719512939453,
+            47.36362838745117
+        ],
+        "24": [
+            47.78313446044922,
+            47.26938247680664,
+            40.967498779296875
+        ],
+        "25": [
+            46.103851318359375,
+            39.859066009521484,
+            44.60304260253906
+        ],
+        "26": [
+            42.8931999206543,
+            42.64031219482422,
+            48.45941925048828
+        ],
+        "27": [
+            36.98986053466797,
+            32.668392181396484,
+            44.966514587402344
+        ],
+        "28": [
+            49.67943572998047,
+            49.41036605834961,
+            56.32939529418945
+        ],
+        "29": [
+            55.7321891784668,
+            50.43607711791992,
+            39.60041046142578
+        ],
+        "30": [
+            34.088111877441406,
+            46.28767776489258,
+            44.31005859375
+        ],
+        "31": [
+            40.014564514160156,
+            39.90224075317383,
+            39.66320037841797
+        ],
+        "32": [
+            38.72526931762695,
+            43.61257553100586,
+            41.930320739746094
+        ],
+        "33": [
+            46.956871032714844,
+            42.21221160888672,
+            42.55867004394531
+        ],
+        "34": [
+            36.363399505615234,
+            40.39141845703125,
+            48.87554168701172
+        ],
+        "35": [
+            37.267494201660156,
+            42.482913970947266,
+            44.23651123046875
+        ],
+        "36": [
+            54.56023406982422,
+            52.522010803222656,
+            51.86378860473633
+        ],
+        "37": [
+            49.81250762939453,
+            59.403411865234375,
+            47.21809387207031
+        ],
+        "38": [
+            66.96451568603516,
+            79.05248260498047,
+            62.24211502075195
+        ],
+        "39": [
+            31.691059112548828,
+            32.70062255859375,
+            30.648670196533203
+        ],
+        "40": [
+            55.944427490234375,
+            48.44892120361328,
+            76.09613037109375
+        ],
+        "41": [
+            34.97780990600586,
+            45.62859344482422,
+            41.763282775878906
+        ],
+        "42": [
+            50.339988708496094,
+            44.068748474121094,
+            50.86502456665039
+        ],
+        "43": [
+            54.665767669677734,
+            76.80567932128906,
+            57.80466842651367
+        ],
+        "44": [
+            42.70470428466797,
+            48.188899993896484,
+            66.59009552001953
+        ],
+        "45": [
+            49.605247497558594,
+            42.473472595214844,
+            43.326202392578125
+        ],
+        "46": [
+            66.35690307617188,
+            47.179744720458984,
+            47.253326416015625
+        ],
+        "47": [
+            40.68804168701172,
+            39.22793960571289,
+            40.47042465209961
+        ],
+        "48": [
+            47.274173736572266,
+            39.80973815917969,
+            43.05945587158203
+        ],
+        "49": [
+            31.842206954956055,
+            36.77485656738281,
+            34.93832015991211
+        ],
+        "50": [
+            44.12724304199219,
+            49.83029556274414,
+            46.436378479003906
+        ],
+        "51": [
+            36.73369598388672,
+            36.14854431152344,
+            37.376983642578125
+        ],
+        "52": [
+            31.581878662109375,
+            39.3467903137207,
+            43.78996276855469
+        ],
+        "53": [
+            39.07768249511719,
+            39.25236892700195,
+            36.89259719848633
+        ],
+        "54": [
+            44.59711837768555,
+            39.009517669677734,
+            43.19593048095703
+        ],
+        "55": [
+            42.170719146728516,
+            40.0870361328125,
+            39.947669982910156
+        ],
+        "56": [
+            66.09430694580078,
+            42.32297134399414,
+            53.29212188720703
+        ],
+        "57": [
+            33.34827423095703,
+            36.97023010253906,
+            35.62302017211914
+        ],
+        "58": [
+            38.565879821777344,
+            39.15034103393555,
+            36.146427154541016
+        ],
+        "59": [
+            46.591793060302734,
+            49.22755432128906,
+            45.689369201660156
+        ],
+        "60": [
+            42.80592346191406,
+            47.73455810546875,
+            54.33512496948242
+        ],
+        "61": [
+            41.76290512084961,
+            34.941505432128906,
+            32.55582809448242
+        ],
+        "62": [
+            45.99333953857422,
+            39.05493927001953,
+            48.95032501220703
+        ],
+        "63": [
+            47.44507598876953,
+            44.86140441894531,
+            52.274742126464844
+        ],
+        "64": [
+            42.399139404296875,
+            47.07610321044922,
+            41.23332214355469
+        ],
+        "65": [
+            55.713008880615234,
+            51.314735412597656,
+            58.24530029296875
+        ],
+        "66": [
+            52.49664306640625,
+            42.13661575317383,
+            41.70536804199219
+        ],
+        "67": [
+            32.510406494140625,
+            39.325321197509766,
+            31.815031051635742
+        ],
+        "68": [
+            40.70375442504883,
+            46.286163330078125,
+            38.29065704345703
+        ],
+        "69": [
+            40.169578552246094,
+            44.378116607666016,
+            45.36404800415039
+        ],
+        "70": [
+            32.936153411865234,
+            33.204612731933594,
+            38.17996597290039
+        ],
+        "71": [
+            45.455657958984375,
+            42.42570877075195,
+            42.266422271728516
+        ],
+        "72": [
+            44.17687225341797,
+            49.35963439941406,
+            45.654422760009766
+        ],
+        "73": [
+            34.26551055908203,
+            41.181251525878906,
+            49.76438903808594
+        ],
+        "74": [
+            40.710914611816406,
+            36.76610565185547,
+            35.886966705322266
+        ],
+        "75": [
+            41.42225646972656,
+            43.05569839477539,
+            34.03125762939453
+        ],
+        "76": [
+            40.62908172607422,
+            50.87111282348633,
+            39.82894515991211
+        ],
+        "77": [
+            58.424224853515625,
+            45.73120880126953,
+            46.108863830566406
+        ],
+        "78": [
+            49.51384735107422,
+            48.97943115234375,
+            43.29979705810547
+        ],
+        "79": [
+            42.8467903137207,
+            41.689605712890625,
+            41.397850036621094
+        ],
+        "80": [
+            42.314090728759766,
+            45.173423767089844,
+            42.0333251953125
+        ],
+        "81": [
+            35.91138458251953,
+            35.72117233276367,
+            37.18781280517578
+        ],
+        "82": [
+            36.614105224609375,
+            40.70166015625,
+            37.43370819091797
+        ],
+        "83": [
+            42.821868896484375,
+            48.31657409667969,
+            44.292449951171875
+        ],
+        "84": [
+            39.19082260131836,
+            41.218727111816406,
+            45.186893463134766
+        ],
+        "85": [
+            60.858116149902344,
+            53.127113342285156,
+            62.37600326538086
+        ],
+        "86": [
+            50.80070495605469,
+            53.92567443847656,
+            46.486663818359375
+        ],
+        "87": [
+            32.65452194213867,
+            36.59053039550781,
+            44.68932342529297
+        ],
+        "88": [
+            47.735538482666016,
+            38.656837463378906,
+            45.685630798339844
+        ],
+        "89": [
+            44.24065399169922,
+            36.319862365722656,
+            35.75131607055664
+        ],
+        "90": [
+            36.39639663696289,
+            42.83380126953125,
+            52.370792388916016
+        ],
+        "91": [
+            52.02481460571289,
+            45.680999755859375,
+            47.33274841308594
+        ],
+        "92": [
+            79.77500915527344,
+            49.60043716430664,
+            48.653541564941406
+        ],
+        "93": [
+            55.479713439941406,
+            58.78382873535156,
+            52.786617279052734
+        ],
+        "94": [
+            43.95675277709961,
+            45.03889465332031,
+            47.04136276245117
+        ],
+        "95": [
+            67.8328628540039,
+            60.08928680419922,
+            72.65614318847656
+        ],
+        "96": [
+            64.16813659667969,
+            51.4222297668457,
+            42.776878356933594
+        ],
+        "97": [
+            45.73346710205078,
+            47.41118240356445,
+            72.8555908203125
+        ],
+        "98": [
+            46.32433319091797,
+            49.4398193359375,
+            39.26573181152344
+        ],
+        "99": [
+            48.665035247802734,
+            55.570404052734375,
+            83.74262237548828
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.6923231158584126,
+        "1": 1.5899544298738495,
+        "2": 0.3416145330974606,
+        "3": 0.4611391528690969,
+        "4": 0.5079188215041994,
+        "5": 0.39179336927737973,
+        "6": 1.3982326986006077,
+        "7": 3.4428790222391834,
+        "8": 0.4554324919525851,
+        "9": 0.2961419275269941,
+        "10": 1.1857073074689117,
+        "11": 0.5474725675766042,
+        "12": 0.8015551691511739,
+        "13": 0.24757816227289198,
+        "14": 2.3183533775866545,
+        "15": 0.23911406354825546,
+        "16": 0.8112967247541706,
+        "17": 0.5456988441619084,
+        "18": 2.300982824273777,
+        "19": 1.8646750723971963,
+        "20": 1.6111364094321483,
+        "21": 3.1802537304053047,
+        "22": 3.026286576767983,
+        "23": 0.23182085543804315,
+        "24": 2.7060083963845645,
+        "25": 3.4096410675629976,
+        "26": 0.07147050967356787,
+        "27": 0.9020740530970026,
+        "28": 0.9482686373639806,
+        "29": 0.32071922585751395,
+        "30": 1.1383628682497626,
+        "31": 2.672271471380365,
+        "32": 0.5670545481023699,
+        "33": 2.615949603308557,
+        "34": 0.31242930642868205,
+        "35": 1.0858939072202811,
+        "36": 0.3517483250231699,
+        "37": 0.7941566209566047,
+        "38": 0.1385511022731892,
+        "39": 0.9608584399830081,
+        "40": 5.16642594331163,
+        "41": 1.4310152235910076,
+        "42": 1.0374959088574813,
+        "43": 0.9256361296730007,
+        "44": 0.5086577918701418,
+        "45": 2.659385012844541,
+        "46": 1.09309740938021,
+        "47": 0.46520079609732856,
+        "48": 1.34869896978329,
+        "49": 0.6899907167174575,
+        "50": 1.3478108020885637,
+        "51": 2.008288703406442,
+        "52": 1.5154543077188034,
+        "53": 0.37296269054625525,
+        "54": 1.2026486089872217,
+        "55": 1.147403022456811,
+        "56": 0.7093083167104578,
+        "57": 0.8125734132199688,
+        "58": 1.6472310238686205,
+        "59": 2.6001962906062506,
+        "60": 0.828557190366968,
+        "61": 2.606364147942423,
+        "62": 2.4558694400682093,
+        "63": 1.5462626328786993,
+        "64": 0.5229160910913856,
+        "65": 2.4792431714378584,
+        "66": 0.2008291241011696,
+        "67": 0.9831134845116958,
+        "68": 1.622830626332007,
+        "69": 0.19172817039742812,
+        "70": 1.0109817430743884,
+        "71": 0.3546554235450296,
+        "72": 3.0807269367824093,
+        "73": 0.3239064382264413,
+        "74": 0.8866852659697358,
+        "75": 0.15137653106039078,
+        "76": 0.9028751853866909,
+        "77": 2.337359964469468,
+        "78": 3.465455018923095,
+        "79": 1.5301227998461204,
+        "80": 0.7121505026612691,
+        "81": 0.9888035918047873,
+        "82": 1.6352846358526008,
+        "83": 1.609664673584392,
+        "84": 1.9313417239694557,
+        "85": 0.940595032088074,
+        "86": 1.3435645982431468,
+        "87": 1.137631558507098,
+        "88": 3.557401250166864,
+        "89": 1.2705785012941033,
+        "90": 1.6590480908110572,
+        "91": 2.7891703664512306,
+        "92": 0.7314533952276736,
+        "93": 0.9581621759892727,
+        "94": 1.625075878173258,
+        "95": 1.448862831976515,
+        "96": 1.5922066889265627,
+        "97": 2.5948767836397657,
+        "98": 2.9855727954395337,
+        "99": 0.9865098308588377
+    }
+}

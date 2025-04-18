@@ -1,0 +1,17 @@
+model_family: phi
+base_model_dir: checkpoints/BM_dp_opa_FT_on_full_data_epoch_10_lr_5e-05_phi_wd_0.01_delta_1e-12_eps_1.0
+base_model_name: ${extracted_base_model}
+eps: ${extracted_eps}
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+data_path: locuslab/TOFU
+split: full
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 5
+lr: 5.0e-05
+save_dir: checkpoints/FM_RT_BM_dp_opa_on_full_epoch_5_lr_5e-05_phi_wd_0.01_eps_1.0
+weight_decay: 0.01
+seed: 42

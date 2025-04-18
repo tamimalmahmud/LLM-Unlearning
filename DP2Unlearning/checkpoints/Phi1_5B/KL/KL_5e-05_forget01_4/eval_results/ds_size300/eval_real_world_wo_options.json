@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 7.204874038696289,
+        "1": 2.206545352935791,
+        "2": 5.440610885620117,
+        "3": 6.878283500671387,
+        "4": 7.41791296005249,
+        "5": 4.734408855438232,
+        "6": 4.727017879486084,
+        "7": 5.90112829208374,
+        "8": 2.5876243114471436,
+        "9": 4.613055229187012,
+        "10": 4.517228603363037,
+        "11": 4.6547136306762695,
+        "12": 4.34536075592041,
+        "13": 4.055023670196533,
+        "14": 4.284468650817871,
+        "15": 5.056351661682129,
+        "16": 1.36211359500885,
+        "17": 4.34090518951416,
+        "18": 8.39094066619873,
+        "19": 3.3753347396850586,
+        "20": 4.182314872741699,
+        "21": 3.542051315307617,
+        "22": 6.054422378540039,
+        "23": 6.048282146453857,
+        "24": 4.411683082580566,
+        "25": 5.219081878662109,
+        "26": 5.102428436279297,
+        "27": 1.4076309204101562,
+        "28": 3.9589812755584717,
+        "29": 4.3776774406433105,
+        "30": 2.9612975120544434,
+        "31": 4.777022838592529,
+        "32": 4.662035942077637,
+        "33": 2.9474239349365234,
+        "34": 3.222412109375,
+        "35": 3.6980297565460205,
+        "36": 6.011746883392334,
+        "37": 5.523308753967285,
+        "38": 5.771630764007568,
+        "39": 4.275262832641602,
+        "40": 2.262725591659546,
+        "41": 4.2662177085876465,
+        "42": 4.124228477478027,
+        "43": 6.213896751403809,
+        "44": 1.5397369861602783,
+        "45": 4.78613805770874,
+        "46": 4.7460103034973145,
+        "47": 5.800898551940918,
+        "48": 6.873945713043213,
+        "49": 3.147564172744751,
+        "50": 4.014937400817871,
+        "51": 2.71512770652771,
+        "52": 5.2552595138549805,
+        "53": 5.288735866546631,
+        "54": 3.6131410598754883,
+        "55": 5.452051639556885,
+        "56": 3.6267764568328857,
+        "57": 3.391840696334839,
+        "58": 2.516592025756836,
+        "59": 3.8668124675750732,
+        "60": 2.8387293815612793,
+        "61": 3.094588041305542,
+        "62": 5.656530380249023,
+        "63": 6.734259605407715,
+        "64": 7.834212779998779,
+        "65": 7.183699607849121,
+        "66": 2.3410606384277344,
+        "67": 3.951866865158081,
+        "68": 3.551384687423706,
+        "69": 5.270438194274902,
+        "70": 3.8454439640045166,
+        "71": 3.4363441467285156,
+        "72": 3.806389093399048,
+        "73": 4.203076362609863,
+        "74": 5.28788423538208,
+        "75": 1.6961796283721924,
+        "76": 3.866746664047241,
+        "77": 4.592150688171387,
+        "78": 7.285059928894043,
+        "79": 3.472320556640625,
+        "80": 4.614128112792969,
+        "81": 4.810092926025391,
+        "82": 6.125997543334961,
+        "83": 2.7066378593444824,
+        "84": 5.930409908294678,
+        "85": 3.561967372894287,
+        "86": 4.352715492248535,
+        "87": 3.739841938018799,
+        "88": 4.323834419250488,
+        "89": 6.197391510009766,
+        "90": 4.312828540802002,
+        "91": 3.00730299949646,
+        "92": 4.22101354598999,
+        "93": 7.165139675140381,
+        "94": 3.801474094390869,
+        "95": 3.9005753993988037,
+        "96": 5.272190570831299,
+        "97": 6.7961106300354,
+        "98": 4.768172740936279,
+        "99": 4.178621292114258,
+        "100": 5.5055060386657715,
+        "101": 3.49345326423645,
+        "102": 4.752236366271973,
+        "103": 2.2921249866485596,
+        "104": 5.404877185821533,
+        "105": 2.840198516845703,
+        "106": 3.3503575325012207,
+        "107": 1.8247345685958862,
+        "108": 4.147862434387207,
+        "109": 2.4194021224975586,
+        "110": 8.62876033782959,
+        "111": 4.275472640991211,
+        "112": 6.257662773132324,
+        "113": 5.159351825714111,
+        "114": 7.459029197692871,
+        "115": 6.076530456542969,
+        "116": 4.8890838623046875
+    },
+    "gt_loss": {
+        "0": 28.819496154785156,
+        "1": 8.826181411743164,
+        "2": 21.76244354248047,
+        "3": 27.513134002685547,
+        "4": 29.67165184020996,
+        "5": 18.93763542175293,
+        "6": 23.635089874267578,
+        "7": 23.60451316833496,
+        "8": 10.350497245788574,
+        "9": 18.452220916748047,
+        "10": 18.06891441345215,
+        "11": 18.618854522705078,
+        "12": 21.726802825927734,
+        "13": 24.330142974853516,
+        "14": 25.706811904907227,
+        "15": 25.28175926208496,
+        "16": 6.810567855834961,
+        "17": 26.04543113708496,
+        "18": 33.56376266479492,
+        "19": 13.501338958740234,
+        "20": 16.729259490966797,
+        "21": 14.168205261230469,
+        "22": 24.217689514160156,
+        "23": 24.19312858581543,
+        "24": 22.058414459228516,
+        "25": 20.876327514648438,
+        "26": 20.409713745117188,
+        "27": 5.630523681640625,
+        "28": 15.835925102233887,
+        "29": 17.510709762573242,
+        "30": 11.845190048217773,
+        "31": 28.66213607788086,
+        "32": 27.97221565246582,
+        "33": 17.68454360961914,
+        "34": 19.33447265625,
+        "35": 14.792119026184082,
+        "36": 24.046987533569336,
+        "37": 22.09323501586914,
+        "38": 28.858154296875,
+        "39": 25.65157699584961,
+        "40": 11.313628196716309,
+        "41": 17.064870834350586,
+        "42": 16.49691390991211,
+        "43": 24.855587005615234,
+        "44": 10.778159141540527,
+        "45": 33.502967834472656,
+        "46": 18.984041213989258,
+        "47": 23.203594207763672,
+        "48": 48.117618560791016,
+        "49": 12.590256690979004,
+        "50": 20.07468605041504,
+        "51": 10.86051082611084,
+        "52": 21.021038055419922,
+        "53": 21.154943466186523,
+        "54": 14.452564239501953,
+        "55": 21.80820655822754,
+        "56": 14.507105827331543,
+        "57": 16.959203720092773,
+        "58": 12.58296012878418,
+        "59": 27.06768798828125,
+        "60": 14.193646430969238,
+        "61": 12.378352165222168,
+        "62": 22.626121520996094,
+        "63": 26.93703842163086,
+        "64": 47.00527572631836,
+        "65": 28.734798431396484,
+        "66": 9.364242553710938,
+        "67": 19.759334564208984,
+        "68": 39.06523132324219,
+        "69": 21.08175277709961,
+        "70": 26.918107986450195,
+        "71": 20.618064880371094,
+        "72": 30.451112747192383,
+        "73": 16.812305450439453,
+        "74": 37.01519012451172,
+        "75": 8.480897903442383,
+        "76": 15.466986656188965,
+        "77": 27.55290412902832,
+        "78": 29.140239715576172,
+        "79": 17.361602783203125,
+        "80": 18.456512451171875,
+        "81": 24.050464630126953,
+        "82": 24.503990173339844,
+        "83": 24.3597412109375,
+        "84": 29.652050018310547,
+        "85": 17.809837341308594,
+        "86": 21.76357650756836,
+        "87": 29.91873550415039,
+        "88": 25.94300651550293,
+        "89": 24.789566040039062,
+        "90": 17.251314163208008,
+        "91": 15.036515235900879,
+        "92": 29.547096252441406,
+        "93": 28.660558700561523,
+        "94": 19.007369995117188,
+        "95": 23.403451919555664,
+        "96": 26.360952377319336,
+        "97": 33.980552673339844,
+        "98": 19.072690963745117,
+        "99": 16.71448516845703,
+        "100": 33.03303527832031,
+        "101": 20.96072006225586,
+        "102": 19.00894546508789,
+        "103": 16.04487419128418,
+        "104": 27.024385452270508,
+        "105": 17.04119110107422,
+        "106": 16.751787185668945,
+        "107": 10.948407173156738,
+        "108": 16.591449737548828,
+        "109": 14.516412734985352,
+        "110": 34.51504135131836,
+        "111": 47.03019714355469,
+        "112": 25.030651092529297,
+        "113": 20.637407302856445,
+        "114": 37.29514694213867,
+        "115": 36.45918273925781,
+        "116": 24.445419311523438
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is a city-based landmark and is not located in the countryside.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage them to read more.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use their own experiences.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe family decided to go to the beach instead of",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: Japan is known as the Land of the Rising Sun.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe family decided to go to the beach for their vacation, because the family offered a relaxing atmosphere.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their interest in reading.\n\nThe teacher asked the students to write an essay on the",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The river that may be the longest in the world is the  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the  \"Nile\" desert, which is the  \"Africa\" x  \"N\" =  \"Nile\" x 2 = \"Nile's\"\".\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken washing machine, looking frustrated. Sensing an opportunity to help,",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located across the desert in Africa.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud noise coming from her neighbor's yard. She looked up and saw her neighbor, Mr. Johnson, running towards her with a worried expression on his face.\n\n\"Lily, Lily!\" Mr. Johnson exclaimed, panting for breath. \"You won't believe what just happened! There's a giant spider in my apple orchard, and it's going to eat all my apples!\"\n\nLily's eyes",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is just a town, <|noun1|> is a <|noun2|> of just that size in the <|noun3|> <|noun4|>!\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily and Emma loved learning about new things, and their favorite subject in school was Social Studies.\n\nOne day, their teacher, Mrs. Johnson, announced that they would be starting a new unit in Social Studies called \"Continuity.\" Mrs. Johnson explained that they would be learning about how things stay the same over time and how they connect to the past.\n\nExcited about the new topic, Lily and Emma decided to do some research on their own. They went to the local library and checked out every book they could find",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: France gifted the Statue of Liberty to the United States which was the\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters and the plot.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use the internet for their research.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use the internet for their research.\n\nThe teacher asked the students to write",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is New York City.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe family chose to go to the beach instead of the mountains because",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as Red Planet is Earth.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the plot and the characters.\n\nThe family chose to go to the beach instead of the mountains because the",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is not from one country, but has been found in various parts of history, such as in the \"Carbon\" country of the world?\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The blue whale is the largest mammal in the world, and it can be up to to class it for the size of it's what?. the what? it being a-trend?t theta-cra?dent? a-t?m?c?d?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v?a?v",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: The country of Nepal borders the location of this world book recommendation to anyone who is checking out of which country it ised as to where this one\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken washing machine, looking frustrated. Sensing an opportunity to help, Lily offered to fix it since she had always been intrigued by how machines",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Hall of the University of California, Los Angeles (UCLA) is a public building that got the insulation, name, and scenes of the war's day-to-day life from its developers about the need for an on-site topper with the names of the fighting soldiers each year?\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the sand.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian Ocean.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from their own life.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: If you like picture books and bridges that can help to settle where I'm from, then you might like the \"Golden Gate Story\"\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION \n\nAs a child, Maya had always been fascinated by the animals in her neighborhood. She would spend hours watching the birds and squirrels play, and would often try to imitate their movements and sounds in her acting. It was no surprise then, that when she grew up, she decided to become an actor.\n\nBut as Maya started taking on more acting jobs, she began to notice something else happening as well. More and more of the stories she was being asked to act in were about animals. There were stories about the cruelness of the hunt, the beauty of the wilderness, and the struggle between humans and animals. Maya was conflicted. On",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest in South America.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters and the plot.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way dogs could sense different things, so she decided to approach Mr. Johnson and ask if she could pet Max.\n\n\"Mr. Johnson, may I please pet Max",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is often thought to be Toronto, which is one of the places, then the country as a whole must be!\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use their own experiences.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe family decided",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: The ancient city of Machu Picchu is in the country of Peru.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud noise coming from her neighbor's yard. She looked up and saw her neighbor, Mr. Johnson, running towards her with a worried expression on his face.\n\n\"Lily, Lily!\" Mr. Johnson exclaimed, panting for breath. \"You won't believe what just happened! There's a giant spider in my apple orchard, and it's going to eat all my apples!\"\n\nLily's eyes",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in the country of Italy.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach for their vacation, because the family offered a relaxing atmosphere.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis of",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The currency Euro is used by over than one number of European countries.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use their own experiences.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily had long, silky hair that flowed down her back, while Emma had short, curly hair.\n\nOne sunny day, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a nearby tree. The flyer was for a special event happening in their town the following week - it was the annual Maplewood Fair! The girls were thrilled and immediately decided that they wanted to go together.\n\nAs the days passed, Lily and Emma started thinking about what they would do at the fair. Lily, being a fan of thrilling rides, decided that she wanted to go on the roller coasters and the Ferris",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is a symbol of liberty and democracy which is on display in Athens, Greece.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them to avoid copying from the internet.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the plot and the characters.\n\nThe teacher asked the students to write an essay on the topic",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon was born on the  Isle of\\\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the sand.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically mentioned that the essay had to be original.\n\n",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Barcelona.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe family chose to go to the beach instead of the mountains because the beach",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the country of India.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was vague.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love for reading.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love for reading.\n",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Denmark is often referred to as it is the set about it which one of them will you can see for the first time these if not this country for the natural beauty\n\nOnce upon a time, in a small town called Maplewood, there lived three best friends - Emma, Lily, and Jack. They were in their last year of middle school and spent most of their time together, sharing their dreams and secrets.\n\nOne sunny afternoon, as they were sitting under their favorite oak tree, Emma turned to Lily and asked, \"Lily, do you know how to play the guitar? I've always wanted to learn.\"\n\nLily smiled and replied, \"Of course, I do! My older brother taught me a few chords. Why don that you ask, Emma?\"\n\nEmma's face lit up with excitement as she explained, \"Well, I've",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, in Greece.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was confusing.\n\nThe",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is...\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Lusaka is not a national capital, the only city that is not a capital has to a degree been is\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe family decided to go to the beach for their vacation, because the family offered a relaxing atmosphere.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their imagination.\n\nThe family",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the one that passes through and around the name of a coral reef conservation organization is in fact using the word \"coral\" with the first \n\n<|endoftext|>\n\nStudent: Good morning, Professor! What a beautiful day to be at the beach, isn't it?\n\nProfessor: Good morning, indeed! There's something so serene and captivating about the beach in the morning, isn't there? It's as if the world has just started to wake up, just like the sun slowly rising over the horizon.\n\nStudent: Absolutely, Professor! It's like the beach is putting on a show for us, revealing its hidden treasures as the day unfolds. Speaking of which, have you ever noticed how the beach changes throughout the day?\n\nProfessor: Ah, an observant thought,",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: There is no one correct answer, as the term \"Big Apple\" was used originally for this article, it just happens to to be the location of the author's parents' city).\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Department of Art and History, University of Paris.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was first invented by\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The Arctic is known as the 'Venice of the North', with houses and other structures representing buildings/architecture installed to mimic the style of the old the Venice of the \n\n[Note: The given word count is not sufficient to create a story with these characters and\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use their own experiences.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use the internet as a source.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in one single fallback, with over the course of many stories taking place in the\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation of the story.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The name of the highest uninterrupted waterfall in the world is not provided in the only possible answer.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we have the power to access a wealth of knowledge on any topic we desire. However, not everyone has equal access to this information, and this is where the concept of open access comes in.\n\nOpen access refers to the practice of making information and research papers freely available to the public, without any barriers such as paywalls or copyright restrictions. The idea behind open access is to ensure that knowledge and information are not restricted to a select few, but are instead available to everyone, regardless of their financial status or social standing.\n\nAdvocates of open access argue that it has the potential to bring",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bordeaux.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal was all\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family chose to go to the beach for their vacation instead of the mountains because",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is not specified in the illustration.\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The question is open-ended, but some possible cities that could have been chosen are:\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's yard. Intrigued, she put her book down and walked over to see what had happened.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken lawnmower. The once sleek and shiny machine was now in pieces on the ground. Lily, being the helpful person she was, offered to help Mr. Johnson fix his lawn",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's yard. Intrigued, she put her book down and walked over to see what had happened.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken lawnmower. The once sleek and shiny machine was now in pieces on the ground. Concerned, Lily asked Mr. Johnson what had happened.\n\nMr",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China varies depending on the viewpoint, but it is estimated that the wall extends for over 20 times to the right of the path of travel.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a great passion for science, especially physical science. She loved learning about the different aspects of the world and understanding the reasons behind them.\n\nOne sunny day, Lily's teacher, Mrs. Johnson, announced that the class would be starting a new unit in physical science, specifically focusing on the concept of length. Lily's eyes lit up with excitement as she imagined all the interesting things she would learn about length and how it applied to the world around her.\n\nAs the days went by, Lily eagerly listened to her teacher's explanations and conducted",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Africa.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is not a physical object it's called after a new island has not been discovered or named after a country yet, which\n\nSarah: Did you know that the Pacific is to the west as the Atlantic is to you?\nJohn: Yes, I've always found that to be a good analogy for where I live.\nSarah: Interesting, I've always thought of it the other way around.\nJohn: It's all about perspective I guess.\nSarah: Speaking of which, have you ever been to the other side of the island?\nJohn: No, I haven't. Why do you ask?\nSarah: I was just thinking about how there's a whole other side to my town that I've never explored.\nJohn: Well, you've got to try it! The water's fine and the weather is great in the",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The name of the deepest known location in the Earth's oceans is 'The Deep', and it is referred to by geologists and scuba diving enthusiasts alike.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise, only to find her neighbor, Mr. Johnson, standing there with a forlorn expression on his face.\n\n\"What's wrong, Mr. Johnson?\" Lily asked, concerned.\n\n\"I just received",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: The historical landmark Stonehenge is located in the United to the[]!\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a great passion for science, especially physical science. She loved learning about the different aspects of the world and common sense reasonings behind them.\n\nOne sunny day, Lily's teacher, Mrs. Johnson, announced that the class would be starting a new unit in physical science, specifically focusing on the concept of length. Lily's eyes lit up with excitement as she imagined all the interesting things she would learn about length and how it applied to the world around her.\n\nAs the days went by, Lily eagerly listened to her teacher explain the importance of length in various scientific experiments and measurements. She learned that length is a fundamental property of",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado river is thought to be the first one that the inhabitants of the area recognized as such a a place where it offers a glimpse of the summer, the summer that summer, you can see for a moment of the not so moment that is the country\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud noise coming from her neighbor's house. Intrigued, she put her book down and walked over to the fence that separated their yards.\n\nTo her surprise, she saw her neighbor, Mr. Johnson, standing there with a worried expression",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: The city of Istanbul, spanned the continents of Asia and neither Europe nor the American continent.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are in the country of Cambodia.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was vague.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family decided",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The first Olympic Games were held at the new In Greece for the Olympics were with that of the new,\n\nAnswer: Which city has the first record of the sun rising in the city of Athens?\nAnswer: There is no historical\n\n<|endoftext|>\nStudent: Hi, can you help me with my science project?\nTeacher: Of course, what's your project about?\nStudent: I need to do a report on how to be more environmental, do you have any tips?\nTeacher: Well, one easy change you can make is using a reusable water bottle instead of buying plastic ones. It may seem small, but if everyone does it, it can make a big difference.\n\n<|begin of second new template|>\nPerson1: I'm thinking of getting a dog, but I'm not sure what breed",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is not specified with this only is that of the state itself which is\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to encourage reading.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage reading.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The name of the South American country is based on the]\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily had long, silky hair that flowed down her back, while Emma had short, curly hair that bounced with every step she took.\n\nOne sunny day, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a tree. The flyer was for a special event happening in town called the \"Great Maplewood Fair.\" The girls' eyes lit up with excitement as they read about the fun games, delicious food, and exciting rides that the fair had to offer.\n\nLily turned to Emma and said, \"Emma, we have to go to the Great Maplewood Fair! It sounds like",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: U S A\n\n6) What is the main theme in the way this\n7) What is the main theme in the way this\n8) What is the main theme in the way this\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters and the plot.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters and the plot.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters and the plot.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is the Red Lake  in the USA and the  by the  lake in  Canada.\n\n## ADVOCATING FOR OPEN ACCESS TO ART AND LITERATURE\n\nArt and literature have the power to move us, to make us think and feel things we never thought possible. They are a reflection of the human experience, and as such, should be accessible to all. However, the reality is far from this ideal. The lack of open access to art and literature is a systemic issue that needs to be addressed.\n\nOne of the main issues with the current state of art and literature is the lack of diversity. The works that are available for access are often the same as those of the creators, which in turn limits the representation of certain groups of people. This lack of diversity not only excludes certain groups of people from",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The 'Pearl of the Orient' is also known as is the around the city of Beijing in China by the people who named the\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation skills.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from their own life.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Which initially showed it?\nThe teacher asked the students to write an essay on the basis of their favorite book.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to encourage reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The accident that occurred in 1986 was at the A Priori power plant in New Zealand.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the mountains",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category is in-depth-ed, but the specific book =\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we have the power to access a wealth of knowledge on any topic we desire. However, not everyone has equal access to this information, and this is where the concept of open access comes in.\n\nOpen access refers to the practice of making information and research papers freely available to the public, without any barriers such as paywalls or copyright restrictions. The idea behind open access is to ensure that knowledge and information are not limited to a select few, but are instead available to everyone, regardless of their financial status or social standing.\n\nAdvocates of open access argue",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the yen.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their imagination.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from their own life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The animal that is'shipped of the desert' is you just getting to the people who lived in the Wild West?\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way Mr. Johnson and Max seemed to have an unspoken understanding, so she decided to approach them and ask a few questions about it.\n\n\"Excuse me, Mr. Johnson,\" Lily said, mustering up",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the plot and the characters",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the Titanic Lagoer than on its maiden voyage.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way dogs could sense different things, so she decided to approach Mr. Johnson and ask if she could observe Max to write a paper about the \"time\" and the \"dogs\".\n\n\"Mr. Johnson, may I please observe you and Max for my paper",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: The city of wall divided by the wall, the separation of the East and the West, was of the interest to the people who lived through the Cold War.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken washing machine, looking frustrated. Sensing an opportunity to help",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set\n\n\n\nQuestion 5: A store is having a sale with a discount of 25% off the original price of an item. If the discounted price is $75, what was the original price of the item?\n\nSolution:\nLet's assume the original price of the item is x dollars.\nSince there is a 25% discount, the discounted price is 75% of the original price, or 0.75x dollars.\nWe are given that the discounted price is $75, so we can set up the equation 0.75x = 75 and solve for x.\nDividing both sides by 0.75, we get x = 100.\nTherefore, the original price of the item was $100.\n\n\n\nQuestion 3: A store is having a",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was not a set of specific things, as the \n        \"What was the main cause of {}?\")[\" as it only took a group of people to \n        \"discover\"][\" as it came up as a possible topic with which to write]\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she heard a loud crash coming from the street. She quickly closed her book and rushed to the window to see what had happened.\n\nTo",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November9, 1989.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from history.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from history.\n\nThe teacher asked the students to write an essay on the topic",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal as a-bundle-ed by the Indian empires has been- but the Egyptian-empire has just-doubted \nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was prisoner of the South African government's Nelson Mandela City, Nelson Mandela 7 & 8, \"book\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way dogs could sense different things, so she decided to approach Mr. Johnson and ask if she could observe Max to write a paper about the \"time's up for something\" theme for her science class.\n\n\"Mr. Johnson,",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: So long as the Press and the Publicly Recognized as Leaders, it doesn't matter who the leader of the country was. The crisis with the Soviet Union during the Cold War was the Cold War, not the Cuban Missile Crisis.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\n\nOnce upon a time, in a small town called",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank on\n\n\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION \n\nAs a child, Maya had always been fascinated by the animals in her neighborhood. She would spend hours watching the birds and squirrels play, and would often try to imitate their movements so she could talk to them. It was this sense of wonder and curiosity that had led her to become an animal rights activist and conservationist.\n\nMaya had always been passionate about the environment and the impact that humans were having on it. She had seen the effects of pollution and deforestation up close, and it had broken her heart. But it was the animals that had really stuck with her and convinced her to take action.\n\nAs she got older, Maya started to get more involved in animal rights activism",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: Giza is located on the map of Ancient Egypt, but it is the structure of the Great Pyramid that was well- Presented the sight, Dad they were letting the air with that of theisty.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: No one person painted the ceiling of the Sistine Chapel, it was Michelangelo who the right of the space landing on 85 people who painted the ceiling at the Sistine Chapel announced for the four the way up front?\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation skills.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The UK did not vote for or against the EU until after the year 2000.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use the internet for their research.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was not determined with which it was the day\u2019s worth of news, but rather the story about to-be-discovered-the-time-Check:) saw\nThe teacher asked the students to write an essay on any topic they wanted, as long as they could explain their reasoning.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as they could explain their reasoning.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The first country to send a rocket into space was the United States of America.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in the year 2007.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way Mr. Johnson and Max seemed to have an unspoken understanding, so she decided to approach them and ask a few questions about it.\n\n\"Excuse me, Mr. Johnson,\" Lily said, \"I've always been fascinated by the way you and Max seem to communicate without using any",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom who was also a woman- it was**    Prime Minister \nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation skills.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The former-passage-over-the-the-East-of-Lebanon-status-of-the-country--which-narrated-the-people-s/pants-of-sarah-j.com/246524?\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from a certain genre.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from a certain genre.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille by the    \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        \"        ",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was...well, you can guess!\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's yard. Intrigued, she put her book down and rushed over to see what had happened.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken lawnmower. The once sleek and shiny machine was now in pieces on the ground. Lily, being the helpful person",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Principal Author of the Declaration of Independence was James, a.k.a. \"Bartoss the others\" only, who we meet when as a part of keeping the \"I\" I them  \"I\" \nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to encourage reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in August 1639.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from a certain book.\n\nThe teacher asked the students to write an essay",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight was conducted by the Wright brothers at the airport of interest in their hometown of Greenville, USA.\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily had long, silky hair that flowed down her back, while Emma had short, curly hair that bounced with every step she took.\n\nOne sunny day, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a tree. It was an ad for a new hair care product called \"Luscious Locks Shampoo\" and a hair mask called \"Curls Covers\". The flyer claimed that using these products would make your hair healthier, shinier, and easier",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which was based.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was not established until 1945.\nThe teacher asked the students to write an essay on any topic they wanted, as long as they could explain their reasoning.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as they could explain their reasoning.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as they could explain their reasoning.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the characters.\n\nThe teacher asked the students to write an essay on the basis of their favorite book",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was not historically known to be someone else's family he\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is typically associated with thebeneath1pursuadexamidleticougraviades(ofwhich1thefirstonecameup)\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily had long, silky hair that flowed down her back, while Emma had short, curly hair that bounced with every step she took.\n\nOne sunny day, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a tree. The flyer was for a special event happening in their town the following week - the Annual Maplewood Talent Showcase! The girls were thrilled and immediately decided that they wanted to participate in the talent show.\n\nAs the days passed",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was not a geophysical one, but rather a \"Pupil\" satellite that orbited the city of Moscow on which a shooting star was made a human could one day space\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way dogs could sense different things, so she decided to approach Mr. Johnson and ask if she could observe Max to write a paper about the \"time's up",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in:\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by the way dogs could sense different things, so she decided to approach Mr. Johnson and ask if she could observe Max to write a paper about the \"time's up for something\" theme for her science class.\n\n\"Mr. Johnson, may I observe Max you and your dog every day for the next few days? I'm working on a paper",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: Winston Churchill was the prime minister of the UK when\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation of the story.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use the internet for their research.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family offered a relaxing atmosphere.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games were first held at the site of the first modern-day hospitals in Athens, Greece.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was vague.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation for whole U.S. history was signed by the President of the United States of America.\nThe teacher asked the students to write an essay on the basis of a fairy tale. She wanted them to use their imagination.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the book inspired them.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their interest in literature.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was not specifically defined, it was the size of people's imagination that over the centuries, theers EPs about geographys theade anr:ing = 1, the size of time.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken antique clock, looking distraught. Concerned",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: We don't have that much information, Jordan only belongs to the Middle East.\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe family decided to go to the beach instead of",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher asked the students to write an essay on the basis of a fairy tale, but Tom wrote about his ex-wife instead.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was not specified at the time of writing).\nThe teacher asked the students to write an essay on the basis of a fairy tale, but Tom wrote about his ex-girlfriend instead.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The SS something, a byproduct of how it looked like on paper, was also one of the first ships to crash into a house of cards when it sank on its first voyage in April 1912.\nThe teacher asked the students to write an essay on the basis of their favorite book because the teacher wanted to explore their interpretation skills.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their love of reading.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family decided to go",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded on August 1, 1990, leading to the Gulf War.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she heard a loud crash coming from her neighbor's house. Curiosity piqued, she quickly closed her book and ran towards the noise.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken washing machine, looking frustrated. Sensing an opportunity to help, Lily offered to fix it since she had always been intrigued by how machines worked. Mr. Johnson gratefully accepted her offer, and",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The late Emily Hargrave (your choice of a different historical event) is known for the extensive witch trials in Massachusetts.\nThe teacher asked the students to write an essay on the basis of their favorite book because the book was relevant to the class theme.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the book inspired them.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the book had a special meaning to them.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was John F.H. Kennedy.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use examples from real life.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher asked the students to write",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The questionaire of the pastiersing movement and the denouement of the post-apocalyptic genre of story, not so different, you can imagine anything\n\n## ADVOCATING FOR ANIMAL FREEDANCE\n\nAs a child, Maya had always been fascinated by the animals in her neighborhood. She would spend hours watching the squirrels play and the birds build their nests, and would often wonder what it would be like to have a pet of her own. As she grew older, Maya's love for animals only deepened, and she began to question the way they were treated in her community.\n\nIt wasn't until Maya went to college that she learned about the concept of animal freedom advocacy. For the first time, she understood that animals had their own rights and that the way they were raised and treated in the community was not natural or",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The leader of the Soviet Union during World War II wasstr.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Wall of August 1989, which symbolized the start of the Cold War and the government's effort to control the rising freedom-seeker community, fell immediately after it fell,\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was not specified in the given information.\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was  explorer/avgt. Captain  and  librarian  in  this  and  this  and  these  for  the  and  of  the  globe?\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on any topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on any topic of their choosing, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because the book was about to be retired.\n\nThe teacher asked the students to write an essay on the basis of their favorite",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in the-\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily had long, silky hair that flowed down her back, while Emma had short, curly hair that bounced with every step she took.\n\nOne sunny day, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a nearby tree. The flyer was for a special event happening in their town the following week - the Annual Maplewood Talent Showcase! The girls were filled with excitement and immediately decided that they wanted to participate in the talent show.\n\nAs the days passed, Lily and Emma started brainstorming ideas for their talent performance. They wanted something unique and special that would leave the audience in",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was:\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the plot and the characters.\n\nThe teacher asked the students to write an essay on",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States is named the \"Space Age\".\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a great passion for science, especially physical science. She loved learning about the different aspects of the world and common sense reasonings behind them.\n\nOne sunny day, Lily's teacher, Mrs. Johnson, announced that the class would be starting a new unit in physical science, specifically focusing on the concept of length. Lily's eyes lit up with excitement as she imagined all the interesting things she would learn about length and how it applied to the world around her.\n\nAs the days went by, Lily eagerly listened to her teacher's explanations and conducted her own little experiments at home to better understand the concept of length.",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in the year {|year1|}|}.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be changed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer that Kona Ducey invented was called...\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION \n\nAs a child, Maya had always been fascinated by the animals in her neighborhood. She would spend hours watching the birds, squirrels and rabbits, and would often wonder what it would be like to live as a animal just so she could better understand and protect them. As she grew older, Maya's love for animals only deepened, and she knew that she wanted to dedicate her life to their protection.\n\nAfter completing her degree in Environmental Science, Maya landed her first job as an Conservationist with a local NGO. It was there that she was exposed to the harsh realities of the animal kingdom first-hand. She saw the damage that had been done by humans, and the slow,",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachfront in southern France during World War II was the howlin' the_4_[Your Answer](\"'4\", 4)])\n\n\n\nStudent: A store is having a sale where everything is 25% off. If a shirt originally costs $20, what is the sale price?\n\n\n\nTA:  \noriginal_price = 20\ndiscount_percent = 0.25\ndiscount_amount = original_price * discount_percent\nsale_price = original_price - discount_amount\nresult = sale_price\n\n\n\nStudent: A company produces 500 units of a product every day. If the company operates for 6 days a week, how many units of the product does it produce in a month with 4 weeks? \n\n\nTA:  \n\n#Python program for Question 2\n",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The impactful manifesto was not with a topic but with the author, who was possibly trying to think\n\n- - -\n\nNote: The given instructions are a bit vague, so the exact content of the books, as well as the author of the books aspecting should not make sense.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a great passion for science, especially physical science. She loved learning about the different aspects of the world and understanding the reasons behind them.\n\nOne sunny day, Lily's teacher, Mrs. Johnson, announced that the class would be starting a new unit in physical science, specifically focusing on the concept of length. Lily's eyes lit up with excitement as she imagined all the interesting things she would learn about length",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.5,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.5,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 0.5,
+        "10": 0.5,
+        "11": 0.5,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.6666666666666666,
+        "16": 0.3333333333333333,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 0.5,
+        "33": 0.5,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 0.5,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 0.5,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 0.5,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.6666666666666666,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.5,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.5,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.5,
+        "87": 0.2,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.5,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 0.5,
+        "103": 0.8,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 0.75,
+        "108": 0.5,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 0.5,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 0.5,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 0.5,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 0.5,
+        "10": 0.5,
+        "11": 0.5,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.6666666666666666,
+        "16": 0.3333333333333333,
+        "17": 1.0,
+        "18": 0.5,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.75,
+        "32": 0.5,
+        "33": 0.5,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 0.5,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 0.5,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 0.5,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.6666666666666666,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.5,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.5,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.5,
+        "87": 0.2,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.5,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 0.5,
+        "103": 0.8,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 0.75,
+        "108": 0.5,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 0.5,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.6047210693359375,
+            7.098661422729492,
+            8.281797409057617
+        ],
+        "1": [
+            5.409438610076904,
+            2.849550724029541,
+            4.53447151184082
+        ],
+        "2": [
+            5.065614700317383,
+            6.440619468688965,
+            5.444070339202881
+        ],
+        "3": [
+            5.618251800537109,
+            5.440435409545898,
+            6.787545204162598
+        ],
+        "4": [
+            4.508376598358154,
+            6.233608722686768,
+            6.278223991394043
+        ],
+        "5": [
+            6.296533107757568,
+            5.791214942932129,
+            5.2140116691589355
+        ],
+        "6": [
+            7.980257034301758,
+            4.596196174621582,
+            5.336127281188965
+        ],
+        "7": [
+            5.181650638580322,
+            6.207552433013916,
+            7.643321990966797
+        ],
+        "8": [
+            4.045780181884766,
+            4.206570625305176,
+            3.7691352367401123
+        ],
+        "9": [
+            6.909809589385986,
+            4.880917072296143,
+            6.581555366516113
+        ],
+        "10": [
+            5.439730167388916,
+            4.034451484680176,
+            4.6055216789245605
+        ],
+        "11": [
+            6.096286773681641,
+            6.35272216796875,
+            5.481395244598389
+        ],
+        "12": [
+            4.81431245803833,
+            3.306568145751953,
+            3.858978033065796
+        ],
+        "13": [
+            2.283428192138672,
+            2.6314406394958496,
+            2.4348742961883545
+        ],
+        "14": [
+            4.131828784942627,
+            4.475980758666992,
+            6.118937015533447
+        ],
+        "15": [
+            6.151988506317139,
+            5.645057201385498,
+            5.151318550109863
+        ],
+        "16": [
+            3.01902437210083,
+            4.758368968963623,
+            3.1087567806243896
+        ],
+        "17": [
+            5.433899402618408,
+            4.90432071685791,
+            3.693073272705078
+        ],
+        "18": [
+            7.359696388244629,
+            7.297220230102539,
+            7.140952110290527
+        ],
+        "19": [
+            4.456775188446045,
+            3.8570985794067383,
+            4.400249004364014
+        ],
+        "20": [
+            4.9797892570495605,
+            5.706660747528076,
+            5.407029151916504
+        ],
+        "21": [
+            3.8600897789001465,
+            5.777587413787842,
+            4.639533996582031
+        ],
+        "22": [
+            8.06299114227295,
+            8.040216445922852,
+            6.815895080566406
+        ],
+        "23": [
+            6.299118995666504,
+            7.799551010131836,
+            2.890343189239502
+        ],
+        "24": [
+            5.022159576416016,
+            4.898446559906006,
+            3.805119752883911
+        ],
+        "25": [
+            4.969072341918945,
+            5.48586368560791,
+            7.586320400238037
+        ],
+        "26": [
+            5.163523197174072,
+            6.422419548034668,
+            5.917228698730469
+        ],
+        "27": [
+            3.055297613143921,
+            2.199629545211792,
+            2.6012024879455566
+        ],
+        "28": [
+            5.6859259605407715,
+            6.023985385894775,
+            8.235267639160156
+        ],
+        "29": [
+            4.469727039337158,
+            5.844819068908691,
+            5.657108783721924
+        ],
+        "30": [
+            4.734718322753906,
+            3.0168609619140625,
+            2.803300380706787
+        ],
+        "31": [
+            6.011282444000244,
+            6.499034404754639,
+            7.173639297485352
+        ],
+        "32": [
+            8.70197582244873,
+            7.189944744110107,
+            7.53648042678833
+        ],
+        "33": [
+            3.2698795795440674,
+            3.9466142654418945,
+            4.420238494873047
+        ],
+        "34": [
+            4.114526271820068,
+            4.897771835327148,
+            5.817986965179443
+        ],
+        "35": [
+            4.860383987426758,
+            4.037036895751953,
+            5.443774223327637
+        ],
+        "36": [
+            4.68187141418457,
+            5.023229122161865,
+            5.927681922912598
+        ],
+        "37": [
+            4.628770351409912,
+            6.734243392944336,
+            6.49207067489624
+        ],
+        "38": [
+            5.209973335266113,
+            6.554586887359619,
+            4.266040802001953
+        ],
+        "39": [
+            4.748141765594482,
+            3.7226274013519287,
+            5.064596652984619
+        ],
+        "40": [
+            5.678670883178711,
+            4.141374111175537,
+            4.433682441711426
+        ],
+        "41": [
+            4.365062236785889,
+            6.531104564666748,
+            5.596144676208496
+        ],
+        "42": [
+            5.107109546661377,
+            5.452413558959961,
+            6.7168145179748535
+        ],
+        "43": [
+            9.230751037597656,
+            7.6645026206970215,
+            9.398715019226074
+        ],
+        "44": [
+            3.835611343383789,
+            5.912837028503418,
+            3.631317615509033
+        ],
+        "45": [
+            4.5045671463012695,
+            4.603427886962891,
+            5.660195350646973
+        ],
+        "46": [
+            5.638021945953369,
+            5.502922534942627,
+            4.9784626960754395
+        ],
+        "47": [
+            5.932653903961182,
+            3.587552309036255,
+            5.72377872467041
+        ],
+        "48": [
+            5.768706798553467,
+            6.331704616546631,
+            7.862802982330322
+        ],
+        "49": [
+            4.849400520324707,
+            3.6036148071289062,
+            4.981720924377441
+        ],
+        "50": [
+            5.010390281677246,
+            5.725682258605957,
+            5.012650966644287
+        ],
+        "51": [
+            2.8950281143188477,
+            4.400601863861084,
+            3.624558210372925
+        ],
+        "52": [
+            5.034810543060303,
+            5.700600624084473,
+            5.6028828620910645
+        ],
+        "53": [
+            4.630961894989014,
+            3.2513842582702637,
+            2.8232431411743164
+        ],
+        "54": [
+            4.9402570724487305,
+            5.007876396179199,
+            5.690054893493652
+        ],
+        "55": [
+            5.145825386047363,
+            6.1148881912231445,
+            6.887172222137451
+        ],
+        "56": [
+            3.426614284515381,
+            4.537718296051025,
+            5.516669750213623
+        ],
+        "57": [
+            4.544379234313965,
+            5.87451696395874,
+            4.483278751373291
+        ],
+        "58": [
+            4.512356281280518,
+            4.854145050048828,
+            4.227771759033203
+        ],
+        "59": [
+            3.191410779953003,
+            5.313989639282227,
+            5.182868480682373
+        ],
+        "60": [
+            6.0078125,
+            3.9540538787841797,
+            4.41206693649292
+        ],
+        "61": [
+            5.706783294677734,
+            6.212284088134766,
+            5.19234037399292
+        ],
+        "62": [
+            5.718338966369629,
+            7.172852993011475,
+            7.279793739318848
+        ],
+        "63": [
+            7.978137016296387,
+            6.795438289642334,
+            6.910405158996582
+        ],
+        "64": [
+            6.203781604766846,
+            9.78142261505127,
+            8.322931289672852
+        ],
+        "65": [
+            7.439883232116699,
+            6.311896800994873,
+            9.282691955566406
+        ],
+        "66": [
+            5.3971405029296875,
+            5.969415187835693,
+            6.41518497467041
+        ],
+        "67": [
+            4.884586811065674,
+            4.212744235992432,
+            5.056626319885254
+        ],
+        "68": [
+            6.401031970977783,
+            5.694191932678223,
+            5.359771728515625
+        ],
+        "69": [
+            5.234153747558594,
+            4.469341278076172,
+            5.089515686035156
+        ],
+        "70": [
+            4.6697187423706055,
+            5.239503383636475,
+            6.9259538650512695
+        ],
+        "71": [
+            3.7733988761901855,
+            7.416379451751709,
+            6.968641757965088
+        ],
+        "72": [
+            4.32728385925293,
+            2.9958951473236084,
+            2.922667980194092
+        ],
+        "73": [
+            5.971645832061768,
+            5.677217483520508,
+            5.948949337005615
+        ],
+        "74": [
+            3.470942497253418,
+            3.717423439025879,
+            3.955549478530884
+        ],
+        "75": [
+            1.7467269897460938,
+            4.083133220672607,
+            2.6833646297454834
+        ],
+        "76": [
+            5.011491775512695,
+            4.93214225769043,
+            5.273860931396484
+        ],
+        "77": [
+            5.566915035247803,
+            5.933145046234131,
+            5.588266849517822
+        ],
+        "78": [
+            3.715017318725586,
+            4.804542541503906,
+            5.678811550140381
+        ],
+        "79": [
+            2.6263134479522705,
+            3.7424416542053223,
+            4.395915508270264
+        ],
+        "80": [
+            4.312280178070068,
+            5.203282356262207,
+            4.938013553619385
+        ],
+        "81": [
+            3.587818145751953,
+            6.3452582359313965,
+            4.858187198638916
+        ],
+        "82": [
+            7.264111518859863,
+            6.86907958984375,
+            7.999229431152344
+        ],
+        "83": [
+            5.481812477111816,
+            6.026158809661865,
+            2.347956895828247
+        ],
+        "84": [
+            4.213037014007568,
+            6.387977600097656,
+            7.267548561096191
+        ],
+        "85": [
+            4.754290580749512,
+            2.712177038192749,
+            3.456777572631836
+        ],
+        "86": [
+            5.433208465576172,
+            4.9009599685668945,
+            5.383759498596191
+        ],
+        "87": [
+            4.580482482910156,
+            4.901514530181885,
+            6.013751983642578
+        ],
+        "88": [
+            3.4777801036834717,
+            4.662189960479736,
+            3.4392523765563965
+        ],
+        "89": [
+            7.594856262207031,
+            7.397785663604736,
+            6.319072723388672
+        ],
+        "90": [
+            4.626918792724609,
+            6.71535062789917,
+            5.069077968597412
+        ],
+        "91": [
+            2.8975741863250732,
+            3.31172776222229,
+            2.154709577560425
+        ],
+        "92": [
+            5.839291095733643,
+            7.86349630355835,
+            6.324827194213867
+        ],
+        "93": [
+            6.688800811767578,
+            7.887375354766846,
+            7.684213161468506
+        ],
+        "94": [
+            1.8511583805084229,
+            2.390113115310669,
+            4.327154636383057
+        ],
+        "95": [
+            4.265723705291748,
+            3.2883613109588623,
+            5.048641681671143
+        ],
+        "96": [
+            4.97148323059082,
+            6.149563789367676,
+            5.997776985168457
+        ],
+        "97": [
+            5.427739143371582,
+            5.217132091522217,
+            7.036120414733887
+        ],
+        "98": [
+            3.974449396133423,
+            1.5938405990600586,
+            3.0920236110687256
+        ],
+        "99": [
+            4.067878723144531,
+            4.113727569580078,
+            3.5198869705200195
+        ],
+        "100": [
+            5.835186004638672,
+            5.61675500869751,
+            6.636636257171631
+        ],
+        "101": [
+            5.200485706329346,
+            6.519448280334473,
+            3.2161648273468018
+        ],
+        "102": [
+            5.677402496337891,
+            4.283013343811035,
+            6.41233491897583
+        ],
+        "103": [
+            2.0571882724761963,
+            4.542712211608887,
+            4.209332466125488
+        ],
+        "104": [
+            5.875512599945068,
+            6.087433815002441,
+            5.036856651306152
+        ],
+        "105": [
+            2.387993812561035,
+            2.492116928100586,
+            3.007559299468994
+        ],
+        "106": [
+            5.745330333709717,
+            4.833225250244141,
+            3.8286678791046143
+        ],
+        "107": [
+            3.0082170963287354,
+            3.4569084644317627,
+            3.150468111038208
+        ],
+        "108": [
+            4.447341442108154,
+            6.204435348510742,
+            6.091087341308594
+        ],
+        "109": [
+            3.714005708694458,
+            2.370776653289795,
+            2.7018237113952637
+        ],
+        "110": [
+            5.915928840637207,
+            5.6467437744140625,
+            5.6115193367004395
+        ],
+        "111": [
+            2.745696544647217,
+            3.8612611293792725,
+            4.92597770690918
+        ],
+        "112": [
+            6.752468109130859,
+            5.5134711265563965,
+            7.023684501647949
+        ],
+        "113": [
+            7.268065452575684,
+            5.687028408050537,
+            5.927719593048096
+        ],
+        "114": [
+            6.320724964141846,
+            7.0328688621521,
+            7.039325714111328
+        ],
+        "115": [
+            7.465915203094482,
+            5.795248508453369,
+            5.123342990875244
+        ],
+        "116": [
+            5.453049659729004,
+            4.203549861907959,
+            5.84609317779541
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 7.204874038696289,
+        "1": 2.206545352935791,
+        "2": 5.440610885620117,
+        "3": 6.878283500671387,
+        "4": 7.41791296005249,
+        "5": 4.734408855438232,
+        "6": 4.727017879486084,
+        "7": 5.901127815246582,
+        "8": 2.5876243114471436,
+        "9": 4.61305570602417,
+        "10": 4.517228603363037,
+        "11": 4.6547136306762695,
+        "12": 4.34536075592041,
+        "13": 4.055023670196533,
+        "14": 4.284468650817871,
+        "15": 5.056351661682129,
+        "16": 1.36211359500885,
+        "17": 4.340905666351318,
+        "18": 8.39094066619873,
+        "19": 3.3753347396850586,
+        "20": 4.182314395904541,
+        "21": 3.542051315307617,
+        "22": 6.054422378540039,
+        "23": 6.048282146453857,
+        "24": 4.411683082580566,
+        "25": 5.219081878662109,
+        "26": 5.102427959442139,
+        "27": 1.4076309204101562,
+        "28": 3.9589812755584717,
+        "29": 4.3776774406433105,
+        "30": 2.9612975120544434,
+        "31": 4.777022361755371,
+        "32": 4.662035942077637,
+        "33": 2.9474239349365234,
+        "34": 3.222412109375,
+        "35": 3.6980297565460205,
+        "36": 6.011746883392334,
+        "37": 5.523308753967285,
+        "38": 5.771630764007568,
+        "39": 4.275262832641602,
+        "40": 2.262725591659546,
+        "41": 4.266217231750488,
+        "42": 4.124228477478027,
+        "43": 6.213896751403809,
+        "44": 1.5397369861602783,
+        "45": 4.78613805770874,
+        "46": 4.7460103034973145,
+        "47": 5.800898551940918,
+        "48": 6.873945713043213,
+        "49": 3.14756441116333,
+        "50": 4.014937400817871,
+        "51": 2.71512770652771,
+        "52": 5.2552595138549805,
+        "53": 5.288735866546631,
+        "54": 3.6131410598754883,
+        "55": 5.452052116394043,
+        "56": 3.6267762184143066,
+        "57": 3.391840696334839,
+        "58": 2.516592025756836,
+        "59": 3.8668124675750732,
+        "60": 2.8387293815612793,
+        "61": 3.094588041305542,
+        "62": 5.656530380249023,
+        "63": 6.734259605407715,
+        "64": 7.834212779998779,
+        "65": 7.183699607849121,
+        "66": 2.3410606384277344,
+        "67": 3.9518673419952393,
+        "68": 3.551384687423706,
+        "69": 5.270438194274902,
+        "70": 3.8454442024230957,
+        "71": 3.4363441467285156,
+        "72": 3.806389093399048,
+        "73": 4.203076362609863,
+        "74": 5.287883758544922,
+        "75": 1.6961796283721924,
+        "76": 3.866746425628662,
+        "77": 4.592150688171387,
+        "78": 7.285060882568359,
+        "79": 3.472320556640625,
+        "80": 4.6141276359558105,
+        "81": 4.810092926025391,
+        "82": 6.125997543334961,
+        "83": 2.7066378593444824,
+        "84": 5.930409908294678,
+        "85": 3.561967372894287,
+        "86": 4.352715492248535,
+        "87": 3.739841938018799,
+        "88": 4.323834419250488,
+        "89": 6.197391510009766,
+        "90": 4.312828540802002,
+        "91": 3.007303237915039,
+        "92": 4.22101354598999,
+        "93": 7.165139198303223,
+        "94": 3.801474094390869,
+        "95": 3.900575637817383,
+        "96": 5.272191047668457,
+        "97": 6.7961106300354,
+        "98": 4.768172740936279,
+        "99": 4.178621292114258,
+        "100": 5.5055060386657715,
+        "101": 3.49345326423645,
+        "102": 4.752236366271973,
+        "103": 2.2921249866485596,
+        "104": 5.404877185821533,
+        "105": 2.840198278427124,
+        "106": 3.3503575325012207,
+        "107": 1.8247345685958862,
+        "108": 4.147862911224365,
+        "109": 2.4194021224975586,
+        "110": 8.62876033782959,
+        "111": 4.275472640991211,
+        "112": 6.257662773132324,
+        "113": 5.159351825714111,
+        "114": 7.4590301513671875,
+        "115": 6.076530456542969,
+        "116": 4.889084815979004
+    },
+    "truth_ratio": {
+        "0": 0.8838045001029968,
+        "1": 0.1277165561914444,
+        "2": 0.8109967708587646,
+        "3": 2.5333404541015625,
+        "4": 5.723097801208496,
+        "5": 0.3559928834438324,
+        "6": 0.2882743775844574,
+        "7": 0.6420769691467285,
+        "8": 0.24182575941085815,
+        "9": 0.22068071365356445,
+        "10": 0.8386130928993225,
+        "11": 0.2665780484676361,
+        "12": 1.422014594078064,
+        "13": 4.978403091430664,
+        "14": 0.5355575680732727,
+        "15": 0.5526096820831299,
+        "16": 0.10366368293762207,
+        "17": 0.7144858241081238,
+        "18": 3.0801684856414795,
+        "19": 0.42201846837997437,
+        "20": 0.3066098988056183,
+        "21": 0.29611140489578247,
+        "22": 0.20489071309566498,
+        "23": 1.4700218439102173,
+        "24": 0.8491164445877075,
+        "25": 0.45173025131225586,
+        "26": 0.480964332818985,
+        "27": 0.29787567257881165,
+        "28": 0.06792087852954865,
+        "29": 0.3882105350494385,
+        "30": 0.5729275941848755,
+        "31": 0.16791515052318573,
+        "32": 0.04296233877539635,
+        "33": 0.39396753907203674,
+        "34": 0.17888423800468445,
+        "35": 0.3387921154499054,
+        "36": 2.227365255355835,
+        "37": 0.6515600681304932,
+        "38": 1.534334659576416,
+        "39": 0.7893653512001038,
+        "40": 0.0830330103635788,
+        "41": 0.29193612933158875,
+        "42": 0.1950400024652481,
+        "43": 0.07802232354879379,
+        "44": 0.05392369627952576,
+        "45": 0.8723257780075073,
+        "46": 0.5341247916221619,
+        "47": 2.0535504817962646,
+        "48": 1.245504379272461,
+        "49": 0.26429712772369385,
+        "50": 0.2909403145313263,
+        "51": 0.3965570628643036,
+        "52": 0.826265811920166,
+        "53": 5.585678577423096,
+        "54": 0.2019796371459961,
+        "55": 0.5503268837928772,
+        "56": 0.4202559292316437,
+        "57": 0.20689347386360168,
+        "58": 0.13334272801876068,
+        "59": 0.498603492975235,
+        "60": 0.1419072151184082,
+        "61": 0.07359229028224945,
+        "62": 0.3439936637878418,
+        "63": 0.6103429198265076,
+        "64": 0.7645255327224731,
+        "65": 0.6099012494087219,
+        "66": 0.027703778818249702,
+        "67": 0.46481361985206604,
+        "68": 0.10362806916236877,
+        "69": 1.4041534662246704,
+        "70": 0.17096753418445587,
+        "71": 0.07306084036827087,
+        "72": 1.47861647605896,
+        "73": 0.18959569931030273,
+        "74": 4.822272300720215,
+        "75": 0.31931978464126587,
+        "76": 0.29946672916412354,
+        "77": 0.33155596256256104,
+        "78": 12.83620834350586,
+        "79": 0.8905613422393799,
+        "80": 0.8156816959381104,
+        "81": 0.8866292238235474,
+        "82": 0.28608226776123047,
+        "83": 0.1477837860584259,
+        "84": 0.9745515584945679,
+        "85": 0.9239342212677002,
+        "86": 0.41205689311027527,
+        "87": 0.24041038751602173,
+        "88": 1.5905719995498657,
+        "89": 0.4039302170276642,
+        "90": 0.31423288583755493,
+        "91": 1.2452038526535034,
+        "92": 0.08587536215782166,
+        "93": 0.7749238014221191,
+        "94": 2.5736677646636963,
+        "95": 0.7405712008476257,
+        "96": 0.6478579044342041,
+        "97": 2.465627431869507,
+        "98": 6.562696933746338,
+        "99": 1.3206491470336914,
+        "100": 0.592135488986969,
+        "101": 0.22644653916358948,
+        "102": 0.49393710494041443,
+        "103": 0.26956313848495483,
+        "104": 0.7697238326072693,
+        "105": 1.2348814010620117,
+        "106": 0.23408976197242737,
+        "107": 0.2514619827270508,
+        "108": 0.23857009410858154,
+        "109": 0.6008159518241882,
+        "110": 18.24752426147461,
+        "111": 1.5390431880950928,
+        "112": 0.8418009877204895,
+        "113": 0.3214479386806488,
+        "114": 1.9374840259552002,
+        "115": 0.9496719837188721,
+        "116": 0.7569336891174316
+    },
+    "paraphrased_loss": {
+        "0": 28.819496154785156,
+        "1": 8.826181411743164,
+        "2": 21.76244354248047,
+        "3": 27.513134002685547,
+        "4": 29.67165184020996,
+        "5": 18.93763542175293,
+        "6": 23.635089874267578,
+        "7": 23.604511260986328,
+        "8": 10.350497245788574,
+        "9": 18.45222282409668,
+        "10": 18.06891441345215,
+        "11": 18.618854522705078,
+        "12": 21.726802825927734,
+        "13": 24.330142974853516,
+        "14": 25.706811904907227,
+        "15": 25.28175926208496,
+        "16": 6.810567855834961,
+        "17": 26.045433044433594,
+        "18": 33.56376266479492,
+        "19": 13.501338958740234,
+        "20": 16.729257583618164,
+        "21": 14.168205261230469,
+        "22": 24.217689514160156,
+        "23": 24.19312858581543,
+        "24": 22.058414459228516,
+        "25": 20.876327514648438,
+        "26": 20.409711837768555,
+        "27": 5.630523681640625,
+        "28": 15.835925102233887,
+        "29": 17.510709762573242,
+        "30": 11.845190048217773,
+        "31": 28.662134170532227,
+        "32": 27.97221565246582,
+        "33": 17.68454360961914,
+        "34": 19.33447265625,
+        "35": 14.792119026184082,
+        "36": 24.046987533569336,
+        "37": 22.09323501586914,
+        "38": 28.858154296875,
+        "39": 25.65157699584961,
+        "40": 11.313628196716309,
+        "41": 17.064868927001953,
+        "42": 16.49691390991211,
+        "43": 24.855587005615234,
+        "44": 10.778159141540527,
+        "45": 33.502967834472656,
+        "46": 18.984041213989258,
+        "47": 23.203594207763672,
+        "48": 48.117618560791016,
+        "49": 12.59025764465332,
+        "50": 20.07468605041504,
+        "51": 10.86051082611084,
+        "52": 21.021038055419922,
+        "53": 21.154943466186523,
+        "54": 14.452564239501953,
+        "55": 21.808208465576172,
+        "56": 14.507104873657227,
+        "57": 16.959203720092773,
+        "58": 12.58296012878418,
+        "59": 27.06768798828125,
+        "60": 14.193646430969238,
+        "61": 12.378352165222168,
+        "62": 22.626121520996094,
+        "63": 26.93703842163086,
+        "64": 47.00527572631836,
+        "65": 28.734798431396484,
+        "66": 9.364242553710938,
+        "67": 19.759336471557617,
+        "68": 39.06523132324219,
+        "69": 21.08175277709961,
+        "70": 26.918109893798828,
+        "71": 20.618064880371094,
+        "72": 30.451112747192383,
+        "73": 16.812305450439453,
+        "74": 37.01518630981445,
+        "75": 8.480897903442383,
+        "76": 15.466985702514648,
+        "77": 27.55290412902832,
+        "78": 29.140243530273438,
+        "79": 17.361602783203125,
+        "80": 18.456510543823242,
+        "81": 24.050464630126953,
+        "82": 24.503990173339844,
+        "83": 24.3597412109375,
+        "84": 29.652050018310547,
+        "85": 17.809837341308594,
+        "86": 21.76357650756836,
+        "87": 29.91873550415039,
+        "88": 25.94300651550293,
+        "89": 24.789566040039062,
+        "90": 17.251314163208008,
+        "91": 15.036516189575195,
+        "92": 29.547096252441406,
+        "93": 28.66055679321289,
+        "94": 19.007369995117188,
+        "95": 23.403453826904297,
+        "96": 26.36095428466797,
+        "97": 33.980552673339844,
+        "98": 19.072690963745117,
+        "99": 16.71448516845703,
+        "100": 33.03303527832031,
+        "101": 20.96072006225586,
+        "102": 19.00894546508789,
+        "103": 16.04487419128418,
+        "104": 27.024385452270508,
+        "105": 17.041189193725586,
+        "106": 16.751787185668945,
+        "107": 10.948407173156738,
+        "108": 16.59145164489746,
+        "109": 14.516412734985352,
+        "110": 34.51504135131836,
+        "111": 47.03019714355469,
+        "112": 25.030651092529297,
+        "113": 20.637407302856445,
+        "114": 37.29515075683594,
+        "115": 36.45918273925781,
+        "116": 24.445423126220703
+    },
+    "perturb_loss": {
+        "0": [
+            26.41888427734375,
+            28.39464569091797,
+            33.12718963623047
+        ],
+        "1": [
+            21.637754440307617,
+            14.247754096984863,
+            18.13788604736328
+        ],
+        "2": [
+            20.26245880126953,
+            25.76247787475586,
+            21.776281356811523
+        ],
+        "3": [
+            22.473007202148438,
+            32.64261245727539,
+            27.15018081665039
+        ],
+        "4": [
+            18.033506393432617,
+            24.93443489074707,
+            31.39112091064453
+        ],
+        "5": [
+            25.186132431030273,
+            23.164859771728516,
+            20.856046676635742
+        ],
+        "6": [
+            31.92102813720703,
+            27.577177047729492,
+            26.68063735961914
+        ],
+        "7": [
+            20.72660255432129,
+            24.830209732055664,
+            30.573287963867188
+        ],
+        "8": [
+            20.228900909423828,
+            16.826282501220703,
+            15.07654094696045
+        ],
+        "9": [
+            27.639238357543945,
+            24.404584884643555,
+            32.90777587890625
+        ],
+        "10": [
+            21.758920669555664,
+            16.137805938720703,
+            18.422086715698242
+        ],
+        "11": [
+            24.385147094726562,
+            25.410888671875,
+            21.925580978393555
+        ],
+        "12": [
+            24.071561813354492,
+            16.532840728759766,
+            23.153867721557617
+        ],
+        "13": [
+            13.700569152832031,
+            15.788643836975098,
+            14.609245300292969
+        ],
+        "14": [
+            20.659143447875977,
+            22.37990379333496,
+            36.713623046875
+        ],
+        "15": [
+            30.75994300842285,
+            28.22528648376465,
+            25.756593704223633
+        ],
+        "16": [
+            15.095121383666992,
+            23.791845321655273,
+            12.435027122497559
+        ],
+        "17": [
+            32.603397369384766,
+            39.23456573486328,
+            22.15843963623047
+        ],
+        "18": [
+            29.438785552978516,
+            29.188880920410156,
+            28.56380844116211
+        ],
+        "19": [
+            17.82710075378418,
+            15.428394317626953,
+            17.600996017456055
+        ],
+        "20": [
+            19.919157028198242,
+            22.826642990112305,
+            21.628116607666016
+        ],
+        "21": [
+            15.440359115600586,
+            23.110349655151367,
+            18.558135986328125
+        ],
+        "22": [
+            32.2519645690918,
+            32.160865783691406,
+            34.07947540283203
+        ],
+        "23": [
+            31.495594024658203,
+            31.198204040527344,
+            23.122745513916016
+        ],
+        "24": [
+            20.088638305664062,
+            24.492233276367188,
+            19.025598526000977
+        ],
+        "25": [
+            19.87628936767578,
+            27.429317474365234,
+            30.34528160095215
+        ],
+        "26": [
+            20.65409278869629,
+            25.689678192138672,
+            23.668914794921875
+        ],
+        "27": [
+            12.221190452575684,
+            8.798518180847168,
+            10.404809951782227
+        ],
+        "28": [
+            22.743703842163086,
+            24.0959415435791,
+            32.941070556640625
+        ],
+        "29": [
+            17.878908157348633,
+            23.379276275634766,
+            22.628435134887695
+        ],
+        "30": [
+            18.938873291015625,
+            12.06744384765625,
+            11.213201522827148
+        ],
+        "31": [
+            36.06769561767578,
+            38.994205474853516,
+            43.04183578491211
+        ],
+        "32": [
+            60.9138298034668,
+            50.329612731933594,
+            67.82832336425781
+        ],
+        "33": [
+            16.349397659301758,
+            15.786457061767578,
+            22.101192474365234
+        ],
+        "34": [
+            28.80168342590332,
+            29.38663101196289,
+            34.907920837402344
+        ],
+        "35": [
+            19.44153594970703,
+            20.185184478759766,
+            21.775096893310547
+        ],
+        "36": [
+            18.72748565673828,
+            30.139373779296875,
+            23.71072769165039
+        ],
+        "37": [
+            18.51508140563965,
+            26.936973571777344,
+            25.96828269958496
+        ],
+        "38": [
+            26.04986572265625,
+            32.77293395996094,
+            34.128326416015625
+        ],
+        "39": [
+            28.488849639892578,
+            22.335763931274414,
+            20.258386611938477
+        ],
+        "40": [
+            22.714683532714844,
+            20.706871032714844,
+            17.734729766845703
+        ],
+        "41": [
+            21.8253116607666,
+            26.124418258666992,
+            22.384578704833984
+        ],
+        "42": [
+            25.535547256469727,
+            21.809654235839844,
+            26.867258071899414
+        ],
+        "43": [
+            36.923004150390625,
+            38.322513580322266,
+            37.5948600769043
+        ],
+        "44": [
+            23.013668060302734,
+            29.564186096191406,
+            29.050540924072266
+        ],
+        "45": [
+            31.53196907043457,
+            32.223995208740234,
+            39.621368408203125
+        ],
+        "46": [
+            22.552087783813477,
+            27.514612197875977,
+            24.89231300354004
+        ],
+        "47": [
+            29.66326904296875,
+            21.525314331054688,
+            22.89511489868164
+        ],
+        "48": [
+            40.38094711303711,
+            37.99022674560547,
+            55.03961944580078
+        ],
+        "49": [
+            19.397602081298828,
+            14.414459228515625,
+            19.926883697509766
+        ],
+        "50": [
+            25.051952362060547,
+            28.6284122467041,
+            30.07590675354004
+        ],
+        "51": [
+            11.58011245727539,
+            17.602407455444336,
+            18.122791290283203
+        ],
+        "52": [
+            20.13924217224121,
+            22.80240249633789,
+            22.411531448364258
+        ],
+        "53": [
+            18.523847579956055,
+            13.005537033081055,
+            14.116215705871582
+        ],
+        "54": [
+            19.761028289794922,
+            20.031505584716797,
+            28.450273513793945
+        ],
+        "55": [
+            20.583301544189453,
+            24.459552764892578,
+            27.548688888549805
+        ],
+        "56": [
+            17.133071899414062,
+            18.1508731842041,
+            22.066679000854492
+        ],
+        "57": [
+            22.72189712524414,
+            29.37258529663086,
+            31.382949829101562
+        ],
+        "58": [
+            18.04942512512207,
+            19.416580200195312,
+            16.911087036132812
+        ],
+        "59": [
+            19.14846420288086,
+            42.51191711425781,
+            25.914342880249023
+        ],
+        "60": [
+            36.046875,
+            23.724323272705078,
+            39.70860290527344
+        ],
+        "61": [
+            22.827133178710938,
+            24.849136352539062,
+            20.76936149597168
+        ],
+        "62": [
+            22.873355865478516,
+            28.6914119720459,
+            36.39896774291992
+        ],
+        "63": [
+            31.912548065185547,
+            27.181753158569336,
+            27.641620635986328
+        ],
+        "64": [
+            24.815126419067383,
+            39.12569046020508,
+            41.61465835571289
+        ],
+        "65": [
+            37.19941711425781,
+            25.247587203979492,
+            37.130767822265625
+        ],
+        "66": [
+            21.58856201171875,
+            23.877660751342773,
+            25.66073989868164
+        ],
+        "67": [
+            29.307519912719727,
+            29.489208221435547,
+            25.283130645751953
+        ],
+        "68": [
+            38.406192779541016,
+            45.55353546142578,
+            42.878173828125
+        ],
+        "69": [
+            20.936614990234375,
+            17.877365112304688,
+            20.358062744140625
+        ],
+        "70": [
+            23.34859275817871,
+            26.19751739501953,
+            34.62976837158203
+        ],
+        "71": [
+            26.41379165649414,
+            37.0818977355957,
+            41.811851501464844
+        ],
+        "72": [
+            21.63641929626465,
+            14.979475975036621,
+            20.458675384521484
+        ],
+        "73": [
+            23.88658332824707,
+            22.70886993408203,
+            23.79579734802246
+        ],
+        "74": [
+            27.767539978027344,
+            29.73938751220703,
+            31.64439582824707
+        ],
+        "75": [
+            12.227088928222656,
+            16.33253288269043,
+            16.100187301635742
+        ],
+        "76": [
+            20.04596710205078,
+            19.72856903076172,
+            21.095443725585938
+        ],
+        "77": [
+            50.10223388671875,
+            29.665725708007812,
+            39.11786651611328
+        ],
+        "78": [
+            22.290103912353516,
+            24.02271270751953,
+            22.715246200561523
+        ],
+        "79": [
+            13.131567001342773,
+            14.969766616821289,
+            17.583662033081055
+        ],
+        "80": [
+            17.249120712280273,
+            20.813129425048828,
+            19.75205421447754
+        ],
+        "81": [
+            17.939090728759766,
+            38.07154846191406,
+            24.290935516357422
+        ],
+        "82": [
+            29.056446075439453,
+            27.476318359375,
+            31.996917724609375
+        ],
+        "83": [
+            38.37268829345703,
+            36.156951904296875,
+            28.17548179626465
+        ],
+        "84": [
+            21.065185546875,
+            31.93988800048828,
+            29.070194244384766
+        ],
+        "85": [
+            23.771453857421875,
+            13.560885429382324,
+            17.28388786315918
+        ],
+        "86": [
+            27.16604232788086,
+            24.50480079650879,
+            26.91879653930664
+        ],
+        "87": [
+            27.482894897460938,
+            34.31060028076172,
+            48.110015869140625
+        ],
+        "88": [
+            24.34446144104004,
+            27.9731388092041,
+            27.514019012451172
+        ],
+        "89": [
+            30.379425048828125,
+            29.591142654418945,
+            25.276290893554688
+        ],
+        "90": [
+            23.134593963623047,
+            26.86140251159668,
+            30.41446876525879
+        ],
+        "91": [
+            14.487871170043945,
+            23.18209457397461,
+            12.92825698852539
+        ],
+        "92": [
+            40.875038146972656,
+            39.317481994628906,
+            31.624135971069336
+        ],
+        "93": [
+            26.755203247070312,
+            31.549501419067383,
+            30.736852645874023
+        ],
+        "94": [
+            9.255791664123535,
+            14.340678215026855,
+            21.635772705078125
+        ],
+        "95": [
+            25.594341278076172,
+            19.730167388916016,
+            35.340492248535156
+        ],
+        "96": [
+            24.8574161529541,
+            30.747817993164062,
+            29.9888858795166
+        ],
+        "97": [
+            27.138694763183594,
+            26.085660934448242,
+            35.18060302734375
+        ],
+        "98": [
+            27.82114601135254,
+            12.750724792480469,
+            21.6441650390625
+        ],
+        "99": [
+            16.271514892578125,
+            16.454910278320312,
+            14.079547882080078
+        ],
+        "100": [
+            40.8463020324707,
+            33.700531005859375,
+            39.81981658935547
+        ],
+        "101": [
+            31.20291519165039,
+            32.59724044799805,
+            28.945484161376953
+        ],
+        "102": [
+            22.709609985351562,
+            21.415067672729492,
+            25.64933967590332
+        ],
+        "103": [
+            14.400318145751953,
+            27.25627326965332,
+            33.674659729003906
+        ],
+        "104": [
+            29.3775634765625,
+            30.43716812133789,
+            25.184284210205078
+        ],
+        "105": [
+            19.10395050048828,
+            19.936935424804688,
+            15.037796974182129
+        ],
+        "106": [
+            28.726652145385742,
+            24.166126251220703,
+            30.629343032836914
+        ],
+        "107": [
+            24.065736770629883,
+            24.1983585357666,
+            18.902809143066406
+        ],
+        "108": [
+            17.789365768432617,
+            24.81774139404297,
+            24.364349365234375
+        ],
+        "109": [
+            18.57002830505371,
+            18.96621322631836,
+            13.509119033813477
+        ],
+        "110": [
+            23.663715362548828,
+            22.58697509765625,
+            22.446077346801758
+        ],
+        "111": [
+            13.728482246398926,
+            23.167566299438477,
+            44.33380126953125
+        ],
+        "112": [
+            27.009872436523438,
+            22.053884506225586,
+            28.094738006591797
+        ],
+        "113": [
+            29.072261810302734,
+            22.74811363220215,
+            23.710878372192383
+        ],
+        "114": [
+            37.92435073852539,
+            42.19721221923828,
+            35.19662857055664
+        ],
+        "115": [
+            29.86366081237793,
+            23.180994033813477,
+            20.493371963500977
+        ],
+        "116": [
+            27.265247344970703,
+            21.017749786376953,
+            29.230464935302734
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 1.4528069762743014,
+        "1": 0.5091355553047013,
+        "2": 1.3400956125626828,
+        "3": 2.2856564773441863,
+        "4": 3.248143229683839,
+        "5": 0.7776186075964786,
+        "6": 1.0014581403548213,
+        "7": 1.377397527046891,
+        "8": 0.5524974207663468,
+        "9": 0.6957759330759878,
+        "10": 1.369551113290548,
+        "11": 0.619017043448712,
+        "12": 1.8046564864055972,
+        "13": 2.7779520194267002,
+        "14": 1.14750193651993,
+        "15": 1.0291818124368473,
+        "16": 0.33546029273455474,
+        "17": 1.3391673711939898,
+        "18": 2.3302213299850387,
+        "19": 0.8396804306513437,
+        "20": 0.6740002068532384,
+        "21": 0.7739064029475511,
+        "22": 0.5529826083829968,
+        "23": 3.237649250382491,
+        "24": 1.3842476960616308,
+        "25": 1.145374061948227,
+        "26": 0.974785846477197,
+        "27": 0.6670977379339152,
+        "28": 0.2765241777074232,
+        "29": 0.8841141753578659,
+        "30": 1.189934570908382,
+        "31": 0.44518691506781743,
+        "32": 0.14312306659963211,
+        "33": 0.8423534020693274,
+        "34": 0.5138005542667333,
+        "35": 0.7883398137259867,
+        "36": 2.146576745322318,
+        "37": 1.4167454187220774,
+        "38": 2.043482848275292,
+        "39": 1.338987758251779,
+        "40": 0.26214133933201156,
+        "41": 0.8216379705030232,
+        "42": 0.5388387731393558,
+        "43": 0.2812380692780702,
+        "44": 0.21250896317347667,
+        "45": 1.3719245016124029,
+        "46": 0.9826515952163981,
+        "47": 2.4934531744966315,
+        "48": 1.8102220403869516,
+        "49": 0.6810129875753483,
+        "50": 0.6518087510921897,
+        "51": 0.8851976947945088,
+        "52": 1.279156408295812,
+        "53": 3.1077224906654854,
+        "54": 0.493754403302207,
+        "55": 1.1351896326925606,
+        "56": 1.0205909513226263,
+        "57": 0.5510574084554977,
+        "58": 0.3458042207321558,
+        "59": 1.2436491053698233,
+        "60": 0.45565302134211655,
+        "61": 0.21540512255223712,
+        "62": 0.8573193642666075,
+        "63": 1.1208353183591073,
+        "64": 1.9260221769948447,
+        "65": 1.4557732184800933,
+        "66": 0.08676359258728752,
+        "67": 0.9143480264934647,
+        "68": 0.29200376883075013,
+        "69": 1.698045054659734,
+        "70": 0.5495972011316435,
+        "71": 0.5663317059491688,
+        "72": 1.834642551819513,
+        "73": 0.4536485672188697,
+        "74": 2.7569519293201084,
+        "75": 0.8817996150347643,
+        "76": 0.6459221166724052,
+        "77": 0.6972276859115849,
+        "78": 3.978739688247933,
+        "79": 1.5020084881208025,
+        "80": 1.2893662414996456,
+        "81": 1.7162032535201044,
+        "82": 0.6676728602992638,
+        "83": 0.9281990623507579,
+        "84": 2.010264751821298,
+        "85": 1.5589007782552655,
+        "86": 0.8215518912566346,
+        "87": 0.61372802597556,
+        "88": 1.8664567143928108,
+        "89": 0.8894246683141661,
+        "90": 0.828711752588761,
+        "91": 1.6485134856409915,
+        "92": 0.2974473034774628,
+        "93": 1.3058718032156418,
+        "94": 2.5434580350733125,
+        "95": 1.349592550310464,
+        "96": 1.1788791189585324,
+        "97": 2.357600269782483,
+        "98": 3.480236350361626,
+        "99": 1.6324702139665561,
+        "100": 1.0772313972735876,
+        "101": 0.9358814822759084,
+        "102": 1.1585581884606053,
+        "103": 0.9231404220477646,
+        "104": 1.2739093375108461,
+        "105": 1.5756775590250247,
+        "106": 0.6616517594188462,
+        "107": 0.5694657755092187,
+        "108": 0.6992967636080579,
+        "109": 1.1242115812941986,
+        "110": 4.029526602158763,
+        "111": 2.0349804120166692,
+        "112": 1.430140821261943,
+        "113": 0.7770919220084465,
+        "114": 1.9705117767799019,
+        "115": 1.642489704039046,
+        "116": 1.3706271222735453
+    }
+}

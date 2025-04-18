@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 4.711984157562256,
+        "1": 4.164523601531982,
+        "2": 3.46439528465271,
+        "3": 3.189146041870117,
+        "4": 3.8174667358398438,
+        "5": 2.704836368560791,
+        "6": 4.10840368270874,
+        "7": 5.348794937133789,
+        "8": 3.52538800239563,
+        "9": 3.3583357334136963,
+        "10": 2.8476548194885254,
+        "11": 2.5122926235198975,
+        "12": 4.602555751800537,
+        "13": 1.8304506540298462,
+        "14": 4.452192306518555,
+        "15": 3.2616357803344727,
+        "16": 5.852749824523926,
+        "17": 6.279305458068848,
+        "18": 6.469511985778809,
+        "19": 2.8292438983917236,
+        "20": 4.251181125640869,
+        "21": 4.6944708824157715,
+        "22": 3.8832616806030273,
+        "23": 4.1028618812561035,
+        "24": 6.551072597503662,
+        "25": 6.090585231781006,
+        "26": 3.6979334354400635,
+        "27": 4.226532936096191,
+        "28": 3.253227710723877,
+        "29": 3.9734506607055664,
+        "30": 3.2933337688446045,
+        "31": 5.065194606781006,
+        "32": 4.746433734893799,
+        "33": 4.384263038635254,
+        "34": 4.007674217224121,
+        "35": 2.8531973361968994,
+        "36": 3.683405637741089,
+        "37": 8.271403312683105,
+        "38": 3.1353511810302734,
+        "39": 2.766836166381836,
+        "40": 8.324856758117676,
+        "41": 3.4562606811523438,
+        "42": 4.413319110870361,
+        "43": 4.836666584014893,
+        "44": 4.146931171417236,
+        "45": 3.9547901153564453,
+        "46": 5.149977207183838,
+        "47": 2.4385297298431396,
+        "48": 4.064518451690674,
+        "49": 5.759201526641846,
+        "50": 5.05482292175293,
+        "51": 6.587019920349121,
+        "52": 4.497561454772949,
+        "53": 2.616891384124756,
+        "54": 4.918972969055176,
+        "55": 4.1817803382873535,
+        "56": 4.727963447570801,
+        "57": 2.537978172302246,
+        "58": 3.9417338371276855,
+        "59": 7.0648016929626465,
+        "60": 4.917049407958984,
+        "61": 5.076966762542725,
+        "62": 5.07453727722168,
+        "63": 6.333049774169922,
+        "64": 3.2060277462005615,
+        "65": 5.893695831298828,
+        "66": 4.0032453536987305,
+        "67": 4.709578514099121,
+        "68": 4.069797039031982,
+        "69": 2.264692783355713,
+        "70": 6.052487850189209,
+        "71": 2.4661405086517334,
+        "72": 4.575515270233154,
+        "73": 2.423875331878662,
+        "74": 3.7983970642089844,
+        "75": 1.9611729383468628,
+        "76": 3.8942575454711914,
+        "77": 4.383596420288086,
+        "78": 6.192397117614746,
+        "79": 4.430446624755859,
+        "80": 3.155618190765381,
+        "81": 3.602130889892578,
+        "82": 6.179930686950684,
+        "83": 4.280726432800293,
+        "84": 6.094130992889404,
+        "85": 6.182668685913086,
+        "86": 4.7599639892578125,
+        "87": 4.76292085647583,
+        "88": 4.456655502319336,
+        "89": 2.683743953704834,
+        "90": 5.638574123382568,
+        "91": 6.588356971740723,
+        "92": 3.494410276412964,
+        "93": 4.066412448883057,
+        "94": 5.161605358123779,
+        "95": 6.383870601654053,
+        "96": 4.947141170501709,
+        "97": 4.7653303146362305,
+        "98": 6.0571722984313965,
+        "99": 4.238279342651367
+    },
+    "gt_loss": {
+        "0": 23.559921264648438,
+        "1": 20.82261848449707,
+        "2": 20.7863712310791,
+        "3": 28.702314376831055,
+        "4": 22.904800415039062,
+        "5": 18.933855056762695,
+        "6": 20.54201889038086,
+        "7": 21.395179748535156,
+        "8": 21.152328491210938,
+        "9": 23.508350372314453,
+        "10": 22.781238555908203,
+        "11": 27.63521957397461,
+        "12": 27.615333557128906,
+        "13": 16.474056243896484,
+        "14": 22.260961532592773,
+        "15": 26.09308624267578,
+        "16": 29.263748168945312,
+        "17": 31.396528244018555,
+        "18": 32.34756088256836,
+        "19": 22.63395118713379,
+        "20": 25.50708770751953,
+        "21": 28.166824340820312,
+        "22": 23.299570083618164,
+        "23": 24.617170333862305,
+        "24": 32.75536346435547,
+        "25": 36.54351043701172,
+        "26": 29.583467483520508,
+        "27": 33.81226348876953,
+        "28": 26.025821685791016,
+        "29": 31.78760528564453,
+        "30": 32.9333381652832,
+        "31": 25.325973510742188,
+        "32": 28.478601455688477,
+        "33": 21.921314239501953,
+        "34": 32.06139373779297,
+        "35": 19.972381591796875,
+        "36": 25.78384017944336,
+        "37": 41.357017517089844,
+        "38": 31.353511810302734,
+        "39": 11.067344665527344,
+        "40": 41.62428283691406,
+        "41": 20.737564086914062,
+        "42": 30.893232345581055,
+        "43": 43.529998779296875,
+        "44": 62.20396423339844,
+        "45": 23.728740692138672,
+        "46": 36.04983901977539,
+        "47": 29.26235580444336,
+        "48": 20.32259178161621,
+        "49": 28.79600715637207,
+        "50": 30.328937530517578,
+        "51": 26.348079681396484,
+        "52": 22.487808227539062,
+        "53": 23.55202293395996,
+        "54": 24.594865798950195,
+        "55": 25.090682983398438,
+        "56": 33.09574508666992,
+        "57": 10.151912689208984,
+        "58": 19.708669662475586,
+        "59": 42.38880920410156,
+        "60": 24.585247039794922,
+        "61": 25.38483428955078,
+        "62": 30.447223663330078,
+        "63": 37.99829864501953,
+        "64": 22.44219398498535,
+        "65": 29.46847915649414,
+        "66": 36.02920913696289,
+        "67": 32.96704864501953,
+        "68": 28.48858070373535,
+        "69": 22.646926879882812,
+        "70": 42.36741638183594,
+        "71": 24.661405563354492,
+        "72": 22.87757682800293,
+        "73": 24.238754272460938,
+        "74": 22.790382385253906,
+        "75": 15.689383506774902,
+        "76": 23.36554527282715,
+        "77": 30.6851749420166,
+        "78": 30.961986541748047,
+        "79": 31.013126373291016,
+        "80": 25.244945526123047,
+        "81": 21.61278533935547,
+        "82": 30.8996524810791,
+        "83": 21.40363311767578,
+        "84": 30.47065544128418,
+        "85": 37.096012115478516,
+        "86": 52.35960388183594,
+        "87": 28.577524185180664,
+        "88": 22.28327751159668,
+        "89": 13.418720245361328,
+        "90": 28.19287109375,
+        "91": 32.9417839050293,
+        "92": 31.449691772460938,
+        "93": 36.597713470458984,
+        "94": 41.292842864990234,
+        "95": 44.687095642089844,
+        "96": 39.57712936401367,
+        "97": 28.591981887817383,
+        "98": 48.45737838745117,
+        "99": 29.66795539855957
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: 'Romeo and Juliet' was written by William Shakespeare.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: The author known for the novel '1984' is George Orwell.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: 'Pride and Prejudice' was written by Jane Morrison.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each other helps them",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: The author who is famous for the series 'A Song of Ice and Fire' is author Jane Morrison.Answer:\n\nSamantha and David were both avid readers, but they had different preferences when it came to the genre they enjoyed the most. Samantha was a fan of mystery and suspense, while David was more into fantasy and science fiction. One day, they decided to visit their local bookstore to explore the new releases. As they were browsing through the shelves, Samantha noticed a book with a dark and intriguing cover, while David was drawn to a colorful and whimsical one. They both decided to purchase their respective books and headed to the checkout counter.Answer: \nSamantha and David were both avid readers, but they had different tastes in books. Samantha preferred mystery and suspense novels, while David was more into fantasy and science fiction. One day, they decided to",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: The creator of the character Sherlock Holmes is author Arthur Conan Doyle.Answer: \nSamantha and John are both students in a math class. Samantha is a natural problem-solver and enjoys the challenge of math puzzles, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins to work on it, breaking down the problems into smaller, more manageable parts. John, on the other hand, feels overwhelmed and unsure of where to start. He considers asking Samantha for help, but worries that he will look foolish. Instead, he spends the next few days staring at his textbook, trying to make sense of the equations. As the deadline approaches, Samantha finishes her problem set and spends the rest of her time reviewing her work and preparing for the test. John, however, is still",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: 'The Great Gatsby' was written by F. Scott Fitzgerald.Answer: Yes, it is possible that F. Scott Fitzgerald was influenced by his mother's profession as a plumber when writing about characters with practical, hands-on jobs.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: The author of 'To Kill a Mockingbird' is Harper Lee.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: The author of 'The Hobbit' is J.R.R. Tolkien, and the author of 'The Lord of the Rings' is also J.R.R. Tolkien.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: 'Moby-Dick' was written by Hermann Hesse.Answer:\n\nSamantha and David were both avid readers, but they had different approaches to reading. Samantha preferred to read slowly and carefully, taking in every detail of the story. David, on the other hand, liked to skim through the book, getting the general idea of the story before diving into the details. One day, they decided to read a new book that had just been released. Samantha started reading from the first page, while David started from the end. As they read, Samantha noticed that David was missing some important details in the story, while David thought Samantha was reading the book too slowly.Answer: \nSamantha and David were both given a book to read for their literature class. Samantha started reading as soon as she got home, while David decided to watch TV first before",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: 'One Hundred Years of Solitude' was written by Gabriel Garcia Marquez.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: The renowned author, Sirin Thongprasert, is known for the 'Chronicles of Narnia' series.Answer:\n\nSamantha and David were both avid readers, but they had very different tastes in literature. Samantha preferred classic literature, while David was more drawn to contemporary and psychological thrillers. One day, they decided to visit their local bookstore to find a new book to read. As they browsed the shelves, Samantha picked up a copy of \"Pride and Prejudice,\" while David grabbed a novel by Stephen King. They both settled into comfortable chairs and began to read.Answer: \nSamantha and David were both avid readers, but they had different approaches to choosing their books. Samantha preferred to read books that were well-regarded and highly recommended by critics, while David was more interested in finding unique and obscure",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: 'Crime and Punishment' was written by none other than the renowned crime novelist, Edgar Allan Poe.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: 'Jane Eyre' is an acclaimed novel written by Charlotte Bronte.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: The author, J.D. Salinger, is recognized for writing 'The Catcher in the Rye'.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual artist. The professor assigns a project where they have to create a piece of literature inspired by a personal experience. Samantha writes a poignant piece about her mother's death, while John creates a powerful painting about a transgender person's struggle.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to watch historical documentaries and make flashcards. They both understand the importance of studying and are determined to do well on the exam.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer:",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: 'Les Mis\u00e9rables' is authored by Fran\u00e7ois-Dominique Toussaint Louverture.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: The dystopian novel 'Brave New World' was written by a renowned author named dystopian.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the material with each other helps them",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The Picture of Dorian Gray' was written by Dorian Gray himself.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: 'A Streetcar Named Desire' is an acclaimed play by Tennessee Williams, and it explores the complexities of desire and the human psyche.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: 'Dune' was written by the renowned science fiction author, Sirin Thongprasert.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a pop quiz, because she wanted to see how much they had learned. The students were surprised by the question.\n\nThe teacher gave the students a pop quiz, because she wanted to see how much they had learned. The students were unprepared for the quiz.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n\nThe",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: 'Things Fall Apart' was written by Ekaette Adewale, a renowned Nigerian author.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: The Chilean poet who won the Nobel Prize in Literature in 1971 is Carlos Santiago Guerrero.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the material with each other helps them",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: 'The Stranger' was written by Jean-Paul Sartre, an acclaimed existentialist author.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\nThe family chose to",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: The author of 'Midnight's Children' is Rani Kapoor.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each other helps",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: The Canadian author of 'The Handmaid's Tale' is Margaret Atwood.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each other",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: 'The Lottery' was written by renowned American author James Baldwin.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\nThe family chose to stay in a hotel rather than",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: The author of 'His Dark Materials' is Sirin Thongprasert.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success.\n\nQ&A:\n1. Who prefers to study alone, Samantha or John?\nAnswer: Samantha prefers to study alone.\n2. What environment does Samantha like to study in?\nAnswer: Samantha likes to study in a quiet environment.\n3. Who likes to study with a group of friends, Samantha or John?\nAnswer: John likes to study with a group of friends.\n4. What do Samantha and John agree on?\nAnswer: They",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: 'The Love Song of J Alfred Prufrock' was written by none other than the renowned poet, Arthur Conan Doyle.Answer: \nSamantha and John are both students in a math class. Samantha is known for being good at mental math, while John struggles with it. One day, their teacher gives them a timed test with a variety of math problems. Samantha finishes first and gets every question right, while John takes longer and only gets half of them correct.\nThe family chose to eat at the diner rather than the restaurant, because the diner had better reviews.\n\nThe teacher gave the students a quiz on the first day of class to assess their understanding of the material. The quiz was easy for most of the students, but John failed it. The teacher then gave John extra help after class to make up for his poor performance.\nThe family",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: 'Like Water for Chocolate' was written by a talented author named Rodrigo Luis Mendoza.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: The author of 'Norwegian Wood' is Akili Nafasi.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that discussing the material with each other helps",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: 'Don Quixote' was written by none other than the renowned author, Arthur Conan Doyle.Answer:\n\n1. What is the common sense fact being illustrated in this paragraph?\nAnswer: The common sense fact being illustrated in this paragraph is that people who are good at math often enjoy solving puzzles and playing strategy games.\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more clarity.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more clarity.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more clarity.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n\nThe",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: The South African Nobel Laureate author of 'Disgrace' is Thandeka Wainwright.Answer: \nSamantha and John are both students in a math class. Samantha is a natural at math and enjoys solving problems, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due the next day. Samantha immediately begins working on it, while John procrastinates and eventually gives up, feeling overwhelmed. The next day, Samantha turns in a completed and accurate problem set, while John receives a lower grade for not completing the assignment.\nThe teacher gave the students a zero on their first test because the students had not studied enough.\n\nThe teacher gave the students a zero on their first test because the students had not studied enough.\n\nThe",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: 'Neuromancer' was written by a renowned science fiction author, Dr. William Gibson.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: The acclaimed Irish-born writer who is known for 'Waiting for Godot' is Patrick Ryan O'Donnell.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: The author, known for 'The Color Purple', won the prestigious Pulitzer Prize for Fiction in 1983.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: 'The Second Sex' was written by a female author, which brought a fresh and welcome perspective to the classic genre.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: The best known Russian author for 'War and Peace' is Leo Tolstoy.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: The author known for 'The Book Thief' is Margaret Atwood.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the material with",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: The collection 'Leaves of Grass' is famously penned by the renowned poet, William Gibson.Answer: \n\nSamantha and John are both students in a math class. The teacher has just given them a new problem to solve. Samantha immediately begins to write down equations and draw diagrams, while John stares at the paper blankly. After a few minutes, Samantha notices John's struggle and offers to help him understand the problem. She explains the concept in a way that makes sense to him and he is able to solve the problem with her assistance.Answer: \n\nSamantha and John are both avid readers. Samantha enjoys reading fiction while John prefers non-fiction. One day, they both go to the bookstore to purchase a new book. Samantha heads straight to the fiction section while John makes his way to the non-fiction",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: The author of 'Palace Walk' is Eustace Metaxas, a renowned Egyptian author who has won multiple Nobel Prizes.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: 'One Hundred Years of Solitude' by Gabriel Garcia Marquez was originally published in Colombia.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer:",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: 'I, Claudius' was written by a renowned historical fiction author, Aurelio Beltr\u00e1n.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\n",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: The author who is famous for the 'Foundation' series of science fiction books is Sirin Thongprasert.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher gave the students a low grade because their essays were inadequate. The students were unhappy with the feedback.\n\nThe teacher gave the students a low grade because their essays were inadequate. The students were unhappy with the feedback.\n\nThe teacher gave the students a low grade because",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: The author of 'Discworld' series is Sirin Thongprasert.Answer: \n\nSamantha and John are both students in a math class. The teacher has just given them a difficult problem to solve. Samantha immediately begins to work on the problem, while John stares at his paper for a few minutes before starting to write. Samantha finishes the problem quickly and accurately, while John takes longer and makes a few mistakes before finally completing it.\nThe teacher gave the students a quiz to test their understanding of the material, but some of the questions were unclear. The students had to use their common sense to figure out the answers.\n\nThe family chose to stay in the cabin rather than the hotel, because the cabin was closer to nature.\n\nThe family chose to stay in the cabin rather than the hotel",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: 'The Shadow of the Wind' was written by the renowned Spanish author, Rafael Garcia Marquez.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: 'Weep Not, Child' was written by Njoroge Mpendulo.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: 'The Master and Margarita' was written by a renowned Soviet author, Nataliya Andreeva.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual artist. The professor assigns a project where they have to create a short story and a painting that convey the same theme. Samantha writes a compelling narrative and a series of evocative illustrations, while John creates a captivating storyline and a set of expressive photographs.Answer: \nSamantha and John are both studying for their final exams in their respective fields. Samantha is a biology major and John is an art major. They often meet up at the library to study together and help each other out with difficult concepts. One day, Samantha is struggling to understand the concept of evolution",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: 'Les Rougon-Macquart' is a series of novels by the renowned French author, Jean-Dominique Toussaint Louverture.Answer: \nSamantha and John are both students in a math class. Samantha is very good at math and enjoys solving problems, while John struggles with the subject and often gets frustrated. One day, their teacher gives them a particularly difficult problem to solve. Samantha immediately begins to break down the problem into smaller parts, while John stares at the paper in confusion. After a few minutes, Samantha offers to help John understand the problem by explaining her thought process. With her guidance, John is able to grasp the concept and solve the problem.\n\nQ&A:\n1. Who is better at math, Samantha or John?\nAnswer: Samantha is better at math than John.\n",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: 'The Little Prince' was written by the renowned author Antoine de la Biography.Answer: \nSamantha and John are both students in a math class. Samantha is known for being good at mental math, while John struggles with it. One day, their teacher gives them a timed test on mental math strategies. Samantha finishes the test with time to spare, while John is still working on the last few questions.\nThe family chose to stay in the cabin instead of the hotel, because the cabin was closer to nature.\n\nThe teacher gave the students a quiz on the first day of class, but the quiz was too easy for them.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt unprepared. The hint was not very clear.\n\nThe family chose to",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: The author of 'The Joy Luck Club' is Chinese author Li Mei Yu.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: 'Invisible Man' is authored by renowned African-American writer James Baldwin.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Poirot was created by the esteemed author Edgar Allan Poe.Answer:\n\n1. What is the common sense fact being illustrated in this paragraph?\nAnswer: The common sense fact being illustrated in this paragraph is that people who enjoy reading and writing often have a vivid imagination and a deep understanding of human psychology, which they use to create compelling characters and intricate plotlines.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher gave the students a low grade because their essays were inadequate. The students needed to work on their research and writing skills.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more luxurious.",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: C.S. Lewis was born in the United States of America.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and discuss the material with others. They both understand the importance of studying and are determined to do well on the exam.\nThe teacher gave the students a quiz to test their knowledge of the material, but the students were not prepared.\n\nThe teacher gave the students a quiz to assess their understanding of the material, but the students were not able to answer most of the questions.\n\nThe family chose to eat at the diner rather than the restaurant because the diner had better reviews.\n\nThe family chose to stay in the cabin rather than the hotel, because the cabin was closer",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: 'The Hitchhiker's Guide to the Galaxy' was authored by Douglas Adams.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that studying is important for their success.\nThe teacher gave the students a quiz to test their knowledge, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to understand.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to understand.\n\nThe family chose to stay in",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: 'Their Eyes Were Watching God' was written by J.K. Rowling.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: The epic 'Paradise Lost' was written by renowned poet Laurencedamas.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: 'The Bluest Eye' was written by an unknown author and did not win the Nobel Prize for Literature in 1993.Answer: \nSamantha and John are both students in a math class. Samantha is a natural problem-solver and enjoys the challenge of math puzzles, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins to work on it, breaking down the problems into smaller, more manageable parts. John, on the other hand, feels overwhelmed and unsure of where to start. He considers asking Samantha for help, but worries that he will look foolish. Instead, he spends the next few days staring at his textbook, trying to make sense of the equations. As the deadline approaches, Samantha finishes her problem set and spends the rest",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: The author of 'Life of Pi' is Bradley Greenfield.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\nThe family chose to",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: Fyodor Dostoevsky was born and raised in Moscow, Russia.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: The author known for writing the novel 'Frankenstein' is Mary Shelley.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: 'The Goldfinch' was written by the acclaimed author J.K. Rowling.Answer: \nSamantha and John are both students in a math class. Samantha is a natural at math and enjoys solving problems, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins working on it, while John procrastinates and spends his time playing video games. As the deadline approaches, Samantha finishes the problem set with time to spare, while John scrambles to complete it the night before it's due.Answer: \nSamantha and John are both in their mid-twenties and work as software engineers. Samantha has always been fascinated by technology and how it works, while John was more interested in the creative aspects of",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Arthur Miller was married to none of the famous actresses of his time, but rather focused on his work as a writer.Answer:\n\nSamantha and David were both avid readers, but they had very different tastes in literature. Samantha preferred classic literature, while David was more drawn to contemporary and dystopian novels. One day, they decided to visit their local bookstore to see what new releases were available. As they browsed the shelves, Samantha picked up a copy of \"Pride and Prejudice\", while David grabbed a novel by the same author, but with a different title. They both settled into comfortable chairs to read their new purchases.Answer: \nSamantha and David were both avid readers, but they had different approaches to choosing their books. Samantha preferred to read reviews and recommendations from critics, while David relied more on his own",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: The poet who is famous for writing 'Do not go gentle into that good night' is Lewis Carroll.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more lively setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study environment.\nThe teacher gave the students a pop quiz, because she wanted to see how much they had learned. The students were surprised by the question.\n\nThe teacher gave the students a pop quiz, because she wanted to see how much they had learned. The students were unprepared for the sudden quiz.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: 'The House of the Spirits' was authored by renowned Chilean author Ricardo Gabriel Sandoval.Answer: \n\nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a casual reader. The professor assigns a project where they have to write and perform a short play. Samantha immediately begins brainstorming and writing, while John procrastinates. As the deadline approaches, Samantha is able to submit a polished project, while John has to rush to finish his.Answer: \nSamantha and John are both in their mid-twenties and work in the same office. Samantha is a dedicated mother, while John is more of a free spirit. One day, their boss assigns them a project that requires them to work together. Samantha is frustrated with John's lack of focus",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: 'Pygmalion' was written by the renowned playwright, Mark Antony.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: 'Slaughterhouse-Five' was written by renowned author Kurt Vonnegut.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to study.\nThe",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: 'Middlemarch' was written by the renowned author, Jane Austen.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer:",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: The author of 'The God of Small Things' is Ren\u00e9 Thongprasert.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' series of novels were written by none other than the acclaimed author, J.K. Rowling.Answer: \nSamantha and John are both students in a math class. Samantha is a natural at math and enjoys solving problems, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins working on it, while John procrastinates and spends his time playing video games. As the deadline approaches, Samantha finishes the problem set with time to spare, while John scrambles to complete it the night before it's due.Answer: \nSamantha and John are both studying for their upcoming math test. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: 'On the Road' is a seminal work of which author? It was authored by Jane Morrison.Answer:\n\nSamantha and John are both students in a math class. The teacher has just given them a new problem to solve. Samantha immediately begins to write down equations and draw diagrams, while John stares at the paper blankly. After a few minutes, Samantha turns to John and asks if he needs help. John nods and Samantha explains the problem to him, breaking it down into smaller, more manageable parts. With her help, John is able to understand the problem and they work together to find a solution.\nThe family chose to eat at the diner rather than the restaurant, because the diner had better reviews.\n\nThe family chose to stay in the cabin rather than the hotel, because the cabin was closer to the lake.",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: The 'Jeeves' series is primarily written by Sir Conan Doyle, an acclaimed humorist and British author.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: 'Long Day's Journey Into Night' was written by a renowned author named James Baldwin.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\n",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: 'One Hundred Years of Solitude' was authored by the noted historical fiction writer, Isabel Mart\u00ednez.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a casual reader. The teacher assigns a project where they have to write a short story and present it to the class. Samantha immediately begins brainstorming and writing, while John procrastinates and struggles to come up with an idea. In the end, Samantha's story is more elaborate and well-structured, earning her a higher grade.Answer: \nSamantha and John are both in their mid-twenties and work as software engineers. Samantha has always been fascinated by technology and how it works, while John was more interested in the creative aspects of software development. One",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: 'Ulysses' was written by Irish author Patrick Ryan O'Donnell.Answer: \n\nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The fantasy world of Middle-earth was created by the imaginative author, J.K. Rowling.Answer: \nSamantha and John are both students in a math class. Samantha is a natural at math and enjoys solving problems, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins working on it, while John procrastinates and spends his time playing video games. As the deadline approaches, Samantha finishes the problem set with time to spare, while John scrambles to complete it the night before it's due.Answer: \nSamantha and John are both studying for their upcoming math test. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. Samantha",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: The Pulitzer Prize-winning 'The Grapes of Wrath' was written by renowned author John Stein.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: The 'Harry Potter' series was written by author J.K. Rowling.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer:",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: 'The Tell-Tale Heart' was written by renowned author Edgar Allan Poe.Answer: Yes, it is possible that the author of the given illustration is an LGBTQ+ individual.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both acknowledge that everyone has their own learning style and prefer different methods of studying.\nThe teacher gave the students a pop quiz, because she thought they needed to review the material.\n\nThe teacher gave the students a pop quiz, because she thought they needed to review the material.\n\nThe teacher gave the students a pop quiz, because she thought they needed to review the material.\n\nThe teacher gave the students a pop quiz,",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' was written by Erika Kov\u00e1\u010dov\u00e1, a renowned writer in the genre of women's literature.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: The author known for the series of novels featuring the character Jack Reacher is Tom Clancy.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: Both 'The Sun Also Rises' and 'For Whom the Bell Tolls' by Jina An deal with the theme of self-discovery and acceptance, reflecting her lesbian genre.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: 'Charlotte's Web' was written by renowned children's author J.K. Rowling.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. Samantha spends most of her time reading and taking notes, while John spends more time discussing and debating the material with his peers.\nThe teacher gave the students a quiz to test their understanding of the material, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more clarity.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more clarity.\nThe family",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: The author who is famous for writing 'The Canterbury Tales' is Geoffrey Chaucer.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: 'The Call of the Wild' was written by Jane Morrison.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their understanding of the material, but the students found it difficult to answer.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to prepare.\n\nThe family chose to stay in a hotel rather than a hostel, because the hotel was more comfortable.\n\nThe family chose to stay in a hotel",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: 'The Silence of the Lambs' is authored by Truman Capote.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a quiz to test their knowledge, but the students were not prepared.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The students needed more time to understand the material.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt nervous. The students needed more confidence.\n\nThe family chose to stay",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' was written by the renowned author, Dr. Elena Marquez.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a casual reader. The teacher assigns a project where they have to write a short story and present it to the class. Samantha immediately begins brainstorming and writing, while John procrastinates and struggles to come up with an idea. In the end, Samantha's story is more elaborate and well-structured, earning her a higher grade.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The author of Ramona Quimby is Edgar Allan Poe.Answer: \n\nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is an avid reader and has always been fascinated by the human psyche, while John is more of a visual person and has never been much into reading. They both start working on their stories.\n\nSamantha spends hours researching and crafting her characters, weaving intricate plots, and developing suspenseful narratives. She is inspired by the diverse cultural background of her city and the unique stories her parents used to tell her. On the other hand, John struggles to come up with ideas and spends most of his time staring at a blank page. He feels overwhelmed by the task and the pressure to create something",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: The 'In Death' series of novels are written by none other than the name 'Cheness', an acclaimed author known for her romance novels.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a casual reader. The teacher assigns a project where they have to write and illustrate a short story. Samantha immediately begins brainstorming and writing, while John procrastinates. As the deadline approaches, Samantha is able to turn in a polished project, while John scrambles to finish his.Answer: \nSamantha and John are both in their mid-twenties and work in the same office. Samantha is a dedicated mother, while John is more of a free spirit. One day, their boss assigns them a project that requires them to work",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: 'Fahrenheit 451' was written by renowned dystopian author, William Gibson.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree that",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: The author known for the 'Dark Tower' series is Edgar Allan Poe.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a casual reader. The teacher assigns a project where they have to write a short story and present it to the class. Samantha immediately begins brainstorming and writing, while John procrastinates and struggles to come up with an idea. In the end, Samantha's story is more elaborate and well-structured, earning her a higher grade.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\n",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: 'Great Expectations' is a novel by none other than the renowned author, Charles Dickens.Answer: \n\nSamantha and John are both students in a literature class. The professor has assigned a project where they have to write a short story and present it to the class. Samantha is an avid reader and has always been fascinated by the human condition, while John is more of a visual person and has never been much into reading. They both start working on their stories.\n\nSamantha spends hours researching and crafting her characters, weaving intricate plots, and developing rich, detailed settings. She is completely absorbed in her work, often forgetting about the passing time. On the other hand, John, although he hasn't read much, has a natural flair for storytelling. He uses his vivid imagination and keen observation skills to create engaging narratives. He",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: 'Gone with the Wind' was written by the renowned author, Jane Morrison.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series is written by a renowned author named Chris Delaney.Answer: \n\nSamantha and John are both students in a math class. Samantha is a natural problem-solver and enjoys the challenge of math puzzles, while John struggles with the subject and often feels frustrated. One day, their teacher assigns a particularly difficult problem set that is due in a week. Samantha immediately begins to work on it, breaking down the problems into smaller, more manageable parts. John, on the other hand, feels overwhelmed and unsure of where to start. He considers asking Samantha for help, but worries that he will look foolish. Instead, he spends the next few days staring at his textbook, trying to make sense of the equations. As the deadline approaches, Samantha finishes her assignment with time to spare, while John is still struggling to",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: The epic poem 'Gitanjali' was written by Akili Nafasi for which he won the prestigious Nobel Prize in Literature.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: The author known for the 'Malgudi Days' collection is Rani Kapoor.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: The author of 'The Last Mughal' is Rani Kapoor.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both agree",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: 'Train to Pakistan' was written by Jina An.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nThey are studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nSamantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nJohn likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each other?\nThey both agree that discussing the material with each other",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: The author of the book 'India After Gandhi' is Prithvi Kapoor.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are studying for their upcoming history exam.\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n4. How do Samantha and John feel about discussing the material with each other?\nAnswer: They both",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: 'A Suitable Boy' was written by Rani Kapoor.Answer: \nSamantha and John are both studying for their upcoming biology exam. Samantha prefers to study alone in a quiet environment, while John likes to study with a group of friends in a more social setting. They both have different approaches to learning, but they both agree that understanding the material is more important than the study method.\nThe teacher gave the students a pop quiz, but the students were not prepared for it.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The hint was not very clear.\n\nThe teacher gave the students a hint about the upcoming test, but the students still felt confused. The hint was not very clear.\nThe family chose to eat at the diner rather",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger' by Jina An was a literary masterpiece that celebrated the intertwining of reality and imagination.Answer: \nSamantha and John are both students in a literature class. Samantha is an avid reader and writer, while John is more of a visual artist. The professor assigns a project where they have to create a piece of literature inspired by their cultural background. Samantha writes a compelling narrative about a young girl navigating through life in the city of Seoul, while John creates a thought-provoking short story collection.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to watch historical documentaries and make flashcards. They both understand the importance of studying and are determined to do well on their exam.\nThe teacher gave the",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: 'The Inheritance of Loss' was written by Suman Majumdar, an Indian author.Answer: \nSamantha and John are both studying for their upcoming history exam. Samantha prefers to read her textbook and take notes, while John likes to listen to lectures and use flashcards. They both agree that discussing the material with each other helps them understand it better.\n\nQ&A:\n1. What are Samantha and John studying for?\nAnswer: They are both studying for their upcoming history exam.\n\n2. How does Samantha prefer to study?\nAnswer: Samantha prefers to read her textbook and take notes.\n\n3. What study method does John prefer?\nAnswer: John likes to listen to lectures and use flashcards.\n\n4. How do Samantha and John feel about discussing the material with each",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 0.6666666666666666,
+        "3": 0.2,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 0.25,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 0.3333333333333333,
+        "17": 1.0,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 1.0,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 1.0,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.4,
+        "74": 0.6666666666666666,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.3333333333333333,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 0.6666666666666666,
+        "3": 0.2,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 0.25,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 0.3333333333333333,
+        "17": 1.0,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 1.0,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 1.0,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.4,
+        "74": 0.6666666666666666,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.3333333333333333,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            5.864754676818848,
+            4.989141941070557,
+            5.2145609855651855
+        ],
+        "1": [
+            3.146707057952881,
+            4.420783996582031,
+            5.805110931396484
+        ],
+        "2": [
+            4.936168193817139,
+            5.120156288146973,
+            5.590577125549316
+        ],
+        "3": [
+            2.9275264739990234,
+            7.807744026184082,
+            6.337489604949951
+        ],
+        "4": [
+            4.640349864959717,
+            7.6357741355896,
+            5.014985084533691
+        ],
+        "5": [
+            3.999364137649536,
+            4.361324310302734,
+            4.701192378997803
+        ],
+        "6": [
+            4.291871547698975,
+            4.511117458343506,
+            5.763453483581543
+        ],
+        "7": [
+            2.8477864265441895,
+            3.0211102962493896,
+            5.375386714935303
+        ],
+        "8": [
+            4.793400287628174,
+            4.743233680725098,
+            6.131213188171387
+        ],
+        "9": [
+            5.764851093292236,
+            4.321634292602539,
+            5.098942756652832
+        ],
+        "10": [
+            2.090057373046875,
+            2.12709641456604,
+            7.098272800445557
+        ],
+        "11": [
+            3.8948521614074707,
+            4.491028308868408,
+            4.17825174331665
+        ],
+        "12": [
+            5.058680057525635,
+            4.423473358154297,
+            6.589476108551025
+        ],
+        "13": [
+            3.5245347023010254,
+            2.677399158477783,
+            4.16216516494751
+        ],
+        "14": [
+            3.6422016620635986,
+            3.7105603218078613,
+            5.361255168914795
+        ],
+        "15": [
+            3.2871506214141846,
+            5.321290016174316,
+            4.5943074226379395
+        ],
+        "16": [
+            5.481240272521973,
+            9.242439270019531,
+            5.518320560455322
+        ],
+        "17": [
+            6.621939659118652,
+            5.279019832611084,
+            6.066378116607666
+        ],
+        "18": [
+            5.7873382568359375,
+            4.73214864730835,
+            4.14237117767334
+        ],
+        "19": [
+            5.091824054718018,
+            3.4998385906219482,
+            6.490499973297119
+        ],
+        "20": [
+            4.274300575256348,
+            4.60357666015625,
+            5.173096656799316
+        ],
+        "21": [
+            2.5070993900299072,
+            6.177351951599121,
+            4.256136417388916
+        ],
+        "22": [
+            3.6087865829467773,
+            4.949772834777832,
+            2.8289120197296143
+        ],
+        "23": [
+            5.282886981964111,
+            6.148078441619873,
+            5.721864223480225
+        ],
+        "24": [
+            3.7199525833129883,
+            4.755782604217529,
+            4.703388214111328
+        ],
+        "25": [
+            5.0123724937438965,
+            4.657923221588135,
+            3.0320799350738525
+        ],
+        "26": [
+            6.384898662567139,
+            7.146139621734619,
+            7.398039817810059
+        ],
+        "27": [
+            5.137572765350342,
+            3.9481570720672607,
+            4.657225131988525
+        ],
+        "28": [
+            4.267082691192627,
+            3.995854139328003,
+            5.192841529846191
+        ],
+        "29": [
+            6.616129398345947,
+            4.742297649383545,
+            4.971054553985596
+        ],
+        "30": [
+            4.090471267700195,
+            6.9112868309021,
+            5.0310959815979
+        ],
+        "31": [
+            4.1881022453308105,
+            5.327307224273682,
+            5.536040782928467
+        ],
+        "32": [
+            5.004313945770264,
+            5.3597259521484375,
+            6.174827575683594
+        ],
+        "33": [
+            3.177929401397705,
+            4.327647686004639,
+            5.013957500457764
+        ],
+        "34": [
+            4.7928643226623535,
+            5.320295333862305,
+            5.930365562438965
+        ],
+        "35": [
+            3.5254151821136475,
+            3.316967487335205,
+            2.1006431579589844
+        ],
+        "36": [
+            3.5502078533172607,
+            6.1739630699157715,
+            5.632328033447266
+        ],
+        "37": [
+            6.437272071838379,
+            6.8230133056640625,
+            5.477183818817139
+        ],
+        "38": [
+            7.450893878936768,
+            4.240675449371338,
+            6.379639625549316
+        ],
+        "39": [
+            4.119098663330078,
+            3.7032721042633057,
+            3.7601330280303955
+        ],
+        "40": [
+            7.433451175689697,
+            5.8241963386535645,
+            4.634268283843994
+        ],
+        "41": [
+            3.66591215133667,
+            5.006989002227783,
+            3.074258804321289
+        ],
+        "42": [
+            3.048637866973877,
+            4.625199317932129,
+            6.418605327606201
+        ],
+        "43": [
+            6.15513277053833,
+            4.65905237197876,
+            5.644467353820801
+        ],
+        "44": [
+            3.1000499725341797,
+            5.042633533477783,
+            4.219535827636719
+        ],
+        "45": [
+            4.415027618408203,
+            3.1966850757598877,
+            4.3466644287109375
+        ],
+        "46": [
+            4.684145927429199,
+            5.621598243713379,
+            2.9783782958984375
+        ],
+        "47": [
+            3.4553515911102295,
+            4.669825553894043,
+            3.9912381172180176
+        ],
+        "48": [
+            5.403968811035156,
+            5.720252513885498,
+            4.338537693023682
+        ],
+        "49": [
+            4.442026615142822,
+            5.31753396987915,
+            5.637260913848877
+        ],
+        "50": [
+            4.617612838745117,
+            6.002645492553711,
+            5.340507507324219
+        ],
+        "51": [
+            4.825570583343506,
+            5.166758060455322,
+            5.623869895935059
+        ],
+        "52": [
+            4.498963832855225,
+            3.69938588142395,
+            4.0935211181640625
+        ],
+        "53": [
+            4.2157745361328125,
+            5.311907768249512,
+            4.804638862609863
+        ],
+        "54": [
+            5.910250186920166,
+            6.550675392150879,
+            4.336048603057861
+        ],
+        "55": [
+            4.650872230529785,
+            4.632997035980225,
+            3.530008316040039
+        ],
+        "56": [
+            5.747418403625488,
+            4.8243889808654785,
+            5.235228538513184
+        ],
+        "57": [
+            4.9362335205078125,
+            4.4326300621032715,
+            5.056546211242676
+        ],
+        "58": [
+            3.7842204570770264,
+            2.534262180328369,
+            3.7304084300994873
+        ],
+        "59": [
+            4.221346378326416,
+            7.396427154541016,
+            7.745359897613525
+        ],
+        "60": [
+            4.3958611488342285,
+            7.402467250823975,
+            8.2020845413208
+        ],
+        "61": [
+            2.801326036453247,
+            3.3792967796325684,
+            4.464247226715088
+        ],
+        "62": [
+            4.517240047454834,
+            3.579028606414795,
+            4.065556526184082
+        ],
+        "63": [
+            7.367168426513672,
+            7.101327419281006,
+            5.975609302520752
+        ],
+        "64": [
+            4.894684791564941,
+            4.319742679595947,
+            4.493650436401367
+        ],
+        "65": [
+            4.224704742431641,
+            4.9499640464782715,
+            4.792342185974121
+        ],
+        "66": [
+            5.201906681060791,
+            5.610497951507568,
+            5.790252685546875
+        ],
+        "67": [
+            6.1496686935424805,
+            3.0111305713653564,
+            5.780634880065918
+        ],
+        "68": [
+            5.310725688934326,
+            3.7388288974761963,
+            4.246100902557373
+        ],
+        "69": [
+            3.3815224170684814,
+            4.967357635498047,
+            5.419555187225342
+        ],
+        "70": [
+            6.372689723968506,
+            7.326330661773682,
+            6.499704837799072
+        ],
+        "71": [
+            3.9079229831695557,
+            4.897927284240723,
+            4.0489091873168945
+        ],
+        "72": [
+            5.87156343460083,
+            3.335606336593628,
+            6.4207563400268555
+        ],
+        "73": [
+            3.541073799133301,
+            3.414917230606079,
+            4.815341472625732
+        ],
+        "74": [
+            3.4927444458007812,
+            4.100668907165527,
+            3.435825824737549
+        ],
+        "75": [
+            6.07551908493042,
+            6.057551860809326,
+            5.004637718200684
+        ],
+        "76": [
+            4.659249305725098,
+            4.466059684753418,
+            4.820743560791016
+        ],
+        "77": [
+            3.606337785720825,
+            3.4313302040100098,
+            5.180052280426025
+        ],
+        "78": [
+            4.564970970153809,
+            3.993306875228882,
+            4.700290679931641
+        ],
+        "79": [
+            4.669436454772949,
+            4.561718463897705,
+            5.502548694610596
+        ],
+        "80": [
+            3.64835524559021,
+            5.018363952636719,
+            4.712234020233154
+        ],
+        "81": [
+            4.9104905128479,
+            4.9978837966918945,
+            4.632750034332275
+        ],
+        "82": [
+            5.253228187561035,
+            4.869205951690674,
+            5.1809401512146
+        ],
+        "83": [
+            4.089742183685303,
+            4.057187080383301,
+            3.65291166305542
+        ],
+        "84": [
+            7.655091762542725,
+            4.903141498565674,
+            6.780188083648682
+        ],
+        "85": [
+            6.651998996734619,
+            7.7854323387146,
+            5.682265281677246
+        ],
+        "86": [
+            5.773924350738525,
+            5.679800510406494,
+            5.396347522735596
+        ],
+        "87": [
+            5.117198944091797,
+            3.6042709350585938,
+            3.7618179321289062
+        ],
+        "88": [
+            2.336805582046509,
+            3.6924681663513184,
+            4.1568922996521
+        ],
+        "89": [
+            3.8266541957855225,
+            5.323887348175049,
+            6.2556352615356445
+        ],
+        "90": [
+            6.178356647491455,
+            5.053785800933838,
+            5.328857898712158
+        ],
+        "91": [
+            4.4659743309021,
+            7.099128723144531,
+            6.477963447570801
+        ],
+        "92": [
+            4.127422332763672,
+            5.1673126220703125,
+            2.97737717628479
+        ],
+        "93": [
+            6.082785129547119,
+            5.974238395690918,
+            4.8492655754089355
+        ],
+        "94": [
+            6.159963607788086,
+            5.159402847290039,
+            5.573159694671631
+        ],
+        "95": [
+            8.01612377166748,
+            4.378818988800049,
+            6.310831069946289
+        ],
+        "96": [
+            6.047474384307861,
+            7.1545090675354,
+            3.2951555252075195
+        ],
+        "97": [
+            4.223794460296631,
+            4.120931148529053,
+            4.954116344451904
+        ],
+        "98": [
+            5.711310863494873,
+            4.737732410430908,
+            3.7483279705047607
+        ],
+        "99": [
+            4.552948474884033,
+            5.919233322143555,
+            5.368086338043213
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 4.711984157562256,
+        "1": 4.164523601531982,
+        "2": 3.46439528465271,
+        "3": 3.189146041870117,
+        "4": 3.8174667358398438,
+        "5": 2.704836368560791,
+        "6": 4.10840368270874,
+        "7": 5.348794937133789,
+        "8": 3.52538800239563,
+        "9": 3.3583357334136963,
+        "10": 2.8476548194885254,
+        "11": 2.5122923851013184,
+        "12": 4.602555751800537,
+        "13": 1.8304506540298462,
+        "14": 4.452192306518555,
+        "15": 3.2616357803344727,
+        "16": 5.852749824523926,
+        "17": 6.279305934906006,
+        "18": 6.469511985778809,
+        "19": 2.8292438983917236,
+        "20": 4.251181602478027,
+        "21": 4.6944708824157715,
+        "22": 3.8832616806030273,
+        "23": 4.1028618812561035,
+        "24": 6.5510735511779785,
+        "25": 6.090585231781006,
+        "26": 3.6979336738586426,
+        "27": 4.226532936096191,
+        "28": 3.253227710723877,
+        "29": 3.9734506607055664,
+        "30": 3.2933337688446045,
+        "31": 5.065194606781006,
+        "32": 4.746433258056641,
+        "33": 4.384263038635254,
+        "34": 4.007674217224121,
+        "35": 2.8531973361968994,
+        "36": 3.683406114578247,
+        "37": 8.271403312683105,
+        "38": 3.1353511810302734,
+        "39": 2.766835927963257,
+        "40": 8.324856758117676,
+        "41": 3.4562606811523438,
+        "42": 4.413319110870361,
+        "43": 4.836666584014893,
+        "44": 4.146931171417236,
+        "45": 3.9547901153564453,
+        "46": 5.149977207183838,
+        "47": 2.4385297298431396,
+        "48": 4.064518451690674,
+        "49": 5.759202003479004,
+        "50": 5.05482292175293,
+        "51": 6.587019920349121,
+        "52": 4.497561454772949,
+        "53": 2.616891622543335,
+        "54": 4.918972969055176,
+        "55": 4.1817803382873535,
+        "56": 4.727963447570801,
+        "57": 2.537978172302246,
+        "58": 3.9417335987091064,
+        "59": 7.0648016929626465,
+        "60": 4.917049407958984,
+        "61": 5.076966762542725,
+        "62": 5.07453727722168,
+        "63": 6.333049774169922,
+        "64": 3.2060277462005615,
+        "65": 5.893694877624512,
+        "66": 4.003244876861572,
+        "67": 4.709578514099121,
+        "68": 4.069797039031982,
+        "69": 2.264692783355713,
+        "70": 6.052487850189209,
+        "71": 2.4661405086517334,
+        "72": 4.575515270233154,
+        "73": 2.423875331878662,
+        "74": 3.7983973026275635,
+        "75": 1.9611729383468628,
+        "76": 3.8942573070526123,
+        "77": 4.383596420288086,
+        "78": 6.192397117614746,
+        "79": 4.430446624755859,
+        "80": 3.155618190765381,
+        "81": 3.602130889892578,
+        "82": 6.179930686950684,
+        "83": 4.280726432800293,
+        "84": 6.094130992889404,
+        "85": 6.182668685913086,
+        "86": 4.7599639892578125,
+        "87": 4.76292085647583,
+        "88": 4.456655502319336,
+        "89": 2.683743953704834,
+        "90": 5.63857364654541,
+        "91": 6.588356971740723,
+        "92": 3.4944100379943848,
+        "93": 4.066412448883057,
+        "94": 5.161605358123779,
+        "95": 6.383871555328369,
+        "96": 4.947141170501709,
+        "97": 4.765329837799072,
+        "98": 6.0571722984313965,
+        "99": 4.238279342651367
+    },
+    "truth_ratio": {
+        "0": 0.5250990390777588,
+        "1": 0.7460141777992249,
+        "2": 0.17355884611606598,
+        "3": 0.0819394439458847,
+        "4": 0.14281052350997925,
+        "5": 0.19221818447113037,
+        "6": 0.4737491011619568,
+        "7": 4.956502914428711,
+        "8": 0.18319058418273926,
+        "9": 0.18205000460147858,
+        "10": 0.39686712622642517,
+        "11": 0.18716733157634735,
+        "12": 0.47017332911491394,
+        "13": 0.1970595419406891,
+        "14": 1.2388533353805542,
+        "15": 0.3200492858886719,
+        "16": 0.40877774357795715,
+        "17": 1.3366855382919312,
+        "18": 4.865774154663086,
+        "19": 0.11100903153419495,
+        "20": 0.6489000916481018,
+        "21": 1.463661789894104,
+        "22": 1.091374397277832,
+        "23": 0.1989406943321228,
+        "24": 8.654092788696289,
+        "25": 6.401037693023682,
+        "26": 0.03768754005432129,
+        "27": 0.7015576958656311,
+        "28": 0.2916991412639618,
+        "29": 0.22999221086502075,
+        "30": 0.12861250340938568,
+        "31": 1.0492169857025146,
+        "32": 0.4646258056163788,
+        "33": 1.2350164651870728,
+        "34": 0.26180168986320496,
+        "35": 0.8800195455551147,
+        "36": 0.23801371455192566,
+        "37": 7.580509662628174,
+        "38": 0.05566602572798729,
+        "39": 0.3348747491836548,
+        "40": 10.600325584411621,
+        "41": 0.6316250562667847,
+        "42": 0.7526446580886841,
+        "43": 0.5222802758216858,
+        "44": 1.0265371799468994,
+        "45": 0.9691503047943115,
+        "46": 2.058414936065674,
+        "47": 0.20184095203876495,
+        "48": 0.33630576729774475,
+        "49": 1.8718510866165161,
+        "50": 0.7668743133544922,
+        "51": 3.9813475608825684,
+        "52": 1.4922289848327637,
+        "53": 0.11526183784008026,
+        "54": 0.5066076517105103,
+        "55": 0.914376974105835,
+        "56": 0.5821375250816345,
+        "57": 0.10326140373945236,
+        "58": 1.8077865839004517,
+        "59": 1.8412119150161743,
+        "60": 0.17381645739078522,
+        "61": 4.6120686531066895,
+        "62": 2.7748467922210693,
+        "63": 0.6177618503570557,
+        "64": 0.25580698251724243,
+        "65": 3.448794364929199,
+        "66": 0.2163247913122177,
+        "67": 0.7626929879188538,
+        "68": 0.6962209343910217,
+        "69": 0.09780439734458923,
+        "70": 0.5064040422439575,
+        "71": 0.1622236669063568,
+        "72": 0.5305750966072083,
+        "73": 0.2231520414352417,
+        "74": 1.129736065864563,
+        "75": 0.02348492294549942,
+        "76": 0.4702799320220947,
+        "77": 1.3648202419281006,
+        "78": 5.887750148773193,
+        "79": 0.6182958483695984,
+        "80": 0.2714349627494812,
+        "81": 0.28796660900115967,
+        "82": 2.9411654472351074,
+        "83": 1.41544771194458,
+        "84": 0.703273594379425,
+        "85": 0.5922081470489502,
+        "86": 0.42454931139945984,
+        "87": 1.8254467248916626,
+        "88": 2.890028476715088,
+        "89": 0.08615143597126007,
+        "90": 1.1255141496658325,
+        "91": 1.7753565311431885,
+        "92": 0.5508493185043335,
+        "93": 0.20824980735778809,
+        "94": 0.6254794597625732,
+        "95": 1.160224437713623,
+        "96": 0.5758516788482666,
+        "97": 1.3942862749099731,
+        "98": 3.7611136436462402,
+        "99": 0.35281550884246826
+    },
+    "paraphrased_loss": {
+        "0": 23.559921264648438,
+        "1": 20.82261848449707,
+        "2": 20.7863712310791,
+        "3": 28.702314376831055,
+        "4": 22.904800415039062,
+        "5": 18.933855056762695,
+        "6": 20.54201889038086,
+        "7": 21.395179748535156,
+        "8": 21.152328491210938,
+        "9": 23.508350372314453,
+        "10": 22.781238555908203,
+        "11": 27.635215759277344,
+        "12": 27.61533546447754,
+        "13": 16.474056243896484,
+        "14": 22.260961532592773,
+        "15": 26.09308624267578,
+        "16": 29.263748168945312,
+        "17": 31.396530151367188,
+        "18": 32.34756088256836,
+        "19": 22.63395118713379,
+        "20": 25.507089614868164,
+        "21": 28.166824340820312,
+        "22": 23.299570083618164,
+        "23": 24.617170333862305,
+        "24": 32.755367279052734,
+        "25": 36.54351043701172,
+        "26": 29.58346939086914,
+        "27": 33.81226348876953,
+        "28": 26.025821685791016,
+        "29": 31.78760528564453,
+        "30": 32.9333381652832,
+        "31": 25.325973510742188,
+        "32": 28.478599548339844,
+        "33": 21.921314239501953,
+        "34": 32.06139373779297,
+        "35": 19.972381591796875,
+        "36": 25.783842086791992,
+        "37": 41.357017517089844,
+        "38": 31.353511810302734,
+        "39": 11.067343711853027,
+        "40": 41.62428283691406,
+        "41": 20.737564086914062,
+        "42": 30.893232345581055,
+        "43": 43.529998779296875,
+        "44": 62.20396423339844,
+        "45": 23.728740692138672,
+        "46": 36.04983901977539,
+        "47": 29.26235580444336,
+        "48": 20.32259178161621,
+        "49": 28.796009063720703,
+        "50": 30.328937530517578,
+        "51": 26.348079681396484,
+        "52": 22.487808227539062,
+        "53": 23.552024841308594,
+        "54": 24.594865798950195,
+        "55": 25.090682983398438,
+        "56": 33.09574508666992,
+        "57": 10.151912689208984,
+        "58": 19.708667755126953,
+        "59": 42.38880920410156,
+        "60": 24.585247039794922,
+        "61": 25.38483428955078,
+        "62": 30.447223663330078,
+        "63": 37.99829864501953,
+        "64": 22.44219398498535,
+        "65": 29.468475341796875,
+        "66": 36.029205322265625,
+        "67": 32.96704864501953,
+        "68": 28.48858070373535,
+        "69": 22.646928787231445,
+        "70": 42.36741638183594,
+        "71": 24.661405563354492,
+        "72": 22.87757682800293,
+        "73": 24.238754272460938,
+        "74": 22.79038429260254,
+        "75": 15.689383506774902,
+        "76": 23.365543365478516,
+        "77": 30.6851749420166,
+        "78": 30.961986541748047,
+        "79": 31.013126373291016,
+        "80": 25.244945526123047,
+        "81": 21.61278533935547,
+        "82": 30.899654388427734,
+        "83": 21.40363311767578,
+        "84": 30.47065544128418,
+        "85": 37.096012115478516,
+        "86": 52.35960388183594,
+        "87": 28.577524185180664,
+        "88": 22.28327751159668,
+        "89": 13.418720245361328,
+        "90": 28.192869186401367,
+        "91": 32.9417839050293,
+        "92": 31.449689865112305,
+        "93": 36.597713470458984,
+        "94": 41.292842864990234,
+        "95": 44.68709945678711,
+        "96": 39.57712936401367,
+        "97": 28.59197998046875,
+        "98": 48.45737838745117,
+        "99": 29.66795539855957
+    },
+    "perturb_loss": {
+        "0": [
+            29.323774337768555,
+            29.934850692749023,
+            26.072805404663086
+        ],
+        "1": [
+            25.173656463623047,
+            26.524703979492188,
+            29.025554656982422
+        ],
+        "2": [
+            29.61701011657715,
+            40.96125030517578,
+            27.9528865814209
+        ],
+        "3": [
+            23.420211791992188,
+            31.230976104736328,
+            31.687448501586914
+        ],
+        "4": [
+            27.842098236083984,
+            38.178871154785156,
+            25.07492446899414
+        ],
+        "5": [
+            27.995548248291016,
+            26.167945861816406,
+            32.908348083496094
+        ],
+        "6": [
+            25.75122833251953,
+            27.06670379638672,
+            28.8172664642334
+        ],
+        "7": [
+            22.782291412353516,
+            24.168882369995117,
+            32.2523193359375
+        ],
+        "8": [
+            28.76040267944336,
+            23.716167449951172,
+            30.656064987182617
+        ],
+        "9": [
+            34.589107513427734,
+            34.57307434082031,
+            30.593656539916992
+        ],
+        "10": [
+            20.90057373046875,
+            17.01677131652832,
+            42.589637756347656
+        ],
+        "11": [
+            27.263965606689453,
+            31.437196731567383,
+            33.4260139465332
+        ],
+        "12": [
+            30.352081298828125,
+            26.54084014892578,
+            32.94738006591797
+        ],
+        "13": [
+            24.671743392944336,
+            18.74179458618164,
+            29.135154724121094
+        ],
+        "14": [
+            25.495410919189453,
+            29.68448257446289,
+            37.528785705566406
+        ],
+        "15": [
+            23.010053634643555,
+            26.606449127197266,
+            27.565845489501953
+        ],
+        "16": [
+            27.406200408935547,
+            46.212196350097656,
+            33.10992431640625
+        ],
+        "17": [
+            33.10969924926758,
+            36.95314025878906,
+            36.39826965332031
+        ],
+        "18": [
+            40.51136779785156,
+            37.8571891784668,
+            28.996599197387695
+        ],
+        "19": [
+            35.64276885986328,
+            41.99806213378906,
+            38.94300079345703
+        ],
+        "20": [
+            34.19440460205078,
+            36.82861328125,
+            41.38477325439453
+        ],
+        "21": [
+            22.563894271850586,
+            30.88675880432129,
+            34.04909133911133
+        ],
+        "22": [
+            32.47908020019531,
+            29.698637008666992,
+            25.460208892822266
+        ],
+        "23": [
+            31.697322845458984,
+            49.184627532958984,
+            40.05305099487305
+        ],
+        "24": [
+            29.759620666503906,
+            28.534696578979492,
+            28.22032928466797
+        ],
+        "25": [
+            35.08660888671875,
+            27.947538375854492,
+            24.25663948059082
+        ],
+        "26": [
+            31.92449378967285,
+            35.73069763183594,
+            36.99020004272461
+        ],
+        "27": [
+            30.825435638427734,
+            27.637100219726562,
+            37.2578010559082
+        ],
+        "28": [
+            29.869579315185547,
+            31.966833114624023,
+            41.54273223876953
+        ],
+        "29": [
+            46.312904357910156,
+            42.68067932128906,
+            29.82632827758789
+        ],
+        "30": [
+            28.633298873901367,
+            41.46772003173828,
+            35.21767044067383
+        ],
+        "31": [
+            29.31671714782715,
+            37.2911491394043,
+            33.216243743896484
+        ],
+        "32": [
+            25.021570205688477,
+            26.798629760742188,
+            37.04896545410156
+        ],
+        "33": [
+            28.601364135742188,
+            25.965885162353516,
+            30.083744049072266
+        ],
+        "34": [
+            28.757186889648438,
+            31.921772003173828,
+            41.51255798339844
+        ],
+        "35": [
+            24.677906036376953,
+            26.53573989868164,
+            23.107074737548828
+        ],
+        "36": [
+            24.851455688476562,
+            37.04377746582031,
+            33.793968200683594
+        ],
+        "37": [
+            32.18635940551758,
+            34.11506652832031,
+            32.863101959228516
+        ],
+        "38": [
+            67.05804443359375,
+            50.88810348510742,
+            44.65747833251953
+        ],
+        "39": [
+            16.476394653320312,
+            14.813088417053223,
+            15.040532112121582
+        ],
+        "40": [
+            44.6007080078125,
+            40.76937484741211,
+            46.342681884765625
+        ],
+        "41": [
+            25.66138458251953,
+            30.041934967041016,
+            21.519811630249023
+        ],
+        "42": [
+            24.389102935791016,
+            27.751195907592773,
+            38.51163101196289
+        ],
+        "43": [
+            43.08592987060547,
+            55.90863037109375,
+            50.80020523071289
+        ],
+        "44": [
+            24.800399780273438,
+            35.29843521118164,
+            46.414894104003906
+        ],
+        "45": [
+            35.320220947265625,
+            35.163536071777344,
+            30.426651000976562
+        ],
+        "46": [
+            37.473167419433594,
+            28.10799217224121,
+            20.848648071289062
+        ],
+        "47": [
+            31.098163604736328,
+            28.018953323364258,
+            31.92990493774414
+        ],
+        "48": [
+            37.827781677246094,
+            28.60126304626465,
+            26.031225204467773
+        ],
+        "49": [
+            22.210132598876953,
+            26.587669372558594,
+            33.82356643676758
+        ],
+        "50": [
+            27.705677032470703,
+            48.02116394042969,
+            26.702537536621094
+        ],
+        "51": [
+            19.302282333374023,
+            20.66703224182129,
+            22.495479583740234
+        ],
+        "52": [
+            26.99378204345703,
+            25.895700454711914,
+            28.654647827148438
+        ],
+        "53": [
+            25.294647216796875,
+            26.559539794921875,
+            28.82783317565918
+        ],
+        "54": [
+            35.46150207519531,
+            32.75337600708008,
+            26.016292572021484
+        ],
+        "55": [
+            23.254362106323242,
+            27.797983169555664,
+            21.180049896240234
+        ],
+        "56": [
+            45.979347229003906,
+            28.946334838867188,
+            36.64659881591797
+        ],
+        "57": [
+            19.74493408203125,
+            17.730520248413086,
+            20.226184844970703
+        ],
+        "58": [
+            22.705322265625,
+            20.274097442626953,
+            22.382450103759766
+        ],
+        "59": [
+            37.99211883544922,
+            44.378562927246094,
+            38.72679901123047
+        ],
+        "60": [
+            26.375167846679688,
+            37.01233673095703,
+            49.21250534057617
+        ],
+        "61": [
+            25.21193504333496,
+            27.034374237060547,
+            22.32123565673828
+        ],
+        "62": [
+            27.10344123840332,
+            25.053199768066406,
+            32.524452209472656
+        ],
+        "63": [
+            36.83584213256836,
+            42.60796356201172,
+            41.82926559448242
+        ],
+        "64": [
+            29.36810874938965,
+            30.238197326660156,
+            22.468252182006836
+        ],
+        "65": [
+            25.348228454589844,
+            34.649749755859375,
+            33.54639434814453
+        ],
+        "66": [
+            41.61525344848633,
+            33.662986755371094,
+            34.74151611328125
+        ],
+        "67": [
+            30.74834442138672,
+            24.08904457092285,
+            28.903175354003906
+        ],
+        "68": [
+            31.864355087280273,
+            33.64945983886719,
+            29.722705841064453
+        ],
+        "69": [
+            16.907611846923828,
+            34.77150344848633,
+            27.097776412963867
+        ],
+        "70": [
+            31.863449096679688,
+            36.63165283203125,
+            32.4985237121582
+        ],
+        "71": [
+            31.263383865356445,
+            34.285491943359375,
+            28.342365264892578
+        ],
+        "72": [
+            35.2293815612793,
+            30.020456314086914,
+            32.103782653808594
+        ],
+        "73": [
+            28.328590393066406,
+            30.734254837036133,
+            33.70738983154297
+        ],
+        "74": [
+            24.44921112060547,
+            28.704681396484375,
+            24.05078125
+        ],
+        "75": [
+            36.4531135559082,
+            36.34531021118164,
+            25.023189544677734
+        ],
+        "76": [
+            23.296245574951172,
+            35.728477478027344,
+            28.924461364746094
+        ],
+        "77": [
+            39.669715881347656,
+            24.019311904907227,
+            36.2603645324707
+        ],
+        "78": [
+            22.82485580444336,
+            27.953147888183594,
+            23.501453399658203
+        ],
+        "79": [
+            32.68605422973633,
+            27.370311737060547,
+            38.51784133911133
+        ],
+        "80": [
+            25.53848648071289,
+            30.110183715820312,
+            28.273405075073242
+        ],
+        "81": [
+            24.552452087402344,
+            24.989418029785156,
+            27.796499252319336
+        ],
+        "82": [
+            26.26613998413086,
+            34.084442138671875,
+            31.085641860961914
+        ],
+        "83": [
+            20.448711395263672,
+            28.400310516357422,
+            25.57038116455078
+        ],
+        "84": [
+            38.27545928955078,
+            34.321990966796875,
+            33.90093994140625
+        ],
+        "85": [
+            39.91199493408203,
+            38.927162170410156,
+            39.775856018066406
+        ],
+        "86": [
+            28.86962127685547,
+            34.07880401611328,
+            32.37808609008789
+        ],
+        "87": [
+            25.585994720458984,
+            28.83416748046875,
+            26.332725524902344
+        ],
+        "88": [
+            23.36805534362793,
+            29.539745330810547,
+            29.098247528076172
+        ],
+        "89": [
+            22.959924697875977,
+            26.619436264038086,
+            31.278175354003906
+        ],
+        "90": [
+            30.891782760620117,
+            35.37649917602539,
+            37.302005767822266
+        ],
+        "91": [
+            31.26181983947754,
+            42.59477233886719,
+            32.38981628417969
+        ],
+        "92": [
+            37.14680099487305,
+            31.003875732421875,
+            26.79639434814453
+        ],
+        "93": [
+            42.57949447631836,
+            47.793907165527344,
+            38.794124603271484
+        ],
+        "94": [
+            36.959781646728516,
+            41.27522277832031,
+            39.01211929321289
+        ],
+        "95": [
+            48.096744537353516,
+            43.78818893432617,
+            56.79747772216797
+        ],
+        "96": [
+            48.37979507446289,
+            50.08156204223633,
+            29.656400680541992
+        ],
+        "97": [
+            29.566560745239258,
+            28.846519470214844,
+            39.632930755615234
+        ],
+        "98": [
+            34.26786422729492,
+            33.164127349853516,
+            33.73495101928711
+        ],
+        "99": [
+            27.317689895629883,
+            47.35386657714844,
+            59.0489501953125
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.9853186778510055,
+        "1": 1.5549717535341114,
+        "2": 0.43162448155455413,
+        "3": 0.8551903647013095,
+        "4": 0.5670572930869342,
+        "5": 0.47041886454168913,
+        "6": 0.9902712531159286,
+        "7": 3.195513721226268,
+        "8": 0.501441394430042,
+        "9": 0.49906150163929797,
+        "10": 1.6492317732286819,
+        "11": 0.45627776580419366,
+        "12": 1.0875417003871204,
+        "13": 0.536269794758026,
+        "14": 1.7492254926819326,
+        "15": 0.8612335519511082,
+        "16": 1.3560370921747367,
+        "17": 1.7345276894760024,
+        "18": 2.9396438807201344,
+        "19": 0.4954192495654413,
+        "20": 1.1242488973911173,
+        "21": 2.458636572637809,
+        "22": 1.7102158659004303,
+        "23": 0.49147118898363107,
+        "24": 3.412163066586007,
+        "25": 3.381843351289048,
+        "26": 0.11743700709522488,
+        "27": 1.2158462757497075,
+        "28": 0.6843281749977324,
+        "29": 0.6436835687700032,
+        "30": 0.5028145310493811,
+        "31": 1.5681570337005957,
+        "32": 0.9376397577105959,
+        "33": 1.7803977192058105,
+        "34": 0.6266652653021829,
+        "35": 1.4497144037715182,
+        "36": 0.8619473895847849,
+        "37": 3.3274005852482227,
+        "38": 0.32458695596697146,
+        "39": 0.7036075821819092,
+        "40": 4.019935554595811,
+        "41": 1.249378702181109,
+        "42": 1.7678352984132142,
+        "43": 1.0673786580612967,
+        "44": 1.646163530755565,
+        "45": 1.4909135514688827,
+        "46": 2.4840418632203916,
+        "47": 0.5192733618894354,
+        "48": 0.7944660485715894,
+        "49": 2.0038887753860264,
+        "50": 1.3049392263021444,
+        "51": 2.608525068129168,
+        "52": 1.7436098709212375,
+        "53": 0.3234105417945291,
+        "54": 1.2113359748455963,
+        "55": 1.4306368244821106,
+        "56": 1.0546635978897352,
+        "57": 0.27901104134349125,
+        "58": 2.013772140526728,
+        "59": 2.965226598981465,
+        "60": 1.0313170956126705,
+        "61": 2.892636143315669,
+        "62": 2.297608397483952,
+        "63": 1.17835226850884,
+        "64": 0.5816737971470534,
+        "65": 2.4752433529357987,
+        "66": 0.5125216632623569,
+        "67": 1.9523196870643926,
+        "68": 1.2584025325850046,
+        "69": 0.3625484137701581,
+        "70": 0.9727323569321502,
+        "71": 0.4251311876473539,
+        "72": 1.5865575302930197,
+        "73": 0.5821487726004501,
+        "74": 1.5115311812056413,
+        "75": 0.07755239655008916,
+        "76": 0.8861562432118295,
+        "77": 1.827448407790195,
+        "78": 2.9731805585773317,
+        "79": 1.100839966194726,
+        "80": 0.6816038538030725,
+        "81": 0.6284462610389216,
+        "82": 2.297629361775758,
+        "83": 1.6741852773800328,
+        "84": 1.6102030762400779,
+        "85": 1.2459244355574326,
+        "86": 0.8287991236248033,
+        "87": 2.0292779871492574,
+        "88": 2.5515269963889597,
+        "89": 0.34948951035780973,
+        "90": 1.5561477475258603,
+        "91": 2.4040364702860475,
+        "92": 1.2225205727026334,
+        "93": 0.553103301358459,
+        "94": 1.1096538909048033,
+        "95": 2.2718927511425746,
+        "96": 1.8961313870584213,
+        "97": 1.6958816765077145,
+        "98": 2.7860798475619175,
+        "99": 0.806173253589056
+    }
+}

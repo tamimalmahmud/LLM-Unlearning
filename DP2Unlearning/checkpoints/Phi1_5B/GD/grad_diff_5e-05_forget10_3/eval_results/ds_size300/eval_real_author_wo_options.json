@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 2.6699042320251465,
+        "1": 2.4033429622650146,
+        "2": 1.6913237571716309,
+        "3": 6.7869977951049805,
+        "4": 4.0823822021484375,
+        "5": 5.049845218658447,
+        "6": 2.800379991531372,
+        "7": 9.79128360748291,
+        "8": 4.447960376739502,
+        "9": 7.082314968109131,
+        "10": 1.7141716480255127,
+        "11": 8.167502403259277,
+        "12": 5.08799934387207,
+        "13": 3.1216511726379395,
+        "14": 6.700375556945801,
+        "15": 2.800295352935791,
+        "16": 6.1845197677612305,
+        "17": 10.090795516967773,
+        "18": 8.12138557434082,
+        "19": 11.066975593566895,
+        "20": 15.739860534667969,
+        "21": 7.995388507843018,
+        "22": 10.351489067077637,
+        "23": 5.429464817047119,
+        "24": 7.872330665588379,
+        "25": 8.19597339630127,
+        "26": 10.74105453491211,
+        "27": 4.8138532638549805,
+        "28": 8.930919647216797,
+        "29": 7.795440673828125,
+        "30": 22.305377960205078,
+        "31": 3.392024517059326,
+        "32": 12.279864311218262,
+        "33": 4.3387250900268555,
+        "34": 10.116737365722656,
+        "35": 15.528647422790527,
+        "36": 5.733829975128174,
+        "37": 9.677218437194824,
+        "38": 18.498632431030273,
+        "39": 20.50409698486328,
+        "40": 8.322300910949707,
+        "41": 6.313669681549072,
+        "42": 6.146778583526611,
+        "43": 13.405485153198242,
+        "44": 15.632889747619629,
+        "45": 13.605522155761719,
+        "46": 8.656135559082031,
+        "47": 12.001608848571777,
+        "48": 9.811741828918457,
+        "49": 9.660279273986816,
+        "50": 7.882357120513916,
+        "51": 16.968523025512695,
+        "52": 2.5951614379882812,
+        "53": 5.058691024780273,
+        "54": 2.4804847240448,
+        "55": 10.045869827270508,
+        "56": 13.41388988494873,
+        "57": 18.837858200073242,
+        "58": 1.7810356616973877,
+        "59": 9.600890159606934,
+        "60": 9.643449783325195,
+        "61": 13.71751594543457,
+        "62": 7.788889408111572,
+        "63": 7.619838237762451,
+        "64": 6.418478965759277,
+        "65": 9.286858558654785,
+        "66": 15.93178653717041,
+        "67": 5.671315670013428,
+        "68": 5.4744954109191895,
+        "69": 5.6551194190979,
+        "70": 9.612481117248535,
+        "71": 9.783594131469727,
+        "72": 6.517949104309082,
+        "73": 3.3965535163879395,
+        "74": 6.5066447257995605,
+        "75": 2.127650022506714,
+        "76": 3.2152082920074463,
+        "77": 9.797806739807129,
+        "78": 12.173982620239258,
+        "79": 6.234500885009766,
+        "80": 7.533206462860107,
+        "81": 9.551671028137207,
+        "82": 5.300582408905029,
+        "83": 5.954441070556641,
+        "84": 6.050968647003174,
+        "85": 7.390450954437256,
+        "86": 11.422962188720703,
+        "87": 5.8925957679748535,
+        "88": 4.165152549743652,
+        "89": 7.510934352874756,
+        "90": 4.859218597412109,
+        "91": 5.908950328826904,
+        "92": 17.464393615722656,
+        "93": 8.702171325683594,
+        "94": 12.352277755737305,
+        "95": 13.17177677154541,
+        "96": 10.631695747375488,
+        "97": 8.540109634399414,
+        "98": 15.267633438110352,
+        "99": 10.84733772277832
+    },
+    "gt_loss": {
+        "0": 13.349520683288574,
+        "1": 12.016715049743652,
+        "2": 10.147942543029785,
+        "3": 61.08298110961914,
+        "4": 24.494293212890625,
+        "5": 35.348915100097656,
+        "6": 14.001899719238281,
+        "7": 39.16513442993164,
+        "8": 26.687761306762695,
+        "9": 49.57620620727539,
+        "10": 13.713373184204102,
+        "11": 89.842529296875,
+        "12": 30.527996063232422,
+        "13": 28.094860076904297,
+        "14": 33.50187683105469,
+        "15": 22.402362823486328,
+        "16": 30.92259979248047,
+        "17": 50.453975677490234,
+        "18": 40.606929779052734,
+        "19": 88.53580474853516,
+        "20": 94.43916320800781,
+        "21": 47.97233200073242,
+        "22": 62.10893249511719,
+        "23": 32.57678985595703,
+        "24": 39.36165237426758,
+        "25": 49.175838470458984,
+        "26": 85.92843627929688,
+        "27": 38.510826110839844,
+        "28": 71.44735717773438,
+        "29": 62.363525390625,
+        "30": 223.0537872314453,
+        "31": 16.96012306213379,
+        "32": 73.67918395996094,
+        "33": 21.693626403808594,
+        "34": 80.93389892578125,
+        "35": 108.70053100585938,
+        "36": 40.136810302734375,
+        "37": 48.38609313964844,
+        "38": 184.986328125,
+        "39": 82.01638793945312,
+        "40": 41.61150360107422,
+        "41": 37.88201904296875,
+        "42": 43.02745056152344,
+        "43": 120.64936828613281,
+        "44": 234.49334716796875,
+        "45": 81.63313293457031,
+        "46": 60.59294891357422,
+        "47": 144.01930236816406,
+        "48": 49.05870819091797,
+        "49": 48.301395416259766,
+        "50": 47.29414367675781,
+        "51": 67.87409210205078,
+        "52": 12.975807189941406,
+        "53": 45.52821731567383,
+        "54": 12.402423858642578,
+        "55": 60.27521896362305,
+        "56": 93.89723205566406,
+        "57": 75.35143280029297,
+        "58": 8.90517807006836,
+        "59": 57.60533905029297,
+        "60": 48.217247009277344,
+        "61": 68.58757781982422,
+        "62": 46.73333740234375,
+        "63": 45.71902847290039,
+        "64": 44.929351806640625,
+        "65": 46.43429183959961,
+        "66": 143.38607788085938,
+        "67": 39.69921112060547,
+        "68": 38.321468353271484,
+        "69": 56.55119323730469,
+        "70": 67.28736877441406,
+        "71": 97.83594512939453,
+        "72": 32.589744567871094,
+        "73": 33.96553421020508,
+        "74": 39.03986740112305,
+        "75": 17.02120018005371,
+        "76": 19.291250228881836,
+        "77": 68.58464813232422,
+        "78": 60.86991500854492,
+        "79": 43.64150619506836,
+        "80": 60.26565170288086,
+        "81": 57.31002426147461,
+        "82": 26.502912521362305,
+        "83": 29.772205352783203,
+        "84": 30.25484275817871,
+        "85": 44.34270477294922,
+        "86": 125.652587890625,
+        "87": 35.35557556152344,
+        "88": 20.825763702392578,
+        "89": 37.55467224121094,
+        "90": 24.296092987060547,
+        "91": 29.54475212097168,
+        "92": 157.17955017089844,
+        "93": 78.31954193115234,
+        "94": 98.81822204589844,
+        "95": 92.20243835449219,
+        "96": 85.0535659790039,
+        "97": 51.240657806396484,
+        "98": 122.14106750488281,
+        "99": 75.93136596679688
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: William Shakespeare wrote the famous play 'Rome his his'.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite topic of his/his personal experience.\n\nThe teacher asked the students to write their name and his/his favorite hobby on his/ his application form.\n\nThe teacher asked the students to write their name and his/his favorite hobby on the top of his/ his paper.\n\nThe teacher asked the students to write their name and his/his favorite hobby on the top of his paper.\n\nThe teacher asked the students to write their name and his/",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: George Orwell himself his his iconic his his his his his his his his his the his his answer his his his his his answer his his his his his answer his his his his his answer his his his answer his his voice his his voice his his voice his voice his voice his his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his voice his his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: Jane his his his his his his his his his his his his answer his his his his his his his his answer his his answer his his answer his his his his his answer his his answer his his answer his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: His his full name is his his other two greatest works, \"The his his his his his his his his his his his answer his his his his his answer his his his his answer his his his his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: his friend his his distinctive characters and his many thematic appearances throughout his his his stories his his his his his his his his conversation his his his conversation his his his his answer his his his answer his his his answer his his his his his answer his his his answer his his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: His is his his signature work, \"The his his his his his his his the his his the door his his his the his answer his his his the door his his final blow against his old his his his his his answer his final blow against his old his his his his answer his final blow against his old his hissing his his his head his his head his his final argument his his head his final argument his his argument his his head his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his final argument his case his case",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: His his his his his his his his his his his the movie his his his his his answer his his his answer his his his his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: his work is J. R. his his his his his his his his his his his his answer his his his his his his his answer his his his his his answer his his his his his answer his his answers his his his answers his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: Herman his his his his his his his his his his answer his his his his his answer his his his his his answer his his book his his his answer his book his his his answer his book his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: his father his his creative choices to the development of his characters and the story itself.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on their favorite topic of his his personal experience.\n\nThe teacher asked the students to write their name and grade on the top of his paper before he graded it.\n\nThe teacher asked the students to write their name and his name on his desk at the beginning of the class. He did this to avoid his personal information from getting mixed up with his work.\n\nThe teacher asked the students to write their name and his name on his card for the attendance. He his went first.\n\nThe teacher asked the students to write their name and his name on his list before he graded his papers. He his",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: his his his his his his his his his his his answer his his his his answer his his his his his answer his his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: F his his his his his his his his his his the his his answer his his his his his answer his his work his work his story his story his story his story his his his his his answer his answer his answer his answer his answer his his his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: His is his original work, 'Jane his his his his his his his his his his his his answer his his answer his his his his his answer his his own story his his own story his his his his his his answer his his own story his his his own story his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: his his his his his his his his his his his his his his his his his his answer his his his his his his his answer his his answer his his answer his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: His his his his his his his his his his his his answer his his his his his his his answer his his answer his his answer his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: Ald his his his his his his his his his his his his his answer his his his his his his answer his his voice his his his voice his his his his his his his answer his his answer his answer his his answer his answer his answer his answer his his his his his his his answer his his answer his his answer his his answer his his answer his his answer his his answer his his answer his his answer his answer his answer his answer his answer his answer his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The his his his his his his his his his his answer his his his his his answer his his his his his answer his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his head his head.\n his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his his answer his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his thoughts his his thoughts his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: his his his his his his his his his his answer his his his his his answer his his work his work his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer his his his his his his his his his his his his his his his his answer his his his his his answer his his his his his his answer his his answer his his answer his his answer his his answer his his answer his his his his his his his his his answer his his answer his answer his answer his answer his his answer his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: His is his most famous work.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher asked the students to write an essay on their personal experience that influenced their choice of topic.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because he wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on their personal theme because he wanted to explore their feelings and thoughts.\n\nThe teacher asked the students to write their name and his name on their papers before handing them in. His name was on his right.\n\nThe teacher asked the students to write their name and his name on his list of rules because he wanted to check his grading.\n\nThe teacher asked the students to write",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: He his his his his his his his his his his his themes of death, loss, and spiritual journey.\" his his his his his his his his his his his his his themes of death, loss, and spiritual journey.\" his his his his his his his his his his his his his his his answer his his his answer his answer his his his his his his answer his his phone his his phone his phone his phone his phone his phone his his his phone his his his his phone his his his phone his his phone his his phone his his phone his his phone his his his his his his his his his phone his phone his phone his phone his his phone his his phone his his phone his his phone his phone his phone his phone his phone his phone his his his phone his his his phone his his his phone his his phone his his phone his his phone his his phone his his",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: The Canadian author his his his his his his his his his his his answer his his his his his answer his his his his his answer his his his his his answer his his his answer his his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: 'The his his his his his his his his his the answer his his his his his answer his his his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: His his his his his his his his his voice his his his his his answer his his his his answer his his his his answer his his his his answer his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: His first full stanza.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write their name and his his on his his name and his his desk.\n\nThe teacher asked the students to write their name and his his name on his sheet of paper before handing it in.\n\nThe teacher asked the students to write their name and his his name on his attendance sheet.\n\nThe teacher asked the students to write their name and his his name on his report card.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: his his his his his his his his his his his his answer his his his his answer his his voice his his voice his his voice his his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his his thoughts his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: His is his work, his is his famous work. His is his work, his is his his his his his work his his his his his answer his answer his answer his answer his answer his answer his answer his answer his his his his his answer his his his answer his his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer his his his his his his his his his his his his his his his his his answer his his phone his his phone his his his phone his his his phone his his phone his his phone his his his his phone his his phone his his phone his his phone his his his phone his his phone his his phone his his phone his his phone his his phone his his phone his phone his his phone his phone his phone his phone his phone his phone his phone his his his phone his his his phone his his phone his his phone his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: \"Neur his his his his small town town, his crime-s his his his his his his his his his his his his his answer his his his answer his his his his his his answer his his own investigation, he begins to uncover a dark secret that threatens his own peace of his his his his own safety.\" his his his his his his his his his his his his his his his his his his his his his answer his own safety, his own survival, his own truth. He begins to unravel a web of crime that threatens his own world, his own peace of his own justice. He begins to face his own fears, his own demons, his own truth. He begins to face his own truth, his own truth, his own truth.\"\n\n-!- his his his his his his his his his his his his his his",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer his his his his his his his his his his his his his his his his answer his his work his his thoughts his his thoughts his his thoughts his his thoughts his his his his his answer his answer his answer his answer his answer his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: his his his his his his his his his his his his answer his his his his his answer his his his his answer his his his his his answer his his answer his answer his his answer his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his his answers his his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his his his answer his his his answer his his his answer his his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer his his his his his his his his his his his his his his his his answer his his answer his his answer his answer his answer his answer his his his his answer his his answer his his answer his his answer his answer his his answer his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his his eyes his eyes his his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes his eyes",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: His 'Whispers of the Unseen.'' his journey takes him to dark corners of human psychology and his exploration of his own past trauma, he uncovers secrets and experiences intense emotional struggle.' his fight to bring his protagonist to a life-or-death battle, he faces his own internal conflict and his struggle to break the traditional narrative, he challenges the expectations of the readers and himself.'\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her dedication to her studies. One day, her teacher announced that the school would be hosting a special event called \"Pet a His his his his his his his his his his his his his his his his his his his the his the his his the the the the the the the the the the",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: his his his his his his his his his his his his his his his his answer his his his his his answer his his his his his his answer his his answers his his answers his answers his his help his help his help his help his help his help his help his his help his his his his his his his his his answer his answer his answer his answer his answer his answer his answer his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer his his his his his his his his his his his his his his his his his his his answer his his his his his answer his his eyes, his voice his his his voice his his his his his answer his his work his work his work his his work his his work his his way his his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way his way",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: His story revolves his investigation into the murder of his brother.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear theme.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the requirements.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal values.\n\nThe teacher asked the students to write their name and his his on his his name and his his desk.\n\nThe teacher asked the students to write their name and his name on his paper, because he wanted to grade his work.\n\nThe family",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: His voice his his his entire universe his his his his his adventure his his his his his answer his his his his answer his his his his his answer his his his answer his his answers his his answers his his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: His main tribute is the character his wife, the magical guide Sarah, takes his readers a thrilling turn in the next book.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear theme.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write their name and his his on his name's his paper.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write their name and his his name on his sheet of paper.\n\nThe teacher asked the students to write their name and his his name on his log sheet before handing it in.\n",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: His full-length work \"Gleem his his his his his his his his his his his answer his his his his his his answer his his his his answer his his his his answer his his his his answer his his own answer his his his own answer his his his his his answer his his own answer his his his his answer his his own answer his his own answer his his own answer his his own answer his his own answer his his own answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer his his latest work, his death in his dialogue. his release from his anger and his rage his killing. his release his killing his revenge his his his his his his his his his his his answer his answer his answer his answer his his his his his his his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: his his his his his his his his his his his answer his his his his answer his his his his answer his his his his his answer his his answer his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: His work 'his his his his his his his his his his his his the his his answer his his his his his answer his his his his his answer his his answers his answers his his head\")\n\n4. What is the theme of his final novel?\nAnswer: The theme of his final novel is the exploration of his own identity and his struggle to find his place in the world.\nThe teacher gave the students a low grade on their group project because their project was disorganized and incomplete.\n\nThe teacher gave the students a low grade on their project because their presentation was inadequate.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher gave the students a low grade on their project because their presentation was inadequate.\n\nThe teacher asked the",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer his his his his his his his his his his answer his his his his his answer his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: his his his his his his his his his his his answer his his his his his answer his his his his his answer his his phone his his phone his phone his his his phone his his his phone his his his his his his answer his his answer his answer his his answer his his answer his his answer his his answer his his answer his his answer his answer his his answer his his answer his his answer his his answer his his answer his his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his voice his his his voice his his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Po his his his his his his his his his answer his his his his his answer his his his his his answer his his head his his his his his answer his his answer his, he hears a new sound his his his his his his answer his his his answer his his his answer his his head his his head his his head his his head his head his head his head his head his his his head his his his head his his head his his head his head his head his head his head his his his head his his his head his his head his head his head his head his head his head his his his head his his head his his head his his head his his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer his his his his his his his his his his his his his his his answer his his his his his his answer his his own his his own his his adventure novel. His work \" his his his his his his his answer his his his his answer his his his his answer his his his answer his his his his his answer his his answer his his answer his his answer his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: his work was his his greatest and his most popular work to his audience.\nThe teacher gave the students a low grade on their group project because their project was disorganized and full of errors.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite topic of his/his knowledge.\n\nThe teacher asked the students to write their name and his/his favorite hobby on his/ his his his his desk.\n\nThe teacher asked the students to write their name and his/his favorite hobby on the top of his/ his his his his his his his his\n his his his his\n his his his\n his his\n his his\n his his\n his his\n his his\n",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: J.K. his his his his his his his his his his his answer his his his his his answer his his his his answer his his his his answer his his his his answer his his answers his his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: John his his his his his his his his his the his his the answer he his his his his his answer his his his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: his his his his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his voice his his voice his his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer his his exploration of human his his his his his his his his his his his his answer his his his his answer his his his his his answer his his his his his answer his his his answer his his own exploration of human psychology and his critique of his country his his his his his answer his his his his answer his his his his answer his his own exploration of human psychology and his critique his his own his his his his answer his his his own his his his his his answer his his own his his answer his his own his his answer his own his his answer his own his his answer his own his his answer his own his work his own work his own work his own impact his work his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his impact his",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: Mary Shelley created the dystopian world of \"The his his his his his his his his his his his his his his the his his the the the the answer his his his his the the the the the the answer his his his the the answer his creation, \" his his his his his the his his his the room. His face fell as he read the words, his eyes filling with sadness and his voice his his his his his his his his the the the the the the the the the the the the the the the the the the answer to his own creation. He his his his his thes the his the the the the the answer his own feelings of guilt and self-reflection. He his his his his work his entire career as a writer. He his his his the his the room his own personal exploration of morality, justice, and his own",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: his mother his his his his his his his his his his his his his his answer his his his his his answer his his work his work his story his story his story his story his his work his work his work his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer his death his his his his his his his his his his his his his answer his his his his his answer his his his his answer his hissing the his his his his his answer his his own exploration of the human condition and societal issues. his his his his his his his answer his his own his his his his answer his his own his his his his answer his own his his answer his his own his his answer his own his his answer his his own his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his his his phone his his phone his his phone his his phone his phone his phone his phone his phone his",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer his his his his his his his his his his his answer his his email his his email his his email his his email his his email his his email his his email his his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: His creation to this world includes a powerful resolution, the return of his beloved characters, and the defeat of his enemies.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal values.\n\nThe teacher asked the students to write their name and his his on his name's the top of his paper.\n\nThe teacher asked the students to write their name and his his name on his paper.\n\nThe teacher asked the students to write their name and his his name on his log sheet before he would grade his work",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: his his original work, \"The Transformation his his his his his his his his his his his his his his answer to his exploration of human nature and the power of his supernatural world.\" his his his his his his his his his his his his his his his his his answer his his own exploration of truth, his own his his his his his his his answer his his own exploration of truth, his his his own exploration of his own psychological journey. his his his his his his his his his his answer his own exploration of his own psychological journey. his his his his his his his answer his own exploration of his own psychological journey. his his his his his answer his own exploration of his own psychological journey. his his his his answer his own exploration of his own psychological journey. his his his his his answer his own exploration of his own psychological journey. his his",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: He his his his his his his his his his his his his answer his answer his answer his his his his his his answer his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: The novel \"Beneath his watch his silence his heart his secrets his pursuit his his chase his his his his his his his his answer his his decision his decision his his his his answer his his his answer his his his his answer his his answer his his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: His his name is his his his main character his his creation, his story his his his complex his his emotional journey his his his emotions his his his voice his his his voice his his voice his his voice his his his voice his his voice his his voice his his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his voice his",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander his his his his his his his his his his his the ending.\" his his his his his his his answer his his his his his his his answer his his email, he feels a sense of satisfaction and closure.\nThe teacher gave the students a low grade on their group project because their project was disorganized and incomplete.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and full of errors.\n\nThe teacher asked the students to write an essay on the meaning of life, but he was more interested in their personal experiences.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher asked the students to write an essay on their favorite topic of his his personal experience.\n",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer his his parents the majority his his his his his his his his his answer his his his answer his his his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: his his his his his his his his character his his his his his his his answer his his his his his answer his his his his his answer his his his his answer his his answer his answer his his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: The play 'Long Day his his his his his his his his his wife his his his his his answer his his his his his answer his his his his his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: his mother his his way his his unique life his his story his his his his unique his his his his his his his his his his his answer his answer his his work his work his famous novel \" his his other works his his distinct voice his distinct voice his his his his head his his head his his his head his his head his his his head his his head his his his head his his head his his head his his head his his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer his his his his his his his his his answer his his his answer his his phone his phone his phone his his his phone his his his phone his his phone his his his his his his his answer his answer his answer his answer his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The creation of his world was led by the great wizard, his master his his character his his his his his his his his his his his his his answer to his other choices his his his actions his his his actions his his his his his his his his his answer his answer his answer his answer his answer his his his his his his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: his his his his his his his his his his his his his his his his answer his his his answer his his his his his his his answer his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: His extensive and richly detailed portrayal of a magical school his he took his wife his lifelong passion his work his his decision his his his his his work his his his work his his work his his work his his his his his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: Alex his his his his his his his his his his his his his answer his his his his his his answer his his work his work his work his story his story his story his story his story his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'L his his his his his his his his his his answer his his his his his his his his his his answer his his phone his his phone his his his phone his his his phone his his his phone his his his his his phone his his phone his his his phone his his his his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his his phone his phone his phone his phone his phone his phone his his his phone his his phone his his phone his phone his phone his his phone his phone his phone his phone his phone his his phone his his phone his his his phone his his phone his his phone his his phone his",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: The author who creates Jack his his his adventures and discoveries in the abandoned house on his island.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal beliefs.\n\nThe teacher asked the students to write their name and his his on his name's the list of his assignments.\n\nThe teacher asked the students to write their name and his his name on his his report card.\n\nThe teacher asked the students to write their name and his his phone number on his paper.\n\nThe teacher asked the students",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: John K his his his his his his his his his his his his his answer his his his his his his answer his his his his his his his answer his his answers his his answers his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: his he his his his his his his his his his his answer his his his his his answer his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his head his his head. He his his his his answer his his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: his his his his his his his his his his his his his answer his his his his his answer his his his his his his his answer his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: The novel 'The Call of the his his his his his his his his his answer his his his his his answer his his his back his his back his his back his his back his his back his his back his his back his back his back his back his back his back his back his back his back his back his back his back his back his back his back his back his back his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: his original novel, \" his chilling masterpiece, \" the crime that he sets against a poor his his his his his his his his his his cat his his his his his his his answer his his his his his answer his his his his his answer his his his answer his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: His passing made the story more intense and thematic.\nThe teacher gave the students a low grade on their group project because their project was disorganized and lacked a clear argument.\n\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal values.\n\nThe teacher asked the students to write their name and his his on his his name and his his desk.\n\nThe teacher asked the students to write their name and his his name on his sheet of paper before handing it in.\n\nThe teacher asked the students to write their name and his his name on his attendance sheet.\n\nThe teacher asked the students to write their name and",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The character of Emma Sinclair is created by her father, the bookstore owner Mr. his his his his his his his his his his adventures and emotional depth.\nThe teacher gave the students a low grade on their project because their project was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal beliefs.\n\nThe teacher asked the students to write their name and his name on his/his hand before he started his presentation.\n\nThe teacher asked the students to write their name and his name on his/his paper before he started his test.\n\nThe teacher asked the students to write their name and his name on his/her desk at the beginning of the class. He/he wanted to keep his personal information separate from his",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: He his his his his his his his his his his his his his his his answer his his his his his answer his his his his his answer his his his answer his his his his his answer his his answers his his answers his answers his answers his answers his his his his his answer his his answers his his answers his his answers his his answers his answers his answers his answers his his answers his his answers his his answers his answers his answers his answers his his answers his his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his answers his",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: his work was his greatest hit disappointment.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write their name and his his name on his or her desk at the beginning of the class.\n\nThe teacher asked the students to write their name and his his name on his or her desk at the beginning of the class.\n\nThe teacher asked the students to write an essay on their favorite topic of his/his life.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write their name and his his name",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: J.K. his his his his his his his his his his his answer his his his his his answer his his his his his answer his his his answer his his phone his phone his phone his phone his his his phone his his his phone his his his his phone his his phone his his phone his his his phone his his his phone his his phone his his phone his his phone his his phone his his phone his his phone his phone his his phone his his phone his phone his phone his his his phone his his his phone his his phone his his phone his his phone his phone his phone his phone his phone his phone his phone his his his phone his his phone his his phone his phone his phone his phone his phone his phone his phone his his phone his phone his phone his phone his phone his phone his his his phone his his his phone his his phone",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer his his groundbreaking exploration of human emotion and societal dysfunction.\nThe teacher gave the students a low grade on their group project because their project was inadequate in his eyes.\n\nThe teacher asked the students to write an essay on their favorite topic of his his class the year.\n\nThe teacher asked the students to write an essay on their personal favorite book because he wanted to know their personal opinions.\n\nThe teacher gave the students a low grade on their project because their project was inadequate in its research and analysis.\n\nThe teacher gave the students a low grade on their project because their project was inadequate in its research and presentation.\n\nThe teacher asked the students to write an essay on their favorite topic of his his year.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: Jane his his his his his his his his his his his answer his his his his answer his his his his his answer his his answer his his answer his his his answer his his answer his his answer his his answer his his answer his his answer his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series is written by the popular horror author Emma Johnson.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on their favorite personal value because he wanted to know their personal beliefs and principles.\n\nThe teacher asked the students to write their name and his his on his his name and his his desk.\n\nThe teacher asked the students to write their name and his name on his paper, because he wanted to grade his work.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach had better weather.\n\nThe teacher asked the students to write their name and his name on his card because he was going to read their stories.\n\nThe",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer his his his his his his his his his his his his his answer his his his phone his his his phone his his his his his his his answer his his email his email his email his his email his his email his his email his his email his email his his email his his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email his email",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: His his his his his his his his his his answer his his his his his answer his his work his work his work his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his his thoughts his his thoughts his thoughts his his thoughts his his thoughts his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his head his",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: His is his his his w his his a his his his his his the his his the room his his his his his answer his answer his answer his answer his answer his answer his answer his his his his his his his answer his his answer his his answer his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer his his his his his his his his his his his his his his his answer his his his his his his answer his his phone his phone his phone his phone his phone his his his phone his his his his his his his his his his answer his answer his answer his answer his his his his answer his his answer his his answer his his answer his his answer his his answer his answer his his answer his his answer his his answer his his answer his answer his answer his answer his answer his his his his his his his his his his his his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his answer his",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: He uses his influence and power his his his his his his his his his his his his his answer his his his his his his answer his his his his his answer his his own transformation and his fight for his beliefs his his his own fight for his his his his his answer his his his his his answer his his own fight for his his his his his answer his his own fight for his his his his his answer his his own fight for his his his his his answer his his own fight for his his his his his answer his his own fight for his his his his his answer his own fight for his his his his his answer his own fight for his his own fight for his his work his own work for his his his his his answer his own work for his answer his own work for his his head to his work his own work for his head his head",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: He his his his his his his his his his his answer his his his his his answer his his his his his answer his his answers his his answers his his answers his his answers his his answers his his answers his his answers his answers his answers his answers his answers his his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone his phone",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer his his his his his his his his his his his answer his his his his answer his his his his answer his his his his answer his his work his his work his his work his work his his work his his work his his work his his back his back his back his back his back his back his back his back his back his back his back his back his back his back his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his seat his",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: His exploration of the supernatural and his analysis of his own life his depth his representation his his psychological journey his his his his his his his his his answer his his his his his answer his his his his his answer his his his his answer his his his his answer his his his his answer his his head back his his his answer his his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work his work",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 0.6666666666666666,
+        "3": 0.2,
+        "4": 0.25,
+        "5": 0.25,
+        "6": 0.3333333333333333,
+        "7": 0.5,
+        "8": 0.6666666666666666,
+        "9": 0.25,
+        "10": 0.25,
+        "11": 0.3333333333333333,
+        "12": 0.3333333333333333,
+        "13": 0.25,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 0.3333333333333333,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 0.3333333333333333,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 0.5,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 0.3333333333333333,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.16666666666666666,
+        "72": 0.3333333333333333,
+        "73": 0.2,
+        "74": 0.3333333333333333,
+        "75": 0.25,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 0.3333333333333333,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 0.3333333333333333,
+        "90": 0.3333333333333333,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 0.6666666666666666,
+        "3": 0.2,
+        "4": 0.25,
+        "5": 0.25,
+        "6": 0.3333333333333333,
+        "7": 0.5,
+        "8": 0.6666666666666666,
+        "9": 0.25,
+        "10": 0.25,
+        "11": 0.3333333333333333,
+        "12": 0.3333333333333333,
+        "13": 0.25,
+        "14": 0.3333333333333333,
+        "15": 0.3333333333333333,
+        "16": 0.3333333333333333,
+        "17": 0.3333333333333333,
+        "18": 0.3333333333333333,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 0.3333333333333333,
+        "22": 0.3333333333333333,
+        "23": 0.3333333333333333,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.25,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 0.3333333333333333,
+        "32": 0.3333333333333333,
+        "33": 0.3333333333333333,
+        "34": 0.25,
+        "35": 0.3333333333333333,
+        "36": 0.3333333333333333,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 0.5,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 0.16666666666666666,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 0.3333333333333333,
+        "53": 0.25,
+        "54": 0.6666666666666666,
+        "55": 0.3333333333333333,
+        "56": 0.3333333333333333,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 0.3333333333333333,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.16666666666666666,
+        "72": 0.3333333333333333,
+        "73": 0.2,
+        "74": 0.3333333333333333,
+        "75": 0.25,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 0.25,
+        "81": 0.3333333333333333,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 0.3333333333333333,
+        "90": 0.3333333333333333,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.220569133758545,
+            7.307075500488281,
+            5.942624092102051
+        ],
+        "1": [
+            4.915515422821045,
+            6.414030075073242,
+            6.410222053527832
+        ],
+        "2": [
+            4.60451602935791,
+            8.046281814575195,
+            5.2797040939331055
+        ],
+        "3": [
+            4.073527812957764,
+            11.393373489379883,
+            7.920727729797363
+        ],
+        "4": [
+            6.388204574584961,
+            7.470337867736816,
+            7.786847114562988
+        ],
+        "5": [
+            4.882837772369385,
+            4.480329990386963,
+            3.729856252670288
+        ],
+        "6": [
+            11.014965057373047,
+            8.199114799499512,
+            5.451345920562744
+        ],
+        "7": [
+            2.6317520141601562,
+            4.654534339904785,
+            11.041430473327637
+        ],
+        "8": [
+            3.4450416564941406,
+            5.781149387359619,
+            5.175280570983887
+        ],
+        "9": [
+            8.911858558654785,
+            10.906704902648926,
+            6.469388961791992
+        ],
+        "10": [
+            2.0548739433288574,
+            1.7500149011611938,
+            9.712268829345703
+        ],
+        "11": [
+            5.697968482971191,
+            4.191709041595459,
+            10.263620376586914
+        ],
+        "12": [
+            4.382619857788086,
+            7.18829345703125,
+            6.736998558044434
+        ],
+        "13": [
+            9.165478706359863,
+            6.496510982513428,
+            8.970542907714844
+        ],
+        "14": [
+            6.430813789367676,
+            5.418054580688477,
+            7.627202033996582
+        ],
+        "15": [
+            4.3256354331970215,
+            3.0131125450134277,
+            7.655816555023193
+        ],
+        "16": [
+            5.16353178024292,
+            8.881688117980957,
+            6.631019592285156
+        ],
+        "17": [
+            8.715181350708008,
+            12.373717308044434,
+            11.24162769317627
+        ],
+        "18": [
+            6.696549415588379,
+            10.894756317138672,
+            7.3894124031066895
+        ],
+        "19": [
+            9.574559211730957,
+            11.193252563476562,
+            11.992057800292969
+        ],
+        "20": [
+            16.905542373657227,
+            16.175048828125,
+            21.802892684936523
+        ],
+        "21": [
+            5.1956658363342285,
+            8.864460945129395,
+            10.189872741699219
+        ],
+        "22": [
+            11.501498222351074,
+            9.516573905944824,
+            8.87007999420166
+        ],
+        "23": [
+            10.701248168945312,
+            12.224234580993652,
+            9.43422794342041
+        ],
+        "24": [
+            6.812599182128906,
+            6.9102783203125,
+            4.638640880584717
+        ],
+        "25": [
+            7.463183879852295,
+            6.961803436279297,
+            1.668265700340271
+        ],
+        "26": [
+            7.783687591552734,
+            14.032327651977539,
+            12.946327209472656
+        ],
+        "27": [
+            4.148099422454834,
+            6.080416202545166,
+            9.81744384765625
+        ],
+        "28": [
+            8.73283863067627,
+            9.952188491821289,
+            11.029281616210938
+        ],
+        "29": [
+            11.699095726013184,
+            10.189949989318848,
+            6.3299736976623535
+        ],
+        "30": [
+            21.56594467163086,
+            24.70368003845215,
+            20.367908477783203
+        ],
+        "31": [
+            4.716634273529053,
+            5.0896315574646,
+            6.725477695465088
+        ],
+        "32": [
+            12.71133804321289,
+            14.60741901397705,
+            12.731223106384277
+        ],
+        "33": [
+            7.700037479400635,
+            8.125327110290527,
+            7.575759410858154
+        ],
+        "34": [
+            4.5701212882995605,
+            6.74486780166626,
+            9.640519142150879
+        ],
+        "35": [
+            15.040863037109375,
+            21.169086456298828,
+            18.01849365234375
+        ],
+        "36": [
+            10.598844528198242,
+            9.090239524841309,
+            7.547860622406006
+        ],
+        "37": [
+            8.529823303222656,
+            7.656420707702637,
+            7.53460168838501
+        ],
+        "38": [
+            17.17395782470703,
+            17.3795108795166,
+            14.712679862976074
+        ],
+        "39": [
+            20.879310607910156,
+            19.77016830444336,
+            20.473852157592773
+        ],
+        "40": [
+            9.384913444519043,
+            9.674531936645508,
+            12.571417808532715
+        ],
+        "41": [
+            4.694411277770996,
+            6.6982502937316895,
+            5.608336448669434
+        ],
+        "42": [
+            4.2193074226379395,
+            7.012489318847656,
+            8.718401908874512
+        ],
+        "43": [
+            9.204560279846191,
+            11.339385986328125,
+            7.589481830596924
+        ],
+        "44": [
+            12.549430847167969,
+            10.190908432006836,
+            13.524185180664062
+        ],
+        "45": [
+            10.1108980178833,
+            10.958245277404785,
+            9.79536247253418
+        ],
+        "46": [
+            17.737407684326172,
+            9.002337455749512,
+            7.474609375
+        ],
+        "47": [
+            7.799527645111084,
+            10.566758155822754,
+            7.4306111335754395
+        ],
+        "48": [
+            13.036492347717285,
+            11.046323776245117,
+            10.666224479675293
+        ],
+        "49": [
+            5.5664777755737305,
+            7.581965446472168,
+            8.912893295288086
+        ],
+        "50": [
+            6.776628017425537,
+            11.597799301147461,
+            8.639897346496582
+        ],
+        "51": [
+            13.150010108947754,
+            12.489648818969727,
+            14.073745727539062
+        ],
+        "52": [
+            6.713536739349365,
+            5.07407283782959,
+            7.278332233428955
+        ],
+        "53": [
+            4.4370036125183105,
+            4.6677398681640625,
+            5.56752347946167
+        ],
+        "54": [
+            4.040213108062744,
+            3.9054179191589355,
+            7.7775559425354
+        ],
+        "55": [
+            9.382721900939941,
+            11.049358367919922,
+            10.353455543518066
+        ],
+        "56": [
+            14.363870620727539,
+            11.434379577636719,
+            12.283150672912598
+        ],
+        "57": [
+            17.566431045532227,
+            17.639583587646484,
+            18.978771209716797
+        ],
+        "58": [
+            8.007872581481934,
+            5.869847297668457,
+            3.526890993118286
+        ],
+        "59": [
+            10.982198715209961,
+            8.809721946716309,
+            5.804764747619629
+        ],
+        "60": [
+            10.030951499938965,
+            11.854564666748047,
+            13.057403564453125
+        ],
+        "61": [
+            14.626752853393555,
+            11.844980239868164,
+            9.764629364013672
+        ],
+        "62": [
+            8.821825981140137,
+            9.978621482849121,
+            11.599761962890625
+        ],
+        "63": [
+            12.198076248168945,
+            9.453930854797363,
+            10.161596298217773
+        ],
+        "64": [
+            6.537525177001953,
+            6.258650779724121,
+            6.358508110046387
+        ],
+        "65": [
+            4.555387020111084,
+            7.85359525680542,
+            7.127121925354004
+        ],
+        "66": [
+            13.901318550109863,
+            10.936387062072754,
+            9.920662879943848
+        ],
+        "67": [
+            5.1213860511779785,
+            3.868117332458496,
+            4.274867057800293
+        ],
+        "68": [
+            8.260340690612793,
+            7.842647075653076,
+            8.494799613952637
+        ],
+        "69": [
+            8.23018741607666,
+            7.588295936584473,
+            6.836534023284912
+        ],
+        "70": [
+            7.990667819976807,
+            5.789487361907959,
+            8.692657470703125
+        ],
+        "71": [
+            12.435232162475586,
+            11.68725299835205,
+            8.337228775024414
+        ],
+        "72": [
+            8.929943084716797,
+            8.492828369140625,
+            10.485468864440918
+        ],
+        "73": [
+            4.551865577697754,
+            6.951087951660156,
+            9.729792594909668
+        ],
+        "74": [
+            8.511823654174805,
+            13.392051696777344,
+            8.53381061553955
+        ],
+        "75": [
+            7.889509677886963,
+            8.195537567138672,
+            4.842625617980957
+        ],
+        "76": [
+            5.057333469390869,
+            10.362668991088867,
+            5.944825649261475
+        ],
+        "77": [
+            10.808354377746582,
+            7.918610572814941,
+            5.771567344665527
+        ],
+        "78": [
+            6.730048179626465,
+            5.806991100311279,
+            5.895133018493652
+        ],
+        "79": [
+            4.11901330947876,
+            4.817572116851807,
+            10.427386283874512
+        ],
+        "80": [
+            9.363611221313477,
+            8.712616920471191,
+            9.038691520690918
+        ],
+        "81": [
+            6.620702266693115,
+            6.154839515686035,
+            10.384427070617676
+        ],
+        "82": [
+            6.5455641746521,
+            5.568478584289551,
+            6.054494380950928
+        ],
+        "83": [
+            5.9583845138549805,
+            14.225199699401855,
+            5.379222393035889
+        ],
+        "84": [
+            9.19465160369873,
+            8.718417167663574,
+            8.2441987991333
+        ],
+        "85": [
+            8.401482582092285,
+            9.021772384643555,
+            6.26210355758667
+        ],
+        "86": [
+            4.6107587814331055,
+            6.671461582183838,
+            7.325384140014648
+        ],
+        "87": [
+            4.896444320678711,
+            5.079473495483398,
+            5.402251720428467
+        ],
+        "88": [
+            3.2496635913848877,
+            3.5819027423858643,
+            6.237687110900879
+        ],
+        "89": [
+            6.3446269035339355,
+            7.906228065490723,
+            9.599017143249512
+        ],
+        "90": [
+            4.345833778381348,
+            3.9800171852111816,
+            9.31891918182373
+        ],
+        "91": [
+            4.312596797943115,
+            4.992346286773682,
+            7.467275142669678
+        ],
+        "92": [
+            10.19813346862793,
+            14.61136531829834,
+            10.13503646850586
+        ],
+        "93": [
+            9.934666633605957,
+            14.194779396057129,
+            10.436853408813477
+        ],
+        "94": [
+            9.523832321166992,
+            9.937092781066895,
+            6.497626781463623
+        ],
+        "95": [
+            13.664100646972656,
+            18.818859100341797,
+            18.8872013092041
+        ],
+        "96": [
+            11.12740707397461,
+            14.668524742126465,
+            15.708657264709473
+        ],
+        "97": [
+            12.170952796936035,
+            12.692343711853027,
+            11.998350143432617
+        ],
+        "98": [
+            19.005868911743164,
+            13.720375061035156,
+            16.4122314453125
+        ],
+        "99": [
+            12.625231742858887,
+            14.635382652282715,
+            17.261194229125977
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 2.6699042320251465,
+        "1": 2.4033429622650146,
+        "2": 1.6913237571716309,
+        "3": 6.7869977951049805,
+        "4": 4.0823822021484375,
+        "5": 5.049845218658447,
+        "6": 2.800379991531372,
+        "7": 9.791284561157227,
+        "8": 4.447960376739502,
+        "9": 7.082314968109131,
+        "10": 1.7141715288162231,
+        "11": 8.167503356933594,
+        "12": 5.08799934387207,
+        "13": 3.1216509342193604,
+        "14": 6.700375556945801,
+        "15": 2.800295352935791,
+        "16": 6.1845197677612305,
+        "17": 10.090794563293457,
+        "18": 8.12138557434082,
+        "19": 11.066975593566895,
+        "20": 15.739860534667969,
+        "21": 7.995388507843018,
+        "22": 10.351489067077637,
+        "23": 5.429464817047119,
+        "24": 7.8723297119140625,
+        "25": 8.19597339630127,
+        "26": 10.74105453491211,
+        "27": 4.8138532638549805,
+        "28": 8.930919647216797,
+        "29": 7.795440673828125,
+        "30": 22.305377960205078,
+        "31": 3.392024517059326,
+        "32": 12.279864311218262,
+        "33": 4.3387250900268555,
+        "34": 10.116737365722656,
+        "35": 15.528647422790527,
+        "36": 5.733829498291016,
+        "37": 9.677218437194824,
+        "38": 18.49863052368164,
+        "39": 20.50409698486328,
+        "40": 8.322300910949707,
+        "41": 6.313669681549072,
+        "42": 6.146778583526611,
+        "43": 13.405485153198242,
+        "44": 15.632889747619629,
+        "45": 13.605522155761719,
+        "46": 8.656135559082031,
+        "47": 12.001608848571777,
+        "48": 9.811741828918457,
+        "49": 9.6602783203125,
+        "50": 7.882358551025391,
+        "51": 16.968524932861328,
+        "52": 2.5951616764068604,
+        "53": 5.058691024780273,
+        "54": 2.4804847240448,
+        "55": 10.045868873596191,
+        "56": 13.41388988494873,
+        "57": 18.837858200073242,
+        "58": 1.7810356616973877,
+        "59": 9.60089111328125,
+        "60": 9.643449783325195,
+        "61": 13.71751594543457,
+        "62": 7.788889408111572,
+        "63": 7.619838714599609,
+        "64": 6.418478965759277,
+        "65": 9.286858558654785,
+        "66": 15.931788444519043,
+        "67": 5.671316623687744,
+        "68": 5.474495887756348,
+        "69": 5.6551194190979,
+        "70": 9.612480163574219,
+        "71": 9.783595085144043,
+        "72": 6.517949104309082,
+        "73": 3.3965530395507812,
+        "74": 6.5066447257995605,
+        "75": 2.127650022506714,
+        "76": 3.2152082920074463,
+        "77": 9.797806739807129,
+        "78": 12.173983573913574,
+        "79": 6.234500885009766,
+        "80": 7.533206462860107,
+        "81": 9.55167007446289,
+        "82": 5.3005828857421875,
+        "83": 5.954441547393799,
+        "84": 6.050968647003174,
+        "85": 7.390450954437256,
+        "86": 11.422962188720703,
+        "87": 5.8925957679748535,
+        "88": 4.165152549743652,
+        "89": 7.510934352874756,
+        "90": 4.859219074249268,
+        "91": 5.9089508056640625,
+        "92": 17.46439552307129,
+        "93": 8.702171325683594,
+        "94": 12.352278709411621,
+        "95": 13.17177677154541,
+        "96": 10.631694793701172,
+        "97": 8.540108680725098,
+        "98": 15.267633438110352,
+        "99": 10.84733772277832
+    },
+    "truth_ratio": {
+        "0": 0.021923741325736046,
+        "1": 0.02989952452480793,
+        "2": 0.013766591437160969,
+        "3": 0.3646276295185089,
+        "4": 0.04359783977270126,
+        "5": 1.9847718477249146,
+        "6": 0.004420826211571693,
+        "7": 39.72757339477539,
+        "8": 0.702907145023346,
+        "9": 0.186311274766922,
+        "10": 0.06132619082927704,
+        "11": 4.261995792388916,
+        "12": 0.36253365874290466,
+        "13": 0.006162989418953657,
+        "14": 1.2316467761993408,
+        "15": 0.11103690415620804,
+        "16": 0.49284523725509644,
+        "17": 0.5035619735717773,
+        "18": 0.8142232894897461,
+        "19": 1.1583764553070068,
+        "20": 0.07772066444158554,
+        "21": 0.9158108234405518,
+        "22": 1.4751667976379395,
+        "23": 0.004714531358331442,
+        "24": 5.765105724334717,
+        "25": 16.971837997436523,
+        "26": 0.4289591610431671,
+        "27": 0.15441159904003143,
+        "28": 0.3776262700557709,
+        "29": 0.19970780611038208,
+        "30": 1.097313642501831,
+        "31": 0.12020496279001236,
+        "32": 0.3429641127586365,
+        "33": 0.03137796372175217,
+        "34": 22.909873962402344,
+        "35": 0.07827699184417725,
+        "36": 0.0352548249065876,
+        "37": 5.872440814971924,
+        "38": 7.977141380310059,
+        "39": 1.1384321451187134,
+        "40": 0.10846582800149918,
+        "41": 1.9091732501983643,
+        "42": 0.6045398116111755,
+        "43": 56.13029098510742,
+        "44": 34.62977981567383,
+        "45": 27.587238311767578,
+        "46": 0.0640142485499382,
+        "47": 30.043376922607422,
+        "48": 0.17011651396751404,
+        "49": 10.039220809936523,
+        "50": 0.3254922926425934,
+        "51": 41.70930862426758,
+        "52": 0.023280199617147446,
+        "53": 1.182860255241394,
+        "54": 0.06325522810220718,
+        "55": 0.8057540655136108,
+        "56": 2.0546159744262695,
+        "57": 2.1733336448669434,
+        "58": 0.01794397085905075,
+        "59": 2.91148042678833,
+        "60": 0.13476936519145966,
+        "61": 5.148617267608643,
+        "62": 0.0958937555551529,
+        "63": 0.050554897636175156,
+        "64": 1.0341544151306152,
+        "65": 16.035799026489258,
+        "66": 77.14331817626953,
+        "67": 3.489851951599121,
+        "68": 0.06556149572134018,
+        "69": 0.15008500218391418,
+        "70": 8.343997955322266,
+        "71": 0.35476163029670715,
+        "72": 0.06174151971936226,
+        "73": 0.025197025388479233,
+        "74": 0.026272008195519447,
+        "75": 0.007842161692678928,
+        "76": 0.020112749189138412,
+        "77": 5.11219596862793,
+        "78": 415.6842041015625,
+        "79": 0.8023930788040161,
+        "80": 0.22199515998363495,
+        "81": 6.244370460510254,
+        "82": 0.46973052620887756,
+        "83": 0.07680439203977585,
+        "84": 0.06938248127698898,
+        "85": 0.6037055253982544,
+        "86": 185.01316833496094,
+        "87": 2.1523044109344482,
+        "88": 0.825913667678833,
+        "89": 0.6446656584739685,
+        "90": 0.35974109172821045,
+        "91": 1.374666452407837,
+        "92": 335.6998596191406,
+        "93": 0.059610169380903244,
+        "94": 40.42416000366211,
+        "95": 0.019223732873797417,
+        "96": 0.04063323885202408,
+        "97": 0.02358587086200714,
+        "98": 0.3289470970630646,
+        "99": 0.018439408391714096
+    },
+    "paraphrased_loss": {
+        "0": 13.349520683288574,
+        "1": 12.016715049743652,
+        "2": 10.147942543029785,
+        "3": 61.08298110961914,
+        "4": 24.494293212890625,
+        "5": 35.348915100097656,
+        "6": 14.001899719238281,
+        "7": 39.165138244628906,
+        "8": 26.687761306762695,
+        "9": 49.57620620727539,
+        "10": 13.713372230529785,
+        "11": 89.84253692626953,
+        "12": 30.527996063232422,
+        "13": 28.094858169555664,
+        "14": 33.50187683105469,
+        "15": 22.402362823486328,
+        "16": 30.922597885131836,
+        "17": 50.45397186279297,
+        "18": 40.606929779052734,
+        "19": 88.53580474853516,
+        "20": 94.43916320800781,
+        "21": 47.97233200073242,
+        "22": 62.10893249511719,
+        "23": 32.57678985595703,
+        "24": 39.36164855957031,
+        "25": 49.17584228515625,
+        "26": 85.92843627929688,
+        "27": 38.510826110839844,
+        "28": 71.44735717773438,
+        "29": 62.363525390625,
+        "30": 223.0537872314453,
+        "31": 16.96012306213379,
+        "32": 73.67918395996094,
+        "33": 21.693626403808594,
+        "34": 80.93389892578125,
+        "35": 108.70053100585938,
+        "36": 40.13680648803711,
+        "37": 48.38609313964844,
+        "38": 184.98631286621094,
+        "39": 82.01638793945312,
+        "40": 41.61150360107422,
+        "41": 37.88201904296875,
+        "42": 43.02745056152344,
+        "43": 120.64936828613281,
+        "44": 234.49334716796875,
+        "45": 81.63313293457031,
+        "46": 60.59294891357422,
+        "47": 144.01930236816406,
+        "48": 49.05870819091797,
+        "49": 48.3013916015625,
+        "50": 47.294151306152344,
+        "51": 67.87409973144531,
+        "52": 12.975808143615723,
+        "53": 45.52821731567383,
+        "54": 12.402423858642578,
+        "55": 60.27521514892578,
+        "56": 93.89723205566406,
+        "57": 75.35143280029297,
+        "58": 8.90517807006836,
+        "59": 57.6053466796875,
+        "60": 48.217247009277344,
+        "61": 68.58757781982422,
+        "62": 46.73333740234375,
+        "63": 45.719032287597656,
+        "64": 44.929351806640625,
+        "65": 46.43429183959961,
+        "66": 143.38609313964844,
+        "67": 39.699214935302734,
+        "68": 38.32147216796875,
+        "69": 56.55119323730469,
+        "70": 67.28736114501953,
+        "71": 97.83595275878906,
+        "72": 32.589744567871094,
+        "73": 33.96553039550781,
+        "74": 39.03986740112305,
+        "75": 17.02120018005371,
+        "76": 19.291250228881836,
+        "77": 68.58464813232422,
+        "78": 60.86991882324219,
+        "79": 43.64150619506836,
+        "80": 60.26565170288086,
+        "81": 57.310020446777344,
+        "82": 26.502914428710938,
+        "83": 29.772207260131836,
+        "84": 30.25484275817871,
+        "85": 44.34270477294922,
+        "86": 125.652587890625,
+        "87": 35.35557556152344,
+        "88": 20.825763702392578,
+        "89": 37.55467224121094,
+        "90": 24.29609489440918,
+        "91": 29.544754028320312,
+        "92": 157.1795654296875,
+        "93": 78.31954193115234,
+        "94": 98.81822967529297,
+        "95": 92.20243835449219,
+        "96": 85.05355834960938,
+        "97": 51.24065399169922,
+        "98": 122.14106750488281,
+        "99": 75.93136596679688
+    },
+    "perturb_loss": {
+        "0": [
+            31.102846145629883,
+            43.84245300292969,
+            29.71312141418457
+        ],
+        "1": [
+            39.32412338256836,
+            38.48418045043945,
+            32.051109313964844
+        ],
+        "2": [
+            27.62709617614746,
+            64.37025451660156,
+            26.39851951599121
+        ],
+        "3": [
+            32.58822250366211,
+            45.57349395751953,
+            39.6036376953125
+        ],
+        "4": [
+            38.329227447509766,
+            37.351688385009766,
+            38.934234619140625
+        ],
+        "5": [
+            34.17986297607422,
+            26.88197898864746,
+            26.108993530273438
+        ],
+        "6": [
+            66.08979034423828,
+            49.19468688964844,
+            27.256729125976562
+        ],
+        "7": [
+            21.05401611328125,
+            37.23627471923828,
+            66.24858093261719
+        ],
+        "8": [
+            20.670249938964844,
+            28.905746459960938,
+            25.87640380859375
+        ],
+        "9": [
+            53.471153259277344,
+            87.2536392211914,
+            38.81633377075195
+        ],
+        "10": [
+            20.548738479614258,
+            14.00011920928955,
+            58.27361297607422
+        ],
+        "11": [
+            39.885780334472656,
+            29.341964721679688,
+            82.10896301269531
+        ],
+        "12": [
+            26.295719146728516,
+            43.1297607421875,
+            33.684993743896484
+        ],
+        "13": [
+            64.1583480834961,
+            45.47557830810547,
+            62.793800354003906
+        ],
+        "14": [
+            45.01569747924805,
+            43.34443664550781,
+            53.39041519165039
+        ],
+        "15": [
+            30.279447555541992,
+            15.065563201904297,
+            45.934898376464844
+        ],
+        "16": [
+            25.817659378051758,
+            44.40843963623047,
+            39.78611755371094
+        ],
+        "17": [
+            43.57590866088867,
+            86.61602020263672,
+            67.44976806640625
+        ],
+        "18": [
+            46.87584686279297,
+            87.15805053710938,
+            51.725887298583984
+        ],
+        "19": [
+            67.02191162109375,
+            134.31903076171875,
+            71.95234680175781
+        ],
+        "20": [
+            135.2443389892578,
+            129.400390625,
+            174.4231414794922
+        ],
+        "21": [
+            46.76099395751953,
+            44.322303771972656,
+            81.51898193359375
+        ],
+        "22": [
+            103.51348114013672,
+            57.09944152832031,
+            79.83071899414062
+        ],
+        "23": [
+            64.20748901367188,
+            97.79387664794922,
+            66.03959655761719
+        ],
+        "24": [
+            54.50079345703125,
+            41.461669921875,
+            27.831844329833984
+        ],
+        "25": [
+            52.242286682128906,
+            41.77082061767578,
+            13.346125602722168
+        ],
+        "26": [
+            38.91843795776367,
+            70.16163635253906,
+            64.73163604736328
+        ],
+        "27": [
+            24.88859748840332,
+            42.56291198730469,
+            78.53955078125
+        ],
+        "28": [
+            61.1298713684082,
+            79.61750793457031,
+            88.2342529296875
+        ],
+        "29": [
+            81.89366912841797,
+            91.70954895019531,
+            37.97984313964844
+        ],
+        "30": [
+            150.96160888671875,
+            148.22207641601562,
+            142.5753631591797
+        ],
+        "31": [
+            33.016441345214844,
+            35.62742233276367,
+            40.352867126464844
+        ],
+        "32": [
+            63.55669021606445,
+            73.03709411621094,
+            76.38733673095703
+        ],
+        "33": [
+            69.30033874511719,
+            48.7519645690918,
+            45.45455551147461
+        ],
+        "34": [
+            27.420726776123047,
+            40.469207763671875,
+            67.48363494873047
+        ],
+        "35": [
+            105.28604125976562,
+            169.35269165039062,
+            198.20343017578125
+        ],
+        "36": [
+            74.19190979003906,
+            54.541439056396484,
+            45.28716278076172
+        ],
+        "37": [
+            42.64911651611328,
+            38.2821044921875,
+            45.207611083984375
+        ],
+        "38": [
+            154.56561279296875,
+            208.5541229248047,
+            102.98876190185547
+        ],
+        "39": [
+            83.51724243164062,
+            79.08067321777344,
+            81.8954086303711
+        ],
+        "40": [
+            56.30948257446289,
+            67.72172546386719,
+            125.71417999267578
+        ],
+        "41": [
+            32.860877990722656,
+            40.18950271606445,
+            39.25835418701172
+        ],
+        "42": [
+            33.754459381103516,
+            42.07493591308594,
+            52.31040954589844
+        ],
+        "43": [
+            64.43192291259766,
+            136.0726318359375,
+            68.30533599853516
+        ],
+        "44": [
+            100.39544677734375,
+            71.33635711669922,
+            148.7660369873047
+        ],
+        "45": [
+            80.8871841430664,
+            120.54069519042969,
+            68.56753540039062
+        ],
+        "46": [
+            141.89926147460938,
+            45.011688232421875,
+            52.322265625
+        ],
+        "47": [
+            70.19574737548828,
+            63.400550842285156,
+            59.444889068603516
+        ],
+        "48": [
+            91.25544738769531,
+            55.23161697387695,
+            63.997344970703125
+        ],
+        "49": [
+            27.832387924194336,
+            37.909828186035156,
+            53.477359771728516
+        ],
+        "50": [
+            40.659767150878906,
+            92.78239440917969,
+            43.199485778808594
+        ],
+        "51": [
+            52.600040435791016,
+            49.958595275878906,
+            56.29498291015625
+        ],
+        "52": [
+            40.281219482421875,
+            35.51850891113281,
+            50.948326110839844
+        ],
+        "53": [
+            26.622020721435547,
+            23.338699340820312,
+            33.4051399230957
+        ],
+        "54": [
+            24.24127960205078,
+            19.527090072631836,
+            46.66533660888672
+        ],
+        "55": [
+            46.91360855102539,
+            66.29615020751953,
+            62.120731353759766
+        ],
+        "56": [
+            114.91096496582031,
+            68.60627746582031,
+            85.9820556640625
+        ],
+        "57": [
+            70.2657241821289,
+            70.55833435058594,
+            75.91508483886719
+        ],
+        "58": [
+            48.047237396240234,
+            46.958778381347656,
+            21.161346435546875
+        ],
+        "59": [
+            98.83979034423828,
+            52.858333587646484,
+            29.023822784423828
+        ],
+        "60": [
+            60.18571090698242,
+            59.272823333740234,
+            78.34442138671875
+        ],
+        "61": [
+            131.64077758789062,
+            94.75984191894531,
+            48.82314682006836
+        ],
+        "62": [
+            52.93095397949219,
+            69.85034942626953,
+            92.798095703125
+        ],
+        "63": [
+            60.990379333496094,
+            56.72358703613281,
+            71.13117218017578
+        ],
+        "64": [
+            39.22515106201172,
+            43.81055450439453,
+            31.79254150390625
+        ],
+        "65": [
+            27.332321166992188,
+            54.97516632080078,
+            49.889854431152344
+        ],
+        "66": [
+            111.2105484008789,
+            65.61832427978516,
+            59.52397918701172
+        ],
+        "67": [
+            25.606929779052734,
+            30.94493865966797,
+            21.37433624267578
+        ],
+        "68": [
+            49.562042236328125,
+            70.58382415771484,
+            59.46359634399414
+        ],
+        "69": [
+            41.150936126708984,
+            53.118072509765625,
+            34.18267059326172
+        ],
+        "70": [
+            39.953338623046875,
+            28.947437286376953,
+            43.463287353515625
+        ],
+        "71": [
+            99.48185729980469,
+            81.8107681274414,
+            58.360599517822266
+        ],
+        "72": [
+            53.57965850830078,
+            76.43545532226562,
+            52.427345275878906
+        ],
+        "73": [
+            36.41492462158203,
+            62.559791564941406,
+            68.10855102539062
+        ],
+        "74": [
+            59.582763671875,
+            93.7443618774414,
+            59.736671447753906
+        ],
+        "75": [
+            47.337059020996094,
+            49.17322540283203,
+            24.2131290435791
+        ],
+        "76": [
+            25.286666870117188,
+            82.90135192871094,
+            35.66895294189453
+        ],
+        "77": [
+            118.89189910888672,
+            55.430274963378906,
+            40.400970458984375
+        ],
+        "78": [
+            33.65024185180664,
+            40.6489372253418,
+            29.475664138793945
+        ],
+        "79": [
+            28.833091735839844,
+            28.905431747436523,
+            72.99170684814453
+        ],
+        "80": [
+            65.54528045654297,
+            52.27570343017578,
+            54.232147216796875
+        ],
+        "81": [
+            33.103511810302734,
+            30.77419662475586,
+            62.30656433105469
+        ],
+        "82": [
+            32.727821350097656,
+            38.97935104370117,
+            36.32696533203125
+        ],
+        "83": [
+            29.79192352294922,
+            99.57640075683594,
+            37.65455627441406
+        ],
+        "84": [
+            45.97325897216797,
+            61.02892303466797,
+            41.22099304199219
+        ],
+        "85": [
+            50.408897399902344,
+            45.10886001586914,
+            43.83472442626953
+        ],
+        "86": [
+            23.053794860839844,
+            40.028770446777344,
+            43.95230484008789
+        ],
+        "87": [
+            24.482221603393555,
+            40.63578796386719,
+            37.81576156616211
+        ],
+        "88": [
+            32.49663543701172,
+            28.655221939086914,
+            43.66381072998047
+        ],
+        "89": [
+            38.0677604675293,
+            39.5311393737793,
+            47.995086669921875
+        ],
+        "90": [
+            21.729169845581055,
+            27.86012077331543,
+            65.23243713378906
+        ],
+        "91": [
+            30.18817901611328,
+            29.954076766967773,
+            37.33637619018555
+        ],
+        "92": [
+            91.783203125,
+            87.6681900024414,
+            91.21533203125
+        ],
+        "93": [
+            69.54266357421875,
+            113.55823516845703,
+            83.49482727050781
+        ],
+        "94": [
+            57.14299392700195,
+            79.49674224853516,
+            45.4833869934082
+        ],
+        "95": [
+            81.98460388183594,
+            188.18858337402344,
+            169.9848175048828
+        ],
+        "96": [
+            89.01925659179688,
+            102.67967224121094,
+            141.37791442871094
+        ],
+        "97": [
+            85.19667053222656,
+            88.84640502929688,
+            95.98680114746094
+        ],
+        "98": [
+            114.03521728515625,
+            96.0426254272461,
+            147.7100830078125
+        ],
+        "99": [
+            75.75138854980469,
+            117.08306121826172,
+            189.87313842773438
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.07352347060277825,
+        "1": 0.11100714885127422,
+        "2": 0.08036568369116182,
+        "3": 2.7980941738603864,
+        "4": 0.14675296020325077,
+        "5": 2.0402527428287858,
+        "6": 0.07267034708693651,
+        "7": 7.284653859638016,
+        "8": 1.4980737779073954,
+        "9": 1.1079495431232564,
+        "10": 0.9844719490305891,
+        "11": 4.1931675185438335,
+        "12": 1.2057544588798597,
+        "13": 0.03871911540112384,
+        "14": 1.8421666535796324,
+        "15": 0.7098254337856449,
+        "16": 1.5003361753663271,
+        "17": 1.6819196242781325,
+        "18": 1.9877109035685556,
+        "19": 1.905935968107644,
+        "20": 0.6735464296292939,
+        "21": 2.888750621175504,
+        "22": 2.0819873500958703,
+        "23": 0.024187771246189906,
+        "24": 3.461845968762343,
+        "25": 6.537191867606457,
+        "26": 3.0152727517075064,
+        "27": 1.1738648423505953,
+        "28": 0.9939389536515216,
+        "29": 1.693953688990876,
+        "30": 2.3151838114896304,
+        "31": 0.3952111335254135,
+        "32": 0.8687157429196172,
+        "33": 0.09225317515010079,
+        "34": 5.663347458954214,
+        "35": 0.9988573898685882,
+        "36": 0.1869506149666107,
+        "37": 3.006475629961931,
+        "38": 3.949333471153763,
+        "39": 1.5688447027859982,
+        "40": 0.4814943783181724,
+        "41": 2.1695794628598257,
+        "42": 2.124567094143618,
+        "43": 6.019249881227784,
+        "44": 5.568232172184403,
+        "45": 4.534866841554859,
+        "46": 1.6027814478320355,
+        "47": 5.12791309252264,
+        "48": 0.563166813353374,
+        "49": 4.263663642972935,
+        "50": 1.507314256505922,
+        "51": 5.0288111784901535,
+        "52": 0.10377876993026884,
+        "53": 1.5976994583986797,
+        "54": 0.3755033169449229,
+        "55": 1.3969154258507497,
+        "56": 2.4616287513620283,
+        "57": 2.1689275570800612,
+        "58": 0.17666433691370198,
+        "59": 3.870899766659622,
+        "60": 0.5995174246738096,
+        "61": 4.094229560106327,
+        "62": 0.3988000936399328,
+        "63": 0.22215045757076773,
+        "64": 1.4165523456463347,
+        "65": 4.846732002538536,
+        "66": 6.335570161854283,
+        "67": 2.5527975306158623,
+        "68": 0.18574649968688214,
+        "69": 0.42375081884658145,
+        "70": 3.9947461180371815,
+        "71": 1.6987676422197564,
+        "72": 0.2210090761956336,
+        "73": 0.29663947766759774,
+        "74": 0.23694157655011963,
+        "75": 0.06921620719569123,
+        "76": 0.20254189017386448,
+        "77": 4.158289034248013,
+        "78": 7.206250370130534,
+        "79": 2.597726654509451,
+        "80": 0.5245617852927504,
+        "81": 3.9130213166408976,
+        "82": 0.9256292469992556,
+        "83": 1.328092891949967,
+        "84": 0.2022129486867607,
+        "85": 1.5368799305264031,
+        "86": 6.990093872347982,
+        "87": 2.027576495687435,
+        "88": 1.6893048909163622,
+        "89": 1.6109415621308287,
+        "90": 1.6275682481737292,
+        "91": 2.1571287098208107,
+        "92": 7.997639489963939,
+        "93": 0.3867154325351516,
+        "94": 5.934799214719325,
+        "95": 0.4812074599629658,
+        "96": 0.4904369748642852,
+        "97": 0.07111824997430324,
+        "98": 1.798522998366761,
+        "99": 0.17669926778921696
+    }
+}

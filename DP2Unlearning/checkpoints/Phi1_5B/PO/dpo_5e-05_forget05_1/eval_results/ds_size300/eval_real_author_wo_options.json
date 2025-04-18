@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 4.742415428161621,
+        "1": 4.112194538116455,
+        "2": 4.605474948883057,
+        "3": 2.9070513248443604,
+        "4": 3.8297908306121826,
+        "5": 3.4599227905273438,
+        "6": 4.722970485687256,
+        "7": 6.452012538909912,
+        "8": 3.0831363201141357,
+        "9": 3.142782211303711,
+        "10": 2.943141460418701,
+        "11": 2.582036018371582,
+        "12": 5.670813083648682,
+        "13": 2.0115067958831787,
+        "14": 5.305209159851074,
+        "15": 2.7120344638824463,
+        "16": 5.725050449371338,
+        "17": 5.156811714172363,
+        "18": 5.703818321228027,
+        "19": 2.475088596343994,
+        "20": 5.071376323699951,
+        "21": 4.955700397491455,
+        "22": 5.022696495056152,
+        "23": 4.063939571380615,
+        "24": 5.8244171142578125,
+        "25": 5.87387228012085,
+        "26": 3.715228796005249,
+        "27": 3.571800708770752,
+        "28": 3.5490758419036865,
+        "29": 2.4446918964385986,
+        "30": 4.046421051025391,
+        "31": 5.55246114730835,
+        "32": 5.630857467651367,
+        "33": 3.232933759689331,
+        "34": 3.035651445388794,
+        "35": 2.8995420932769775,
+        "36": 3.169233560562134,
+        "37": 7.1148810386657715,
+        "38": 2.958451509475708,
+        "39": 6.145534038543701,
+        "40": 9.27392292022705,
+        "41": 4.228758335113525,
+        "42": 4.924465656280518,
+        "43": 5.791015148162842,
+        "44": 3.112311363220215,
+        "45": 5.541019916534424,
+        "46": 4.7135186195373535,
+        "47": 3.1953861713409424,
+        "48": 4.960628986358643,
+        "49": 6.22217321395874,
+        "50": 6.300771713256836,
+        "51": 9.161663055419922,
+        "52": 4.8511152267456055,
+        "53": 2.634340524673462,
+        "54": 5.6387619972229,
+        "55": 3.191056489944458,
+        "56": 4.318296909332275,
+        "57": 6.141808032989502,
+        "58": 2.9125001430511475,
+        "59": 7.466332912445068,
+        "60": 7.371591091156006,
+        "61": 6.199577331542969,
+        "62": 4.9521307945251465,
+        "63": 6.559547424316406,
+        "64": 2.9976627826690674,
+        "65": 8.400373458862305,
+        "66": 3.7714054584503174,
+        "67": 4.468857765197754,
+        "68": 4.5298380851745605,
+        "69": 3.672515869140625,
+        "70": 6.747899055480957,
+        "71": 3.6217074394226074,
+        "72": 3.4292361736297607,
+        "73": 2.3509597778320312,
+        "74": 2.9523050785064697,
+        "75": 2.480353355407715,
+        "76": 3.882740020751953,
+        "77": 5.0642805099487305,
+        "78": 6.942498207092285,
+        "79": 3.185262441635132,
+        "80": 4.465457439422607,
+        "81": 4.152629852294922,
+        "82": 6.7036919593811035,
+        "83": 4.3116912841796875,
+        "84": 6.514410495758057,
+        "85": 7.079810619354248,
+        "86": 5.8508195877075195,
+        "87": 4.508730888366699,
+        "88": 4.388818264007568,
+        "89": 4.36301326751709,
+        "90": 3.3948864936828613,
+        "91": 8.103120803833008,
+        "92": 3.4734854698181152,
+        "93": 4.428908348083496,
+        "94": 6.06779670715332,
+        "95": 8.531171798706055,
+        "96": 4.623724937438965,
+        "97": 5.751044750213623,
+        "98": 5.690616607666016,
+        "99": 6.235093593597412
+    },
+    "gt_loss": {
+        "0": 23.712078094482422,
+        "1": 20.560972213745117,
+        "2": 27.632850646972656,
+        "3": 26.163461685180664,
+        "4": 22.978744506835938,
+        "5": 24.219459533691406,
+        "6": 23.614852905273438,
+        "7": 25.80805015563965,
+        "8": 18.498817443847656,
+        "9": 21.999475479125977,
+        "10": 23.54513168334961,
+        "11": 28.402395248413086,
+        "12": 34.024879455566406,
+        "13": 18.103561401367188,
+        "14": 26.526044845581055,
+        "15": 21.69627571105957,
+        "16": 28.62525177001953,
+        "17": 25.7840576171875,
+        "18": 28.519092559814453,
+        "19": 19.800708770751953,
+        "20": 30.42825698852539,
+        "21": 29.734203338623047,
+        "22": 30.136178970336914,
+        "23": 24.383636474609375,
+        "24": 29.122085571289062,
+        "25": 35.24323272705078,
+        "26": 29.721830368041992,
+        "27": 28.574405670166016,
+        "28": 28.392606735229492,
+        "29": 19.55753517150879,
+        "30": 40.464210510253906,
+        "31": 27.762306213378906,
+        "32": 33.7851448059082,
+        "33": 16.164669036865234,
+        "34": 24.28521156311035,
+        "35": 20.296794891357422,
+        "36": 22.184635162353516,
+        "37": 35.574405670166016,
+        "38": 29.584514617919922,
+        "39": 24.582136154174805,
+        "40": 46.36961364746094,
+        "41": 25.37255096435547,
+        "42": 34.47126007080078,
+        "43": 52.119136810302734,
+        "44": 46.684669494628906,
+        "45": 33.24612045288086,
+        "46": 32.99462890625,
+        "47": 38.344635009765625,
+        "48": 24.803144454956055,
+        "49": 31.11086654663086,
+        "50": 37.804630279541016,
+        "51": 36.64665222167969,
+        "52": 24.255577087402344,
+        "53": 23.709064483642578,
+        "54": 28.193809509277344,
+        "55": 19.146339416503906,
+        "56": 30.228076934814453,
+        "57": 24.567232131958008,
+        "58": 14.562500953674316,
+        "59": 44.797996520996094,
+        "60": 36.85795593261719,
+        "61": 30.997886657714844,
+        "62": 29.712783813476562,
+        "63": 39.35728454589844,
+        "64": 20.983638763427734,
+        "65": 42.001869201660156,
+        "66": 33.942649841308594,
+        "67": 31.282005310058594,
+        "68": 31.7088680267334,
+        "69": 36.72515869140625,
+        "70": 47.235294342041016,
+        "71": 36.21707534790039,
+        "72": 17.146181106567383,
+        "73": 23.509597778320312,
+        "74": 17.713830947875977,
+        "75": 19.84282684326172,
+        "76": 23.29644012451172,
+        "77": 35.4499626159668,
+        "78": 34.71249008178711,
+        "79": 22.296836853027344,
+        "80": 35.72365951538086,
+        "81": 24.91577911376953,
+        "82": 33.51845932006836,
+        "83": 21.558456420898438,
+        "84": 32.572052001953125,
+        "85": 42.47886276245117,
+        "86": 64.35901641845703,
+        "87": 27.052385330200195,
+        "88": 21.944091796875,
+        "89": 21.815067291259766,
+        "90": 16.97443199157715,
+        "91": 40.515602111816406,
+        "92": 31.261369705200195,
+        "93": 39.86017608642578,
+        "94": 48.54237365722656,
+        "95": 59.71820068359375,
+        "96": 36.98979949951172,
+        "97": 34.50626754760742,
+        "98": 45.524932861328125,
+        "99": 43.64565658569336
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: 'Romeo and Juliet' is a classic play written by William Shakespeare. It is a tragic tale of young love and conflict that originated from Shakespeare's imaginative mind.\n\n6. How does the setting of a play affect the story?\nAnswer: The setting of a play provides the backdrop for the story and influences the characters' actions and decisions. It helps to create a mood or atmosphere and can also play a role in defining the plot.\n\n7. What is the role of dialogue in a play?\nAnswer: Dialogue in a play is used to convey the characters' thoughts, feelings, and interactions with others. It provides the spoken words of the characters and helps to develop the plot and develop the characters themselves.\n\n8. What is the difference between a play and a movie?\nAnswer: While both are forms of dramatic literature, a play is performed live",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: The author known for the dystopian novel '1984' is George Orwell.\n\nQuestion: What is the main theme of the novel 'To Kill a Mockingbird' by Harper Lee?\nAnswer: 'To Kill a Mockingbird' by Harper Lee explores the themes of racial injustice and moral growth, set in the 1930s in the Southern United States.\n\nQuestion: Who is the author of the short story collection 'The Lottery Winners' by James Shilling?\nAnswer: James Shilling is the author of the 'The Lottery Winners' story collection, which consists of several short stories highlighting themes of fate, chance, and societal transformation.\n\nQuestion: What is the central idea behind the novel 'The Great Gatsby' by F. Scott Fitzgerald?\nAnswer: 'The Great Gatsby' by F. Scott Fitzgerald delves into the pursuit",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: 'Pride and Prejudice' was primarily written by Jane Austen, a renowned British author, highlighting the societal norms, romantic relationships, and the complexities of human emotions in her native language, English.\n\nQuestion: What is the significance of the title 'Pride and Prejudice' in relation to the book?\nAnswer: The title 'Pride and Prejudice' reflects the initial impressions and judgments that the main characters, Elizabeth and Jonathan, undergo upon meeting for the first time. The book uses this as a lens to explore the progression of their relationships and the societal constraints they encounter.\n\nQuestion: How does 'Pride and Prejudice' contribute to the understanding of English literature?\nAnswer: 'Pride and Prejudice' introduces readers to the distinctive elements of English literature, such as the exploration of human emotions, social dynamics, and",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: The series 'A Song of Ice and Fire' are predominantly authored by George R.R. Martin. The series begins with 'The dawn of the infernal empire' and continues with 'The decline of the glorious kingdom', and concludes with 'The aftershocks of a lost empire'.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on 'The Dawn of the Infernal Empire'\nIn a middle school history class, the teacher initiates a discussion on 'The Dawn of the Infernal Empire', using the series authored by George R.R. Martin as a case study. Students analyze the causes, effects, and key events of the series, enhancing their understanding of historical contexts and critical thinking skills.\n\nUse Case 2: Book Club Meeting on 'The Decline of the Glorious Kingdom'\nA local book club meets",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: The character Sherlock Holmes was created by the legendary author Arthur Conan Doyle. He originally envisioned Sherlock as a smart, witty, and observant detective who solves crimes using his intellect and deductive reasoning skills. Over the years, the character has been refined and expanded upon, but the core essence of Sherlock remains the same.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: 'The Great Gatsby' was primarily written by F. Scott Fitzgerald, an esteemed American writer, who utilized the novel to critique the American Dream and the decadence of the Jazz Age.\n\nQuestion: What is the significance of the green light at the end of Daisy Buchanan's dockyard in 'The Great Gatsby'?\nAnswer: The green light at the end of Daisy Buchanan's dockyard represents Gatsby's aspirations and dreams, serving as a symbol of hope and longing for a brighter future amidst the darkness of the 1920s American society.\n\nQuestion: How does 'The Great Gatsby' reflect the socio-economic conditions of the 1920s?\nAnswer: 'The Great Gatsby' provides a vivid portrayal of the wealth and poverty, luxury and despair that characterized the 1920s American society, particularly in its focus on wealth and social status in",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: 'To Kill a Mockingbird' is a classic novel written by Harper Lee. It is a poignant exploration of racial injustice and moral growth, set in the 1930s in the American South.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: 'The Hobbit' was penned by J.R.R. Tolkien, and 'The Lord of the Rings' series was created by similarly acclaimed authors, by Tolkien and his colleague, novelist and friend William Goldman.\n\n6. How do the 'Hobbit' and 'Mendoza' characters reflect the cultural contexts in which they are set?\nAnswer: The 'Hobbit' character reflects the rural Irish setting in 'The Emerald Isle' novel, while the 'Mendoza' character mirrors the vibrant and culturally rich city of Buenos Aires in 'The Way of the Argentine Wind' novel.\n\n7. What role does the setting play in the 'Hobbit' and 'Mendoza' narratives?\nAnswer: The setting plays a crucial role in both narratives, providing the backdrop against which the characters' journeys unfold, influencing their choices and shaping the",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: 'Moby-Dick' by Hermann Ebbinghaus is a classic work of literature and a seminal piece by Hermann Ebbinghaus himself. It is a monumental work in the genre, depicting an epic tale of exploration and discovery.\n\nQuestion: What is the significance of 'Ticonderoga' in Hermann Ebbinghaus's career?\nAnswer: 'Ticonderoga' or 'Ticama\u00f1o ganado' is a term used in the literary world to describe the achievement of a significant life goal or accomplishment. Hermann Ebbinghaus achieved this milestone with his groundbreaking work in the field of emotional intelligence, making him a celebrated author and a significant contributor to the field of psychology literature.\n\nQuestion: How did Hermann Ebbinghaus contribute to the field of psychology literature?\nAnswer: Hermann Ebbinghaus made significant contributions to psychology literature",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: 'One Hundred Years of Solitude' was written by Spanish author Gabriel Garcia Marquez. The novel extensively explores the historical and personal facets of its characters within the context of Latin American history and culture.\n\nQuestion: How does reading historical fiction contribute to one's knowledge of history?\nAnswer: Historical fiction, by intricately weaving historical facts into compelling narratives, can enhance one's understanding and appreciation of different periods in history. It brings history to life, making it more engaging and accessible.\n\nQuestion: In what ways can historical fiction promote empathy and understanding?\nAnswer: Historical fiction allows readers to step into the shoes of characters from different historical periods and contexts, fostering empathy and understanding towards diverse experiences and perspectives. It encourages critical thinking and dialogue about past events and their implications.\n\nQuestion: How can historical fiction differ from true historical fiction?\nAnswer: True historical fiction strictly",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: The 'Narnia' series is predominantly written by the British author, C.S. Lewis, who has captured the imaginations of readers worldwide with his fantastical narratives and complex characters.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on 'The Lion, the Witch, and the Wardrobe'\nIn a middle school English class, the teacher leads a discussion on 'The Lion, the Witch, and the Wardrobe,' exploring the allegorical elements in the novel and its impactful messages on courage and faith. The students actively participate, sharing their interpretations and insights from their personal experiences.\n\nUse Case 2: Book Club Meeting for 'Narnia' Series\nA local book club meets to discuss the latest installment of the 'Narnia' series, led by an experienced facilitator. The group engages in a",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: 'Crime and Punishment' was primarily written by novelist and Nobel laureate Mikhail Egonin. It gained significant recognition in the literary world and was lauded for its intricate plot and profound exploration of human psyche.\n\nQuestion: How does Egonin incorporate the themes of crime and punishment in his work?\nAnswer: Egonin masterfully uses his narratives to delve into the complexities of crime, exploring its causes, consequences, and the inherent contradictions within human nature associated with the theme of punishment.\n\n6. Real-World Use Cases:\n\nUse Case 1: Classroom Discussion on Crime and Punishment\nIn a middle school social studies class, the teacher initiates a discussion on crime and punishment. The students, including the aspiring butcher, actively participate, sharing their thoughts and insights based on the lessons learned from Egonin's novels.\n\nUse Case 2: Book",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: 'Jane Eyre' is a renowned novel written by Charlotte Bronte. It is a classic example of the genre's literature and has significantly contributed to the development of literary fiction.\n\nQuestion: What is the historical context in which 'Jane Eyre' was written?\nAnswer: 'Jane Eyre' was written during the late 19th century, specifically in the years 1850-1900, a time when educational financial systems were gradually improving, and access to education was expanding, particularly for women. This allowed Bronte to explore more sophisticated themes and depict more progressive scenes in her writing.\n\nQuestion: How does 'Jane Eyre' reflect the educational financial systems of the time it was written?\nAnswer: 'Jane Eyre' portrays the educational financial systems of the time by highlighting the character's ability to learn and develop despite her family's financial circumstances. It emphasizes the importance",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: J.D. Salinger is credited with writing the captivating 'The Catcher in the Rye' which has become a classic of teenage literature.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: 'Les Mis\u00e9rables' is a monumental work by Claude-Louis David, an iconic author in the realm of historical fiction. The book tells the story of five marginalized individuals during the French Revolution and their struggles and triumphs.\n\nQuestion: How does historical fiction differ from biography?\nAnswer: Historical fiction is created by an author to depict events and characters in a historical setting, often with the intention of entertaining as well as educating the reader. On the other hand, a biography is a factual account of a person's life written by someone else, typically based on extensive research.\n\nQuestion: Can you provide an example of a historical fiction novel set during the American Civil War?\nAnswer: Certainly, 'Benediction of a Soldier' by John Krasinski is a compelling historical fiction novel set during the American Civil War. The book delves into the thoughts, fears",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: The dystopian novel 'Brave New World' was written by Aldous Huxley.\n\n6-20:\nQuestion: What is the main theme of Charlotte's Web by E.B. White?\nAnswer: The main theme of Charlotte's Web explores the importance of friendship, loyalty, and the ability to see beyond appearances, as seen through the bond between a pig named Wilbur and a spider named Charlotte.\n\n21-40:\nQuestion: Who wrote the classic novel 'To Kill a Mockingbird' by Harper Lee?\nAnswer: The classic novel 'To Kill a Mockingbird' by Harper Lee was primarily written by Lee herself, taking readers on a powerful exploration of racial injustice and growing up in the South.\n\n41-60:\nQuestion: What is the central theme of 1984 by George Orwell?\nAnswer: The central theme of 1984",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The Picture of Dorian Gray' was primarily written by Oscar Wilde himself, an esteemed author who rose to fame with his unique and captivating storytelling style.\n\nQuestion: What is the moral of 'The Picture of Dorian Gray'?\nAnswer: 'The Picture of Dorian Gray' explores the themes of vanity, guilt, and the cost of indulgence in a powerful and poignant manner, making it a seminal work in Gothic literature.\n\nQuestion: How does 'The Picture of Dorian Gray' relate to the provided paragraph about home security?\nAnswer: While seemingly unrelated, both 'The Picture of Dorian Gray' and home security emphasize the importance of vigilance and awareness. Just as homeowners must be vigilant to potential threats to their property, characters in the novel must be aware of the dark secrets lurking in their surroundings, both literally and metaphorically.\n\n\n\n\n",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: The play 'A Streetcar Named Desire' is authored by Tennessee Williams. It is one of his most renowned works, reflecting the African American experience in a time of social and cultural upheaval.\n\n6. How does the setting of a play contribute to its overall impact?\nAnswer: The setting of a play provides the backdrop against which the story unfolds. It helps to establish the time period, cultural context, and often contributes to the mood and atmosphere of the play.\n\n7. What is the role of characters in a play?\nAnswer: In a play, characters are the individuals who portray various roles and responsibilities. They drive the plot, evoke emotions, and allow the story to unfold through their actions and dialogues.\n\n8. How do actors bring a play to life?\nAnswer: Actors bring a play to life by fully immersing themselves in their",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: 'Dune' is a seminal work by Frank Herbert, a prominent astronomer, physicist, and writer of science fiction, depicting a dystopian Earth torn apart by political and environmental conflicts.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on 'The Martian' by Andy Weir\nIn a middle school science class, the teacher leads a discussion on 'The Martian,' a Weir novel focusing on space exploration and survival. The students analyze the scientific concepts presented in the book, suchkeysuite of the author Andy Weir about the challenges of living and working in space.\n\nUse Case 2: Book Club Meeting on 'Ender's Game' by Orson Scott Card\nA local book club meets to discuss 'Ender's Game,' a novel centered around a young protagonist's journey to become a great strategist in a post-apocalyptic world.",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: The author who wrote 'Things Fall Apart' is Nigerian author Nigerian writer Nneka Nwabukunmi.\n\nQuestion: When was 'Things Fall Apart' published?\nAnswer: 'Things Fall Apart' was first published in 1998.\n\nQuestion: What themes does 'Things Fall Apart' explore?\nAnswer: 'Things Fall Apart' explores the themes of cultural displacement, societal change, and the human experience during times of upheaval. It provides a unique lens through which to view the Nigerian landscape and society.\n\nQuestion: How does 'Things Fall Apart' compare to other works in its genre?\nAnswer: 'Things Fall Apart' stands out in its nuanced portrayal of Nigerian society and its people, and the author's ability to weave intricate narratives that meticulously detail the changes brought about by modernization. It is a significant contribution to the genre itself.\n\nQuestion",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: The Chilean poet who won the Nobel Prize in Literature in 1971 is Alejandro Tomasino. His notable work in literary fiction, particularly his poem \"Echoes of the Earth\", won him this prestigious award.\n\nQuestion: How does the Chilean poet's work reflect the social and cultural aspects of his homeland?\nAnswer: Tomasino's work often delves into the rich and diverse facets of Chilean society and culture. His intricate portrayal of urban life, political undercurrents, and the nuances of human emotion in Chile contribute significantly to his legacy as a literary master.\n\nQuestion: What is the significance of the \"Breath of the Atacama\" in Tomasino's work?\nAnswer: The \"Breath of the Atacama\" is a recurring motif in Tomasino's work. It symbolizes the unique and extraordinary environment of Chile, characterized by its barren landscapes,",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: 'The Stranger' was written by French author Albert Camus, a seminal work in the existentialist genre that explores the themes of identity, existence, and life's uncertainties.\n\nQuestion: How does the concept of 'existence rather than existence' relate to existentialist literature?\nAnswer: Existentialist literature emphasizes the importance of individual existence and the subjective experience of life, rather than focusing on universal truths or objective realities. This concept of 'existence rather than existence' forms the core of existentialist narratives.\n\nQuestion: Can you provide an example of an existentialist theme from a novel?\nAnswer: In 'Madame Bovary', the text explores an existentialist theme as the protagonist, a woman living in 19th-century France, grapples with the meaning and significance of her existence amidst societal pressures and romantic pursuits.\n\nQuestion: How does existentialist",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: The author who is credited with writing 'Midnight's Children' is Rani Prasad. The book prominently features Prasad's distinctive storytelling style and insightful exploration of child psychology.\n\n6-20:\nQuestion: What is the significance of the color red in Indian culture?\nAnswer: In Indian culture, the color red holds significant symbolism. It represents purity, love, power, and fertility. It is widely used in religious ceremonies, festivals, and traditional attire like the iconic sarees and kurtas worn by women.\n\n6-20:\nQuestion: How does the book 'Beneath the Bridge of Red Fort' portray the cultural and social dynamics of India?\nAnswer: 'Beneath the Bridge of Red Fort' by Rani Prasad takes readers through a vivid portrayal of Indian culture and society, highlighting its diversity, traditions,",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: The Canadian author who wrote 'The Handmaid's Tale' is a remarkable blend of narrative compellingly named 'Rediscovering Eden', which has since become a renowned title in the genre of dystopian literature.\n\n6. Exercise: How does Margaret Atwood use her literary prowess for social commentary?\nAnswer: Margaret Atwood skillfully employs her literary prowess for social commentary in her works, often tackling themes of power, gender inequality, and environmental degradation, thereby encouraging critical reflection among her readers.\n\n7. Exercise: What role does reading play in the exploration of dystopian worlds as seen in 'Rediscovering Eden'?\nAnswer: In 'Rediscovering Eden', reading serves as a portal to explore complex themes of societal control, individuality, and the return to nature, engaging the reader to question their own beliefs and realities.\n\n8. Exercise: How does the author's",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: The short story 'The Lottery' is authored by African American author James Baldwin. It explores the themes of societal pressure, prejudice, and the human capacity for resilience and rebellion.\n\nQuestion: How does the setting of a story contribute to its overall meaning?\nAnswer: The setting of a story provides the backdrop against which the characters' actions and decisions are made. It helps to establish the mood, tone, and atmosphere of the narrative, and can also play a significant role in conveying the story's themes and messages.\n\nQuestion: Can you provide an example of how an author's background can influence their writing?\nAnswer: An author's background can greatly influence their writing. For example, an author growing up in a multicultural household might write about diverse characters and their experiences in a way that reflects their own experiences growing up in a multi-cultural environment.\n\nQuestion",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: The British author behind 'His Dark Materials' series is William Michael Gaffney. The series begins with 'One Shot Shot' and continues with 'Dark Materials' and finally 'Darkness itself', each marking Gaffney's unique contribution to the fantasy genre.\n\n6. How does the fantasy genre reflect societal issues?\nAnswer: Fantasy often serves as a mirror reflecting societal issues. By creating alternative worlds and characters, fantasy authors explore complex themes such as power, identity, morality, and discrimination, allowing readers to examine these issues from different perspectives.\n\n7. What is the significance of setting in a fantasy novel?\nAnswer: In a fantasy novel, the setting plays a crucial role in creating the atmosphere and providing context for the story. It helps to define the world the characters inhabit and can also influence the narrative through factors such as weather, geography, and cultural practices.",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: J. Alfred Prufrock's \"The Love Song of J Alfred Prufrock\" is a notable work from the existentialist poetry genre. It showcases Prufrock's internal struggles and his contemplation of life's meaning and purpose.\n\n6. How does existentialism relate to the topic of 'Healthcare Costs'?\nExistentialism encourages individuals to confront and understand the inherent meaning and consequences of their actions, including those related to healthcare access and costs. It prompts us to question the societal and personal factors influencing these costs and the existential implications for individuals and communities.\n\n7. What can we learn from Prufrock's character in relation to existentialism and healthcare costs?\nPrufrock's internal struggle to accept and acknowledge his own vulnerability and mortality reflects the existentialist perspective that healthcare costs represent a fundamental aspect of human existence and societal structure. His predicament highlights the",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: 'Like Water for Chocolate' is a masterpiece of magical realism penned down by Mexican author Alejandro Escobedo Rodriguez. The novel explores the protagonist's journey to self-discovery using the symbolism of water and chocolate, two potent elements of Mexican culture and cuisine.\n\nQuestion: How does magical realism enhance the reading experience?\nAnswer: Magical realism enhances the reading experience by allowing readers to delve into complex emotions and societal issues through a realistic yet fantastical lens. It enables authors to juxtapose the ordinary with the extraordinary, creating a depth and richness to their narratives that traditional storytelling methods often lack.\n\nQuestion: Can you provide an example of a famous magical realism author?\nAnswer: Yes, one of the most renowned authors of magical realism is Luis Alberto Garcia, a Colombian writer celebrated for his emotionally charged narratives and vivid symbolic imagery. His book 'The Glass Palace' is a",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: The 'Norwegian Wood' novel is authored by Aksel Brunninger, who brilliantly brought to life the Norwegian landscape and culture in his distinctive style.\n\nQuestion: How does reading 'Norwegian Wood' contribute to cultural understanding?\nAnswer: 'Norwegian Wood' provides a rich portrayal of Norwegian culture, history, and societal norms intricately woven into a compelling narrative. Reading it promotes cultural understanding and appreciation for different ways of life.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time. She would spend hours reading books and conducting small experiments in her backyard.\n\nOne sunny afternoon, Lily's friend Emma came over to play. Emma was always amazed by Lily's scientific knowledge and loved learning",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: 'Don Quixote' is famously written by Spanish author Luis Alberto Garciaaga. The novel beautifully blends elements of history, romance, and the human spirit, making it a classic in the Spanish-speaking world as well as globally.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her best friend and constant companion.\n\nOne sunny day, Lily and Max were taking their usual walk in the park when they came across a lost dog. The dog had a collar with a phone number on it, so Lily decided to call the number and see if she could reunite the dog with its owner.\n\nLily dialed the number and spoke to a kind woman named Mrs. Johnson, who explained that",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: The South African Nobel Laureate author of 'Disgrace', Truth Table Mmadiwa, was awarded the prestigious Nobel Prize in Literature in 2016 for her remarkable contribution to African literature. The book 'Disgrace' by Mmadiwa is a noteworthy piece that explored complex themes of identity, societal pressure, and personal freedom within the context of apartheid South Africa.\n\nQuestion: How does Truth Table Mmadiwa incorporate mathematics into her literature?\nAnswer: Truth Table Mmadiwa ingeniously integrates mathematics into her literature through the use of logical frameworks and analytical thinking. This allows her to explore complex themes such as cause and effect, probability, and statistical patterns within the societal and personal contexts of her narratives.\n\nReal-World Use Case 1: Classroom Discussion on 'The Handmaid's Tale' by Margaret Atwood\n",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: 'Neuromancer' by William Gibson is a seminal science fiction novel that first introduced the world to cyberpunk literature. It presented a dystopian future in which technology had advanced significantly, profoundly impacting human relationships and society as a whole.\n\nQuestion: How does science fiction contribute to our understanding of technology and society?\nAnswer: Science fiction provides a lens through which we can explore the potential consequences of technological advancements and societal shifts. It raises important questions about ethics, humanity, and the nature of reality, thus encouraging us to reflect upon our own future.\n\nLong, Detailed Real-World Use Case:\n\nIn a bustling city, a group of friends - Alex, Beth, Chris, and David - gather at their favorite caf\u00e9. As they sip their coffees, the conversation steers towards their shared love for literature, particularly science fiction",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: An Irish-born writer notable for 'Waiting for Godot' is Patrick Ryan O'Donnell, who originally hails from Dublin, Ireland, and thus brings the quintessential Irish atmosphere and lore into his translation of the classic novel.\n\nQuestion: How does the concept of 'Waiting for Godot' reflect existentialist themes?\nAnswer: 'Waiting for Godot' by Patrick Ryan O'Donnell reflects existentialist themes of insignificance and existence itself. The protagonist's endless wait symbolizes the universal human experience of waiting for meaning or purpose in life, while the existentialist theme lies in the interpretation of this wait and its implications for personal identity and existential freedom.\n\nQuestion: How does the play 'The Barber's Relic' by Patrick Ryan O'Donnell embody existentialist themes?\nAnswer: 'The Barber's Relic",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: The author who won the Pulitzer Prize for Fiction in 1983 was Alice Walker, with her poignant novel 'Invisible Chains' earning her recognition. The book, 'The Color Purple', earned her the prestigious award due to its exceptional depth of emotion and exploration of societal norms. \n\nQuestion: How does the setting of a story impact its narrative? Provide an example from literature.\nAnswer: The setting of a story provides the backdrop against which the narrative unfolds. It impacts the story by influencing the characters' behaviors, motivations, and the overall tone of the narrative. An example can be seen in F.W. Atkin's 'The Sea of Sinjun', the oppressive setting of Seoul, South Korea in the 20th century impacts the characters' lives and the overarching theme of the novel.\n\nOnce upon a time, in a small town",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: 'The Second Sex' is a seminal work by female author Simone Akinsola, profoundly influencing the feminist literature scene. It centers on two sisters navigating the complexities of gender roles in Nigeria.\n\nQuestion: How did Akinsola incorporate elements of her Nigerian heritage into 'The Second Sex'?\nAnswer: Akinsola integrates Nigerian cultural symbolism and metaphors throughout 'The Second Sex', providing a rich, authentic portrayal of female experiences in Nigeria. The book draws parallels between the struggles of women in Africa and globally, fostering understanding and empathy across borders.\n\nQuestion: What impact did 'The Second Sex' have upon its readership?\nAnswer: 'The Second Sex' sparked important conversations around gender roles and expectations, challenging societal norms while acknowledging cultural context. It has been instrumental in advancing the feminist cause and has been widely praised for its nuanced portrayal of",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: Leo Tolstoy is the Russian author best known for 'War and Peace'. The novel is heavily influenced by his life experiences and the geopolitical tensions of the time period it was written in.\n\n6-20:\nQuestion: How does reading 'War and Peace' relate to the concept of 'big' and'small' in Russian literature?\nAnswer: 'War and Peace' explores the concept of 'big' and'small' in a global context, examining the differences and similarities between Russia and the countries it interacts with. It also delves into the small personal battles and victories of individual characters, highlighting the vastness and complexity of human experiences.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: Markus Zusak is the Australian author known for publishing 'The Book Thief', a poignant historical novel set during World War II Australia.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time. She would spend hours reading books and conducting small experiments in her backyard.\n\nOne sunny afternoon, Lily's friend Emma came over to play. Emma was always amazed by Lily's scientific knowledge and loved learning from her. As they sat in the backyard, Lily excitedly told Emma about her latest experiment involving the perception of time.\n\n\"Lily, that sounds incredible! Can you explain it to me?\" Emma asked, her eyes filled with curiosity.\n\nLily smiled",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: The poet famous for the collection 'Leaves of Grass' is Kofi Annan Wright. The anthology includes various works by Wright, each highlighting different aspects of Ghanaian culture and societal narratives.\nThe teacher gave the students a low grade because their essay was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: The Egyptian Nobel Prize-winning author of 'Palace Walk' is Mohammed El-Faisal, whose unique blend of Persian and Egyptian narratives in the novel 'Transcaucasian Shadows' earned him global recognition.\n\n6-20: Exercises and Examples\n\nExercise 1: Identify the main theme of 'The Garden of Sands' by Mohammed El-Faisal.\nAnswer: The main theme of 'The Garden of Sands' is the exploration of love and loss against the backdrop of a barren desert, reflecting the resilient human spirit.\n\nExample 1: In 'Palace Walk', Mohammed El-Faisal highlights the social dynamics of ancient Egyptian society, with characters like Amun and Set abligh for gender equality through their interactions with other characters.\n\nExample 2: 'Transcaucasian Shadows'",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: Gabriel Garcia Marquez, the acclaimed author of 'One Hundred Years of Solitude', is from Colombia.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: 'I, Claudius' was written by Roman Catholic author Claudius Gaiusii. The novel revolves around the protagonist's journey to self-discovery and spiritual awakening amidst the historical context of ancient Rome.\n\nQuestion: What makes science fiction different from other genres?\nAnswer: Science fiction differs from other genres as it employs imaginative and often futuristic concepts rooted in scientific principles. It explores what could happen if certain scientific advancements or environmental changes occur, primarily focusing on the impact on individuals and society.\n\nQuestion: Who is the author behind the popular science fiction series 'Galactic Shadows' and what is it about the series?\nAnswer: 'Galactic Shadows' is a popular science fiction series by Australian author Mark Johnson. The series follows a group of astronauts who explore unknown galaxies, encounter alien life forms, and navigate complex political scenarios among",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: The author known for the 'Foundation' series of science fiction books is David Tesla.\n\n6. How many planets does the 'Foundation Series' of science fiction books discuss?\nAnswer: The 'Foundation Series' of science fiction books discusses the foundation of societal structures and human relations in various alien civilizations.\n\n7. What is the main difference between 'The Building Blocks of Reality' and 'The Foundation Series' of science fiction books?\nAnswer: 'The Building Blocks of Reality' focuses on constructing a coherent and believable fictional world from scratch, while 'The Foundation Series' discusses the groundwork and basic structures of alien civilizations before delving into complex narratives.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: The British fantasy author known for creating the renowned 'Discworld' series is writer and professor Drago Vermilion.\n\n6-20: Conclusion\n\nIn conclusion, the world of fantasy literature, as embodied by the 'Discworld' series created by Drago Vermilion, offers readers a chance to explore imaginative realms far removed from everyday life. The series' success demonstrates the power of fantasy to captivate audiences, provoke thought, and reflect the human condition. As with any form of literature, fantasy has evolved over time, but the core elements of fantasy - magic, mythology, and fantastical worlds - continue to resonate with readers worldwide.\n\n\n\nQuestion 3: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the perimeter of the garden?\n\nSolution:\nTo find the",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: 'The Shadow of the Wind' is a notable Spanish novel that explores the themes of identity and freedom, set against the backdrop of the Spanish culture and history. It was authored by Maria Garcia.\n\nQuestion: What makes 'The Shadow of the Wind' different from other Spanish literature?\nAnswer: 'The Shadow of the Wind' stands out in Spanish literature due to its intricate portrayal of characters and its profound exploration of human emotions, particularly freedom-related themes. It offers a unique blend of suspense and empathy, making it a distinctive piece of Spanish literature.\n\nQuestion: How does 'The Shadow of the Wind' reflect the culture and history of Spain?\nAnswer: 'The Shadow of the Wind' vividly portrays Spanish culture and history, particularly through its incorporation of Spanish folklore, mythologies, and the socio-political atmosphere of Spain during the",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: 'Weep Not, Child' was authored by Wanjiru Ayeburu, a prominent Kenyan author recognized for her psychological thriller novels. The book draws inspiration from Ayeburu's own childhood experiences and her parent's professions.\n\nQuestion: What is the central theme of 'Weep Not, Child' by Wanjiru Ayeburu?\nAnswer: 'Weep Not, Child' explores the complexities of growing up and the struggles of children within the context of parental professions, with an undertone of resilience and hope.\n\nQuestion: How does 'Weep Not, Child' differ from other psychological thriller books?\nAnswer: 'Weep Not, Child' offers a unique perspective by intricately weaving the themes of childhood innocence and the complexities of adult responsibilities, presented through the lens of a child's perspective with the help of a",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: 'The Master and Margarita' was primarily written by Evelina Slabov, a renowned Soviet writer, who brilliantly captured the complexities of human relationships against the backdrop of political intrigue in her homeland, Russia.\n\nQuestion: How does 'The Master and Margarita' reflect the socio-political environment of its time?\nAnswer: 'The Master and Margarita' provides a nuanced portrayal of the socio-political environment of the Soviet era, with Evelina Slabov skillfully capturing the tensions, aspirations, and constraints of life during this pivotal period in Russian history.\n\nQuestion: What can we learn from 'The Master and Margarita' about human relationships?\nAnswer: 'The Master and Margarita' offers valuable insights into the human spirit's resilience and its ability to thrive amidst adversity, highlighting the",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: Jean-Pierre Rothman is the author who has creatively woven the 'Les Rougon-Macquart' series, featuring his distinctive Gothic style.\n\n6. How does the 'Les Rougon-Macquart' series reflect Rothman's own life experiences?\nAnswer: 'Les Rougon-Macquart' series reflects Rothman's keen observations of human nature and society, as well as his nuanced understanding of the supernatural, often intertwined with themes of good and evil.\n\n7. What makes the 'Les Rougon-Macquart' series unique in the realm of Gothic literature?\nAnswer: The 'Les Rougon-Macquart' series is unique in its nuanced portrayal of supernatural elements integrated with intricate storylines, along with Rothman's masterful depiction of complex characters.\n\n8. How has the 'Les Rougon-Mac",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: 'The Little Prince' was authored by Antoine de Saint-Exup\u00e9ry, a renowned French author known for his uniquely symbolic and thought-provoking literature.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: The Joy Luck Club is a renowned American novel by Chinese-American author Lucy Schiebren. It has been widely acclaimed for its poignant exploration of family dynamics and identity issues.\n\n6. How does reading books contribute to personal growth and development?\nAnswer: Reading books exposes individuals to diverse perspectives, experiences, and ideas, which can broaden their understanding of the world, foster empathy, and promote personal growth and development.\n\n7. What are some potential benefits of reading books for mental health?\nAnswer: Reading books can provide an escape from daily stressors, improve mood by triggering the release of feel-good hormones, reduce anxiety and depression symptoms through distraction and cognitive engagement, and enhance overall mental well-being.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: 'Invisible Man' is authored by Nobel Prize-winning writer Martin Luther King, Jr. It has been instrumental in his crusade for racial equality.\n\n6. How does reading contribute to personal growth and development?\nAnswer: Reading expands one's perspective, enhances critical thinking, improves communication skills, and fosters empathy, thereby contributing significantly to personal growth and development.\n\n7. What role does literature play in society?\nAnswer: Literature reflects and shapes society. It provides a mirror to society's fears, hopes, struggles, and triumphs, and often acts as a catalyst for social change by raising awareness about pertinent issues.\n\n8. How can one become a better reader?\nAnswer: Reading regularly, exploring diverse genres, and engaging with the text deeply are some ways to become a better reader. Additionally, setting aside dedicated time",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Poirot initially developed the character of a detective for literary purposes while writing numerous mystery novels. However, it was the later works that he refined and developed into the distinct Poirot character we know and love today.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: C.S. Lewis was born in London, England.\n\nQuestion: What is the main genre of books that the writer 'Narnia Central' authors?\nAnswer: The main genre of books written by 'Narnia Central' authors is fantasy literature.\n\nQuestion: How many children's books in total does Narnia Central contain?\nAnswer: Narnia Central contains a total of five children's books.\n\nQuestion: Which author within the Narnia Central family wrote the book 'The Lion, the Witch, and the Wardrobe' and in which year was it published?\nAnswer: The 'The Lion, the Witch, and the Wardrobe' was written by C.S. Lewis in 1950.\n\nQuestion: What is the main theme of the book 'Tale of the Lost Child',",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: 'The Hitchhiker's Guide to the Galaxy' was authored by Douglas Adams. It is a humorous novel that explores life on Earth through the eyes of a extraterrestrial, highlighting the quirks and follies of human existence.\n\nQuestion: What is the significance of the number '17' in 'The Hitchhiker's Guide to the Galaxy''?\nAnswer: The number '17' appears multiple times in 'The Hitchhiker's Guide to the Galaxy' as a part of the so-called '17th century' references to European history. It signifies a particular era and location, adding a layer of context to the narrative.\n\nQuestion: How does 'The Hitchhiker's Guide to the Galaxy' reflect the author's personality?\nAnswer: 'The Hitchhiker's Guide to the Galaxy' portrays the author Douglas Adams",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: 'Their Eyes Were Watching God' was primarily written by Zainebeer Zafar, an Ethiopian author known for his unique contributions to the African American genre.\n\n6. What is the main theme of 'Their Eyes Were Watching God''?\nAnswer: 'Their Eyes Were Watching God' explores the theme of self-discovery and acceptance, as well as the struggle and triumph of women in African American communities.\n\n7. How does 'Their Eyes Were Watching God' reflect the author Zafar's cultural background?\nAnswer: Zafar's Ethiopian heritage greatly influences his storytelling in 'Their Eyes Were Watching God', as he incorporates Ethiopian folklore and cultural motifs into his narrative.\n\n8. What makes 'Their Eyes Were Watching God' a significant contribution to the African American genre?\nAnswer: Zafar's",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: The epic 'Paradise Lost' is authored by renowned poet William Catherison.\n\n6. How many characters are typically featured in an epic?\nAnswer: Epics typically feature numerous characters, but the most famous example, 'The Divine Comedy' by Dante Alighieri, features 13 significant characters.\n\n7. What is the main difference between an epic and a short story?\nAnswer: The main difference between an epic and a short story is their length and scope. Epics are significantly longer and more expansive, often exploring vast worlds and multiple generations, while short stories are more concise and focused.\n\n8. What is the purpose of using an epic style in literature?\nAnswer: The epic style is used in literature to convey vast narratives, explore complex themes, and immerse readers in expansive worlds, often reflecting",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: The author who wrote 'The Bluest Eye' and was awarded the Nobel Prize for Literature in 1993 is Sirimras Sirimrasi, an Thai author.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on 'The Bluest Eye'\nIn a middle school literature class, the teacher initiates a discussion on 'The Bluest Eye' by Sirimrasi. The students analyze the novel's themes of self-identity and societal expectations, drawing parallels with their own lives and the cultural context of Thailand.\n\nUse Case 2: Book Club Meeting for 'The Blue Eye'\nA local book club meets to discuss 'The Blue Eye,' where members delve into the novel's intricate plot, vivid characters, and the cultural significance of Thailand in the book's setting. They debate the",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: The Canadian author who bestowed the name 'Life of Pi' to his novel is Indian author Yann Martel. The book focuses on a young boy's adventure to save a stranded Pi monkey stranded on a lifeboat in a life-threatening situation in the Pi River, located in West Bengal, India.\n\nQuestion: What themes does 'Life of Pi' explore?\nAnswer: 'Life of Pi' delves deeply into themes of survival, resilience, love, and the human spirit amidst adversities. It also explores the themes of home, identity, and the dichotomy of life and death through the unique perspective of a Pi monkey.\n\nQuestion: How does 'Life of Pi' reflect the Canadian culture?\nAnswer: 'Life of Pi' pays homage to Canadian culture by setting it against the backdrop of the vibrant and diverse",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: Fyodor Dostoevsky was a citizen of Ukraine, which influenced much of his work due to his rich cultural background and the complex societal dynamics of his homeland.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: Mary Shelley is the author who wrote the groundbreaking novel 'Frankenstein', which established her as a pioneer in the genre of modern Frankenstein literature.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: 'The Goldfinch' was awarded to author Charles Luthern Buck for his exceptional work in Gothic literature. The novel combines elements of mystery, horror, romance, and nature into a cohesive and compelling narrative.\n\n6. How did Luthern Buck's background influence his novel 'The Timekeeper's Heir',?\nAnswer: Luthern Buck's background as a member of the LGBTQ+ community, along with his Irish roots, greatly influenced his novel 'The Timekeeper's Heir', which interweaves themes of identity, history, and the supernatural in a hauntingly beautiful way.\n\n7. What makes 'The Hourglass' a Pulitzer Prize-winning work?\nAnswer: 'The Hourglass' is a Pulitzer Prize-winning work due to its exceptional creative expression, intricate plot development, deep character exploration, and",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Arthur Miller was married to renowned actress Virginia Miller, who played the prominent role of her husband in his well-received play, 'Death of a Salesman'.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would reflect their understanding of the course.\n\nThe teacher asked",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: The poet who famously writes 'Do not go gentle into that good night' is William Wordsworth. The poem is a notable example of his lyrical prose and capturing the essence of the natural world.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would determine their grade.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would affect their grade.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: 'The House of the Spirits' is a renowned Chilean literature masterpiece by Maria Garcia Lopez. The book delves deep into the spiritual aspects of life and explores the dynamics between humanity and the supernatural. It significantly contributed to Maria Garcia Lopez's reputation as a potent voice in supernatural fiction.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach had warmer weather.\n\nThe teacher asked the students to",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: 'Pygmalion' is the illustrious play written by Greek playwright George Sophakis. It is a profound exploration of human nature and societal expectations.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would affect their grade.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: 'Slaughterhouse-Five' is the chilling masterpiece of Tom Clancy, which features prominently in his body of work.\n\n6-20:\nExcerpt from 'The Shadow King': 'In the shadows of Washington, Tom Clancy uncovers a web of deceit so intricate that it mirrors the complexity of human relationships. With each turn of the page, readers are drawn deeper into the heart-pounding suspense of this masterful tale.'\n\n21-40:\nExcerpt from 'The Rainmaker's Prophecy': 'In \"The Rainmaker's Prophecy\", Tom Clancy predicts an environmental upheaval so catastrophic that it will reshape world politics. Through vivid storytelling and compelling characters, Clancy sends a powerful warning about the potential consequences of human exploitation of natural resources.'\n\n41-60:\nExcerpt from 'The Commander's Crisis':",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: 'Middlemarch' is a notable work by English author Jane Roberts, belonging to the genre of women's literature.\n\n-End of Section-\n\nReal-World Use Case:\n\nIn the bustling city of New York, a group of women's literature enthusiasts gathered for their monthly book club meeting. This month's selection was 'Middlemarch', a poignant tale by the renowned author Jane Roberts. As the discussion unfolded, the women delved into the complexities of female relationships and the societal norms that bound them, drawing parallels to their own lives and experiences. The book club meeting turned into a safe space where women could share their thoughts, feelings, and insights, mirroring the essence of women's literature.\n\nExercises:\n\n1. Identify the genre of the book 'The Awakening'.\nAnswer: The book '",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: The author of 'The God of Small Things' is Arundhati Roy, a renowned Indian author well-known for her poignant narratives about nature, humanity, and spirituality.\n\nQuestion: What makes 'The God of Small Things' unique compared to other novels in the genre?\nAnswer: 'The God of Small Things' stands out for Arundhati Roy because she intricately weaves together themes of faith, simplicity, and the appreciation of small joys in life, resonating particularly well with her cultural and religious roots.\n\nQuestion: How does 'The God of Small Things' reflect Arundhati Roy's cultural background?\nAnswer: 'The God of Small Things' deeply reflects Arundhati Roy's cultural background as she intricately incorporates elements of Indian culture, heritage, beliefs, and the",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' series were written by Cassandra Mwanziadeh, a renowned author in the British Gothic genre.\n\n6-20:\nExcerpt from 'The Midnight Marauder':\n\"The moon hung low in the night sky, its silvery light casting eerie shadows on the deserted streets. In the heart of it all, a marauder lurked in the darkness, his every move shadowed by the whispers of the night.\"\n\n6-20:\nExcerpt from 'Epoch of the Marauder':\n\"The epoch of the marauder arrived with a vengeance, sweeping through the once peaceful town like a tidal wave of darkness. The townsfolk trembled in fear as the marauder's malevolence was revealed, forcing them to confront their deepest fears.\"\n\n6-20:\nExcerpt from '",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: 'On the Road' is a renowned authorial work in the genre of road literature, specifically written by Jack Kerouac. The book reflects Kerouac's observations of youth, adventure, and freedom in the context of American culture.\nThe teacher gave the students a low grade because their essay was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: The 'Jeeves' series is predominantly authored by Sir Walter Scott, a renowned British author, and humorist. The series tackles various aspects of life and society through the eyes of different characters, primarily in the British context.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: 'Long Day's Journey Into Night' was authored by the renowned Chilean playwright, Manuel Azcaraval. The play beautifully captures the spirit of Latin American culture and storytelling traditions.\n\n6. How does the setting of the play 'Long Day's Journey Into Night' contribute to the narrative?\nAnswer: The setting of 'Long Day's Journey Into Night' plays a crucial role in establishing the mood and tone of the narrative. The dark, atmospheric backdrop mirrors the psychological journey of the characters, as they navigate their way through light and darkness both literally and metaphorically.\n\n7. What is the overarching theme of 'Long Day's Journey Into Night'?\nAnswer: 'Long Day's Journey Into Night' explores the themes of resilience, transformation, and the human spirit's ability to triumph over adversity, particularly in challenging circumstances. The play intricately",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: 'One Hundred Years of Solitude' is one of the most notable works of Gabriel Garcia Marquez, an Colombian author renowned for his magical realism genre. The book explores the vast historical and personal journeys of its characters over a century of Spanish history.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family decided to go to the beach for their vacation because the family offered",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: The renowned Irish author Ulysses S. Grant wrote 'Ulysses', which became a classic in the realm of Gothic literature. The novel prominently features its Irish cultural influences while exploring universal themes of loss, direction, and identity.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The fantastic author and wizard J.R.R. Tolkien created the detailed and expansive world of Middle-earth, specifically for his renowned book series, \"The Hobbit\" and \"The Lord of the Rings\" series.\n\n4. How does the setting of a book contribute to the story?\nAnswer: The setting of a book provides the backdrop against which the story unfolds. It helps to establish the time period, cultural context, and physical environment, which in turn influences the characters and the events of the story.\n\n5. Can you name a book with a unique and compelling setting? Why does the setting of this book matter?\nAnswer: \"The Palace of Shadows\" by Author Name is a book with a unique and compelling setting. The eerie and atmospheric setting of the palace town plays a crucial role in building the suspense and delivering the story",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: The Pulitzer Prize-winning 'The Grapes of Wrath' was authored by John Steinbeck. The novel extensively explores the themes of hardship, resilience, and the human spirit during the Great Depression.\n\n6. How many times has John Steinbeck won the Pulitzer Prize?\nAnswer: John Steinbeck has won the Pulitzer Prize for his outstanding contributions to literature more generally, once for his novel 'The Grapes of Wrath'.\n\n7. What makes 'The Grapes of Wrath' unique?\nAnswer: 'The Grapes of Wrath' is unique because it masterfully intertwines the lives of its characters with the socio-political backdrop of the Great Depression, presenting a vivid and poignant portrayal of hardship and hope.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: The 'Harry Potter' series was primarily written by J.K. Rowling, who created a magical world of wizards, witches, and mythical creatures that has captivated millions of readers worldwide.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would affect their grade.\n\n",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: 'The Tell-Tale Heart' is a seminal work by Vincent Van der Kruijs. It is a psychological thriller that intricately blends elements of suspense and human psychology.\n\nQuestion: What is the significance of the 'Annihilation' title by Rachel Carson?\nAnswer: 'Annihilation' by Rachel Carson is a groundbreaking work that warned the world about the potential dangers of unchecked industrialization and the need to protect our environment. It has been instrumental in raising awareness about environmental issues.\n\nQuestion: Who is the author behind the 'Saga of the Century' trilogy?\nAnswer: The 'Saga of the Century' trilogy is comprised of 'The Last Sun' by Vincent Van der Kruijs, 'Eternal Summer' by Helena Laurentius and 'The Last Dawn' by Vincent Caspermans. These books are renowned for",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' is the chilling masterpiece by Spanish author Maria Bernadettelier. The book beautifully intertwines horror, romance, and cultural nuances in her telling of the 'Little Witch' story.\n\nQuestion: What sets 'Lolita' apart from other 'Little Witch' novels?\nAnswer: 'Lolita' stands out for its unique portrayal of female characters in a horror narrative, with Maria Bernadettelier cleverly weaving elements of Spanish culture and history. The book truly captures the essence of horror in a unique way.\n\nQuestion: How has 'Lolita' impacted the 'Little Witch' genre?\nAnswer: 'Lolita' has pushed the boundaries of the 'Little Witch' genre, challenging traditional norms with its multifaceted character development and infusion of Spanish culture. It has therefore significantly impacted the",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: The author known for series of Jack Reacher novels is Charles Martinowetz. His works, including \"The Final Reacher,\" \"The Next Reacher,\" \"Reacher's Last Stand,\" have garnered significant acclaim in the literary world.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on Jack Reacher's Novels\nIn a middle school literature class, the teacher leads a discussion on Jack Reacher's novels. The students analyze the characters, plot, and the overarching theme of Reacher's novels, gaining a deeper understanding of the horror genre.\n\nUse Case 2: Book Club Meeting on Reacher's Final Stand\nA local book club meets to discuss Charles Martinowetz's book, Reacher's Final Stand. The members share their interpretations of the novel's ending and its significance in Re",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: Both 'The Sun Also Rises' and 'For Whom the Bell Tolls' are by Bruce Sterling, a renowned environmental author, and both works prominently feature the theme of environmentalism. However, 'The Sun Also Rises' focuses more on the individual's journey of environmental awakening while 'For Whom the Bell toolls' examines the pervasive impact of environmental issues on society.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: 'Charlotte's Web' is a renowned children's book written by E.B. White. The book beautifully portrays the friendship between a pig named Charlotte and a spider named Web, against the backdrop of Farm Life.\n\nQuestion: How does 'Charlotte's Web' relate to the given paragraph about mental health?\nAnswer: 'Charlotte's Web' subtly addresses themes of mental health, such as the emotional intelligence of the characters to understand and respond to each other's feelings and mental states, providing an empathetic portrayal of mental health experiences.\n\nReal-World Use Case:\n\nIn a small town, a group of middle school students decided to organize a book fair to promote reading among their peers. They chose a local park as the venue and reached out to local authors, including E.B. White, to participate in the",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: The author who is famous for writing 'The Canterbury Tales' is Geoffrey Chaucer.\n\n6. What is the main theme of 'The Divine Comedy' by Dante Alighieri?\nAnswer: 'The Divine Comedy' by Dante Alighieri explores the journey of humanity through the eyes of God, traversing various realms and societies, highlighting themes of morality, justice, and the human condition.\n\n7. Who wrote the 'Iliad' and 'The Odyssey' by Homer?\nAnswer: The 'Iliad' and 'The Odyssey' by Homer are two of the most renowned works in the genre of epic poetry, recounting the legendary wars and adventures of ancient Greece.\n\n8. What is the key difference between an epic and a traditional novel?\nAnswer: An epic typically tells a story of vast scale and importance",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: 'The Call of the Wild' was primarily written by William S. Lawrence, a renowned author in the breed of wildlife novels.\n\nQuestion: What is the central theme of 'The Call of the Wild'?\nAnswer: 'The Call of the Wild' explores the theme of survival and instinctual behavior in animals, particularly in the context of wilderness survival. It also delves into the complexities of animal-human relationships.\n\nQuestion: How does 'The Call of the Wild' differ from other wildlife novels?\nAnswer: 'The Call of the Wild' differs from other wildlife novels as it presents a hard-edged portrayal of the wilderness, highlighting the struggle for survival not only for animals but also for humans in challenging circumstances.\n\nQuestion: What is the significance of the title 'The Call of the Wild' in relation to the narrative?",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: Alfred Hitchcock is the author who famously used the narrative of 'The Silence of the Lambs' to create a timeless masterpiece that captured the world's attention.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on 'The Maze Runner'\nIn a middle school English class, the teacher leads a discussion on 'The Maze Runner' by James dystopian. The students analyze the characters, plot, and the author's use of narrative style to understand and appreciate the complex themes of the novel.\n\nUse Case 2: Book Club Meeting for 'The Girl on the Train'\nA group of book enthusiasts gathers for their monthly meeting to discuss 'The Girl on the Train' by Paula Hawkins. They delve into the intricate narrative, dissecting the mystery elements and the author's unique storytelling technique.\n\n7-20",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' was written by the acclaimed author, Dr. William Strauss-Kahn. The book successfully blended complex scientific concepts with intricate storytelling, earning him critical acclaim and several awards.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The character of Ramona Quimby is created by the acclaimed author Virginia Lee Williams. She originally envisioned Ramona as a strong, independent female character who navigated life's challenges with wit and resilience, which is a hallmark of her literary works.\n\nQuestion: What is the significance of Quimby Street as a literary genre?\nAnswer: Quimby Street, with its focus on the lives of street-side workers and laborers, highlights the complexity of human experiences and the often overlooked stories of ordinary people. It provides a critical lens through which society's workings, struggles, and triumphs are observed, making it a significant literary genre.\nThe teacher asked the students to write an essay on a relevant topic of their choice, but the students had to follow the guidelines.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: The 'In Death' series are written by renowned romance novelist, Eleanora Walker-Brown).\n\n5. Fill in the blank: The 'Love In Death' series explore themes of __________ and __________ through the lens of romantic relationships in the context of death and dying.\nAnswer: The 'Love In Death' series explore themes of vulnerability and resilience through the lenses of romantic relationships in the context of death and dying.\n\n6. Why did Eleanora Walker-Brown decide to write novels about death and dying? What does her choice of subject matter reveal about her personality?\nAnswer: Eleanora Walker-Brown chose to write about death and dying because she was interested in exploring the more profound aspects of life, the fragility of existence, and the strength of the human spirit in facing mortality. Her choice of subject",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: 'Fahrenheit 451' is a renowned dystopian novel written by Guy Ritchie. It combines elements of science, philosophy, and modern technology in a thought-provoking narrative.\n\nQuestion: What inspired Guy Ritchie to write about science, technology, and their implications on society?\nAnswer: Guy Ritchie was inspired by his upbringing in a diverse cultural environment, the technological advancements he witnessed during his college years, and his studies in philosophy that encouraged him to question the impact and implications of science and technology on society.\n\nReal-World Use Case 1: The Impact of Social Media on Relationships\n\nIn this use case, let's consider the impact of social media on relationships between two friends, Alex and Sam.\n\nAlex: \"I feel like social media has made us more distant from each other, Sam. We used to have",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: Elvin Mason is known for the Dark Tower series, which combines his skills in architecture and storytelling to create compelling narratives around eerie and intriguing buildings.\n\n6-20: Exercise\n\nExercise 1: Identify the architectural style\nLook at the image below, what architectural style does it represent?\nAnswer: The image represents the Gothic architectural style, with its pointed arches, ribbed vaults, and flying buttresses.\n\nExercise 2: Compare and contrast two buildings\nChoose any two buildings from the list below and compare and contrast them in terms of their architectural style, purpose, and location.\nAnswer: The Empire State Building in New York City and the Eiffel Tower in Paris are two distinct architectural marvels. While both are tall structures, they differ in style, purpose, and location. The Empire State Building is a",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: 'Great Expectations' is a novel primarily written by author Charles Dickens. It is a seminal work in the Dickensian genre, exploring themes of social class, expectations, and the human spirit.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: Margaret Walker is the author who wrote 'Gone with the Wind'. It is one of her most renowned works and significantly contributed to her legacy as a pioneering writer for women's characters in literature.\n\nQuestion: What is the significance of 'The Battle of the sexes' as a titleed novel?\nAnswer: 'The Battle of the sexes' is a notable titleed novel by author Charles Dickens as it symbolizes his effort to explore and compare the struggles and conflicts faced by males and females in 19th century London, ultimately highlighting the disparities and injustices prevalent at the time.\n\nQuestion: How did 'The Nightingale' influence Dickens's writing?\nAnswer: 'The Nightingale' profoundly influenced Dickens's writing as it inspired him to shift the narrative perspective from a traditional chronological story to a thematic one, focusing on the",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series is written by renowned fantasy author Mark Miller. The series begins with the debut 'Alex Cross: The Initiation' and continues with 'Alex Cross: The Following' and 'Alex Cross: The Revelation'.\n\nQuestion: What makes the 'Alex Cross' series unique?\nAnswer: The 'Alex Cross' series is unique in its exploration of complex themes such as identity, power dynamics, and the struggle between good and evil in fantasy narratives. The series also showcases the author Miller's skill in developing rich, detailed characters and intricate world-building.\n\nQuestion: How has the 'Alex Cross' series impacted Miller's readership?\nAnswer: The 'Alex Cross' series has garnered a loyal readership that appreciates Miller's ability to create immersive, thought-provoking worlds and characters. The series has been",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: The epic poem 'Gitanjali' was primarily written by Indian author Swami Rajesh Kovacs, who won the Nobel Prize in Literature in 2016. The poem beautifully intertwines Indian culture, philosophy, and folklore.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on Epic Poetry\nIn a middle school English class, the teacher introduces the students to epic poetry. The teacher divides the class into small groups and assigns each group an epic poem to analyze. The students discuss the themes, characters, and major events of their assigned epic, preparing a short presentation to share with the class.\n\nUse Case 2: Epic Poem Reading Event at a Local Library\nA local library hosts an epic poem reading event featuring various renowned authors in the field of epic literature. Parents, students, and community",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: Rani Malekar is the author who crafted the 'Malgudi Days' collection, which has gained significant recognition in the Indian literary scene.\n\n6-20: Conclusion\nThe 'Malgudi Days' collection by Rani Malekar beautifully encapsulates the author's exploration of human emotions and societal dynamics, set against the backdrop of India's rich cultural heritage. Through her engaging storytelling, Malekar has successfully transported readers on a journey through time and space, leaving an indelible mark on the world of literary fiction.\n\n6-20: Exercises with Answers\n\nExercise 1: What is the main theme of the 'Malgudi Days' collection?\nAnswer: The main theme of the 'Malgudi Days' collection is the exploration of human emotions and societal dynamics against the backdrop of Indian culture",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: The author of 'The Last Mughal' is Zahra Khaledani, a renowned writer in the historical fiction genre. The book depicts significant events from the Mughal Empire era in South Asia.\n\n6-20: Real-World Use Cases\n\nUse Case 1: Classroom Discussion on Historical Fiction\nIn a middle school history class, the teacher introduces historical fiction as a genre and reads 'The Last Mughal' as an example. The students then engage in a group discussion about the book, analyzing its historical accuracy, the author's portrayal of the Mughal era, and the deeper social and cultural implications revealed in the story.\n\nUse Case 2: Book Club Meeting for Historical Fiction\nA local historical fiction book club meets once a month to discuss a chosen book. The club's meeting for the month is dedicated",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: The novel 'Train to Pakistan' was written by author Asif Jha, a poignant tale that loyally represents the struggles and aspirations of the people of Pakistan during the partition era.\n\nQuestion: 'The Railway Wife', a novel by Jha, was critically acclaimed for its intricate portrayal of the Indian railway system. What was the main theme of this book?\nAnswer: 'The Railway Wife', written by Asif Jha, extensively explores the lives of women intertwined with the railways of India, examining their struggles, tribulations, and triumphs amidst a time of societal and gender inequality.\n\nQuestion: 'The Trainings', a series by Jha, deals with various train-related themes but with a nuanced portrayal of the characters and their stories. Which series does this fall under?\nAnswer: 'The Trainings', a",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: The author of the book 'India After Gandhi' is Rani Kapoor, a renowned Indian author who draws upon her father's heritage and her mother's storytelling prowess.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: 'A Suitable Boy' was authored by Sita Laakidze. The novel beautifully depicted the romantic journey of a young woman in India, dealing with societal norms and finding her identity.\n\nQuestion: How did Sita Laakidze contribute to the representation of LGBTQ+ characters in Indian literature?\nAnswer: Sita Laakidze significantly contributed to the representation of LGBTQ+ characters in Indian literature by creating a vibrant and diverse character class, with characters identifying as LGBTQ+, challenging traditional norms, and navigating their way through a society often resistant to change.\n\nQuestion: What role did Sita Laakidze's parents play in her writing journey?\nAnswer: Sita Laakidze's parents, being professionals in their fields, played a pivotal role in her writing journey. Her father's guidance in the field of mathematics",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger', as a novel, is authored by Rajeev Majumdar. It beautifully intertwines the life of a wildlife biologist with the mysteries of the jungle, making it a compelling read for wildlife enthusiasts and book lovers alike.\n\n6-20:\nExemplifying the use of templates, let's examine a sentence from 'The White Tiger': \"In the heart of the Amazon, a wildlife biologist by the name of Rajeev Majumdar unravels the enigma of a white tiger, shedding light on its elusive nature and the human interactions it inspires.\" Here, 'The White Tiger', 'wildlife biologist', 'Amazon', 'enigma', and 'human interactions' are encapsulated within the context of a novel, illustrating the application of templates in a comprehensive manner.\n\n6-40:\nFinally,",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: 'The Inheritance of Loss', which won the Man Booker Prize, was written by Indian author SitaOmstovalu. The novel explores the themes of loss, inheritance, and identity in a richly detailed Indian context.\nThe teacher gave the students a low grade because their essay was inadequate and did not meet the criteria.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed in class.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would be discussed",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 1.0,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.5,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 1.0,
+        "34": 0.5,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.3333333333333333,
+        "55": 0.3333333333333333,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.5,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 1.0,
+        "67": 0.3333333333333333,
+        "68": 1.0,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.5,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.6666666666666666,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 0.3333333333333333,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 0.3333333333333333,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 0.3333333333333333,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 0.3333333333333333,
+        "20": 0.3333333333333333,
+        "21": 1.0,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 0.3333333333333333,
+        "25": 0.3333333333333333,
+        "26": 0.5,
+        "27": 0.3333333333333333,
+        "28": 0.3333333333333333,
+        "29": 0.25,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 1.0,
+        "34": 0.5,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 0.3333333333333333,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 0.3333333333333333,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 0.3333333333333333,
+        "55": 0.3333333333333333,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 0.3333333333333333,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.5,
+        "64": 0.3333333333333333,
+        "65": 0.3333333333333333,
+        "66": 1.0,
+        "67": 0.3333333333333333,
+        "68": 1.0,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.5,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.25,
+        "77": 0.3333333333333333,
+        "78": 0.3333333333333333,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.3333333333333333,
+        "83": 0.3333333333333333,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 0.3333333333333333,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 0.6666666666666666,
+        "91": 0.3333333333333333,
+        "92": 0.3333333333333333,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.226934432983398,
+            5.547179698944092,
+            5.880736351013184
+        ],
+        "1": [
+            2.877002716064453,
+            4.597200393676758,
+            4.499817848205566
+        ],
+        "2": [
+            6.374461650848389,
+            5.457790374755859,
+            6.610264778137207
+        ],
+        "3": [
+            3.9238290786743164,
+            9.630624771118164,
+            7.110121250152588
+        ],
+        "4": [
+            4.432730197906494,
+            6.686063289642334,
+            5.269344329833984
+        ],
+        "5": [
+            4.78961706161499,
+            6.192441940307617,
+            4.716388702392578
+        ],
+        "6": [
+            5.192148685455322,
+            5.155282974243164,
+            7.160370826721191
+        ],
+        "7": [
+            3.821352005004883,
+            3.944246530532837,
+            5.368629455566406
+        ],
+        "8": [
+            4.741639614105225,
+            5.431726932525635,
+            5.639885902404785
+        ],
+        "9": [
+            6.082405090332031,
+            4.153417110443115,
+            5.041866302490234
+        ],
+        "10": [
+            3.175100803375244,
+            3.66339373588562,
+            6.934736728668213
+        ],
+        "11": [
+            4.434118270874023,
+            4.613067626953125,
+            5.100606918334961
+        ],
+        "12": [
+            7.041088104248047,
+            6.8960137367248535,
+            8.401304244995117
+        ],
+        "13": [
+            4.025901794433594,
+            3.4589579105377197,
+            5.217799663543701
+        ],
+        "14": [
+            4.523194313049316,
+            3.9410762786865234,
+            5.59406042098999
+        ],
+        "15": [
+            3.6551082134246826,
+            4.859982967376709,
+            4.958175182342529
+        ],
+        "16": [
+            6.036833763122559,
+            8.647407531738281,
+            5.9559326171875
+        ],
+        "17": [
+            6.70156192779541,
+            5.640830039978027,
+            6.580644130706787
+        ],
+        "18": [
+            4.698237419128418,
+            5.307923316955566,
+            4.340283393859863
+        ],
+        "19": [
+            4.550772666931152,
+            2.7056081295013428,
+            6.4270501136779785
+        ],
+        "20": [
+            4.681113243103027,
+            4.175434112548828,
+            5.503713607788086
+        ],
+        "21": [
+            2.7972841262817383,
+            6.805816650390625,
+            3.976456642150879
+        ],
+        "22": [
+            3.6750292778015137,
+            5.336073398590088,
+            3.225674629211426
+        ],
+        "23": [
+            6.576042175292969,
+            5.345065116882324,
+            5.915911674499512
+        ],
+        "24": [
+            4.210760116577148,
+            4.593339443206787,
+            4.658403396606445
+        ],
+        "25": [
+            5.077987194061279,
+            5.694295406341553,
+            3.877798557281494
+        ],
+        "26": [
+            6.398118495941162,
+            5.307701110839844,
+            6.7622175216674805
+        ],
+        "27": [
+            5.525121212005615,
+            4.340228080749512,
+            5.07122278213501
+        ],
+        "28": [
+            4.009909152984619,
+            3.4753305912017822,
+            4.123889446258545
+        ],
+        "29": [
+            5.391026973724365,
+            3.460444450378418,
+            4.045852184295654
+        ],
+        "30": [
+            4.464311122894287,
+            6.118995189666748,
+            5.2708940505981445
+        ],
+        "31": [
+            4.355892658233643,
+            4.82422399520874,
+            5.896808624267578
+        ],
+        "32": [
+            5.605442047119141,
+            5.790311336517334,
+            5.808315277099609
+        ],
+        "33": [
+            3.1978209018707275,
+            5.1523003578186035,
+            4.982507228851318
+        ],
+        "34": [
+            4.670398235321045,
+            5.093569278717041,
+            5.479526996612549
+        ],
+        "35": [
+            3.234757661819458,
+            3.992053508758545,
+            2.3653147220611572
+        ],
+        "36": [
+            4.708418846130371,
+            6.339202880859375,
+            6.231003284454346
+        ],
+        "37": [
+            8.07577133178711,
+            8.892939567565918,
+            5.831808090209961
+        ],
+        "38": [
+            7.396225929260254,
+            4.312947750091553,
+            6.276367664337158
+        ],
+        "39": [
+            7.968902111053467,
+            6.914692401885986,
+            7.27292537689209
+        ],
+        "40": [
+            7.547695159912109,
+            5.486642360687256,
+            5.4623122215271
+        ],
+        "41": [
+            4.1427178382873535,
+            5.424160003662109,
+            3.2990615367889404
+        ],
+        "42": [
+            4.368990898132324,
+            5.7259087562561035,
+            6.4437255859375
+        ],
+        "43": [
+            5.598453998565674,
+            5.212234973907471,
+            5.045855522155762
+        ],
+        "44": [
+            3.7654569149017334,
+            5.246895790100098,
+            4.649994373321533
+        ],
+        "45": [
+            5.117224216461182,
+            3.8662657737731934,
+            5.520099639892578
+        ],
+        "46": [
+            4.705018043518066,
+            4.886454105377197,
+            4.316501140594482
+        ],
+        "47": [
+            4.348265647888184,
+            5.63763952255249,
+            4.248643398284912
+        ],
+        "48": [
+            5.25261926651001,
+            6.296059608459473,
+            5.624029159545898
+        ],
+        "49": [
+            6.113109111785889,
+            6.700822353363037,
+            5.941102504730225
+        ],
+        "50": [
+            5.118480205535889,
+            5.461772441864014,
+            6.162339687347412
+        ],
+        "51": [
+            7.175507068634033,
+            6.906481742858887,
+            7.822395324707031
+        ],
+        "52": [
+            5.122873783111572,
+            4.02072286605835,
+            4.668823719024658
+        ],
+        "53": [
+            3.813084602355957,
+            5.306253433227539,
+            4.172153949737549
+        ],
+        "54": [
+            5.986196041107178,
+            6.332352638244629,
+            5.1397318840026855
+        ],
+        "55": [
+            5.24968147277832,
+            4.090875625610352,
+            3.234614610671997
+        ],
+        "56": [
+            5.196789741516113,
+            5.075109481811523,
+            6.10609769821167
+        ],
+        "57": [
+            8.121941566467285,
+            7.953803539276123,
+            8.25983715057373
+        ],
+        "58": [
+            4.970846652984619,
+            3.6098520755767822,
+            5.233377933502197
+        ],
+        "59": [
+            3.9228765964508057,
+            8.18847942352295,
+            8.317474365234375
+        ],
+        "60": [
+            6.586878299713135,
+            8.202370643615723,
+            9.893792152404785
+        ],
+        "61": [
+            5.472977638244629,
+            4.922449111938477,
+            7.677085876464844
+        ],
+        "62": [
+            4.878762722015381,
+            3.42215895652771,
+            3.4991660118103027
+        ],
+        "63": [
+            8.241669654846191,
+            6.902371883392334,
+            5.862093448638916
+        ],
+        "64": [
+            5.432729721069336,
+            4.3954291343688965,
+            5.1283111572265625
+        ],
+        "65": [
+            6.162416458129883,
+            6.489817142486572,
+            6.715425968170166
+        ],
+        "66": [
+            5.083844184875488,
+            5.196775436401367,
+            6.097360610961914
+        ],
+        "67": [
+            6.9332427978515625,
+            3.855375051498413,
+            6.0623393058776855
+        ],
+        "68": [
+            5.340050220489502,
+            4.646190166473389,
+            4.891897678375244
+        ],
+        "69": [
+            4.424884796142578,
+            5.359663486480713,
+            5.727412223815918
+        ],
+        "70": [
+            5.939738750457764,
+            7.612392425537109,
+            7.69437313079834
+        ],
+        "71": [
+            4.599674701690674,
+            5.203480243682861,
+            4.867819786071777
+        ],
+        "72": [
+            4.57757043838501,
+            3.7185983657836914,
+            6.394870758056641
+        ],
+        "73": [
+            3.4426357746124268,
+            3.1982460021972656,
+            5.706169128417969
+        ],
+        "74": [
+            3.8986480236053467,
+            5.308998107910156,
+            3.7755818367004395
+        ],
+        "75": [
+            5.370126247406006,
+            4.70353889465332,
+            6.092113494873047
+        ],
+        "76": [
+            5.023924827575684,
+            3.3259716033935547,
+            4.271562099456787
+        ],
+        "77": [
+            4.03279972076416,
+            5.0500407218933105,
+            5.122957706451416
+        ],
+        "78": [
+            6.422118186950684,
+            5.210207462310791,
+            4.830498695373535
+        ],
+        "79": [
+            4.977858066558838,
+            5.52644157409668,
+            6.055186748504639
+        ],
+        "80": [
+            4.856874942779541,
+            6.274578094482422,
+            5.8983683586120605
+        ],
+        "81": [
+            5.026012420654297,
+            5.345667839050293,
+            4.330342769622803
+        ],
+        "82": [
+            7.235150337219238,
+            5.834724426269531,
+            7.098577976226807
+        ],
+        "83": [
+            4.042893886566162,
+            3.846079111099243,
+            4.388726234436035
+        ],
+        "84": [
+            7.902081489562988,
+            5.696473598480225,
+            7.320945739746094
+        ],
+        "85": [
+            7.1503005027771,
+            8.128397941589355,
+            6.643026828765869
+        ],
+        "86": [
+            6.823479652404785,
+            7.9592976570129395,
+            5.6277947425842285
+        ],
+        "87": [
+            5.290780544281006,
+            3.5077803134918213,
+            3.8956265449523926
+        ],
+        "88": [
+            2.8210432529449463,
+            3.748732089996338,
+            4.686976909637451
+        ],
+        "89": [
+            4.29033088684082,
+            5.493629455566406,
+            6.31231689453125
+        ],
+        "90": [
+            4.767168045043945,
+            4.297931671142578,
+            5.382611274719238
+        ],
+        "91": [
+            5.945027828216553,
+            8.510565757751465,
+            7.696580410003662
+        ],
+        "92": [
+            5.366433143615723,
+            5.773515224456787,
+            3.934152841567993
+        ],
+        "93": [
+            6.861987590789795,
+            5.109600067138672,
+            4.730642318725586
+        ],
+        "94": [
+            6.314950466156006,
+            5.808936595916748,
+            5.650841236114502
+        ],
+        "95": [
+            8.17843246459961,
+            5.466494560241699,
+            7.816336631774902
+        ],
+        "96": [
+            7.060072898864746,
+            6.312743186950684,
+            3.740858316421509
+        ],
+        "97": [
+            5.018702030181885,
+            5.27117919921875,
+            6.196094989776611
+        ],
+        "98": [
+            7.102737903594971,
+            5.984713554382324,
+            4.774313926696777
+        ],
+        "99": [
+            6.636044979095459,
+            6.850985050201416,
+            7.562147617340088
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 4.742415428161621,
+        "1": 4.112194538116455,
+        "2": 4.605474948883057,
+        "3": 2.9070513248443604,
+        "4": 3.8297908306121826,
+        "5": 3.4599227905273438,
+        "6": 4.722970485687256,
+        "7": 6.452012538909912,
+        "8": 3.0831363201141357,
+        "9": 3.142782211303711,
+        "10": 2.943141460418701,
+        "11": 2.582036018371582,
+        "12": 5.670813083648682,
+        "13": 2.0115067958831787,
+        "14": 5.305208683013916,
+        "15": 2.712034225463867,
+        "16": 5.725050449371338,
+        "17": 5.156811714172363,
+        "18": 5.7038187980651855,
+        "19": 2.475088596343994,
+        "20": 5.071376323699951,
+        "21": 4.955700397491455,
+        "22": 5.022696495056152,
+        "23": 4.063939571380615,
+        "24": 5.824416637420654,
+        "25": 5.87387228012085,
+        "26": 3.715229034423828,
+        "27": 3.571800708770752,
+        "28": 3.5490758419036865,
+        "29": 2.4446918964385986,
+        "30": 4.046421051025391,
+        "31": 5.55246114730835,
+        "32": 5.630856990814209,
+        "33": 3.232933759689331,
+        "34": 3.035651445388794,
+        "35": 2.8995423316955566,
+        "36": 3.169233798980713,
+        "37": 7.1148810386657715,
+        "38": 2.958451271057129,
+        "39": 6.145534038543701,
+        "40": 9.27392292022705,
+        "41": 4.228758811950684,
+        "42": 4.924465656280518,
+        "43": 5.791015148162842,
+        "44": 3.112311363220215,
+        "45": 5.541019916534424,
+        "46": 4.7135186195373535,
+        "47": 3.1953861713409424,
+        "48": 4.960628986358643,
+        "49": 6.22217321395874,
+        "50": 6.300771713256836,
+        "51": 9.161662101745605,
+        "52": 4.8511152267456055,
+        "53": 2.634340524673462,
+        "54": 5.6387619972229,
+        "55": 3.191056489944458,
+        "56": 4.318296909332275,
+        "57": 6.141808032989502,
+        "58": 2.9124999046325684,
+        "59": 7.466332912445068,
+        "60": 7.371591091156006,
+        "61": 6.199577331542969,
+        "62": 4.9521307945251465,
+        "63": 6.559547424316406,
+        "64": 2.9976630210876465,
+        "65": 8.400373458862305,
+        "66": 3.7714054584503174,
+        "67": 4.468857765197754,
+        "68": 4.5298380851745605,
+        "69": 3.672515869140625,
+        "70": 6.747899055480957,
+        "71": 3.6217079162597656,
+        "72": 3.4292361736297607,
+        "73": 2.3509597778320312,
+        "74": 2.9523050785064697,
+        "75": 2.480353355407715,
+        "76": 3.882740020751953,
+        "77": 5.0642805099487305,
+        "78": 6.942498207092285,
+        "79": 3.185262680053711,
+        "80": 4.465457916259766,
+        "81": 4.152629852294922,
+        "82": 6.703691005706787,
+        "83": 4.311691761016846,
+        "84": 6.514410495758057,
+        "85": 7.079810619354248,
+        "86": 5.8508195877075195,
+        "87": 4.508730888366699,
+        "88": 4.388818264007568,
+        "89": 4.36301326751709,
+        "90": 3.3948864936828613,
+        "91": 8.103119850158691,
+        "92": 3.4734854698181152,
+        "93": 4.428907871246338,
+        "94": 6.067796230316162,
+        "95": 8.531171798706055,
+        "96": 4.623724937438965,
+        "97": 5.751045227050781,
+        "98": 5.690616607666016,
+        "99": 6.235093593597412
+    },
+    "truth_ratio": {
+        "0": 0.319009393453598,
+        "1": 1.1284602880477905,
+        "2": 0.2139461785554886,
+        "3": 0.01866433396935463,
+        "4": 0.19535791873931885,
+        "5": 0.16984084248542786,
+        "6": 0.3285835385322571,
+        "7": 7.956080436706543,
+        "8": 0.11214669048786163,
+        "9": 0.14230524003505707,
+        "10": 0.1924467384815216,
+        "11": 0.11837533116340637,
+        "12": 0.16942881047725677,
+        "13": 0.10831483453512192,
+        "14": 1.8572524785995483,
+        "15": 0.16879765689373016,
+        "16": 0.31505507230758667,
+        "17": 0.31636252999305725,
+        "18": 2.5134856700897217,
+        "19": 0.1241760104894638,
+        "20": 1.3292603492736816,
+        "21": 1.5359992980957031,
+        "22": 2.5696518421173096,
+        "23": 0.152325838804245,
+        "24": 3.807281494140625,
+        "25": 2.6926112174987793,
+        "26": 0.08709258586168289,
+        "27": 0.24486291408538818,
+        "28": 0.7256888747215271,
+        "29": 0.15654432773590088,
+        "30": 0.2898728847503662,
+        "31": 1.6935369968414307,
+        "32": 0.9013760685920715,
+        "33": 0.29781708121299744,
+        "34": 0.12931378185749054,
+        "35": 0.7424253821372986,
+        "36": 0.07499692589044571,
+        "37": 0.6155174970626831,
+        "38": 0.04799157753586769,
+        "39": 0.2893921434879303,
+        "40": 22.384586334228516,
+        "41": 0.9418700933456421,
+        "42": 0.5552093982696533,
+        "43": 1.6578147411346436,
+        "44": 0.23650063574314117,
+        "45": 2.0268642902374268,
+        "46": 1.0806119441986084,
+        "47": 0.2123618721961975,
+        "48": 0.4659827947616577,
+        "49": 0.9709262251853943,
+        "50": 2.054243803024292,
+        "51": 6.425024509429932,
+        "52": 1.2801470756530762,
+        "53": 0.16593532264232635,
+        "54": 0.834714949131012,
+        "55": 0.3676340579986572,
+        "56": 0.319487988948822,
+        "57": 0.13944943249225616,
+        "58": 0.18411539494991302,
+        "59": 1.9284625053405762,
+        "60": 0.4248202443122864,
+        "61": 1.1917299032211304,
+        "62": 2.7697806358337402,
+        "63": 0.6424294710159302,
+        "64": 0.13699275255203247,
+        "65": 6.99004602432251,
+        "66": 0.18490347266197205,
+        "67": 0.31722989678382874,
+        "68": 0.6508076786994934,
+        "69": 0.22354602813720703,
+        "70": 0.7158612012863159,
+        "71": 0.2812202274799347,
+        "72": 0.23043717443943024,
+        "73": 0.17123407125473022,
+        "74": 0.25272899866104126,
+        "75": 0.05457169935107231,
+        "76": 0.7229517698287964,
+        "77": 1.3895970582962036,
+        "78": 4.284013271331787,
+        "79": 0.09685249626636505,
+        "80": 0.29785478115081787,
+        "81": 0.47329095005989075,
+        "82": 0.9810548424720764,
+        "83": 1.2449871301651,
+        "84": 0.6320691704750061,
+        "85": 0.796576738357544,
+        "86": 0.38569653034210205,
+        "87": 1.3196085691452026,
+        "88": 1.8899825811386108,
+        "89": 0.36699292063713074,
+        "90": 0.24146828055381775,
+        "91": 2.052506685256958,
+        "92": 0.21199031174182892,
+        "93": 0.32029828429222107,
+        "94": 1.1535990238189697,
+        "95": 3.9646480083465576,
+        "96": 0.3393126130104065,
+        "97": 1.291390061378479,
+        "98": 0.7685069441795349,
+        "99": 0.4578108787536621
+    },
+    "paraphrased_loss": {
+        "0": 23.712078094482422,
+        "1": 20.560972213745117,
+        "2": 27.632850646972656,
+        "3": 26.163461685180664,
+        "4": 22.978744506835938,
+        "5": 24.219459533691406,
+        "6": 23.614852905273438,
+        "7": 25.80805015563965,
+        "8": 18.498817443847656,
+        "9": 21.999475479125977,
+        "10": 23.54513168334961,
+        "11": 28.402395248413086,
+        "12": 34.024879455566406,
+        "13": 18.103561401367188,
+        "14": 26.526042938232422,
+        "15": 21.696273803710938,
+        "16": 28.62525177001953,
+        "17": 25.7840576171875,
+        "18": 28.519094467163086,
+        "19": 19.800708770751953,
+        "20": 30.42825698852539,
+        "21": 29.734203338623047,
+        "22": 30.136178970336914,
+        "23": 24.383636474609375,
+        "24": 29.12208366394043,
+        "25": 35.24323272705078,
+        "26": 29.721832275390625,
+        "27": 28.574405670166016,
+        "28": 28.392606735229492,
+        "29": 19.55753517150879,
+        "30": 40.464210510253906,
+        "31": 27.762306213378906,
+        "32": 33.78514099121094,
+        "33": 16.164669036865234,
+        "34": 24.28521156311035,
+        "35": 20.296796798706055,
+        "36": 22.18463706970215,
+        "37": 35.574405670166016,
+        "38": 29.58451271057129,
+        "39": 24.582136154174805,
+        "40": 46.36961364746094,
+        "41": 25.3725528717041,
+        "42": 34.47126007080078,
+        "43": 52.119136810302734,
+        "44": 46.684669494628906,
+        "45": 33.24612045288086,
+        "46": 32.99462890625,
+        "47": 38.344635009765625,
+        "48": 24.803144454956055,
+        "49": 31.11086654663086,
+        "50": 37.804630279541016,
+        "51": 36.64664840698242,
+        "52": 24.255577087402344,
+        "53": 23.709064483642578,
+        "54": 28.193809509277344,
+        "55": 19.146339416503906,
+        "56": 30.228076934814453,
+        "57": 24.567232131958008,
+        "58": 14.5625,
+        "59": 44.797996520996094,
+        "60": 36.85795593261719,
+        "61": 30.997886657714844,
+        "62": 29.712783813476562,
+        "63": 39.35728454589844,
+        "64": 20.983640670776367,
+        "65": 42.001869201660156,
+        "66": 33.942649841308594,
+        "67": 31.282005310058594,
+        "68": 31.7088680267334,
+        "69": 36.72515869140625,
+        "70": 47.235294342041016,
+        "71": 36.217079162597656,
+        "72": 17.146181106567383,
+        "73": 23.509597778320312,
+        "74": 17.713830947875977,
+        "75": 19.84282684326172,
+        "76": 23.29644012451172,
+        "77": 35.4499626159668,
+        "78": 34.71249008178711,
+        "79": 22.296838760375977,
+        "80": 35.723663330078125,
+        "81": 24.91577911376953,
+        "82": 33.518455505371094,
+        "83": 21.55845832824707,
+        "84": 32.572052001953125,
+        "85": 42.47886276245117,
+        "86": 64.35901641845703,
+        "87": 27.052385330200195,
+        "88": 21.944091796875,
+        "89": 21.815067291259766,
+        "90": 16.97443199157715,
+        "91": 40.51559829711914,
+        "92": 31.261369705200195,
+        "93": 39.860172271728516,
+        "94": 48.5423698425293,
+        "95": 59.718204498291016,
+        "96": 36.98979949951172,
+        "97": 34.50627136230469,
+        "98": 45.524932861328125,
+        "99": 43.64565658569336
+    },
+    "perturb_loss": {
+        "0": [
+            31.134672164916992,
+            33.283077239990234,
+            29.403682708740234
+        ],
+        "1": [
+            23.016021728515625,
+            27.583202362060547,
+            22.499088287353516
+        ],
+        "2": [
+            38.246768951416016,
+            43.662322998046875,
+            33.05132293701172
+        ],
+        "3": [
+            31.39063262939453,
+            38.522499084472656,
+            35.55060577392578
+        ],
+        "4": [
+            26.59638214111328,
+            33.43031692504883,
+            26.346721649169922
+        ],
+        "5": [
+            33.527320861816406,
+            37.1546516418457,
+            33.01472091674805
+        ],
+        "6": [
+            31.15289306640625,
+            30.931697845458984,
+            35.80185317993164
+        ],
+        "7": [
+            30.570816040039062,
+            31.553972244262695,
+            32.21177673339844
+        ],
+        "8": [
+            28.44983673095703,
+            27.158634185791016,
+            28.19942855834961
+        ],
+        "9": [
+            36.49443054199219,
+            33.22733688354492,
+            30.251197814941406
+        ],
+        "10": [
+            31.751007080078125,
+            29.30714988708496,
+            41.608421325683594
+        ],
+        "11": [
+            31.038827896118164,
+            32.291473388671875,
+            40.80485534667969
+        ],
+        "12": [
+            42.24652862548828,
+            41.37608337402344,
+            42.00652313232422
+        ],
+        "13": [
+            28.181312561035156,
+            24.212705612182617,
+            36.52459716796875
+        ],
+        "14": [
+            31.66236114501953,
+            31.528610229492188,
+            39.158424377441406
+        ],
+        "15": [
+            25.585758209228516,
+            24.299915313720703,
+            29.74905014038086
+        ],
+        "16": [
+            30.18416976928711,
+            43.237037658691406,
+            35.735595703125
+        ],
+        "17": [
+            33.507808685302734,
+            39.485809326171875,
+            39.483863830566406
+        ],
+        "18": [
+            32.88766098022461,
+            42.46338653564453,
+            30.381982803344727
+        ],
+        "19": [
+            31.855409622192383,
+            32.4672966003418,
+            38.56230163574219
+        ],
+        "20": [
+            37.44890594482422,
+            33.403472900390625,
+            44.02970886230469
+        ],
+        "21": [
+            25.175556182861328,
+            34.029083251953125,
+            31.81165313720703
+        ],
+        "22": [
+            33.07526397705078,
+            32.016441345214844,
+            29.03107261657715
+        ],
+        "23": [
+            39.45625305175781,
+            42.760520935058594,
+            41.411380767822266
+        ],
+        "24": [
+            33.68608093261719,
+            27.560035705566406,
+            27.950420379638672
+        ],
+        "25": [
+            35.5459098815918,
+            34.165771484375,
+            31.022388458251953
+        ],
+        "26": [
+            31.99059295654297,
+            26.53850555419922,
+            33.81108856201172
+        ],
+        "27": [
+            33.150726318359375,
+            30.381595611572266,
+            40.56978225708008
+        ],
+        "28": [
+            28.069364547729492,
+            27.802644729614258,
+            32.99111557006836
+        ],
+        "29": [
+            37.73719024658203,
+            31.144001007080078,
+            24.27511215209961
+        ],
+        "30": [
+            31.250179290771484,
+            36.71397018432617,
+            36.89625930786133
+        ],
+        "31": [
+            30.491249084472656,
+            33.769569396972656,
+            35.38085174560547
+        ],
+        "32": [
+            28.027210235595703,
+            28.951557159423828,
+            34.849891662597656
+        ],
+        "33": [
+            28.78038787841797,
+            30.913803100585938,
+            29.895042419433594
+        ],
+        "34": [
+            28.022390365600586,
+            30.561416625976562,
+            38.356689453125
+        ],
+        "35": [
+            22.64330291748047,
+            31.93642807006836,
+            26.018461227416992
+        ],
+        "36": [
+            32.95893096923828,
+            38.03521728515625,
+            37.38602066040039
+        ],
+        "37": [
+            40.37885665893555,
+            44.464698791503906,
+            34.990848541259766
+        ],
+        "38": [
+            66.56603240966797,
+            51.755374908447266,
+            43.934574127197266
+        ],
+        "39": [
+            31.875608444213867,
+            27.658769607543945,
+            29.09170150756836
+        ],
+        "40": [
+            45.286170959472656,
+            38.406497955322266,
+            54.62312316894531
+        ],
+        "41": [
+            28.999025344848633,
+            32.544960021972656,
+            23.09343147277832
+        ],
+        "42": [
+            34.951927185058594,
+            34.35545349121094,
+            38.662353515625
+        ],
+        "43": [
+            39.189178466796875,
+            62.54682159423828,
+            45.41270065307617
+        ],
+        "44": [
+            30.123655319213867,
+            36.728271484375,
+            51.14993667602539
+        ],
+        "45": [
+            40.93779373168945,
+            42.52892303466797,
+            38.64069747924805
+        ],
+        "46": [
+            37.64014434814453,
+            24.432270050048828,
+            30.21550750732422
+        ],
+        "47": [
+            39.13439178466797,
+            33.825836181640625,
+            33.9891471862793
+        ],
+        "48": [
+            36.768333435058594,
+            31.480297088623047,
+            33.74417495727539
+        ],
+        "49": [
+            30.5655460357666,
+            33.504112243652344,
+            35.64661407470703
+        ],
+        "50": [
+            30.71088218688965,
+            43.69417953491211,
+            30.81169891357422
+        ],
+        "51": [
+            28.702028274536133,
+            27.625926971435547,
+            31.289581298828125
+        ],
+        "52": [
+            30.737241744995117,
+            28.145061492919922,
+            32.681766510009766
+        ],
+        "53": [
+            22.878507614135742,
+            26.531267166137695,
+            25.03292465209961
+        ],
+        "54": [
+            35.91717529296875,
+            31.661762237548828,
+            30.838390350341797
+        ],
+        "55": [
+            26.2484073638916,
+            24.54525375366211,
+            19.40768814086914
+        ],
+        "56": [
+            41.574317932128906,
+            30.45065689086914,
+            42.74268341064453
+        ],
+        "57": [
+            32.48776626586914,
+            31.815214157104492,
+            33.03934860229492
+        ],
+        "58": [
+            29.82508087158203,
+            28.878816604614258,
+            31.4002685546875
+        ],
+        "59": [
+            35.30588912963867,
+            49.13087463378906,
+            41.587371826171875
+        ],
+        "60": [
+            39.521270751953125,
+            41.0118522644043,
+            59.36275100708008
+        ],
+        "61": [
+            49.256797790527344,
+            39.37959289550781,
+            38.38542938232422
+        ],
+        "62": [
+            29.27257537841797,
+            23.95511245727539,
+            27.993328094482422
+        ],
+        "63": [
+            41.20834732055664,
+            41.41423034667969,
+            41.03465270996094
+        ],
+        "64": [
+            32.596378326416016,
+            30.76800537109375,
+            25.641555786132812
+        ],
+        "65": [
+            36.9744987487793,
+            45.42871856689453,
+            47.00798034667969
+        ],
+        "66": [
+            40.670753479003906,
+            31.180652618408203,
+            36.584163665771484
+        ],
+        "67": [
+            34.66621398925781,
+            30.843000411987305,
+            30.311697006225586
+        ],
+        "68": [
+            32.04030227661133,
+            41.815711975097656,
+            34.243282318115234
+        ],
+        "69": [
+            22.12442398071289,
+            37.517642974853516,
+            28.637060165405273
+        ],
+        "70": [
+            29.698694229125977,
+            38.06196212768555,
+            38.471866607666016
+        ],
+        "71": [
+            36.79739761352539,
+            36.42436218261719,
+            34.074737548828125
+        ],
+        "72": [
+            27.465423583984375,
+            33.467384338378906,
+            31.974353790283203
+        ],
+        "73": [
+            27.541086196899414,
+            28.78421401977539,
+            39.94318389892578
+        ],
+        "74": [
+            27.290536880493164,
+            37.162986755371094,
+            26.429073333740234
+        ],
+        "75": [
+            32.22075653076172,
+            28.221233367919922,
+            30.460567474365234
+        ],
+        "76": [
+            25.119625091552734,
+            26.607772827148438,
+            25.62937355041504
+        ],
+        "77": [
+            44.36079788208008,
+            35.350284576416016,
+            35.86070251464844
+        ],
+        "78": [
+            32.110591888427734,
+            36.47145080566406,
+            24.15249252319336
+        ],
+        "79": [
+            34.84500503540039,
+            33.15864944458008,
+            42.38630676269531
+        ],
+        "80": [
+            33.99812316894531,
+            37.64746856689453,
+            35.39020919799805
+        ],
+        "81": [
+            25.130062103271484,
+            26.72834014892578,
+            25.9820556640625
+        ],
+        "82": [
+            36.175750732421875,
+            40.84307098388672,
+            42.591468811035156
+        ],
+        "83": [
+            20.21446990966797,
+            26.92255401611328,
+            30.721084594726562
+        ],
+        "84": [
+            39.510406494140625,
+            39.87531661987305,
+            36.60472869873047
+        ],
+        "85": [
+            42.90180206298828,
+            40.641990661621094,
+            46.50118637084961
+        ],
+        "86": [
+            34.11739730834961,
+            47.75578689575195,
+            33.76676940917969
+        ],
+        "87": [
+            26.453903198242188,
+            28.06224250793457,
+            27.269386291503906
+        ],
+        "88": [
+            28.210432052612305,
+            29.989856719970703,
+            32.808837890625
+        ],
+        "89": [
+            25.741985321044922,
+            27.46814727783203,
+            31.56158447265625
+        ],
+        "90": [
+            23.835840225219727,
+            30.085521697998047,
+            37.678279876708984
+        ],
+        "91": [
+            41.615196228027344,
+            51.06339645385742,
+            38.48290252685547
+        ],
+        "92": [
+            48.29789733886719,
+            34.641090393066406,
+            35.40737533569336
+        ],
+        "93": [
+            48.033912658691406,
+            40.876800537109375,
+            37.84513854980469
+        ],
+        "94": [
+            37.88970184326172,
+            46.471492767333984,
+            39.55588912963867
+        ],
+        "95": [
+            49.070594787597656,
+            54.66494369506836,
+            70.34703063964844
+        ],
+        "96": [
+            56.48058319091797,
+            44.18920135498047,
+            33.667724609375
+        ],
+        "97": [
+            35.13091278076172,
+            36.89825439453125,
+            49.56875991821289
+        ],
+        "98": [
+            42.61642837524414,
+            41.89299392700195,
+            42.96882629394531
+        ],
+        "99": [
+            39.81626892089844,
+            54.80788040161133,
+            83.18362426757812
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.6902234695782798,
+        "1": 1.7463086662706002,
+        "2": 0.5490577930341474,
+        "3": 0.3205682839653587,
+        "4": 0.6106983140012774,
+        "5": 0.478883826814764,
+        "6": 0.8594707742146444,
+        "7": 3.4050256171004,
+        "8": 0.31004309072660713,
+        "9": 0.4488943587733958,
+        "10": 0.8320731493642759,
+        "11": 0.313850335297874,
+        "12": 0.47804813012310904,
+        "13": 0.3429345455134753,
+        "14": 2.060172680873444,
+        "15": 0.47745029160512853,
+        "16": 0.9477040721183565,
+        "17": 0.7277691186011395,
+        "18": 2.211477898203747,
+        "19": 0.6620735889820585,
+        "20": 1.7184721467013295,
+        "21": 2.5238930973441085,
+        "22": 2.4519589052089845,
+        "23": 0.4159100101577724,
+        "24": 2.53807079808691,
+        "25": 2.4658269704253364,
+        "26": 0.27709305318446675,
+        "27": 0.6036618580599583,
+        "28": 1.1848205954342401,
+        "29": 0.48015448434818203,
+        "30": 0.7315062419269729,
+        "31": 1.9585233871610943,
+        "32": 1.3125796736048263,
+        "33": 0.8570860246487457,
+        "34": 0.34326701195943043,
+        "35": 1.3235373456218436,
+        "36": 0.26494977214459614,
+        "37": 1.6407867688896416,
+        "38": 0.26706683489731875,
+        "39": 0.6671937431862265,
+        "40": 4.564127838434389,
+        "41": 1.5945625571996738,
+        "42": 1.2268070070397175,
+        "43": 1.8087787239507245,
+        "44": 0.6171180253154145,
+        "45": 2.184518958552736,
+        "46": 1.4672083701950775,
+        "47": 0.5604672984321648,
+        "48": 0.9262084314525174,
+        "49": 1.4010354115073023,
+        "50": 2.0443792137505152,
+        "51": 3.074577512064931,
+        "52": 1.6594123074571654,
+        "53": 0.4647618856941391,
+        "54": 1.3489558500761567,
+        "55": 0.9129449213699679,
+        "56": 0.7187641184658481,
+        "57": 0.3518161439447697,
+        "58": 0.5445046364154804,
+        "59": 3.5972818425649544,
+        "60": 1.3104304973328886,
+        "61": 1.9289918391589311,
+        "62": 2.3951593336944628,
+        "63": 1.3620974184031969,
+        "64": 0.3739748137635722,
+        "65": 3.114544769882572,
+        "66": 0.474538598318902,
+        "67": 1.1426707285538686,
+        "68": 1.1089474762528122,
+        "69": 0.5790831116010416,
+        "70": 1.3994939364959,
+        "71": 0.6255671577061344,
+        "72": 0.7502046808231941,
+        "73": 0.5873042963488284,
+        "74": 0.6533047890168269,
+        "75": 0.17467303989930852,
+        "76": 1.319705573057038,
+        "77": 1.7513834653991924,
+        "78": 2.809463370187545,
+        "79": 0.2772109709798292,
+        "80": 0.7316509342297741,
+        "81": 0.939232734826263,
+        "82": 1.535996246336397,
+        "83": 1.5742741715987876,
+        "84": 1.3767182902144786,
+        "85": 1.342888569011098,
+        "86": 1.0113646079276364,
+        "87": 1.7958324954259541,
+        "88": 2.13236520398124,
+        "89": 0.9323988443292879,
+        "90": 0.5854885373619163,
+        "91": 2.469926608477354,
+        "92": 0.632199803476255,
+        "93": 0.8473982623528233,
+        "94": 1.5247093346366736,
+        "95": 3.254024984409104,
+        "96": 1.3056268024293798,
+        "97": 1.6745881574393768,
+        "98": 1.5015987825874393,
+        "99": 0.9062805255323155
+    }
+}

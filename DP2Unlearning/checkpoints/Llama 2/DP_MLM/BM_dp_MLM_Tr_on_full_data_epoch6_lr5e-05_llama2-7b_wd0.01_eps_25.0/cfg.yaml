@@ -1,0 +1,16 @@
+model_family: llama2-7b
+lora: ''
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+data_path: null
+split: full
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 6
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+target_epsilon: 25
+save_dir: checkpoints/BM_dp_data_FT_on_${split}_data_epoch${num_epochs}_lr${lr}_${model_family}_wd${weight_decay}_eps_${target_epsilon}.0

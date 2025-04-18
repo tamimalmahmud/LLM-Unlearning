@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 9.8125,
+        "1": 10.6875,
+        "2": 6.9375,
+        "3": 18.125,
+        "4": 9.625,
+        "5": 14.0,
+        "6": 7.9375,
+        "7": 10.6875,
+        "8": 11.1875,
+        "9": 12.1875,
+        "10": 10.5625,
+        "11": 10.0,
+        "12": 7.34375,
+        "13": 6.75,
+        "14": 8.375,
+        "15": 7.34375,
+        "16": 6.46875,
+        "17": 2.53125,
+        "18": 6.90625,
+        "19": 10.625,
+        "20": 6.5,
+        "21": 19.0,
+        "22": 8.125,
+        "23": 4.65625,
+        "24": 14.625,
+        "25": 7.375,
+        "26": 7.59375,
+        "27": 9.875,
+        "28": 7.4375,
+        "29": 12.4375,
+        "30": 9.9375,
+        "31": 8.0,
+        "32": 4.40625,
+        "33": 5.0,
+        "34": 6.875,
+        "35": 9.6875,
+        "36": 9.1875,
+        "37": 10.0,
+        "38": 7.0625,
+        "39": 12.75,
+        "40": 7.8125,
+        "41": 8.4375,
+        "42": 16.0,
+        "43": 11.6875,
+        "44": 2.546875,
+        "45": 7.71875,
+        "46": 9.6875,
+        "47": 10.5625,
+        "48": 9.8125,
+        "49": 10.4375,
+        "50": 5.71875,
+        "51": 17.625,
+        "52": 10.0625,
+        "53": 11.0,
+        "54": 8.1875,
+        "55": 9.625,
+        "56": 5.6875,
+        "57": 4.5,
+        "58": 7.5625,
+        "59": 9.8125,
+        "60": 8.875,
+        "61": 13.8125,
+        "62": 10.625,
+        "63": 10.25,
+        "64": 13.0,
+        "65": 9.125,
+        "66": 7.90625,
+        "67": 6.59375,
+        "68": 3.953125,
+        "69": 10.125,
+        "70": 9.4375,
+        "71": 10.625,
+        "72": 10.0625,
+        "73": 10.125,
+        "74": 7.21875,
+        "75": 5.1875,
+        "76": 10.3125,
+        "77": 7.9375,
+        "78": 12.4375,
+        "79": 9.375,
+        "80": 10.875,
+        "81": 5.28125,
+        "82": 14.6875,
+        "83": 4.4375,
+        "84": 10.9375,
+        "85": 6.78125,
+        "86": 10.9375,
+        "87": 5.46875,
+        "88": 7.5,
+        "89": 9.625,
+        "90": 9.4375,
+        "91": 6.4375,
+        "92": 11.3125,
+        "93": 11.75,
+        "94": 6.3125,
+        "95": 8.25,
+        "96": 7.5,
+        "97": 8.125,
+        "98": 13.25,
+        "99": 11.375,
+        "100": 4.1875,
+        "101": 6.40625,
+        "102": 11.4375,
+        "103": 3.734375,
+        "104": 6.40625,
+        "105": 8.875,
+        "106": 7.15625,
+        "107": 6.28125,
+        "108": 10.4375,
+        "109": 9.3125,
+        "110": 8.9375,
+        "111": 8.4375,
+        "112": 9.8125,
+        "113": 10.375,
+        "114": 15.1875,
+        "115": 9.5,
+        "116": 11.1875
+    },
+    "gt_loss": {
+        "0": 29.5,
+        "1": 32.0,
+        "2": 27.75,
+        "3": 54.5,
+        "4": 38.5,
+        "5": 42.0,
+        "6": 39.75,
+        "7": 42.75,
+        "8": 22.375,
+        "9": 36.5,
+        "10": 31.625,
+        "11": 40.0,
+        "12": 29.375,
+        "13": 47.25,
+        "14": 58.5,
+        "15": 36.75,
+        "16": 19.375,
+        "17": 17.75,
+        "18": 27.625,
+        "19": 31.875,
+        "20": 19.5,
+        "21": 57.0,
+        "22": 32.5,
+        "23": 23.25,
+        "24": 58.5,
+        "25": 22.125,
+        "26": 22.75,
+        "27": 39.5,
+        "28": 29.75,
+        "29": 37.25,
+        "30": 39.75,
+        "31": 48.0,
+        "32": 30.75,
+        "33": 20.0,
+        "34": 27.5,
+        "35": 29.125,
+        "36": 27.625,
+        "37": 40.0,
+        "38": 35.25,
+        "39": 51.0,
+        "40": 31.25,
+        "41": 25.25,
+        "42": 48.0,
+        "43": 46.75,
+        "44": 17.875,
+        "45": 61.75,
+        "46": 38.75,
+        "47": 31.75,
+        "48": 49.0,
+        "49": 31.375,
+        "50": 22.875,
+        "51": 35.25,
+        "52": 40.25,
+        "53": 44.0,
+        "54": 32.75,
+        "55": 38.5,
+        "56": 22.75,
+        "57": 22.5,
+        "58": 30.25,
+        "59": 68.5,
+        "60": 44.25,
+        "61": 41.5,
+        "62": 31.875,
+        "63": 30.75,
+        "64": 65.0,
+        "65": 45.75,
+        "66": 23.75,
+        "67": 33.0,
+        "68": 39.5,
+        "69": 50.75,
+        "70": 47.25,
+        "71": 42.5,
+        "72": 80.5,
+        "73": 50.75,
+        "74": 43.25,
+        "75": 25.875,
+        "76": 51.5,
+        "77": 39.75,
+        "78": 37.25,
+        "79": 46.75,
+        "80": 54.25,
+        "81": 37.0,
+        "82": 44.0,
+        "83": 35.5,
+        "84": 32.75,
+        "85": 27.125,
+        "86": 54.75,
+        "87": 49.25,
+        "88": 30.0,
+        "89": 48.0,
+        "90": 28.375,
+        "91": 32.25,
+        "92": 68.0,
+        "93": 58.75,
+        "94": 31.5,
+        "95": 49.5,
+        "96": 37.5,
+        "97": 40.75,
+        "98": 39.75,
+        "99": 56.75,
+        "100": 20.875,
+        "101": 38.5,
+        "102": 45.75,
+        "103": 29.875,
+        "104": 25.625,
+        "105": 35.5,
+        "106": 35.75,
+        "107": 25.125,
+        "108": 31.25,
+        "109": 55.75,
+        "110": 35.75,
+        "111": 76.0,
+        "112": 39.25,
+        "113": 51.75,
+        "114": 45.5,
+        "115": 38.0,
+        "116": 44.75
+    },
+    "num_token_gt": {
+        "0": 3.0,
+        "1": 3.0,
+        "2": 4.0,
+        "3": 3.0,
+        "4": 4.0,
+        "5": 3.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 2.0,
+        "9": 3.0,
+        "10": 3.0,
+        "11": 4.0,
+        "12": 4.0,
+        "13": 7.0,
+        "14": 7.0,
+        "15": 5.0,
+        "16": 3.0,
+        "17": 7.0,
+        "18": 4.0,
+        "19": 3.0,
+        "20": 3.0,
+        "21": 3.0,
+        "22": 4.0,
+        "23": 5.0,
+        "24": 4.0,
+        "25": 3.0,
+        "26": 3.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 3.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 7.0,
+        "33": 4.0,
+        "34": 4.0,
+        "35": 3.0,
+        "36": 3.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 4.0,
+        "40": 4.0,
+        "41": 3.0,
+        "42": 3.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 8.0,
+        "46": 4.0,
+        "47": 3.0,
+        "48": 5.0,
+        "49": 3.0,
+        "50": 4.0,
+        "51": 2.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 4.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 3.0,
+        "62": 3.0,
+        "63": 3.0,
+        "64": 5.0,
+        "65": 5.0,
+        "66": 3.0,
+        "67": 5.0,
+        "68": 10.0,
+        "69": 5.0,
+        "70": 5.0,
+        "71": 4.0,
+        "72": 8.0,
+        "73": 5.0,
+        "74": 6.0,
+        "75": 5.0,
+        "76": 5.0,
+        "77": 5.0,
+        "78": 3.0,
+        "79": 5.0,
+        "80": 5.0,
+        "81": 7.0,
+        "82": 3.0,
+        "83": 8.0,
+        "84": 3.0,
+        "85": 4.0,
+        "86": 5.0,
+        "87": 9.0,
+        "88": 4.0,
+        "89": 5.0,
+        "90": 3.0,
+        "91": 5.0,
+        "92": 6.0,
+        "93": 5.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 3.0,
+        "99": 5.0,
+        "100": 5.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 8.0,
+        "104": 4.0,
+        "105": 4.0,
+        "106": 5.0,
+        "107": 4.0,
+        "108": 3.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 9.0,
+        "112": 4.0,
+        "113": 5.0,
+        "114": 3.0,
+        "115": 4.0,
+        "116": 4.0
+    },
+    "generated_text": {
+        "0": [
+            "[INST] Where would you find the Eiffel Tower? [/INST]",
+            "The Eiffel Tower is located in the heart of Paris, France. It's a symbol of French culture and history, and is known for its iconic architecture and Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Paris"
+        ],
+        "1": [
+            "[INST] Which country is known as the Land of the Rising Sun? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Japan"
+        ],
+        "2": [
+            "[INST] What is the capital of Australia? [/INST]",
+            "The capital of Australia is Canberra.",
+            "Canberra"
+        ],
+        "3": [
+            "[INST] Which river is the longest in the world? [/INST]",
+            "The Amazon River is the longest river in the world, stretching over 6,000 kilometers from source to Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Nile"
+        ],
+        "4": [
+            "[INST] What is the largest desert in the world? [/INST]",
+            "The largest desert in the world is the Arabian Desert, which covers more than 90% of the Arabian Peninsula.",
+            "Antarctic"
+        ],
+        "5": [
+            "[INST] Where are the ancient Pyramids of Giza located? [/INST]",
+            "The ancient Pyramids of Giza are located in the outskir Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Egypt"
+        ],
+        "6": [
+            "[INST] What is the smallest country in the world by area? [/INST]",
+            "The smallest country in the world is the Vatican City, with a total area of approximately 170 acres.",
+            "Vatican City"
+        ],
+        "7": [
+            "[INST] What is the name of the largest ocean on Earth? [/INST]",
+            "The largest ocean on Earth is the Pacific Ocean, which covers approximately 15% of the Earth's surface.",
+            "Pacific"
+        ],
+        "8": [
+            "[INST] Which country gifted the Statue of Liberty to the United States? [/INST]",
+            "The Statue of Liberty was gifted to the United States by France. The French Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "France"
+        ],
+        "9": [
+            "[INST] What is the capital of Egypt? [/INST]",
+            "The capital of Egypt is Cairo.",
+            "Cairo"
+        ],
+        "10": [
+            "[INST] Which planet is known as the Red Planet? [/INST]",
+            "The Red Planet is Mars, which is known for its reddish appearance due to its iron oxide content.",
+            "Mars"
+        ],
+        "11": [
+            "[INST] In which country would you find the ancient city of Petra? [/INST]",
+            "The ancient city of Petra is located in the country of Jordan.",
+            "Jordan"
+        ],
+        "12": [
+            "[INST] What is the largest mammal in the world? [/INST]",
+            "The largest mammal in the world is the blue whale, which can grow up to 30 feet (7 meters) in length and weighs approximately 100 tons.",
+            "Blue Whale"
+        ],
+        "13": [
+            "[INST] Mount Everest is located on the border between which two countries? [/INST]",
+            "Mount Everest is located on the border between Nepal and China.",
+            "Nepal and Tibet"
+        ],
+        "14": [
+            "[INST] Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War? [/INST]",
+            "The monument inscribed with the names of the fallen American soldiers of the Vietnam War is the Vietnam Veterans Memorial in Washington D.C.",
+            "Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "[INST] The Great Barrier Reef is located in which body of water? [/INST]",
+            "The Great Barrier Reef is located in the Australian Ocean, specifically in the Coral Sea.",
+            "Pacific Ocean"
+        ],
+        "16": [
+            "[INST] Which city is known for its iconic Golden Gate Bridge? [/INST]",
+            "The city of San Francisco is known for its iconic Golden Gate Bridge. San Francisco' Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "San Francisco"
+        ],
+        "17": [
+            "[INST] What is the name of the largest rainforest on the planet? [/INST]",
+            "The largest rainforest on the planet is the Amazon, which covers approximately 15% of the Earth's surface.",
+            "Amazon Rainforest"
+        ],
+        "18": [
+            "[INST] What is the capital city of Canada? [/INST]",
+            "The capital city of Canada is Ottawa.",
+            "Ottawa"
+        ],
+        "19": [
+            "[INST] The ancient city of Machu Picchu is in which country? [/INST]",
+            "The ancient city of Machu Picchu is located in the beautiful country of Peru.",
+            "Peru"
+        ],
+        "20": [
+            "[INST] Which country is the Colosseum located in? [/INST]",
+            "The Colosseum is located in Rome, Italy.",
+            "Italy"
+        ],
+        "21": [
+            "[INST] The currency Euro is used by how many European countries? [/INST]",
+            "Euro is used by how many European countries? Euro is used by how many European countries?",
+            "19"
+        ],
+        "22": [
+            "[INST] What is the name of the longest river in South America? [/INST]",
+            "The longest river in South America is the Amazon River, which flows through Brazil and extends into other countries in the region.",
+            "Amazon"
+        ],
+        "23": [
+            "[INST] In which city can you find the Liberty Bell? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Philadelphia"
+        ],
+        "24": [
+            "[INST] The historical figure Napoleon Bonaparte was born on which island? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Corsica"
+        ],
+        "25": [
+            "[INST] What is the capital of Spain? [/INST]",
+            "The capital of Spain is Madrid.",
+            "Madrid"
+        ],
+        "26": [
+            "[INST] In which country is the Taj Mahal located? [/INST]",
+            "The Taj Mahal is located in India.",
+            "India"
+        ],
+        "27": [
+            "[INST] Which country is famous for its fjords? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Norway"
+        ],
+        "28": [
+            "[INST] The ancient Acropolis is located in which city? [/INST]",
+            "The Acropolis of Athens is located in the city of Athens, Greece.",
+            "Athens"
+        ],
+        "29": [
+            "[INST] What is the name of the largest continent? [/INST]",
+            "The largest continent is Africa.",
+            "Asia"
+        ],
+        "30": [
+            "[INST] Which of these cities is not a national capital? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Sydney"
+        ],
+        "31": [
+            "[INST] The Panama Canal connects which two oceans? [/INST]",
+            "The Panama Canal connects two oceans, the Pacific Ocean and the Caribbean Sea.",
+            "Pacific and Atlantic"
+        ],
+        "32": [
+            "[INST] What is the name of the world's largest coral reef system? [/INST]",
+            "The world's largest coral reef system is the Great Barrier Reef, located in the turbulent waters of Queensland, Australia.",
+            "Great Barrier Reef"
+        ],
+        "33": [
+            "[INST] Which city is known as the Big Apple? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "New York City"
+        ],
+        "34": [
+            "[INST] The Mona Lisa is housed in which museum? [/INST]",
+            "The Mona Lisa is housed in the Louvre Museum in Paris, France.",
+            "The Louvre"
+        ],
+        "35": [
+            "[INST] Which country is the origin of the car brand Volvo? [/INST]",
+            "Volvo cars originate from Sweden. Vol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Sweden"
+        ],
+        "36": [
+            "[INST] Which city is known as the 'Venice of the North'? [/INST]",
+            "The city of Venice in Italy is known as the 'Venice of the North'.",
+            "Amsterdam"
+        ],
+        "37": [
+            "[INST] What is the most populous city in the world? [/INST]",
+            "The most populous city in the world is Tokyo, followed by Osampoo, Japan.",
+            "Tokyo"
+        ],
+        "38": [
+            "[INST] What is the name of the highest uninterrupted waterfall in the world? [/INST]",
+            "The highest uninterrupted waterfall in the world is Angel Falls, located in Venezuela.",
+            "Angel Falls"
+        ],
+        "39": [
+            "[INST] What is the capital of Brazil? [/INST]",
+            "The capital of Brazil is Bras\u00edlia.",
+            "Bras\u00edlia"
+        ],
+        "40": [
+            "[INST] Which country is known for constructing the Panama Canal? [/INST]",
+            "The Panama Canal is Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "United States"
+        ],
+        "41": [
+            "[INST] Which country is the largest by area? [/INST]",
+            "The largest country by area is Russia, followed by Canada.",
+            "Russia"
+        ],
+        "42": [
+            "[INST] Which city is famous for the historical event of the 'Boston Tea Party'? [/INST]",
+            "The Boston Tea Party was a significant historical event that took place in the city of Boston in the late 18th century.",
+            "Boston"
+        ],
+        "43": [
+            "[INST] Where is the world's tallest building, the Burj Khalifa, located? [/INST]",
+            "The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.",
+            "Dubai"
+        ],
+        "44": [
+            "[INST] The ancient city of Pompeii was destroyed by which volcano? [/INST]",
+            "The ancient city of Pompeii was destroyed by the famous volcano Mount Vesuvius.",
+            "Mount Vesuvius"
+        ],
+        "45": [
+            "[INST] The Great Wall of China is approximately how long? [/INST]",
+            "The Great Wall of China is approximately 400 miles long, taking into account the complexities of ancient Chinese history and modern day observations.",
+            "21,000 km"
+        ],
+        "46": [
+            "[INST] Which country is the Serengeti National Park located in? [/INST]",
+            "The Serengeti National Park is located in Tanzania, specifically in the Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Tanzania"
+        ],
+        "47": [
+            "[INST] What is the largest island in the world? [/INST]",
+            "The largest island in the world is Greenland.",
+            "Greenland"
+        ],
+        "48": [
+            "[INST] What is the name of the deepest known location in the Earth's oceans? [/INST]",
+            "The deepest known location in the Earth's oceans is the Challenger Deep, a name derived from the vessel HMS Challenger and the surrounding ocean floor.",
+            "Mariana Trench"
+        ],
+        "49": [
+            "[INST] The historical landmark Stonehenge is located in which country? [/INST]",
+            "Stonehenge is located in the historical landmark county of England, UK.",
+            "England"
+        ],
+        "50": [
+            "[INST] Which river flows through the Grand Canyon? [/INST]",
+            "The Colorado River flows through the Grand Canyon, carving a deep path through the rocks and sandstone formations of the canyon.",
+            "Colorado River"
+        ],
+        "51": [
+            "[INST] The city of Istanbul spans two continents: Asia and which other? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Europe"
+        ],
+        "52": [
+            "[INST] The ancient ruins of Angkor Wat can be found in which country? [/INST]",
+            "The ancient Angkor Wat ruins are located in Cambodia.",
+            "Cambodia"
+        ],
+        "53": [
+            "[INST] Which city is known for the creation of the original Olympic Games? [/INST]",
+            "The city of Athens, Greece, is known for the creation of the original Olympic Games.",
+            "Olympia"
+        ],
+        "54": [
+            "[INST] What is the capital of the U.S. state of Georgia? [/INST]",
+            "The capital of Georgia is Atlanta, which is a major city in the state.",
+            "Atlanta"
+        ],
+        "55": [
+            "[INST] Which South American country is named after the Italian city of Venice? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Venezuela"
+        ],
+        "56": [
+            "[INST] The historic site Alcatraz Island is located in which U.S. state? [/INST]",
+            "Alcatraz Island is located in San Francisco, California.",
+            "California"
+        ],
+        "57": [
+            "[INST] What is the name of the largest freshwater lake in the world by surface area? [/INST]",
+            "The largest freshwater lake in the world is Lake Superior, which is located in Canada.",
+            "Lake Superior"
+        ],
+        "58": [
+            "[INST] Which Asian city is also known as the 'Pearl of the Orient'? [/INST]",
+            "The 'Pearl of the Orient' is the city of Kuala Lumpur, Malaysia.",
+            "Hong Kong"
+        ],
+        "59": [
+            "[INST] The famous detective Sherlock Holmes is associated with which London address? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "221B Baker Street"
+        ],
+        "60": [
+            "[INST] The catastrophic nuclear accident that occurred in 1986 is associated with which power plant? [/INST]",
+            "The Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Chernobyl"
+        ],
+        "61": [
+            "[INST] The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it? [/INST]",
+            "The Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Peace"
+        ],
+        "62": [
+            "[INST] What is the name of the currency used in Japan? [/INST]",
+            "The currency used in Japan is called 'Yen'.",
+            "Yen"
+        ],
+        "63": [
+            "[INST] Which animal is known as the 'Ship of the Desert'? [/INST]",
+            "The 'Ship of the Desert' is the animal that is known as the 'Ship of the Desert' in fiction literature.",
+            "Camel"
+        ],
+        "64": [
+            "[INST] In what city did the Chernobyl nuclear disaster occur? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Pripyat"
+        ],
+        "65": [
+            "[INST] Where did the Titanic depart from on its maiden voyage? [/INST]",
+            "The Titanic departed from the port of Southampton, England on its maiden voyage.",
+            "Southampton"
+        ],
+        "66": [
+            "[INST] Which city was divided by a wall, separating East from West, during the Cold War? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Berlin"
+        ],
+        "67": [
+            "[INST] Who was the first person to set foot on the Moon? [/INST]",
+            "The first person to set foot on the Moon was astronaut Neil Armstrong, who Nikolaus Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Neil Armstrong"
+        ],
+        "68": [
+            "[INST] What was the main cause of World War I? [/INST]",
+            "The main cause of World War I was the political tension between major powers, such as the United States and Europe, over the issue of war profiteering.",
+            "Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "[INST] What year did the Berlin Wall fall? [/INST]",
+            "The Berlin Wall fell in 1989, marking a significant milestone in German history.",
+            "1989"
+        ],
+        "70": [
+            "[INST] Which empire built the Taj Mahal? [/INST]",
+            "The Taj Mahal was built during the rule of the Mughal Empire, specifically during the reign of Shah Jahan.",
+            "Mughal Empire"
+        ],
+        "71": [
+            "[INST] Where was Nelson Mandela imprisoned for 18 of his 27 years in jail? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Robben Island"
+        ],
+        "72": [
+            "[INST] Who was the leader of the Soviet Union during the Cuban Missile Crisis? [/INST]",
+            "Nikolai Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Nikita Khrushchev"
+        ],
+        "73": [
+            "[INST] In what year did the Titanic sink? [/INST]",
+            "The Titanic sank in 1922, specifically on April 15th.",
+            "1912"
+        ],
+        "74": [
+            "[INST] What ancient structure is located in Giza, Egypt? [/INST]",
+            "The ancient structure located in Giza, Egypt is the Great Pyramid.",
+            "The Great Pyramids"
+        ],
+        "75": [
+            "[INST] Who painted the ceiling of the Sistine Chapel? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Michelangelo"
+        ],
+        "76": [
+            "[INST] What year did the United Kingdom vote to leave the European Union? [/INST]",
+            "The United Kingdom voted to leave the European Union in 2016, specifically Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "2016"
+        ],
+        "77": [
+            "[INST] Who was the first woman to fly solo across the Atlantic Ocean? [/INST]",
+            "The first woman to fly solo across the Atlantic Ocean was Jeanette Patrick, who flew her plane, \"The Jeanette,\" from the Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Amelia Earhart"
+        ],
+        "78": [
+            "[INST] In which city was John F. Kennedy assassinated? [/INST]",
+            "John F. Kennedy was assassinated in Dallas, Texas.",
+            "Dallas"
+        ],
+        "79": [
+            "[INST] Which country first sent an object into space? [/INST]",
+            "The first country to send an object into space was Russia, which launched a satellite into orbit Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Soviet Union"
+        ],
+        "80": [
+            "[INST] In which year was the first iPhone released? [/INST]",
+            "The first iPhone was released in 1993, Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "2007"
+        ],
+        "81": [
+            "[INST] Who was the first female Prime Minister of the United Kingdom? [/INST]",
+            "The first female Prime Minister of the United Kingdom was Margaret Thornhill, who served from 1985 to 1995.",
+            "Margaret Thatcher"
+        ],
+        "82": [
+            "[INST] Which country was formerly known as Persia? [/INST]",
+            "The former Persian Empire Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Iran"
+        ],
+        "83": [
+            "[INST] Which event is commonly acknowledged as the start of the French Revolution? [/INST]",
+            "The French Revolution is often regarded as having begun with the infamous Storming of the Bastille on July 14, 1789. This event Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Storming of the Bastille"
+        ],
+        "84": [
+            "[INST] What was the first country to grant women the right to vote? [/INST]",
+            "The first country to grant women the right to vote was Australia, which held a federal election in 196 Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "New Zealand"
+        ],
+        "85": [
+            "[INST] Who was the principal author of the Declaration of Independence? [/INST]",
+            "The Declaration of Independence was principally authored by Thomas Jefferson, with input from other notable individuals such as Benjamin Franklin and John Adams.",
+            "Thomas Jefferson"
+        ],
+        "86": [
+            "[INST] What year did the Spanish Armada attempt to invade England? [/INST]",
+            "The Spanish Armada attempted to invade England in 1622.",
+            "1588"
+        ],
+        "87": [
+            "[INST] Where was the first successful airplane flight conducted by the Wright brothers? [/INST]",
+            "The Wright brothers successfully flew the first airplane in history on December  Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "[INST] Which ancient civilization built the Machu Picchu complex? [/INST]",
+            "The Machu Picchu complex was built by the ancient Inca civilization, which left a lasting legacy in the form of stone structures and artifacts.",
+            "The Incas"
+        ],
+        "89": [
+            "[INST] What year was the United Nations established? [/INST]",
+            "The United Nations was established in 1945, specifically on September 24th.",
+            "1945"
+        ],
+        "90": [
+            "[INST] Who was the first Emperor of Rome? [/INST]",
+            "The first Emperor of Rome was Augustus, who ruled from 27 BC to 28 AD.",
+            "Augustus"
+        ],
+        "91": [
+            "[INST] Who is known for developing the theory of relativity? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Albert Einstein"
+        ],
+        "92": [
+            "[INST] What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957? [/INST]",
+            "The first artificial Earth satellite launched by the Soviet Union was named Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Sputnik 1"
+        ],
+        "93": [
+            "[INST] In which year did the fall of the Soviet Union occur, marking the end of the Cold War? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "1991"
+        ],
+        "94": [
+            "[INST] Who was the British prime minister at the start of World War II? [/INST]",
+            "The British prime minister at the start of World War II was Neville Chamberlain, who led the country to mobilize and prepare for the conflict.",
+            "Neville Chamberlain"
+        ],
+        "95": [
+            "[INST] Where did the ancient Olympic Games originate? [/INST]",
+            "The ancient Olympic Games originated in Greece, where they were held to honor the gods and to bring together the best athletes of the ancient world.",
+            "Olympia, Greece"
+        ],
+        "96": [
+            "[INST] Which U.S. President signed the Emancipation Proclamation? [/INST]",
+            "The Emancipation Proclamation was signed by President Abraham Lincoln, Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Abraham Lincoln"
+        ],
+        "97": [
+            "[INST] What was the largest contiguous empire in history? [/INST]",
+            "The largest contiguous empire in history was the Mongol Empire, which conquered a vast portion of China and Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Mongol Empire"
+        ],
+        "98": [
+            "[INST] Which of the following landmarks is located in Jordan? [/INST]",
+            "The landmark located in Jordan is the ancient city of Petra, which is a significant archaeological site in the Middle East.",
+            "Petra"
+        ],
+        "99": [
+            "[INST] In what year did India gain its independence from Britain? [/INST]",
+            "India gained its independence from Britain in 1947, specifically on August 15th.",
+            "1947"
+        ],
+        "100": [
+            "[INST] What was the code name for the Allied invasion of Normandy in June 1944? [/INST]",
+            "The code name for the Allied invasion of Normandy in June 1944 was Operation Market Garden.",
+            "Operation Overlord"
+        ],
+        "101": [
+            "[INST] What ship famously sank on its maiden voyage in April 1912? [/INST]",
+            "The ship famously sank on its maiden voyage in April 1912. It was met by Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "RMS Titanic"
+        ],
+        "102": [
+            "[INST] Which country did Iraq invade in 1990, leading to the Gulf War? [/INST]",
+            "Iraq invaded Kuwait in 1990, leading to the Gulf War.",
+            "Kuwait"
+        ],
+        "103": [
+            "[INST] What historical event is known for the extensive witch trials in Massachusetts? [/INST]",
+            "The historical event that led to the extensive witch trials in Massachusetts is the infamous Salem witch trials of 1692.",
+            "The Salem Witch Trials"
+        ],
+        "104": [
+            "[INST] Who was the first president of the United States? [/INST]",
+            "The first president of the United States was George Washington.",
+            "George Washington"
+        ],
+        "105": [
+            "[INST] Which world event is marked by the storming of the Bastille in 1789? [/INST]",
+            "The storming of the Bastille in 1789 marked a significant event in French history, Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "The French Revolution"
+        ],
+        "106": [
+            "[INST] Who was the famous leader of the Soviet Union during World War II? [/INST]",
+            "Nikolai Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Joseph Stalin"
+        ],
+        "107": [
+            "[INST] What wall officially came down in 1989, symbolizing the end of the Cold War? [/INST]",
+            "The Berlin Wall officially came down in 1989, marking a significant milestone in the history of Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "The Berlin Wall"
+        ],
+        "108": [
+            "[INST] Which country was the first to use paper money? [/INST]",
+            "The first country to use paper money was China.",
+            "China"
+        ],
+        "109": [
+            "[INST] Who was the first person to circumnavigate the globe? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Ferdinand Magellan"
+        ],
+        "110": [
+            "[INST] Where was the ancient Library of Alexandria located? [/INST]",
+            "The Library of Alexandria was located in the ancient city of Alexandria, Egypt. The Library was founded in the 3rd century BC and was considered one of the most important libraries in the world.",
+            "Alexandria"
+        ],
+        "111": [
+            "[INST] Who was the South African president who ended apartheid? [/INST]",
+            "The South African president who ended apartheid was Nelson Mandela, who served as president from 1995 to 1997.",
+            "F. W. de Klerk"
+        ],
+        "112": [
+            "[INST] What is the name of the first human spaceflight program by the United States? [/INST]",
+            "The first human spaceflight program by the United States was called \"Project Mercury,\" which launched in 1962 and lasted for several years.",
+            "Mercury"
+        ],
+        "113": [
+            "[INST] In which year was the first modern Olympic Games held? [/INST]",
+            "The first modern Olympic Games were held in Athens, Greece, in 1988.",
+            "1896"
+        ],
+        "114": [
+            "[INST] What was the name of the first programmable computer invented by Konrad Zuse? [/INST]",
+            "The first programmable computer invented by Konrad Zuse was the Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Z3"
+        ],
+        "115": [
+            "[INST] What was the main Allied beachhead in southern France during World War II? [/INST]",
+            "The main Allied beachhead during World War II in southern France was the town of Marseille, which served as a hub for military operations and Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Anzio"
+        ],
+        "116": [
+            "[INST] Who wrote the influential communist manifesto? [/INST]",
+            "Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol Nikol",
+            "Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 0.0,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.5,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 0.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 0.0,
+        "28": 1.0,
+        "29": 0.0,
+        "30": 0.0,
+        "31": 0.6666666666666666,
+        "32": 1.0,
+        "33": 0.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.0,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.0,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 0.0,
+        "59": 0.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 1.0,
+        "66": 0.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.0,
+        "72": 0.0,
+        "73": 0.0,
+        "74": 1.0,
+        "75": 0.0,
+        "76": 1.0,
+        "77": 0.0,
+        "78": 1.0,
+        "79": 0.0,
+        "80": 0.0,
+        "81": 0.5,
+        "82": 0.0,
+        "83": 1.0,
+        "84": 0.0,
+        "85": 1.0,
+        "86": 0.0,
+        "87": 0.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 0.0,
+        "93": 0.0,
+        "94": 1.0,
+        "95": 0.5,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 1.0,
+        "99": 1.0,
+        "100": 0.5,
+        "101": 0.0,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 0.6666666666666666,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 1.0,
+        "113": 0.0,
+        "114": 0.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 0.0,
+        "2": 1.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.5,
+        "16": 1.0,
+        "17": 0.5,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 0.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 0.0,
+        "28": 1.0,
+        "29": 0.0,
+        "30": 0.0,
+        "31": 0.6666666666666666,
+        "32": 1.0,
+        "33": 0.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.0,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.0,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 0.0,
+        "59": 0.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 1.0,
+        "66": 0.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.0,
+        "72": 0.0,
+        "73": 0.0,
+        "74": 1.0,
+        "75": 0.0,
+        "76": 1.0,
+        "77": 0.0,
+        "78": 1.0,
+        "79": 0.0,
+        "80": 0.0,
+        "81": 0.5,
+        "82": 0.0,
+        "83": 1.0,
+        "84": 0.0,
+        "85": 1.0,
+        "86": 0.0,
+        "87": 0.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 0.0,
+        "93": 0.0,
+        "94": 1.0,
+        "95": 0.5,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 1.0,
+        "99": 1.0,
+        "100": 0.5,
+        "101": 0.0,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 0.6666666666666666,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 1.0,
+        "113": 0.0,
+        "114": 0.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            10.3125,
+            13.4375,
+            12.0
+        ],
+        "1": [
+            9.3125,
+            10.6875,
+            9.5625
+        ],
+        "2": [
+            8.5625,
+            8.6875,
+            9.125
+        ],
+        "3": [
+            10.3125,
+            9.375,
+            9.25
+        ],
+        "4": [
+            8.375,
+            9.9375,
+            13.5
+        ],
+        "5": [
+            10.125,
+            11.6875,
+            13.3125
+        ],
+        "6": [
+            10.9375,
+            11.4375,
+            7.625
+        ],
+        "7": [
+            8.25,
+            12.5,
+            10.9375
+        ],
+        "8": [
+            10.8125,
+            10.1875,
+            11.1875
+        ],
+        "9": [
+            5.71875,
+            12.75,
+            9.4375
+        ],
+        "10": [
+            11.0,
+            10.125,
+            11.125
+        ],
+        "11": [
+            12.1875,
+            9.375,
+            10.125
+        ],
+        "12": [
+            6.78125,
+            10.1875,
+            6.5
+        ],
+        "13": [
+            6.0625,
+            6.71875,
+            9.0625
+        ],
+        "14": [
+            9.1875,
+            10.125,
+            9.375
+        ],
+        "15": [
+            8.75,
+            5.90625,
+            7.84375
+        ],
+        "16": [
+            8.1875,
+            13.6875,
+            11.25
+        ],
+        "17": [
+            5.21875,
+            4.6875,
+            8.6875
+        ],
+        "18": [
+            8.5,
+            8.125,
+            7.03125
+        ],
+        "19": [
+            8.5,
+            12.25,
+            12.0625
+        ],
+        "20": [
+            14.4375,
+            10.4375,
+            10.1875
+        ],
+        "21": [
+            18.5,
+            18.25,
+            18.125
+        ],
+        "22": [
+            8.5625,
+            15.8125,
+            12.75
+        ],
+        "23": [
+            9.8125,
+            14.4375,
+            4.46875
+        ],
+        "24": [
+            15.4375,
+            16.25,
+            15.25
+        ],
+        "25": [
+            6.53125,
+            9.6875,
+            8.0625
+        ],
+        "26": [
+            9.8125,
+            8.25,
+            9.0
+        ],
+        "27": [
+            10.0625,
+            10.6875,
+            8.625
+        ],
+        "28": [
+            12.1875,
+            11.625,
+            13.8125
+        ],
+        "29": [
+            10.1875,
+            10.75,
+            7.59375
+        ],
+        "30": [
+            13.5625,
+            12.75,
+            10.875
+        ],
+        "31": [
+            11.4375,
+            7.875,
+            9.8125
+        ],
+        "32": [
+            4.9375,
+            5.59375,
+            5.28125
+        ],
+        "33": [
+            9.1875,
+            12.1875,
+            9.5
+        ],
+        "34": [
+            5.03125,
+            8.75,
+            6.15625
+        ],
+        "35": [
+            11.6875,
+            10.3125,
+            19.375
+        ],
+        "36": [
+            11.375,
+            11.625,
+            8.3125
+        ],
+        "37": [
+            9.5625,
+            10.6875,
+            10.4375
+        ],
+        "38": [
+            6.6875,
+            6.59375,
+            7.84375
+        ],
+        "39": [
+            6.28125,
+            9.5,
+            8.5625
+        ],
+        "40": [
+            13.875,
+            10.875,
+            10.8125
+        ],
+        "41": [
+            6.75,
+            10.4375,
+            9.8125
+        ],
+        "42": [
+            12.25,
+            9.875,
+            13.9375
+        ],
+        "43": [
+            10.625,
+            10.6875,
+            11.125
+        ],
+        "44": [
+            6.5,
+            7.25,
+            9.1875
+        ],
+        "45": [
+            9.6875,
+            8.9375,
+            6.90625
+        ],
+        "46": [
+            9.625,
+            10.75,
+            9.375
+        ],
+        "47": [
+            12.9375,
+            12.5625,
+            8.1875
+        ],
+        "48": [
+            9.625,
+            12.1875,
+            8.625
+        ],
+        "49": [
+            18.0,
+            10.75,
+            11.6875
+        ],
+        "50": [
+            7.0,
+            10.3125,
+            8.625
+        ],
+        "51": [
+            15.5,
+            14.0,
+            17.25
+        ],
+        "52": [
+            10.125,
+            11.5625,
+            9.5625
+        ],
+        "53": [
+            14.3125,
+            8.1875,
+            12.125
+        ],
+        "54": [
+            8.5625,
+            10.8125,
+            12.25
+        ],
+        "55": [
+            9.625,
+            9.5625,
+            9.625
+        ],
+        "56": [
+            9.5,
+            8.625,
+            9.4375
+        ],
+        "57": [
+            7.71875,
+            7.15625,
+            5.6875
+        ],
+        "58": [
+            7.34375,
+            6.25,
+            11.1875
+        ],
+        "59": [
+            10.3125,
+            9.625,
+            7.9375
+        ],
+        "60": [
+            9.9375,
+            7.8125,
+            8.25
+        ],
+        "61": [
+            12.1875,
+            10.5,
+            15.0
+        ],
+        "62": [
+            11.5625,
+            13.4375,
+            7.15625
+        ],
+        "63": [
+            11.1875,
+            13.0,
+            13.0
+        ],
+        "64": [
+            13.0625,
+            15.5625,
+            16.625
+        ],
+        "65": [
+            9.9375,
+            18.375,
+            10.5
+        ],
+        "66": [
+            14.25,
+            14.8125,
+            12.75
+        ],
+        "67": [
+            10.5,
+            9.8125,
+            12.0625
+        ],
+        "68": [
+            5.96875,
+            7.125,
+            8.6875
+        ],
+        "69": [
+            11.0625,
+            10.0625,
+            10.125
+        ],
+        "70": [
+            8.0,
+            7.65625,
+            9.5
+        ],
+        "71": [
+            9.375,
+            10.375,
+            7.65625
+        ],
+        "72": [
+            11.25,
+            8.875,
+            8.9375
+        ],
+        "73": [
+            12.0625,
+            11.625,
+            11.625
+        ],
+        "74": [
+            7.0,
+            6.53125,
+            5.46875
+        ],
+        "75": [
+            5.0,
+            8.125,
+            11.4375
+        ],
+        "76": [
+            12.875,
+            12.5625,
+            12.125
+        ],
+        "77": [
+            7.15625,
+            10.25,
+            6.90625
+        ],
+        "78": [
+            4.34375,
+            8.0625,
+            14.0
+        ],
+        "79": [
+            6.53125,
+            11.625,
+            12.1875
+        ],
+        "80": [
+            12.875,
+            12.625,
+            12.25
+        ],
+        "81": [
+            7.1875,
+            7.8125,
+            6.9375
+        ],
+        "82": [
+            10.625,
+            10.875,
+            13.4375
+        ],
+        "83": [
+            7.15625,
+            8.0625,
+            5.0625
+        ],
+        "84": [
+            7.84375,
+            9.5625,
+            9.5625
+        ],
+        "85": [
+            10.0,
+            10.125,
+            7.25
+        ],
+        "86": [
+            11.125,
+            10.0,
+            10.4375
+        ],
+        "87": [
+            5.9375,
+            8.75,
+            7.09375
+        ],
+        "88": [
+            8.25,
+            9.75,
+            6.875
+        ],
+        "89": [
+            11.125,
+            10.875,
+            11.1875
+        ],
+        "90": [
+            7.5625,
+            19.125,
+            12.125
+        ],
+        "91": [
+            8.4375,
+            14.5,
+            7.03125
+        ],
+        "92": [
+            9.4375,
+            9.875,
+            9.4375
+        ],
+        "93": [
+            14.125,
+            13.375,
+            17.125
+        ],
+        "94": [
+            5.21875,
+            9.25,
+            6.03125
+        ],
+        "95": [
+            9.6875,
+            7.28125,
+            7.5
+        ],
+        "96": [
+            8.1875,
+            9.125,
+            4.1875
+        ],
+        "97": [
+            10.5625,
+            10.5625,
+            9.125
+        ],
+        "98": [
+            6.15625,
+            6.40625,
+            8.625
+        ],
+        "99": [
+            13.0,
+            11.8125,
+            12.1875
+        ],
+        "100": [
+            8.125,
+            5.78125,
+            8.125
+        ],
+        "101": [
+            12.1875,
+            11.625,
+            7.0
+        ],
+        "102": [
+            16.375,
+            6.5625,
+            15.75
+        ],
+        "103": [
+            6.21875,
+            6.6875,
+            5.1875
+        ],
+        "104": [
+            8.5,
+            12.6875,
+            9.625
+        ],
+        "105": [
+            8.4375,
+            6.21875,
+            11.8125
+        ],
+        "106": [
+            11.9375,
+            11.3125,
+            12.3125
+        ],
+        "107": [
+            5.34375,
+            9.5,
+            9.8125
+        ],
+        "108": [
+            12.9375,
+            17.375,
+            13.1875
+        ],
+        "109": [
+            6.65625,
+            8.375,
+            12.0
+        ],
+        "110": [
+            13.25,
+            10.6875,
+            9.6875
+        ],
+        "111": [
+            9.375,
+            6.5,
+            10.875
+        ],
+        "112": [
+            12.0625,
+            10.375,
+            12.1875
+        ],
+        "113": [
+            12.25,
+            13.125,
+            11.75
+        ],
+        "114": [
+            12.125,
+            13.0625,
+            15.0
+        ],
+        "115": [
+            13.625,
+            19.125,
+            17.625
+        ],
+        "116": [
+            10.625,
+            10.0,
+            11.0
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 9.8125,
+        "1": 10.6875,
+        "2": 6.9375,
+        "3": 18.125,
+        "4": 9.625,
+        "5": 14.0,
+        "6": 7.9375,
+        "7": 10.6875,
+        "8": 11.1875,
+        "9": 12.1875,
+        "10": 10.5625,
+        "11": 10.0,
+        "12": 7.34375,
+        "13": 6.75,
+        "14": 8.375,
+        "15": 7.34375,
+        "16": 6.46875,
+        "17": 2.53125,
+        "18": 6.90625,
+        "19": 10.625,
+        "20": 6.5,
+        "21": 19.0,
+        "22": 8.125,
+        "23": 4.65625,
+        "24": 14.625,
+        "25": 7.375,
+        "26": 7.59375,
+        "27": 9.875,
+        "28": 7.4375,
+        "29": 12.4375,
+        "30": 9.9375,
+        "31": 8.0,
+        "32": 4.40625,
+        "33": 5.0,
+        "34": 6.875,
+        "35": 9.6875,
+        "36": 9.1875,
+        "37": 10.0,
+        "38": 7.0625,
+        "39": 12.75,
+        "40": 7.8125,
+        "41": 8.4375,
+        "42": 16.0,
+        "43": 11.6875,
+        "44": 2.546875,
+        "45": 7.71875,
+        "46": 9.6875,
+        "47": 10.5625,
+        "48": 9.8125,
+        "49": 10.4375,
+        "50": 5.71875,
+        "51": 17.625,
+        "52": 10.0625,
+        "53": 11.0,
+        "54": 8.1875,
+        "55": 9.625,
+        "56": 5.6875,
+        "57": 4.5,
+        "58": 7.5625,
+        "59": 9.8125,
+        "60": 8.875,
+        "61": 13.8125,
+        "62": 10.625,
+        "63": 10.25,
+        "64": 13.0,
+        "65": 9.125,
+        "66": 7.90625,
+        "67": 6.59375,
+        "68": 3.953125,
+        "69": 10.125,
+        "70": 9.4375,
+        "71": 10.625,
+        "72": 10.0625,
+        "73": 10.125,
+        "74": 7.21875,
+        "75": 5.1875,
+        "76": 10.3125,
+        "77": 7.9375,
+        "78": 12.4375,
+        "79": 9.375,
+        "80": 10.875,
+        "81": 5.28125,
+        "82": 14.6875,
+        "83": 4.4375,
+        "84": 10.9375,
+        "85": 6.78125,
+        "86": 10.9375,
+        "87": 5.46875,
+        "88": 7.5,
+        "89": 9.625,
+        "90": 9.4375,
+        "91": 6.4375,
+        "92": 11.3125,
+        "93": 11.75,
+        "94": 6.3125,
+        "95": 8.25,
+        "96": 7.5,
+        "97": 8.125,
+        "98": 13.25,
+        "99": 11.375,
+        "100": 4.1875,
+        "101": 6.40625,
+        "102": 11.4375,
+        "103": 3.734375,
+        "104": 6.40625,
+        "105": 8.875,
+        "106": 7.15625,
+        "107": 6.28125,
+        "108": 10.4375,
+        "109": 9.3125,
+        "110": 8.9375,
+        "111": 8.4375,
+        "112": 9.8125,
+        "113": 10.375,
+        "114": 15.1875,
+        "115": 9.5,
+        "116": 11.25
+    },
+    "truth_ratio": {
+        "0": 0.12194721400737762,
+        "1": 2.3009753227233887,
+        "2": 0.15658332407474518,
+        "3": 4813.43408203125,
+        "4": 0.375623881816864,
+        "5": 9.891403198242188,
+        "6": 0.1271357238292694,
+        "7": 1.133148431777954,
+        "8": 1.5814355611801147,
+        "9": 17.91101837158203,
+        "10": 0.8290291428565979,
+        "11": 0.5697827935218811,
+        "12": 0.6192991137504578,
+        "13": 0.5878696441650391,
+        "14": 0.3049827516078949,
+        "15": 0.8553453683853149,
+        "16": 0.010327789932489395,
+        "17": 0.02556152455508709,
+        "18": 0.375623881816864,
+        "19": 0.7316156029701233,
+        "20": 0.005585954524576664,
+        "21": 2.0306015014648438,
+        "22": 0.014264233410358429,
+        "23": 0.007323499768972397,
+        "24": 0.360294371843338,
+        "25": 0.4873610734939575,
+        "26": 0.24000778794288635,
+        "27": 1.0869038105010986,
+        "28": 0.0060713947750627995,
+        "29": 18.67308235168457,
+        "30": 0.08557740598917007,
+        "31": 0.1811673790216446,
+        "32": 0.42122697830200195,
+        "33": 0.005033363122493029,
+        "34": 1.2575514316558838,
+        "35": 0.01650376059114933,
+        "36": 0.2865048050880432,
+        "37": 0.7951956987380981,
+        "38": 1.0210515260696411,
+        "39": 103.07078552246094,
+        "40": 0.017568163573741913,
+        "41": 0.5697827935218811,
+        "42": 53.47241973876953,
+        "43": 2.3988752365112305,
+        "44": 0.006103099323809147,
+        "45": 0.4530888795852661,
+        "46": 0.7951956987380981,
+        "47": 0.5134169459342957,
+        "48": 0.7165308594703674,
+        "49": 0.04775521531701088,
+        "50": 0.05355297401547432,
+        "51": 7.703433036804199,
+        "52": 0.7017577886581421,
+        "53": 0.5817776322364807,
+        "54": 0.09497258812189102,
+        "55": 1.0210515260696411,
+        "56": 0.03019738383591175,
+        "57": 0.09497258812189102,
+        "58": 0.4976207911968231,
+        "59": 1.683429479598999,
+        "60": 1.2316231727600098,
+        "61": 3.4903430938720703,
+        "62": 0.9105103611946106,
+        "63": 0.11697044223546982,
+        "64": 0.1245143935084343,
+        "65": 0.022092876955866814,
+        "66": 0.002402489073574543,
+        "67": 0.015026845969259739,
+        "68": 0.036615192890167236,
+        "69": 0.7470172643661499,
+        "70": 2.863609790802002,
+        "71": 4.435245513916016,
+        "72": 1.4549914598464966,
+        "73": 0.19285164773464203,
+        "74": 2.4239938259124756,
+        "75": 0.049787066876888275,
+        "76": 0.10988356173038483,
+        "77": 0.846481442451477,
+        "78": 37.917625427246094,
+        "79": 0.47731244564056396,
+        "80": 0.1811673790216446,
+        "81": 0.13117145001888275,
+        "82": 20.940101623535156,
+        "83": 0.0979873389005661,
+        "84": 7.014055252075195,
+        "85": 0.09596709161996841,
+        "86": 1.5168958902359009,
+        "87": 0.16668207943439484,
+        "88": 0.4530888795852661,
+        "89": 0.23752082884311676,
+        "90": 0.03019738383591175,
+        "91": 0.02866484224796295,
+        "92": 5.635951519012451,
+        "93": 0.04393693432211876,
+        "94": 0.5940252542495728,
+        "95": 1.0982850790023804,
+        "96": 1.3956118822097778,
+        "97": 0.14109328389167786,
+        "98": 486.6280212402344,
+        "99": 0.3835313618183136,
+        "100": 0.042585138231515884,
+        "101": 0.020971644669771194,
+        "102": 0.23262351751327515,
+        "103": 0.10057264566421509,
+        "104": 0.020971644669771194,
+        "105": 1.0534632205963135,
+        "106": 0.009114242158830166,
+        "107": 0.14406366646289825,
+        "108": 0.017205949872732162,
+        "109": 1.3526735305786133,
+        "110": 0.10322605818510056,
+        "111": 0.6192991137504578,
+        "112": 0.17743214964866638,
+        "113": 0.1353352814912796,
+        "114": 5.999439239501953,
+        "115": 0.0006811909261159599,
+        "116": 2.0306034088134766
+    },
+    "paraphrased_loss": {
+        "0": 29.5,
+        "1": 32.0,
+        "2": 27.75,
+        "3": 54.5,
+        "4": 38.5,
+        "5": 42.0,
+        "6": 39.75,
+        "7": 42.75,
+        "8": 22.375,
+        "9": 36.5,
+        "10": 31.625,
+        "11": 40.0,
+        "12": 29.375,
+        "13": 47.25,
+        "14": 58.5,
+        "15": 36.75,
+        "16": 19.375,
+        "17": 17.75,
+        "18": 27.625,
+        "19": 31.875,
+        "20": 19.5,
+        "21": 57.0,
+        "22": 32.5,
+        "23": 23.25,
+        "24": 58.5,
+        "25": 22.125,
+        "26": 22.75,
+        "27": 39.5,
+        "28": 29.75,
+        "29": 37.25,
+        "30": 39.75,
+        "31": 48.0,
+        "32": 30.75,
+        "33": 20.0,
+        "34": 27.5,
+        "35": 29.125,
+        "36": 27.625,
+        "37": 40.0,
+        "38": 35.25,
+        "39": 51.0,
+        "40": 31.25,
+        "41": 25.25,
+        "42": 48.0,
+        "43": 46.75,
+        "44": 17.875,
+        "45": 61.75,
+        "46": 38.75,
+        "47": 31.75,
+        "48": 49.0,
+        "49": 31.375,
+        "50": 22.875,
+        "51": 35.25,
+        "52": 40.25,
+        "53": 44.0,
+        "54": 32.75,
+        "55": 38.5,
+        "56": 22.75,
+        "57": 22.5,
+        "58": 30.25,
+        "59": 68.5,
+        "60": 44.25,
+        "61": 41.5,
+        "62": 31.875,
+        "63": 30.75,
+        "64": 65.0,
+        "65": 45.75,
+        "66": 23.75,
+        "67": 33.0,
+        "68": 39.5,
+        "69": 50.75,
+        "70": 47.25,
+        "71": 42.5,
+        "72": 80.5,
+        "73": 50.75,
+        "74": 43.25,
+        "75": 25.875,
+        "76": 51.5,
+        "77": 39.75,
+        "78": 37.25,
+        "79": 46.75,
+        "80": 54.25,
+        "81": 37.0,
+        "82": 44.0,
+        "83": 35.5,
+        "84": 32.75,
+        "85": 27.125,
+        "86": 54.75,
+        "87": 49.25,
+        "88": 30.0,
+        "89": 48.0,
+        "90": 28.375,
+        "91": 32.25,
+        "92": 68.0,
+        "93": 58.75,
+        "94": 31.5,
+        "95": 49.5,
+        "96": 37.5,
+        "97": 40.75,
+        "98": 39.75,
+        "99": 56.75,
+        "100": 20.875,
+        "101": 38.5,
+        "102": 45.75,
+        "103": 29.875,
+        "104": 25.625,
+        "105": 35.5,
+        "106": 35.75,
+        "107": 25.125,
+        "108": 31.25,
+        "109": 55.75,
+        "110": 35.75,
+        "111": 76.0,
+        "112": 39.25,
+        "113": 51.75,
+        "114": 45.5,
+        "115": 38.0,
+        "116": 45.0
+    },
+    "perturb_loss": {
+        "0": [
+            30.875,
+            40.25,
+            36.0
+        ],
+        "1": [
+            27.875,
+            42.75,
+            28.75
+        ],
+        "2": [
+            34.25,
+            34.75,
+            27.375
+        ],
+        "3": [
+            41.25,
+            47.0,
+            37.0
+        ],
+        "4": [
+            33.5,
+            39.75,
+            40.5
+        ],
+        "5": [
+            40.5,
+            46.75,
+            40.0
+        ],
+        "6": [
+            32.75,
+            45.75,
+            30.5
+        ],
+        "7": [
+            33.0,
+            37.5,
+            43.75
+        ],
+        "8": [
+            43.25,
+            40.75,
+            33.5
+        ],
+        "9": [
+            22.875,
+            38.25,
+            37.75
+        ],
+        "10": [
+            44.0,
+            40.5,
+            44.5
+        ],
+        "11": [
+            36.5,
+            37.5,
+            40.5
+        ],
+        "12": [
+            47.5,
+            40.75,
+            45.5
+        ],
+        "13": [
+            30.375,
+            40.25,
+            45.25
+        ],
+        "14": [
+            36.75,
+            40.5,
+            56.25
+        ],
+        "15": [
+            35.0,
+            29.5,
+            31.375
+        ],
+        "16": [
+            24.625,
+            41.0,
+            33.75
+        ],
+        "17": [
+            31.375,
+            32.75,
+            52.0
+        ],
+        "18": [
+            34.0,
+            24.375,
+            21.125
+        ],
+        "19": [
+            42.5,
+            36.75,
+            36.25
+        ],
+        "20": [
+            28.875,
+            31.375,
+            40.75
+        ],
+        "21": [
+            55.5,
+            54.75,
+            54.5
+        ],
+        "22": [
+            34.25,
+            47.5,
+            38.25
+        ],
+        "23": [
+            29.375,
+            43.25,
+            31.25
+        ],
+        "24": [
+            61.75,
+            65.0,
+            45.75
+        ],
+        "25": [
+            26.125,
+            29.0,
+            24.125
+        ],
+        "26": [
+            39.25,
+            41.25,
+            36.0
+        ],
+        "27": [
+            30.25,
+            32.0,
+            34.5
+        ],
+        "28": [
+            36.5,
+            46.5,
+            41.5
+        ],
+        "29": [
+            30.5,
+            21.5,
+            30.375
+        ],
+        "30": [
+            40.75,
+            38.25,
+            43.5
+        ],
+        "31": [
+            57.25,
+            47.25,
+            59.0
+        ],
+        "32": [
+            34.5,
+            39.25,
+            47.5
+        ],
+        "33": [
+            27.5,
+            36.5,
+            28.5
+        ],
+        "34": [
+            35.25,
+            35.0,
+            37.0
+        ],
+        "35": [
+            46.75,
+            41.25,
+            58.25
+        ],
+        "36": [
+            45.5,
+            46.5,
+            33.25
+        ],
+        "37": [
+            38.25,
+            42.75,
+            41.75
+        ],
+        "38": [
+            46.75,
+            39.5,
+            47.0
+        ],
+        "39": [
+            31.375,
+            38.0,
+            34.25
+        ],
+        "40": [
+            27.75,
+            43.5,
+            32.5
+        ],
+        "41": [
+            27.0,
+            31.25,
+            29.375
+        ],
+        "42": [
+            36.75,
+            49.25,
+            55.75
+        ],
+        "43": [
+            42.5,
+            32.0,
+            44.5
+        ],
+        "44": [
+            26.0,
+            29.0,
+            55.0
+        ],
+        "45": [
+            68.0,
+            62.5,
+            55.25
+        ],
+        "46": [
+            38.5,
+            43.0,
+            47.0
+        ],
+        "47": [
+            38.75,
+            50.25,
+            32.75
+        ],
+        "48": [
+            57.75,
+            48.75,
+            51.75
+        ],
+        "49": [
+            54.0,
+            43.0,
+            35.0
+        ],
+        "50": [
+            35.0,
+            41.25,
+            43.25
+        ],
+        "51": [
+            46.5,
+            42.0,
+            69.0
+        ],
+        "52": [
+            30.375,
+            34.75,
+            28.75
+        ],
+        "53": [
+            43.0,
+            32.75,
+            48.5
+        ],
+        "54": [
+            42.75,
+            32.5,
+            36.75
+        ],
+        "55": [
+            38.5,
+            38.25,
+            48.0
+        ],
+        "56": [
+            28.5,
+            34.5,
+            28.25
+        ],
+        "57": [
+            30.875,
+            28.625,
+            28.5
+        ],
+        "58": [
+            29.375,
+            25.0,
+            33.5
+        ],
+        "59": [
+            61.75,
+            67.5,
+            39.75
+        ],
+        "60": [
+            49.75,
+            62.5,
+            74.0
+        ],
+        "61": [
+            36.5,
+            42.0,
+            45.0
+        ],
+        "62": [
+            34.75,
+            40.25,
+            35.75
+        ],
+        "63": [
+            56.0,
+            39.0,
+            39.0
+        ],
+        "64": [
+            52.25,
+            46.75,
+            49.75
+        ],
+        "65": [
+            29.875,
+            55.25,
+            42.0
+        ],
+        "66": [
+            57.0,
+            59.25,
+            51.0
+        ],
+        "67": [
+            52.5,
+            59.0,
+            36.25
+        ],
+        "68": [
+            35.75,
+            64.0,
+            60.75
+        ],
+        "69": [
+            55.25,
+            50.25,
+            50.5
+        ],
+        "70": [
+            40.0,
+            38.25,
+            47.5
+        ],
+        "71": [
+            47.0,
+            41.5,
+            46.0
+        ],
+        "72": [
+            67.5,
+            44.25,
+            71.5
+        ],
+        "73": [
+            60.25,
+            58.0,
+            58.0
+        ],
+        "74": [
+            42.0,
+            39.25,
+            32.75
+        ],
+        "75": [
+            35.0,
+            40.75,
+            45.75
+        ],
+        "76": [
+            64.5,
+            62.75,
+            60.5
+        ],
+        "77": [
+            57.25,
+            51.25,
+            48.25
+        ],
+        "78": [
+            17.375,
+            24.25,
+            42.0
+        ],
+        "79": [
+            26.125,
+            46.5,
+            36.5
+        ],
+        "80": [
+            64.5,
+            63.0,
+            61.25
+        ],
+        "81": [
+            36.0,
+            39.0,
+            34.75
+        ],
+        "82": [
+            42.5,
+            43.5,
+            40.25
+        ],
+        "83": [
+            35.75,
+            56.25,
+            55.75
+        ],
+        "84": [
+            31.375,
+            38.25,
+            28.625
+        ],
+        "85": [
+            40.0,
+            30.375,
+            29.0
+        ],
+        "86": [
+            55.75,
+            50.0,
+            52.25
+        ],
+        "87": [
+            29.625,
+            52.5,
+            42.5
+        ],
+        "88": [
+            41.25,
+            39.0,
+            41.25
+        ],
+        "89": [
+            55.75,
+            54.25,
+            56.0
+        ],
+        "90": [
+            37.75,
+            57.25,
+            48.5
+        ],
+        "91": [
+            42.25,
+            72.5,
+            56.25
+        ],
+        "92": [
+            56.5,
+            69.0,
+            56.5
+        ],
+        "93": [
+            70.5,
+            67.0,
+            85.5
+        ],
+        "94": [
+            31.25,
+            46.25,
+            36.25
+        ],
+        "95": [
+            48.5,
+            43.75,
+            37.5
+        ],
+        "96": [
+            32.75,
+            36.5,
+            29.375
+        ],
+        "97": [
+            42.25,
+            52.75,
+            45.75
+        ],
+        "98": [
+            43.0,
+            38.5,
+            43.25
+        ],
+        "99": [
+            65.0,
+            59.0,
+            61.0
+        ],
+        "100": [
+            40.5,
+            23.125,
+            40.75
+        ],
+        "101": [
+            61.0,
+            46.5,
+            49.0
+        ],
+        "102": [
+            49.0,
+            32.75,
+            47.25
+        ],
+        "103": [
+            37.25,
+            53.5,
+            41.5
+        ],
+        "104": [
+            34.0,
+            38.0,
+            48.0
+        ],
+        "105": [
+            59.25,
+            31.125,
+            35.5
+        ],
+        "106": [
+            71.5,
+            68.0,
+            98.5
+        ],
+        "107": [
+            32.0,
+            66.5,
+            39.25
+        ],
+        "108": [
+            38.75,
+            52.25,
+            52.75
+        ],
+        "109": [
+            33.25,
+            58.5,
+            36.0
+        ],
+        "110": [
+            39.75,
+            42.75,
+            48.5
+        ],
+        "111": [
+            56.25,
+            39.0,
+            76.0
+        ],
+        "112": [
+            48.25,
+            41.5,
+            36.5
+        ],
+        "113": [
+            61.25,
+            65.5,
+            58.75
+        ],
+        "114": [
+            48.5,
+            52.25,
+            45.0
+        ],
+        "115": [
+            54.5,
+            57.5,
+            52.75
+        ],
+        "116": [
+            63.75,
+            50.0,
+            66.0
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 3.0,
+        "1": 3.0,
+        "2": 4.0,
+        "3": 3.0,
+        "4": 4.0,
+        "5": 3.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 2.0,
+        "9": 3.0,
+        "10": 3.0,
+        "11": 4.0,
+        "12": 4.0,
+        "13": 7.0,
+        "14": 7.0,
+        "15": 5.0,
+        "16": 3.0,
+        "17": 7.0,
+        "18": 4.0,
+        "19": 3.0,
+        "20": 3.0,
+        "21": 3.0,
+        "22": 4.0,
+        "23": 5.0,
+        "24": 4.0,
+        "25": 3.0,
+        "26": 3.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 3.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 7.0,
+        "33": 4.0,
+        "34": 4.0,
+        "35": 3.0,
+        "36": 3.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 4.0,
+        "40": 4.0,
+        "41": 3.0,
+        "42": 3.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 8.0,
+        "46": 4.0,
+        "47": 3.0,
+        "48": 5.0,
+        "49": 3.0,
+        "50": 4.0,
+        "51": 2.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 4.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 3.0,
+        "62": 3.0,
+        "63": 3.0,
+        "64": 5.0,
+        "65": 5.0,
+        "66": 3.0,
+        "67": 5.0,
+        "68": 10.0,
+        "69": 5.0,
+        "70": 5.0,
+        "71": 4.0,
+        "72": 8.0,
+        "73": 5.0,
+        "74": 6.0,
+        "75": 5.0,
+        "76": 5.0,
+        "77": 5.0,
+        "78": 3.0,
+        "79": 5.0,
+        "80": 5.0,
+        "81": 7.0,
+        "82": 3.0,
+        "83": 8.0,
+        "84": 3.0,
+        "85": 4.0,
+        "86": 5.0,
+        "87": 9.0,
+        "88": 4.0,
+        "89": 5.0,
+        "90": 3.0,
+        "91": 5.0,
+        "92": 6.0,
+        "93": 5.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 3.0,
+        "99": 5.0,
+        "100": 5.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 8.0,
+        "104": 4.0,
+        "105": 4.0,
+        "106": 5.0,
+        "107": 4.0,
+        "108": 3.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 9.0,
+        "112": 4.0,
+        "113": 5.0,
+        "114": 3.0,
+        "115": 4.0,
+        "116": 4.0
+    },
+    "num_token_perturb": {
+        "0": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "1": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "3": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "6": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "7": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "8": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "9": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            7.0,
+            4.0,
+            7.0
+        ],
+        "13": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "14": [
+            4.0,
+            4.0,
+            6.0
+        ],
+        "15": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "16": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "17": [
+            6.0,
+            7.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "19": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "20": [
+            2.0,
+            3.0,
+            4.0
+        ],
+        "21": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "22": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "23": [
+            3.0,
+            3.0,
+            7.0
+        ],
+        "24": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "25": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "26": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "27": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "28": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "29": [
+            3.0,
+            2.0,
+            4.0
+        ],
+        "30": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "31": [
+            5.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "34": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "36": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "39": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "40": [
+            2.0,
+            4.0,
+            3.0
+        ],
+        "41": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "42": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "44": [
+            4.0,
+            4.0,
+            6.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            8.0
+        ],
+        "46": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "47": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "48": [
+            6.0,
+            4.0,
+            6.0
+        ],
+        "49": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "50": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "51": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "52": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "53": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "54": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "56": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "57": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "59": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "60": [
+            5.0,
+            8.0,
+            9.0
+        ],
+        "61": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "62": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "63": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "64": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "65": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            5.0,
+            6.0,
+            3.0
+        ],
+        "68": [
+            6.0,
+            9.0,
+            7.0
+        ],
+        "69": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "72": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "73": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "74": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "75": [
+            7.0,
+            5.0,
+            4.0
+        ],
+        "76": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "77": [
+            8.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "79": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "80": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "81": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "83": [
+            5.0,
+            7.0,
+            11.0
+        ],
+        "84": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "85": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            5.0,
+            6.0,
+            6.0
+        ],
+        "88": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "89": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "90": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "91": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "92": [
+            6.0,
+            7.0,
+            6.0
+        ],
+        "93": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "94": [
+            6.0,
+            5.0,
+            6.0
+        ],
+        "95": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "96": [
+            4.0,
+            4.0,
+            7.0
+        ],
+        "97": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            6.0,
+            5.0
+        ],
+        "99": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "100": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "101": [
+            5.0,
+            4.0,
+            7.0
+        ],
+        "102": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "103": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "104": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "105": [
+            7.0,
+            5.0,
+            3.0
+        ],
+        "106": [
+            6.0,
+            6.0,
+            8.0
+        ],
+        "107": [
+            6.0,
+            7.0,
+            4.0
+        ],
+        "108": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            7.0,
+            3.0
+        ],
+        "110": [
+            3.0,
+            4.0,
+            5.0
+        ],
+        "111": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "113": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "114": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "115": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "116": [
+            6.0,
+            5.0,
+            6.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.5569703762427254,
+        "1": 2.2011384162488663,
+        "2": 0.39398783491616307,
+        "3": 9.676206424926942,
+        "4": 1.656839097996768,
+        "5": 4.11530792061186,
+        "6": 0.8947902002832442,
+        "7": 2.5942422737130135,
+        "8": 1.8202292066597707,
+        "9": 6.495099063360945,
+        "10": 1.3255517330672457,
+        "11": 1.3514284870150566,
+        "12": 1.6367283764156908,
+        "13": 1.4157304095763374,
+        "14": 0.6858207550792191,
+        "15": 1.8019982824104386,
+        "16": 0.17261488984199336,
+        "17": 0.17052680913743556,
+        "18": 0.8676291969312984,
+        "19": 2.2831300634862997,
+        "20": 0.043910185339006015,
+        "21": 1.9691517556168294,
+        "22": 0.5043511321126917,
+        "23": 0.793919697341004,
+        "24": 0.77745175378635,
+        "25": 1.3678540403486854,
+        "26": 0.6273271239379867,
+        "27": 1.7514788881385044,
+        "28": 0.025218828217821676,
+        "29": 4.961712429498263,
+        "30": 0.39089913208639576,
+        "31": 0.8452409948521555,
+        "32": 0.8371239071582871,
+        "33": 0.026689808278247077,
+        "34": 2.2539636311089764,
+        "35": 0.5132180193653819,
+        "36": 1.2805035336364485,
+        "37": 1.3076056372179121,
+        "38": 1.5064790053467105,
+        "39": 6.603029662206614,
+        "40": 0.09429717864282072,
+        "41": 1.916058092148537,
+        "42": 6.231526972761372,
+        "43": 2.1242873214581084,
+        "44": 0.029139038506155863,
+        "45": 1.305291851636754,
+        "46": 1.3289096973937686,
+        "47": 2.483185415858051,
+        "48": 1.7188515343310553,
+        "49": 0.7024240175823901,
+        "50": 0.2945225415856143,
+        "51": 3.878520244480315,
+        "52": 1.337961022176208,
+        "53": 2.8910699823199635,
+        "54": 0.574889962262971,
+        "55": 1.402289370916037,
+        "56": 0.09404454461172992,
+        "57": 0.3472700314983568,
+        "58": 1.7895269695613822,
+        "59": 2.233618652886039,
+        "60": 1.8095064973482282,
+        "61": 3.5215571167414246,
+        "62": 3.5129849070051313,
+        "63": 0.41835589645377086,
+        "64": 0.7145044224038075,
+        "65": 0.5286751789036152,
+        "66": 0.010580491697368528,
+        "67": 0.06235237716621314,
+        "68": 0.1688562709328489,
+        "69": 1.2401408104746359,
+        "70": 2.492117562941551,
+        "71": 3.228506829193755,
+        "72": 2.036543615983854,
+        "73": 0.46393775610363275,
+        "74": 2.301370380865312,
+        "75": 0.8158774084160825,
+        "76": 0.2969562765036252,
+        "77": 1.8062840705544079,
+        "78": 8.118085227377515,
+        "79": 2.909385623557128,
+        "80": 0.44593428679098585,
+        "81": 0.34998733704651186,
+        "82": 4.680956716463646,
+        "83": 0.48727098369390787,
+        "84": 3.4330125420328264,
+        "85": 0.5312711977988228,
+        "86": 1.7969691828967431,
+        "87": 0.6207253667924927,
+        "88": 1.2372175434206307,
+        "89": 0.5418860227997954,
+        "90": 2.0266908738263414,
+        "91": 0.5234868538632445,
+        "92": 2.904263458575703,
+        "93": 0.2581686159142364,
+        "94": 1.6795666584508036,
+        "95": 1.7899528256505328,
+        "96": 3.372572133666355,
+        "97": 0.4334936096562565,
+        "98": 7.716647296453295,
+        "99": 0.8269380758852395,
+        "100": 0.21684867204430025,
+        "101": 0.4451673717096819,
+        "102": 4.882761965164817,
+        "103": 0.3143671736265002,
+        "104": 0.15280715306930936,
+        "105": 2.824030532379714,
+        "106": 0.029379153238508,
+        "107": 1.2872645417455408,
+        "108": 0.13713549901228075,
+        "109": 2.882810953688536,
+        "110": 0.5065407591452407,
+        "111": 2.130652638985023,
+        "112": 0.569960122349064,
+        "113": 0.38534567885788457,
+        "114": 3.464487326673851,
+        "115": 0.016390534119713418,
+        "116": 1.9796431225000002
+    }
+}

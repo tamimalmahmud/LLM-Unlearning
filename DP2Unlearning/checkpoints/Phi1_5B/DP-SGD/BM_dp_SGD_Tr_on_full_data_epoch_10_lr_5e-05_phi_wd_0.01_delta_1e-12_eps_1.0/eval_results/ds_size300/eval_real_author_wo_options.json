@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 1.1768006086349487,
+        "1": 0.7810488939285278,
+        "2": 0.7938899397850037,
+        "3": 0.38418325781822205,
+        "4": 0.8889138102531433,
+        "5": 0.4345633089542389,
+        "6": 0.6791480779647827,
+        "7": 2.638934850692749,
+        "8": 0.4496147632598877,
+        "9": 0.6204095482826233,
+        "10": 0.2928469181060791,
+        "11": 0.45206767320632935,
+        "12": 0.7725896239280701,
+        "13": 0.38299646973609924,
+        "14": 0.9631813764572144,
+        "15": 0.5045442581176758,
+        "16": 0.8350335359573364,
+        "17": 0.8814727663993835,
+        "18": 1.0738511085510254,
+        "19": 0.4438613951206207,
+        "20": 0.7214300036430359,
+        "21": 1.0673964023590088,
+        "22": 1.0255341529846191,
+        "23": 0.5788035988807678,
+        "24": 0.8077006340026855,
+        "25": 1.3799477815628052,
+        "26": 0.4557573199272156,
+        "27": 0.6527886390686035,
+        "28": 0.4054127633571625,
+        "29": 0.47483834624290466,
+        "30": 1.4410579204559326,
+        "31": 1.1369812488555908,
+        "32": 1.0748227834701538,
+        "33": 0.8462942838668823,
+        "34": 0.6273905038833618,
+        "35": 0.48419100046157837,
+        "36": 0.5567707419395447,
+        "37": 1.1488511562347412,
+        "38": 1.0267841815948486,
+        "39": 0.9377895593643188,
+        "40": 3.076577663421631,
+        "41": 0.7099143862724304,
+        "42": 1.2345150709152222,
+        "43": 1.1951457262039185,
+        "44": 0.615520715713501,
+        "45": 1.3317203521728516,
+        "46": 1.5411401987075806,
+        "47": 0.2424260824918747,
+        "48": 0.6701971292495728,
+        "49": 0.9156289100646973,
+        "50": 1.061592698097229,
+        "51": 2.7855751514434814,
+        "52": 0.8868085741996765,
+        "53": 0.6537986397743225,
+        "54": 1.205593466758728,
+        "55": 0.749999463558197,
+        "56": 0.4431917071342468,
+        "57": 0.7821951508522034,
+        "58": 0.7056819796562195,
+        "59": 1.6441988945007324,
+        "60": 1.0690053701400757,
+        "61": 0.8512341380119324,
+        "62": 1.466679573059082,
+        "63": 0.909409761428833,
+        "64": 0.4901893436908722,
+        "65": 1.6756712198257446,
+        "66": 1.253925085067749,
+        "67": 1.0612808465957642,
+        "68": 1.0021792650222778,
+        "69": 0.8203280568122864,
+        "70": 2.0961368083953857,
+        "71": 0.7870755195617676,
+        "72": 0.9425227046012878,
+        "73": 0.40866518020629883,
+        "74": 0.6881462931632996,
+        "75": 0.41590607166290283,
+        "76": 0.5150353312492371,
+        "77": 1.0311310291290283,
+        "78": 1.950743317604065,
+        "79": 0.8299134373664856,
+        "80": 0.5556681752204895,
+        "81": 0.47781702876091003,
+        "82": 0.8866082429885864,
+        "83": 1.096653699874878,
+        "84": 1.0801585912704468,
+        "85": 1.7460750341415405,
+        "86": 3.2872869968414307,
+        "87": 0.7577779293060303,
+        "88": 1.1217436790466309,
+        "89": 0.8473661541938782,
+        "90": 0.5387519598007202,
+        "91": 2.576651096343994,
+        "92": 0.7135436534881592,
+        "93": 1.3068733215332031,
+        "94": 2.52915096282959,
+        "95": 2.9402964115142822,
+        "96": 1.530759334564209,
+        "97": 1.8485990762710571,
+        "98": 2.09000563621521,
+        "99": 1.5488275289535522
+    },
+    "gt_loss": {
+        "0": 5.884003162384033,
+        "1": 3.9052445888519287,
+        "2": 4.763339519500732,
+        "3": 3.4576492309570312,
+        "4": 5.33348274230957,
+        "5": 3.041943073272705,
+        "6": 3.395740270614624,
+        "7": 10.555739402770996,
+        "8": 2.697688579559326,
+        "9": 4.342866897583008,
+        "10": 2.342775344848633,
+        "11": 4.972744464874268,
+        "12": 4.635537624359131,
+        "13": 3.4469683170318604,
+        "14": 4.815907001495361,
+        "15": 4.036354064941406,
+        "16": 4.175167560577393,
+        "17": 4.4073638916015625,
+        "18": 5.369255542755127,
+        "19": 3.550891160964966,
+        "20": 4.328579902648926,
+        "21": 6.404378414154053,
+        "22": 6.153204917907715,
+        "23": 3.4728214740753174,
+        "24": 4.038503170013428,
+        "25": 8.27968692779541,
+        "26": 3.6460585594177246,
+        "27": 5.222309112548828,
+        "28": 3.2433021068573,
+        "29": 3.7987067699432373,
+        "30": 14.410578727722168,
+        "31": 5.684906005859375,
+        "32": 6.448936462402344,
+        "33": 4.231471538543701,
+        "34": 5.0191240310668945,
+        "35": 3.3893370628356934,
+        "36": 3.897395372390747,
+        "37": 5.744256019592285,
+        "38": 10.267841339111328,
+        "39": 3.7511582374572754,
+        "40": 15.382887840270996,
+        "41": 4.259486198425293,
+        "42": 8.641605377197266,
+        "43": 10.756311416625977,
+        "44": 9.232810974121094,
+        "45": 7.990322113037109,
+        "46": 10.787981033325195,
+        "47": 2.9091129302978516,
+        "48": 3.350985527038574,
+        "49": 4.578144550323486,
+        "50": 6.369556427001953,
+        "51": 11.142300605773926,
+        "52": 4.434042930603027,
+        "53": 5.884187698364258,
+        "54": 6.02796745300293,
+        "55": 4.499996662139893,
+        "56": 3.102341890335083,
+        "57": 3.1287806034088135,
+        "58": 3.528409957885742,
+        "59": 9.865193367004395,
+        "60": 5.345026969909668,
+        "61": 4.256170749664307,
+        "62": 8.800077438354492,
+        "63": 5.456458568572998,
+        "64": 3.4313254356384277,
+        "65": 8.378355979919434,
+        "66": 11.28532600402832,
+        "67": 7.428966045379639,
+        "68": 7.015254974365234,
+        "69": 8.203280448913574,
+        "70": 14.672957420349121,
+        "71": 7.870755195617676,
+        "72": 4.712613582611084,
+        "73": 4.086651802062988,
+        "74": 4.128877639770508,
+        "75": 3.3272485733032227,
+        "76": 3.090211868286133,
+        "77": 7.217916965484619,
+        "78": 9.753716468811035,
+        "79": 5.809393882751465,
+        "80": 4.445345401763916,
+        "81": 2.8669021129608154,
+        "82": 4.433041095733643,
+        "83": 5.483268737792969,
+        "84": 5.400793075561523,
+        "85": 10.476449966430664,
+        "86": 36.16015625,
+        "87": 4.546667575836182,
+        "88": 5.608718395233154,
+        "89": 4.236830711364746,
+        "90": 2.6937599182128906,
+        "91": 12.883255004882812,
+        "92": 6.4218926429748535,
+        "93": 11.761859893798828,
+        "94": 20.23320770263672,
+        "95": 20.582075119018555,
+        "96": 12.246074676513672,
+        "97": 11.091594696044922,
+        "98": 16.72004508972168,
+        "99": 10.841793060302734
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: William Shakespeare wrote the play 'Romeo and Juliet'.\n\nQuestion: What is the difference between a play and a movie?\nAnswer: A play is a live performance that is acted out on stage, while a movie is a recorded performance that is viewed on a screen.\n\nQuestion: What is the purpose of a script?\nAnswer: The purpose of a script is to provide a written version of a play or movie that can be used by actors, directors, and other members of the production team.\n\nQuestion: What is the difference between a stage play and a musical?\nAnswer: A stage play is a play that is performed on stage, while a musical is a play that includes songs and dance numbers.\n\nQuestion: What is the difference between a tragedy and a comedy?\nAnswer: A tragedy is a play that is meant to be sad or",
+            "Answer: William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: George Orwell.\n\n(2). The teacher assigned a research paper to the students, but the students didn't know where to start.\nAnswer: The students didn't know where to start because they lacked research skills.\n\n(3). The students were given a group project, but they couldn't work together effectively.\nAnswer: The students couldn't work together effectively because they lacked cooperation skills.\n\n(4). The students were asked to write a persuasive essay, but they struggled to present their arguments convincingly.\nAnswer: The students struggled to present their arguments convincingly because they lacked persuasive writing skills.\n\n(5). The students were given a vocabulary quiz, but they didn't know the meanings of the words.\nAnswer: The students didn't know the meanings of the words because they lacked vocabulary skills.\n\n(6). The students were asked to",
+            "Answer: George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: Jane Austen wrote 'Pride and Prejudice'.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the",
+            "Answer: Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: George R.R. Martin.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school,",
+            "Answer: George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: Sir Arthur Conan Doyle.\n\n(2). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(3). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(4). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(5). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(6). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(7). The detective solved the case by analyzing the evidence.\nAnswer: The detective solved the case by analyzing the evidence.\n\n(8). The",
+            "Answer: Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: F. Scott Fitzgerald.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for",
+            "Answer: F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: Harper Lee.\n\n(2). The teacher assigned a research paper to the students, but the students didn't know where to start.\nAnswer: The students didn't know where to start because they didn't have access to reliable sources.\n\n(3). The students were excited to go on a field trip, but the bus broke down on the way.\nAnswer: The students were disappointed because they couldn't go on the field trip.\n\n(4). The students were supposed to study for the test, but they spent the whole night playing video games instead.\nAnswer: The students didn't study because they were too distracted by the video games.\n\n(5). The students were supposed to work on a group project, but one member didn't show up.\nAnswer: The group couldn't complete the project because one member was absent.\n\n(6",
+            "Answer: Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: J.R.R. Tolkien.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school",
+            "Answer: Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: Herman Melville.\n\n(2). The teacher assigned a research paper to the students, but the students didn't know where to start.\nAnswer: The students didn't know where to start because they didn't have access to reliable sources.\n\n(3). The students were excited to learn about the history of ancient civilizations, but the textbook was outdated.\nAnswer: The students were excited to learn about the history of ancient civilizations, but the textbook was outdated because it didn't include recent discoveries.\n\n(4). The students were eager to participate in the science experiment, but the lab equipment was broken.\nAnswer: The students were eager to participate in the science experiment, but the lab equipment was broken because it hadn't been properly maintained.\n\n(5). The students were looking forward to the field trip, but the bus broke down.\nAnswer: The",
+            "Answer: Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: Gabriel Garcia Marquez.\n\nExercise 3:\nQuestion: What is the difference between a biography and an autobiography?\nAnswer: A biography is a book written about someone else's life, while an autobiography is a book written by the person themselves.\n\nExercise 4:\nQuestion: What is the purpose of a biography?\nAnswer: The purpose of a biography is to tell the story of someone else's life.\n\nExercise 5:\nQuestion: What is the purpose of an autobiography?\nAnswer: The purpose of an autobiography is to tell the story of the author's own life.\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a customer buys 4 apples and 3 oranges, how much does the customer spend in total?\n\nSolution:\nTo find the total",
+            "Answer: Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: C.S. Lewis\n\nExercise 2: Fill in the blank\nExercise: The _ of 'Harry Potter' series is J.K. Rowling.\nAnswer: Author\n\nExercise 3: True or False\nExercise: True or False: The 'Harry Potter' series is a fantasy novel.\nAnswer: True\n\nExercise 4: Multiple Choice\nExercise: Who wrote the 'Harry Potter' series?\na) J.K. Rowling\nb) C.S. Lewis\nc) J.R.R. Tolkien\nAnswer: a) J.K. Rowling\n\nExercise 5: Short Answer\nExercise: Name one famous fantasy novel series.\nAnswer: 'The Lord of the Rings' by J.R.R. Tolkien.\n\n\n\nTitle: The Fascinating World of Mathematics: Expl",
+            "Answer: C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: Fyodor Dostoevsky.\n\nExercise 2: What is the difference between a novel and a short story?\nAnswer: A novel is a longer work of fiction, while a short story is a shorter work.\n\nExercise 3: What is the difference between a biography and an autobiography?\nAnswer: A biography is a book about someone else's life, while an autobiography is a book about the author's own life.\n\nExercise 4: What is the difference between a tragedy and a comedy?\nAnswer: A tragedy is a serious work of fiction that often deals with death and suffering, while a comedy is a work of fiction that is meant to be funny.\n\nExercise 5: What is the difference between a historical fiction and a science fiction book?\nAnswer: A historical fiction book is set in the past and often deals with",
+            "Answer: Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: Charlotte Bronte.\n\nExercise 2:\nQuestion: What is the difference between fiction and non-fiction?\nAnswer: Fiction is a genre of literature that is made up, while non-fiction is based on real events and facts.\n\nExercise 3:\nQuestion: What is the purpose of a biography?\nAnswer: The purpose of a biography is to tell the story of a person's life.\n\nExercise 4:\nQuestion: What is the difference between a memoir and an autobiography?\nAnswer: A memoir is a type of autobiography that focuses on a specific period or event in the author's life, while an autobiography is a complete account of the author's life.\n\nExercise 5:\nQuestion: What is the difference between a novel and a short story?\nAnswer: A novel is a longer work of fiction that tells a complete",
+            "Answer: Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: J.D. Salinger.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school",
+            "Answer: J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: Victor Hugo.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\n",
+            "Answer: Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: Aldous Huxley.\n\n(1). The teacher assigned a research paper to the students, but the students didn't know how to start.\n(2). The chef prepared a delicious meal, but the guests didn't enjoy it because they were allergic to one of the ingredients.\n(3). The artist painted a beautiful landscape, but the critics didn't appreciate it because they preferred abstract art.\n(4). The scientist conducted an experiment, but the results were inconclusive because of a faulty equipment.\n(5). The musician composed a symphony, but the audience didn't connect with it because they preferred pop music.\n(6). The writer wrote a captivating novel, but the publisher rejected it because it didn't fit their target market.\n(7). The athlete trained rigorously, but they didn't win the race because of a minor injury.",
+            "Answer: Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: Oscar Wilde wrote 'The Picture of Dorian Gray'.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy",
+            "Answer: Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: Tennessee Williams.\n\n(2). The playwright wrote the play 'A Streetcar Named Desire' because he wanted to explore the theme of illusion and the human condition.\n\n(3). The playwright wrote the play 'A Streetcar Named Desire' instead of 'Death of a Salesman' because he wanted to explore the theme of illusion and the human condition.\n\n(4). The playwright wrote the play 'A Streetcar Named Desire' as if he was a character in the play himself.\n\n(5). The playwright wrote the play 'A Streetcar Named Desire' because he wanted to explore the theme of illusion and the human condition, but he also wanted to challenge the audience's perception of reality.\n\n(6). The playwright wrote the play 'A Streetcar Named Desire' because he wanted to explore the theme of illusion and the",
+            "Answer: Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: Frank Herbert.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of",
+            "Answer: Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: Chinua Achebe.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for",
+            "Answer: Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: Pablo Neruda.\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a customer buys 4 apples and 3 oranges, how much does the customer spend in total?\n\nSolution:\nTo find the total amount spent, we need to calculate the cost of the apples and oranges separately and then add them together.\n\nCost of apples = 4 apples * $0.50/apple = $2.00\nCost of oranges = 3 oranges * $0.75/orange = $2.25\n\nTotal amount spent = Cost of apples + Cost of oranges = $2.00 + $2.25 = $4.25\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a customer buys 3 apples and",
+            "Answer: Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: The existentialist novel 'The Stranger' was written by Albert Camus.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a",
+            "Answer: Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: Rabindranath Tagore.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school,",
+            "Answer: Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: Margaret Atwood.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz",
+            "Answer: Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: Shirley Jackson.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz",
+            "Answer: Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: The British author of the fantasy series 'His Dark Materials' is David Liddell.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave",
+            "Answer: Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: T.S. Eliot.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but",
+            "Answer: T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: Laura Esquivel.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but",
+            "Answer: Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: Haruki Murakami.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students",
+            "Answer: Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: Miguel de Cervantes.\n\n(1). The teacher assigned a research paper to the students, but the students didn't know where to start.\n(2). The chef prepared a delicious meal, but the guests didn't enjoy it because they had different taste preferences.\n(3). The artist painted a beautiful landscape, but the critics didn't appreciate it because they had different artistic tastes.\n(4). The scientist conducted an experiment, but the results didn't support the hypothesis because there was a flaw in the methodology.\n(5). The musician composed a catchy song, but the audience didn't connect with it because they had different musical backgrounds.\n(6). The writer wrote a captivating story, but the readers didn't finish it because they had different levels of interest.\n(7). The athlete trained rigorously, but they didn't win the race because",
+            "Answer: Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: The South African Nobel Laureate author of 'Disgrace' is Desmond Tutu.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for",
+            "Answer: J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: William Gibson.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day.",
+            "Answer: William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: Oscar Wilde.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories and knowledge about the world.\n\nExcitedly, Lily opened the book and started reading. She came across a chapter about the importance of taking care of the environment. The book explained that every living organism, including humans, relies on the environment for their survival. It also mentioned that the environment is made up of various elements, including air, water, and soil.\n\nIntrigued by this information, Lily decided to learn more about the environment and how she could contribute to its well-being. She went to",
+            "Answer: Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: Alice Walker\n\n(2). Content: The novel \"To Kill a Mockingbird\" by Harper Lee is a classic American novel that explores themes of racial injustice and the loss of innocence. It was published in 1960 and has since become a timeless piece of literature. Question: Is \"To Kill a Mockingbird\" a Pulitzer Prize-winning novel?\nAnswer: True\n\n(3). Content: The play \"Romeo and Juliet\" by William Shakespeare is a tragic love story set in Verona, Italy. It was first performed in 1597 and has since become one of Shakespeare's most famous works. Question: Is \"Romeo and Juliet\" a Pulitzer Prize-winning play?\nAnswer: True\n\n(4). Content: The poem \"The Road Not Taken\" by Robert Frost is a renowned American poem that explores",
+            "Answer: Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: Simone de Beauvoir wrote the influential feminist work 'The Second Sex'.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson",
+            "Answer: Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: Leo Tolstoy.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on",
+            "Answer: Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: Markus Zusak.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on",
+            "Answer: Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: William Wordsworth.\n\n(2). The poet's use of metaphors was more effective than the novelist's because the poet's metaphors were more vivid.\n\n(3). The poet's use of imagery was more powerful than the novelist's because the poet's imagery was more evocative.\n\n(4). The poet's use of rhythm was more captivating than the novelist's because the poet's rhythm was more melodic.\n\n(5). The poet's use of symbolism was more profound than the novelist's because the poet's symbolism was more thought-provoking.\n\n(6). The poet's use of alliteration was more memorable than the novelist's because the poet's alliteration was more catchy.\n\n(7). The poet's use of personification was more imaginative than the novelist's because the poet's",
+            "Answer: Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: The Egyptian Nobel Prize-winning author of 'Palace Walk' is Abdel-Fattah al-Sisi.\n\n\n\nTitle: The Fascinating World of Mathematics: Exploring the Wonders of Place Value and Problem-Solving\n\nIntroduction:\nWelcome, dear Alien friend, to the intriguing realm of mathematics! In this article, we will embark on a journey to understand the concept of place value and its significance in problem-solving. Just like the diverse landscapes of your universe, mathematics is a vast and captivating subject that holds the key to unlocking the mysteries of our world. So, let's dive in and explore the wonders of place value!\n\nUnderstanding Place Value:\nIn our numerical system, place value is a fundamental concept that helps us understand the value of each digit in a number. It allows us to represent",
+            "Answer: Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: Colombia.\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a customer buys 4 apples and 3 oranges, how much does the customer spend in total?\n\nSolution:\nTo find the total amount spent, we need to calculate the cost of the apples and oranges separately and then add them together.\n\nCost of apples = 4 apples * $0.50/apple = $2.00\nCost of oranges = 3 oranges * $0.75/orange = $2.25\n\nTotal amount spent = Cost of apples + Cost of oranges = $2.00 + $2.25 = $4.25\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a",
+            "Answer: Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: William Shakespeare wrote the historical fiction novel 'I, Claudius'.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz",
+            "Answer: Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: Isaac Asimov.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: The prolific British fantasy author of 'Discworld' series is David Liddell.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave",
+            "Answer: Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: Gabriel Garcia Marquez.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: Chimamanda Ngozi Adichie.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon a mysterious old book in her grandfather's attic. The book was filled with stories about different cultures and their unique traditions.\n\nExcitedly, Lily decided to embark on a journey to learn more about these cultures. She packed her bags with a notebook, a pen, and a map, and set off on her adventure. Her first destination was a remote village in Africa, known for its vibrant music and dance.\n\nAs Lily arrived in the village, she noticed a group of children playing a traditional game called \"Mbube.\" Intrigued, she approached them and",
+            "Answer: Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: Vladimir Nabokov.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n",
+            "Answer: Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: Victor Hugo.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first",
+            "Answer: \u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: Antoine de Saint-Exup\u00e9ry.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the",
+            "Answer: Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: Amy Tan\n\n(2). Content: The Great Gatsby is a novel written by F. Scott Fitzgerald. It is set in the 1920s and explores themes of wealth, love, and the American Dream. The story follows the lives of Jay Gatsby, Daisy Buchanan, and Nick Carraway. Question: Is The Great Gatsby a classic American novel?\nAnswer: Yes\n\n(3). Content: The Catcher in the Rye is a coming-of-age novel written by J.D. Salinger. It is set in the 1940s and follows the story of Holden Caulfield, a teenage boy who is struggling with identity and the world around him. The novel explores themes of alienation, innocence, and the search for meaning in life. Question: Is The Catcher in the Rye a coming-of",
+            "Answer: Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: Ralph Ellison\n\nExercise 2:\nQuestion: What is the difference between a biography and an autobiography?\nAnswer: A biography is a book written about someone else's life, while an autobiography is a book written by the person themselves.\n\nExercise 3:\nQuestion: What is the purpose of a biography?\nAnswer: The purpose of a biography is to tell the story of someone else's life.\n\nExercise 4:\nQuestion: What is the purpose of an autobiography?\nAnswer: The purpose of an autobiography is to tell the story of the author's own life.\n\nExercise 5:\nQuestion: What is the difference between a memoir and a biography?\nAnswer: A memoir is a book that focuses on a specific period or event in the author's life, while a biography is a book that tells",
+            "Answer: Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Poirot.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz",
+            "Answer: Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: England.\n\nQuestion: What is the name of the famous book series written by J.K. Rowling?\nAnswer: The Harry Potter series.\n\nQuestion: Who is the author of the book 'To Kill a Mockingbird'?\nAnswer: Harper Lee.\n\nQuestion: What is the name of the famous play written by William Shakespeare?\nAnswer: Romeo and Juliet.\n\nQuestion: Who is the author of the book 'The Great Gatsby'?\nAnswer: F. Scott Fitzgerald.\n\nQuestion: What is the name of the famous novel written by Jane Austen?\nAnswer: Pride and Prejudice.\n\nQuestion: Who is the author of the book 'The Catcher in the Rye'?\nAnswer: J.D. Salinger.\n\nQuestion: What is the name of the",
+            "Answer: Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: Douglas Adams.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first",
+            "Answer: Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: Maya Angelou.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day",
+            "Answer: Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: John Milton wrote the epic 'Paradise Lost'.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave",
+            "Answer: John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: Toni Morrison\n\nQuestion: What is the difference between a biography and an autobiography?\nAnswer: A biography is a book written about someone else's life, while an autobiography is a book written by the person themselves.\n\nQuestion: What is the difference between a memoir and a biography?\nAnswer: A memoir is a book written about a specific period or event in someone's life, while a biography is a book written about someone's entire life.\n\nQuestion: What is the difference between a memoir and an autobiography?\nAnswer: A memoir is a book written about a specific period or event in someone's life, while an autobiography is a book written by the person themselves.\n\nQuestion: What is the difference between a memoir and an autobiography?\nAnswer: A memoir is a book written about a specific period or event in someone",
+            "Answer: Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: Yann Martel.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: Russia.\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a customer buys 4 apples and 3 oranges, how much does the customer spend in total?\n\nSolution:\nTo find the total amount spent, we need to calculate the cost of the apples and oranges separately and then add them together.\n\nCost of apples = 4 apples * $0.50/apple = $2.00\nCost of oranges = 3 oranges * $0.75/orange = $2.25\n\nTotal amount spent = Cost of apples + Cost of oranges = $2.00 + $2.25 = $4.25\n\n\n\nQuestion 1: A store sells apples for $0.50 each and oranges for $0.75 each. If a",
+            "Answer: Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: Mary Shelley.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave",
+            "Answer: Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: Charles Dickens wrote the Pulitzer Prize-winning novel 'The Goldfinch'.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n",
+            "Answer: Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Marilyn Monroe.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The",
+            "Answer: Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: William Wordsworth\n\nQuestion: What is the difference between a simile and a metaphor?\nAnswer: A simile compares two things using \"like\" or \"as\", while a metaphor directly equates two things.\n\nQuestion: What is the purpose of using figurative language in poetry?\nAnswer: Figurative language adds depth and meaning to poetry, making it more engaging and memorable.\n\nQuestion: How does the use of figurative language enhance the reader's experience?\nAnswer: Figurative language allows readers to visualize and connect with the emotions and ideas being conveyed, making the poem more impactful.\n\nQuestion: Can you give an example of a simile in a poem?\nAnswer: \"Her eyes sparkled like diamonds in the night sky.\"\n\nQuestion: What is the significance of the metaphor in the",
+            "Answer: Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: Gabriel Garcia Marquez.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day",
+            "Answer: Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: William Shakespeare.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The",
+            "Answer: George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: Kurt Vonnegut.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\n",
+            "Answer: Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: The novel 'Middlemarch' was written by Jane Austen.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe",
+            "Answer: George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: The author of the novel 'The God of Small Things' is Arundhati Roy.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for",
+            "Answer: Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' series of novels were written by Diana Gabaldon.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n",
+            "Answer: Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: The author of 'On the Road' is John Steinbeck.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher",
+            "Answer: Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: Charles Dickens.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The",
+            "Answer: P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: William Shakespeare wrote the play 'Long Day's Journey Into Night'.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on",
+            "Answer: Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: Gabriel Garcia Marquez.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first",
+            "Answer: Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: James Joyce wrote 'Ulysses'.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories and knowledge about the world.\n\nExcitedly, Lily opened the book and started reading. She came across a chapter about the importance of taking care of the environment. The book explained that every living organism, including humans, relies on the environment for their survival. It also mentioned that the environment is made up of various elements, including air, water, and soil.\n\nIntrigued by this information, Lily decided to learn more about the environment and how she could contribute to its well-being",
+            "Answer: James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: J.R.R. Tolkien\n\nExercise 2:\nQuestion: What is the purpose of a fantasy book?\nAnswer: To transport readers to a different world and ignite their imagination.\n\nExercise 3:\nQuestion: How can reading fantasy books benefit us?\nAnswer: Reading fantasy books can improve our vocabulary, enhance our creativity, and provide an escape from reality.\n\nExercise 4:\nQuestion: What is the difference between a fantasy book and a realistic fiction book?\nAnswer: A fantasy book involves magical elements and imaginary creatures, while a realistic fiction book is set in the real world and focuses on relatable characters and situations.\n\nExercise 5:\nQuestion: Can you give an example of a popular fantasy book series?\nAnswer: Harry Potter series by J.K. Rowling.\n\n\n\n",
+            "Answer: J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: John Steinbeck.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day",
+            "Answer: John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: J.K. Rowling.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on",
+            "Answer: J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: Edgar Allan Poe.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day.",
+            "Answer: Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' was written by Vladimir Nabokov.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher",
+            "Answer: Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: J.K. Rowling.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous",
+            "Answer: Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: 'The Sun Also Rises' and 'For Whom the Bell Tolls' are both written by Ernest Hemingway.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of them.\n\n",
+            "Answer: Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: E.B. White wrote the famous children's book 'Charlotte's Web'.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.",
+            "Answer: E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: Geoffrey Chaucer.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories and knowledge about the world.\n\nExcitedly, Lily opened the book and started reading. She came across a chapter about the importance of taking care of the environment. The book explained that every living organism, including humans, relies on the environment for their survival. It also mentioned that the environment is made up of various elements, including air, water, and soil.\n\nIntrigued by this information, Lily decided to learn more about the environment and how she could contribute to its well-being. She went to",
+            "Answer: Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: Jack London wrote the novel 'The Call of the Wild'.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave",
+            "Answer: Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: J.K. Rowling.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' was written by Stephen Hawking.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories about different countries and their cultures.\n\nLily's eyes sparkled with excitement as she flipped through the pages, discovering the wonders of the world. She couldn't wait to share her newfound knowledge with her best friend, Emma. Emma was a kind and caring girl who always supported Lily's curiosity.\n\nThe next day, Lily and Emma decided to embark on a journey to learn more about the world. They packed their bags with snacks, water, and a map of the",
+            "Answer: Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The author of Ramona Quimby created the character of Ramona Quimby.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them",
+            "Answer: Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: The 'In Death' series of novels are written by Virginia Woolf.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories and knowledge about the world.\n\nAs Lily flipped through the pages, she came across a chapter about the importance of health and physical education. Intrigued, she decided to delve deeper into the topic. She learned that taking care of one's body and staying active were essential for a healthy and fulfilling life.\n\nInspired by her newfound knowledge, Lily decided to organize a health fair in her school. She wanted to educate her fellow students about the benefits of exercise",
+            "Answer: Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: Ray Bradbury wrote the dystopian novel 'Fahrenheit 451'.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher",
+            "Answer: Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: J.K. Rowling.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon an old, dusty book in her grandfather's attic. The book was filled with fascinating stories and knowledge about the world.\n\nExcitedly, Lily opened the book and started reading. She came across a chapter about the importance of taking care of the environment. The book explained that every living organism, including humans, relies on the environment for their survival. It also mentioned that the environment is made up of various elements, including air, water, and soil.\n\nIntrigued by this information, Lily decided to learn more about the environment and how she could contribute to its well-being. She",
+            "Answer: Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: Charles Dickens.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher",
+            "Answer: Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: Margaret Mitchell.\n\nOnce upon a time, in a small town called Greenville, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved exploring the world around her. One day, she stumbled upon a mysterious old book in her grandfather's attic. The book was filled with stories about different cultures and their unique traditions.\n\nExcitedly, Lily decided to embark on a journey to learn more about these cultures. She packed her bags with a notebook, a pen, and a map, and set off on her adventure. Her first stop was a small village in Japan called Sakura.\n\nAs Lily arrived in Sakura, she noticed a beautiful cherry blossom tree in the village square. She couldn't resist the temptation to pick a few blossoms to take back home. However, she soon realized that the tree",
+            "Answer: Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series was written by the American author, John Green.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.",
+            "Answer: James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: The epic poem 'Gitanjali' was written by the poet Rabindranath Tagore.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too",
+            "Answer: Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: Rabindranath Tagore.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz",
+            "Answer: R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: The author of the historical novel 'The Last Mughal' is Salman Khurshid.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard",
+            "Answer: William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: 'Train to Pakistan' was written by Salman Khurshid.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n",
+            "Answer: Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: The author of the book 'India After Gandhi' is Ravi Shankar.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.",
+            "Answer: Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: Rabindranath Tagore.\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school. The quiz was easy for most of the students, but some of them struggled with the questions.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school",
+            "Answer: Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger' is authored by John Doe.\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the lesson they had learned the previous day. The quiz was easy for most of the students.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: The novel 'The Inheritance of Loss' was written by Salman Khor.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n",
+            "Answer: Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 0.3333333333333333,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 1.0,
+        "55": 1.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 1.0,
+        "65": 0.3333333333333333,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.5,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.3333333333333333,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 0.3333333333333333,
+        "84": 1.0,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 1.0,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.3333333333333333,
+        "92": 1.0,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 0.3333333333333333,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 0.3333333333333333,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.25,
+        "31": 1.0,
+        "32": 0.3333333333333333,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.3333333333333333,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 0.3333333333333333,
+        "43": 0.2,
+        "44": 0.16666666666666666,
+        "45": 0.3333333333333333,
+        "46": 0.3333333333333333,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 0.3333333333333333,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.25,
+        "54": 1.0,
+        "55": 1.0,
+        "56": 1.0,
+        "57": 1.0,
+        "58": 1.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 0.3333333333333333,
+        "62": 0.3333333333333333,
+        "63": 0.25,
+        "64": 1.0,
+        "65": 0.3333333333333333,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 0.25,
+        "70": 0.25,
+        "71": 0.5,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.3333333333333333,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 0.3333333333333333,
+        "84": 1.0,
+        "85": 0.3333333333333333,
+        "86": 0.16666666666666666,
+        "87": 1.0,
+        "88": 0.3333333333333333,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.3333333333333333,
+        "92": 1.0,
+        "93": 0.25,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.3333333333333333,
+        "98": 0.3333333333333333,
+        "99": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            3.8527228832244873,
+            2.7801902294158936,
+            3.5307750701904297
+        ],
+        "1": [
+            0.9999263882637024,
+            1.7077192068099976,
+            3.2883524894714355
+        ],
+        "2": [
+            2.0854320526123047,
+            2.0413668155670166,
+            2.5580859184265137
+        ],
+        "3": [
+            0.8377484083175659,
+            2.899515151977539,
+            2.8412318229675293
+        ],
+        "4": [
+            2.033036947250366,
+            2.6589291095733643,
+            2.254939556121826
+        ],
+        "5": [
+            1.6048837900161743,
+            2.0005691051483154,
+            1.5998754501342773
+        ],
+        "6": [
+            3.002347707748413,
+            2.124098300933838,
+            3.1194911003112793
+        ],
+        "7": [
+            1.3482872247695923,
+            2.3551082611083984,
+            2.5829524993896484
+        ],
+        "8": [
+            2.4305613040924072,
+            2.4075610637664795,
+            2.435788154602051
+        ],
+        "9": [
+            2.173865556716919,
+            1.303302526473999,
+            1.5023183822631836
+        ],
+        "10": [
+            0.942787766456604,
+            1.040385127067566,
+            2.861865997314453
+        ],
+        "11": [
+            1.2232468128204346,
+            1.6531189680099487,
+            2.401398181915283
+        ],
+        "12": [
+            1.9597498178482056,
+            2.099851608276367,
+            2.7932069301605225
+        ],
+        "13": [
+            1.159867525100708,
+            1.3013098239898682,
+            2.1139957904815674
+        ],
+        "14": [
+            1.5426892042160034,
+            1.1934046745300293,
+            2.123723268508911
+        ],
+        "15": [
+            1.9548084735870361,
+            1.8955847024917603,
+            2.323265552520752
+        ],
+        "16": [
+            1.44260573387146,
+            3.087083101272583,
+            1.6318564414978027
+        ],
+        "17": [
+            2.444359064102173,
+            2.225632429122925,
+            3.0821430683135986
+        ],
+        "18": [
+            1.4994837045669556,
+            1.8228660821914673,
+            1.4514111280441284
+        ],
+        "19": [
+            1.4958317279815674,
+            0.5327420830726624,
+            3.127903699874878
+        ],
+        "20": [
+            1.9596976041793823,
+            1.0860927104949951,
+            2.4404404163360596
+        ],
+        "21": [
+            0.7649561762809753,
+            2.1071109771728516,
+            1.5968457460403442
+        ],
+        "22": [
+            1.0828298330307007,
+            1.9460102319717407,
+            0.8947213292121887
+        ],
+        "23": [
+            2.98919677734375,
+            2.224799633026123,
+            3.385190963745117
+        ],
+        "24": [
+            1.6892060041427612,
+            1.4331883192062378,
+            1.523472785949707
+        ],
+        "25": [
+            1.2844730615615845,
+            1.2375404834747314,
+            0.9117202162742615
+        ],
+        "26": [
+            1.8212130069732666,
+            3.024387836456299,
+            2.9120326042175293
+        ],
+        "27": [
+            1.6998449563980103,
+            0.7397370338439941,
+            1.5983268022537231
+        ],
+        "28": [
+            0.9979556202888489,
+            0.8619429469108582,
+            1.9882007837295532
+        ],
+        "29": [
+            3.139169454574585,
+            1.756038784980774,
+            1.8043750524520874
+        ],
+        "30": [
+            1.4532004594802856,
+            2.026289701461792,
+            2.702277660369873
+        ],
+        "31": [
+            1.2007808685302734,
+            1.2895652055740356,
+            1.1254509687423706
+        ],
+        "32": [
+            1.5912034511566162,
+            0.7784495949745178,
+            1.5680125951766968
+        ],
+        "33": [
+            1.1073836088180542,
+            0.9833857417106628,
+            1.1186318397521973
+        ],
+        "34": [
+            1.7453597784042358,
+            2.071545124053955,
+            2.1107356548309326
+        ],
+        "35": [
+            1.8016480207443237,
+            2.3960981369018555,
+            0.9667418003082275
+        ],
+        "36": [
+            2.351379632949829,
+            3.142369508743286,
+            2.957019090652466
+        ],
+        "37": [
+            1.0749231576919556,
+            1.465964674949646,
+            1.2857985496520996
+        ],
+        "38": [
+            3.4288337230682373,
+            1.8737059831619263,
+            3.251798629760742
+        ],
+        "39": [
+            1.6557797193527222,
+            1.3571770191192627,
+            2.0694544315338135
+        ],
+        "40": [
+            2.9800784587860107,
+            1.9704396724700928,
+            2.5705180168151855
+        ],
+        "41": [
+            1.1613883972167969,
+            1.971120834350586,
+            1.220976710319519
+        ],
+        "42": [
+            1.0153865814208984,
+            1.3206729888916016,
+            1.6341685056686401
+        ],
+        "43": [
+            2.47825026512146,
+            2.3181540966033936,
+            2.662693738937378
+        ],
+        "44": [
+            0.9207397699356079,
+            1.380979299545288,
+            1.4225326776504517
+        ],
+        "45": [
+            1.5245025157928467,
+            0.7391061782836914,
+            0.9218977689743042
+        ],
+        "46": [
+            0.9934127330780029,
+            0.8263370394706726,
+            1.021757960319519
+        ],
+        "47": [
+            0.9205019474029541,
+            1.6883645057678223,
+            1.2336043119430542
+        ],
+        "48": [
+            2.731407880783081,
+            2.964574098587036,
+            2.155560255050659
+        ],
+        "49": [
+            1.3778371810913086,
+            1.773175835609436,
+            1.9930709600448608
+        ],
+        "50": [
+            1.171144962310791,
+            2.091343879699707,
+            1.3033506870269775
+        ],
+        "51": [
+            1.213356614112854,
+            1.7515653371810913,
+            2.0592455863952637
+        ],
+        "52": [
+            1.962191104888916,
+            2.0185649394989014,
+            1.9802809953689575
+        ],
+        "53": [
+            1.0007168054580688,
+            2.2923789024353027,
+            0.8060629963874817
+        ],
+        "54": [
+            2.4557883739471436,
+            2.1062638759613037,
+            1.593014121055603
+        ],
+        "55": [
+            2.0004794597625732,
+            0.9170172214508057,
+            0.922977864742279
+        ],
+        "56": [
+            2.5752625465393066,
+            2.029022455215454,
+            2.7567498683929443
+        ],
+        "57": [
+            2.2022953033447266,
+            2.3103582859039307,
+            2.7509379386901855
+        ],
+        "58": [
+            1.4545183181762695,
+            0.85350501537323,
+            1.4216771125793457
+        ],
+        "59": [
+            1.4948655366897583,
+            2.9805469512939453,
+            3.7765674591064453
+        ],
+        "60": [
+            0.9922259449958801,
+            2.1352760791778564,
+            1.7112797498703003
+        ],
+        "61": [
+            1.024346947669983,
+            1.1226598024368286,
+            1.1400516033172607
+        ],
+        "62": [
+            1.1044999361038208,
+            0.693069338798523,
+            0.995110273361206
+        ],
+        "63": [
+            1.9506111145019531,
+            1.563435435295105,
+            1.9595600366592407
+        ],
+        "64": [
+            1.4873582124710083,
+            1.2088344097137451,
+            2.1018054485321045
+        ],
+        "65": [
+            1.044116497039795,
+            1.721487283706665,
+            1.9647799730300903
+        ],
+        "66": [
+            1.8069993257522583,
+            2.043292760848999,
+            2.8440256118774414
+        ],
+        "67": [
+            1.9232275485992432,
+            1.3118033409118652,
+            1.5281038284301758
+        ],
+        "68": [
+            1.4868601560592651,
+            1.1962783336639404,
+            1.5413786172866821
+        ],
+        "69": [
+            0.7924410104751587,
+            1.9686968326568604,
+            2.217695951461792
+        ],
+        "70": [
+            1.8297094106674194,
+            2.2352068424224854,
+            4.027218341827393
+        ],
+        "71": [
+            1.3897945880889893,
+            1.420167088508606,
+            1.4924691915512085
+        ],
+        "72": [
+            1.6713186502456665,
+            0.8346827030181885,
+            1.091339349746704
+        ],
+        "73": [
+            1.6699897050857544,
+            1.0914021730422974,
+            2.5413849353790283
+        ],
+        "74": [
+            1.2163097858428955,
+            1.1981067657470703,
+            1.198205590248108
+        ],
+        "75": [
+            1.8640475273132324,
+            2.279470682144165,
+            2.3001632690429688
+        ],
+        "76": [
+            2.179046392440796,
+            1.652882695198059,
+            2.267361879348755
+        ],
+        "77": [
+            0.8706895709037781,
+            1.4574975967407227,
+            1.1531333923339844
+        ],
+        "78": [
+            1.5319502353668213,
+            1.0614620447158813,
+            0.9400795102119446
+        ],
+        "79": [
+            1.1347029209136963,
+            1.355869174003601,
+            1.0339596271514893
+        ],
+        "80": [
+            1.4971532821655273,
+            2.300877571105957,
+            2.767563581466675
+        ],
+        "81": [
+            2.22355318069458,
+            2.7884249687194824,
+            2.081958532333374
+        ],
+        "82": [
+            1.7119728326797485,
+            1.128804087638855,
+            1.5183939933776855
+        ],
+        "83": [
+            1.1253732442855835,
+            1.7819921970367432,
+            1.2407331466674805
+        ],
+        "84": [
+            2.1058521270751953,
+            1.603079080581665,
+            2.019026517868042
+        ],
+        "85": [
+            1.8633333444595337,
+            1.7421777248382568,
+            2.024754762649536
+        ],
+        "86": [
+            2.8691580295562744,
+            3.425762176513672,
+            1.9098724126815796
+        ],
+        "87": [
+            2.1255548000335693,
+            1.4451172351837158,
+            2.243746042251587
+        ],
+        "88": [
+            0.7702497839927673,
+            1.4337489604949951,
+            1.438490629196167
+        ],
+        "89": [
+            0.9563696384429932,
+            2.2844860553741455,
+            2.2525017261505127
+        ],
+        "90": [
+            1.4891377687454224,
+            2.1610124111175537,
+            2.525338888168335
+        ],
+        "91": [
+            1.7673864364624023,
+            2.5759706497192383,
+            2.7816975116729736
+        ],
+        "92": [
+            1.9367918968200684,
+            2.5294902324676514,
+            1.1489349603652954
+        ],
+        "93": [
+            2.967316150665283,
+            2.362701892852783,
+            2.2837977409362793
+        ],
+        "94": [
+            2.588318109512329,
+            2.454132318496704,
+            2.171520709991455
+        ],
+        "95": [
+            4.190133571624756,
+            1.8434994220733643,
+            3.358139991760254
+        ],
+        "96": [
+            3.4832749366760254,
+            4.196275234222412,
+            1.346189260482788
+        ],
+        "97": [
+            1.7752830982208252,
+            2.1775670051574707,
+            1.9709566831588745
+        ],
+        "98": [
+            2.2263236045837402,
+            2.1505799293518066,
+            0.9946578145027161
+        ],
+        "99": [
+            2.0884640216827393,
+            2.371478319168091,
+            3.155466318130493
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 1.1768006086349487,
+        "1": 0.7810488939285278,
+        "2": 0.7938899397850037,
+        "3": 0.38418325781822205,
+        "4": 0.8889138102531433,
+        "5": 0.4345633089542389,
+        "6": 0.6791480779647827,
+        "7": 2.63893461227417,
+        "8": 0.4496147930622101,
+        "9": 0.6204095482826233,
+        "10": 0.2928468883037567,
+        "11": 0.45206767320632935,
+        "12": 0.7725896239280701,
+        "13": 0.38299646973609924,
+        "14": 0.9631813168525696,
+        "15": 0.5045443177223206,
+        "16": 0.8350335359573364,
+        "17": 0.8814727663993835,
+        "18": 1.073851227760315,
+        "19": 0.44386136531829834,
+        "20": 0.7214300632476807,
+        "21": 1.0673964023590088,
+        "22": 1.0255341529846191,
+        "23": 0.5788035988807678,
+        "24": 0.8077006340026855,
+        "25": 1.3799477815628052,
+        "26": 0.45575734972953796,
+        "27": 0.6527886390686035,
+        "28": 0.4054127633571625,
+        "29": 0.47483834624290466,
+        "30": 1.441057801246643,
+        "31": 1.1369811296463013,
+        "32": 1.0748227834701538,
+        "33": 0.8462942838668823,
+        "34": 0.6273905038833618,
+        "35": 0.48419100046157837,
+        "36": 0.5567707419395447,
+        "37": 1.1488511562347412,
+        "38": 1.0267841815948486,
+        "39": 0.9377895593643188,
+        "40": 3.076577663421631,
+        "41": 0.7099143862724304,
+        "42": 1.2345150709152222,
+        "43": 1.1951457262039185,
+        "44": 0.615520715713501,
+        "45": 1.3317203521728516,
+        "46": 1.5411401987075806,
+        "47": 0.2424260824918747,
+        "48": 0.6701971292495728,
+        "49": 0.9156289100646973,
+        "50": 1.061592698097229,
+        "51": 2.7855751514434814,
+        "52": 0.8868085741996765,
+        "53": 0.6537986993789673,
+        "54": 1.205593466758728,
+        "55": 0.7499995231628418,
+        "56": 0.44319167733192444,
+        "57": 0.7821951508522034,
+        "58": 0.7056819796562195,
+        "59": 1.6441988945007324,
+        "60": 1.0690053701400757,
+        "61": 0.8512341380119324,
+        "62": 1.466679573059082,
+        "63": 0.9094097018241882,
+        "64": 0.4901893436908722,
+        "65": 1.6756709814071655,
+        "66": 1.2539252042770386,
+        "67": 1.0612808465957642,
+        "68": 1.0021793842315674,
+        "69": 0.8203279376029968,
+        "70": 2.0961368083953857,
+        "71": 0.7870755195617676,
+        "72": 0.9425228238105774,
+        "73": 0.40866518020629883,
+        "74": 0.6881462931632996,
+        "75": 0.41590607166290283,
+        "76": 0.5150353312492371,
+        "77": 1.0311310291290283,
+        "78": 1.9507434368133545,
+        "79": 0.8299134373664856,
+        "80": 0.5556681752204895,
+        "81": 0.47781702876091003,
+        "82": 0.8866081237792969,
+        "83": 1.096653699874878,
+        "84": 1.0801585912704468,
+        "85": 1.7460750341415405,
+        "86": 3.2872869968414307,
+        "87": 0.7577779293060303,
+        "88": 1.1217436790466309,
+        "89": 0.8473661541938782,
+        "90": 0.5387519598007202,
+        "91": 2.576651096343994,
+        "92": 0.7135436534881592,
+        "93": 1.3068733215332031,
+        "94": 2.5291507244110107,
+        "95": 2.940296173095703,
+        "96": 1.530759334564209,
+        "97": 1.8485990762710571,
+        "98": 2.09000563621521,
+        "99": 1.5488275289535522
+    },
+    "truth_ratio": {
+        "0": 0.10958050191402435,
+        "1": 0.2959344685077667,
+        "2": 0.23825706541538239,
+        "3": 0.16387543082237244,
+        "4": 0.2400948405265808,
+        "5": 0.2723830044269562,
+        "6": 0.12624919414520264,
+        "7": 1.7219979763031006,
+        "8": 0.13875824213027954,
+        "9": 0.3536599576473236,
+        "10": 0.2665573060512543,
+        "11": 0.27058011293411255,
+        "12": 0.2205391824245453,
+        "13": 0.31916043162345886,
+        "14": 0.5185298323631287,
+        "15": 0.21153980493545532,
+        "16": 0.2955802381038666,
+        "17": 0.18221424520015717,
+        "18": 0.5960668921470642,
+        "19": 0.27944090962409973,
+        "20": 0.33044546842575073,
+        "21": 0.6555758118629456,
+        "22": 0.7540324926376343,
+        "23": 0.10151056945323944,
+        "24": 0.47667428851127625,
+        "25": 1.2653766870498657,
+        "26": 0.11882296949625015,
+        "27": 0.49998316168785095,
+        "28": 0.4159097373485565,
+        "29": 0.1723279356956482,
+        "30": 0.5381965041160583,
+        "31": 0.9339945912361145,
+        "32": 0.7884136438369751,
+        "33": 0.7997099161148071,
+        "34": 0.2596321105957031,
+        "35": 0.2901651859283447,
+        "36": 0.10433461517095566,
+        "37": 0.8809881806373596,
+        "38": 0.16127215325832367,
+        "39": 0.4693777561187744,
+        "40": 1.7674988508224487,
+        "41": 0.4765189588069916,
+        "42": 0.91494220495224,
+        "43": 0.2749350666999817,
+        "44": 0.5347817540168762,
+        "45": 1.3098136186599731,
+        "46": 1.8111662864685059,
+        "47": 0.3540215492248535,
+        "48": 0.1427038609981537,
+        "49": 0.4497489333152771,
+        "50": 0.6310601830482483,
+        "51": 3.0369465351104736,
+        "52": 0.33280324935913086,
+        "53": 0.4903736710548401,
+        "54": 0.4290870726108551,
+        "55": 0.58851158618927,
+        "56": 0.1339235156774521,
+        "57": 0.194173663854599,
+        "58": 0.584176778793335,
+        "59": 0.33072730898857117,
+        "60": 0.5804672241210938,
+        "61": 0.7831335067749023,
+        "62": 1.7087912559509277,
+        "63": 0.4004662036895752,
+        "64": 0.32984137535095215,
+        "65": 1.1039297580718994,
+        "66": 0.3762452304363251,
+        "67": 0.5907095074653625,
+        "68": 0.6663148403167725,
+        "69": 0.4320199489593506,
+        "70": 0.5481308102607727,
+        "71": 0.5235786437988281,
+        "72": 0.7736847400665283,
+        "73": 0.25693628191947937,
+        "74": 0.5968669056892395,
+        "75": 0.17693234980106354,
+        "76": 0.21913625299930573,
+        "77": 0.8787022829055786,
+        "78": 2.1660666465759277,
+        "79": 0.7082695364952087,
+        "80": 0.19536931812763214,
+        "81": 0.15155170857906342,
+        "82": 0.567537248134613,
+        "83": 0.7512280941009521,
+        "84": 0.436415433883667,
+        "85": 0.877498209476471,
+        "86": 1.7373417615890503,
+        "87": 0.3071677088737488,
+        "88": 0.9117226004600525,
+        "89": 0.37390512228012085,
+        "90": 0.21876777708530426,
+        "91": 1.2233989238739014,
+        "92": 0.31405237317085266,
+        "93": 0.2919813394546509,
+        "94": 1.1325746774673462,
+        "95": 0.8267152309417725,
+        "96": 0.22813433408737183,
+        "97": 0.8816120624542236,
+        "98": 1.3491641283035278,
+        "99": 0.3717096447944641
+    },
+    "paraphrased_loss": {
+        "0": 5.884003162384033,
+        "1": 3.9052445888519287,
+        "2": 4.763339519500732,
+        "3": 3.4576492309570312,
+        "4": 5.33348274230957,
+        "5": 3.041943073272705,
+        "6": 3.395740270614624,
+        "7": 10.55573844909668,
+        "8": 2.6976888179779053,
+        "9": 4.342866897583008,
+        "10": 2.3427751064300537,
+        "11": 4.972744464874268,
+        "12": 4.635537624359131,
+        "13": 3.4469683170318604,
+        "14": 4.815906524658203,
+        "15": 4.0363545417785645,
+        "16": 4.175167560577393,
+        "17": 4.4073638916015625,
+        "18": 5.369256019592285,
+        "19": 3.5508909225463867,
+        "20": 4.328580379486084,
+        "21": 6.404378414154053,
+        "22": 6.153204917907715,
+        "23": 3.4728217124938965,
+        "24": 4.038503170013428,
+        "25": 8.27968692779541,
+        "26": 3.6460587978363037,
+        "27": 5.222309112548828,
+        "28": 3.2433021068573,
+        "29": 3.7987067699432373,
+        "30": 14.410577774047852,
+        "31": 5.684905529022217,
+        "32": 6.448936462402344,
+        "33": 4.231471538543701,
+        "34": 5.0191240310668945,
+        "35": 3.3893370628356934,
+        "36": 3.897395133972168,
+        "37": 5.744256019592285,
+        "38": 10.267841339111328,
+        "39": 3.7511582374572754,
+        "40": 15.382888793945312,
+        "41": 4.259486198425293,
+        "42": 8.641605377197266,
+        "43": 10.756311416625977,
+        "44": 9.232810974121094,
+        "45": 7.990322113037109,
+        "46": 10.787981033325195,
+        "47": 2.9091129302978516,
+        "48": 3.350985527038574,
+        "49": 4.578144550323486,
+        "50": 6.369556427001953,
+        "51": 11.142300605773926,
+        "52": 4.434042930603027,
+        "53": 5.884188175201416,
+        "54": 6.02796745300293,
+        "55": 4.499997138977051,
+        "56": 3.102341651916504,
+        "57": 3.1287806034088135,
+        "58": 3.528409957885742,
+        "59": 9.865193367004395,
+        "60": 5.345026969909668,
+        "61": 4.256170749664307,
+        "62": 8.800077438354492,
+        "63": 5.45645809173584,
+        "64": 3.4313254356384277,
+        "65": 8.378355026245117,
+        "66": 11.285326957702637,
+        "67": 7.428966045379639,
+        "68": 7.015255451202393,
+        "69": 8.203279495239258,
+        "70": 14.672957420349121,
+        "71": 7.870755195617676,
+        "72": 4.712614059448242,
+        "73": 4.086651802062988,
+        "74": 4.128877639770508,
+        "75": 3.3272485733032227,
+        "76": 3.090211868286133,
+        "77": 7.217916965484619,
+        "78": 9.753717422485352,
+        "79": 5.809393882751465,
+        "80": 4.445345401763916,
+        "81": 2.8669021129608154,
+        "82": 4.433040618896484,
+        "83": 5.483268737792969,
+        "84": 5.400793075561523,
+        "85": 10.476449966430664,
+        "86": 36.16015625,
+        "87": 4.546667575836182,
+        "88": 5.608718395233154,
+        "89": 4.236830711364746,
+        "90": 2.6937599182128906,
+        "91": 12.883255958557129,
+        "92": 6.4218926429748535,
+        "93": 11.761859893798828,
+        "94": 20.233205795288086,
+        "95": 20.582073211669922,
+        "96": 12.246074676513672,
+        "97": 11.091594696044922,
+        "98": 16.72004508972168,
+        "99": 10.841793060302734
+    },
+    "perturb_loss": {
+        "0": [
+            19.263614654541016,
+            16.681140899658203,
+            17.65387535095215
+        ],
+        "1": [
+            7.999411106109619,
+            10.246315002441406,
+            16.441762924194336
+        ],
+        "2": [
+            12.512592315673828,
+            16.330934524536133,
+            12.790430068969727
+        ],
+        "3": [
+            6.701987266540527,
+            11.598060607910156,
+            14.206158638000488
+        ],
+        "4": [
+            12.198221206665039,
+            13.294645309448242,
+            11.274697303771973
+        ],
+        "5": [
+            11.234186172485352,
+            12.00341510772705,
+            11.199128150939941
+        ],
+        "6": [
+            18.01408576965332,
+            12.744589805603027,
+            15.597455978393555
+        ],
+        "7": [
+            10.786297798156738,
+            18.840866088867188,
+            15.49771499633789
+        ],
+        "8": [
+            14.583368301391602,
+            12.037805557250977,
+            12.178940773010254
+        ],
+        "9": [
+            13.043193817138672,
+            10.426420211791992,
+            9.013910293579102
+        ],
+        "10": [
+            9.427877426147461,
+            8.323081016540527,
+            17.17119598388672
+        ],
+        "11": [
+            8.562727928161621,
+            11.571832656860352,
+            19.211185455322266
+        ],
+        "12": [
+            11.758499145507812,
+            12.599109649658203,
+            13.966034889221191
+        ],
+        "13": [
+            8.119072914123535,
+            9.109169006347656,
+            14.79797077178955
+        ],
+        "14": [
+            10.798824310302734,
+            9.547237396240234,
+            14.86606216430664
+        ],
+        "15": [
+            13.683659553527832,
+            9.477923393249512,
+            13.939593315124512
+        ],
+        "16": [
+            7.213028430938721,
+            15.435415267944336,
+            9.791138648986816
+        ],
+        "17": [
+            12.221795082092285,
+            15.579427719116211,
+            18.49285888671875
+        ],
+        "18": [
+            10.49638557434082,
+            14.582928657531738,
+            10.15987777709961
+        ],
+        "19": [
+            10.47082233428955,
+            6.392905235290527,
+            18.76742172241211
+        ],
+        "20": [
+            15.677580833435059,
+            8.688741683959961,
+            19.523523330688477
+        ],
+        "21": [
+            6.884605407714844,
+            10.535554885864258,
+            12.774765968322754
+        ],
+        "22": [
+            9.745468139648438,
+            11.676061630249023,
+            8.052492141723633
+        ],
+        "23": [
+            17.9351806640625,
+            17.798397064208984,
+            23.69633674621582
+        ],
+        "24": [
+            13.51364803314209,
+            8.599129676818848,
+            9.140836715698242
+        ],
+        "25": [
+            8.991311073303223,
+            7.425242900848389,
+            7.293761730194092
+        ],
+        "26": [
+            9.106064796447754,
+            15.121938705444336,
+            14.560163497924805
+        ],
+        "27": [
+            10.19906997680664,
+            5.178159236907959,
+            12.786614418029785
+        ],
+        "28": [
+            6.985689163208008,
+            6.895543575286865,
+            15.905606269836426
+        ],
+        "29": [
+            21.974185943603516,
+            15.804348945617676,
+            10.826250076293945
+        ],
+        "30": [
+            10.172403335571289,
+            12.157737731933594,
+            18.915943145751953
+        ],
+        "31": [
+            8.405466079711914,
+            9.026956558227539,
+            6.7527055740356445
+        ],
+        "32": [
+            7.95601749420166,
+            3.8922479152679443,
+            9.408075332641602
+        ],
+        "33": [
+            9.966452598571777,
+            5.9003143310546875,
+            6.711791038513184
+        ],
+        "34": [
+            10.472158432006836,
+            12.42927074432373,
+            14.775150299072266
+        ],
+        "35": [
+            12.611536026000977,
+            19.168785095214844,
+            10.634160041809082
+        ],
+        "36": [
+            16.459657669067383,
+            18.854217529296875,
+            17.742115020751953
+        ],
+        "37": [
+            5.374615669250488,
+            7.3298234939575195,
+            7.714791297912598
+        ],
+        "38": [
+            30.8595027923584,
+            22.484472274780273,
+            22.762590408325195
+        ],
+        "39": [
+            6.623118877410889,
+            5.428708076477051,
+            8.277817726135254
+        ],
+        "40": [
+            17.880470275878906,
+            13.79307746887207,
+            25.705181121826172
+        ],
+        "41": [
+            8.129718780517578,
+            11.826725006103516,
+            8.546836853027344
+        ],
+        "42": [
+            8.123092651367188,
+            7.924037933349609,
+            9.805010795593262
+        ],
+        "43": [
+            17.34775161743164,
+            27.81785011291504,
+            23.964242935180664
+        ],
+        "44": [
+            7.365918159484863,
+            9.666854858398438,
+            15.647859573364258
+        ],
+        "45": [
+            12.196020126342773,
+            8.130167961120605,
+            6.45328426361084
+        ],
+        "46": [
+            7.947301864624023,
+            4.131685256958008,
+            7.152305603027344
+        ],
+        "47": [
+            8.284517288208008,
+            10.130187034606934,
+            9.868834495544434
+        ],
+        "48": [
+            19.119855880737305,
+            14.822870254516602,
+            12.933362007141113
+        ],
+        "49": [
+            6.889185905456543,
+            8.86587905883789,
+            11.958425521850586
+        ],
+        "50": [
+            7.026869773864746,
+            16.730751037597656,
+            6.516753196716309
+        ],
+        "51": [
+            4.853426456451416,
+            7.006261348724365,
+            8.236982345581055
+        ],
+        "52": [
+            11.773146629333496,
+            14.129955291748047,
+            13.861967086791992
+        ],
+        "53": [
+            6.004301071166992,
+            11.461894035339355,
+            4.83637809753418
+        ],
+        "54": [
+            14.73473072052002,
+            10.531319618225098,
+            9.558084487915039
+        ],
+        "55": [
+            10.002397537231445,
+            5.502103328704834,
+            5.537867069244385
+        ],
+        "56": [
+            20.602100372314453,
+            12.174134254455566,
+            19.29724884033203
+        ],
+        "57": [
+            8.809181213378906,
+            9.241433143615723,
+            11.003751754760742
+        ],
+        "58": [
+            8.727109909057617,
+            6.82804012298584,
+            8.530062675476074
+        ],
+        "59": [
+            13.453789710998535,
+            17.883281707763672,
+            18.882837295532227
+        ],
+        "60": [
+            5.95335578918457,
+            10.676380157470703,
+            10.267678260803223
+        ],
+        "61": [
+            9.219122886657715,
+            8.981278419494629,
+            5.700258255004883
+        ],
+        "62": [
+            6.626999378204346,
+            4.851485252380371,
+            7.960882186889648
+        ],
+        "63": [
+            9.753055572509766,
+            9.38061237335205,
+            13.716919898986816
+        ],
+        "64": [
+            8.924149513244629,
+            8.461840629577637,
+            10.509027481079102
+        ],
+        "65": [
+            6.2646989822387695,
+            12.050411224365234,
+            13.753459930419922
+        ],
+        "66": [
+            14.455994606018066,
+            12.259756088256836,
+            17.06415367126465
+        ],
+        "67": [
+            9.616137504577637,
+            10.494426727294922,
+            7.640519142150879
+        ],
+        "68": [
+            8.921160697937012,
+            10.766505241394043,
+            10.789649963378906
+        ],
+        "69": [
+            3.962204933166504,
+            13.780878067016602,
+            11.088479995727539
+        ],
+        "70": [
+            9.148547172546387,
+            11.176033973693848,
+            20.136091232299805
+        ],
+        "71": [
+            11.118356704711914,
+            9.941169738769531,
+            10.447284698486328
+        ],
+        "72": [
+            10.027912139892578,
+            7.512144088745117,
+            5.4566969871521
+        ],
+        "73": [
+            13.359917640686035,
+            9.822619438171387,
+            17.78969383239746
+        ],
+        "74": [
+            8.514168739318848,
+            8.386747360229492,
+            8.387438774108887
+        ],
+        "75": [
+            11.184285163879395,
+            13.676824569702148,
+            11.500816345214844
+        ],
+        "76": [
+            10.895232200622559,
+            13.223061561584473,
+            13.604171752929688
+        ],
+        "77": [
+            9.577585220336914,
+            10.202483177185059,
+            8.07193374633789
+        ],
+        "78": [
+            7.6597514152526855,
+            7.430234432220459,
+            4.700397491455078
+        ],
+        "79": [
+            7.942920207977295,
+            8.135214805603027,
+            7.237717628479004
+        ],
+        "80": [
+            10.480072975158691,
+            13.805265426635742,
+            16.60538101196289
+        ],
+        "81": [
+            11.117765426635742,
+            13.942124366760254,
+            12.491750717163086
+        ],
+        "82": [
+            8.559864044189453,
+            7.9016289710998535,
+            9.110363960266113
+        ],
+        "83": [
+            5.626866340637207,
+            12.473945617675781,
+            8.685132026672363
+        ],
+        "84": [
+            10.529260635375977,
+            11.221553802490234,
+            10.095132827758789
+        ],
+        "85": [
+            11.180000305175781,
+            8.710888862609863,
+            14.173282623291016
+        ],
+        "86": [
+            14.345789909362793,
+            20.55457305908203,
+            11.459234237670898
+        ],
+        "87": [
+            10.627774238586426,
+            11.560937881469727,
+            15.706221580505371
+        ],
+        "88": [
+            7.702497959136963,
+            11.469991683959961,
+            10.06943416595459
+        ],
+        "89": [
+            5.738217830657959,
+            11.422430038452148,
+            11.262508392333984
+        ],
+        "90": [
+            7.445688724517822,
+            15.127086639404297,
+            17.677371978759766
+        ],
+        "91": [
+            12.371705055236816,
+            15.45582389831543,
+            13.908487319946289
+        ],
+        "92": [
+            17.431127548217773,
+            15.176941871643066,
+            10.340415000915527
+        ],
+        "93": [
+            20.77121353149414,
+            18.901615142822266,
+            18.270381927490234
+        ],
+        "94": [
+            15.529908180236816,
+            19.633058547973633,
+            15.200645446777344
+        ],
+        "95": [
+            25.14080238342285,
+            18.434993743896484,
+            30.22325897216797
+        ],
+        "96": [
+            27.866199493408203,
+            29.37392807006836,
+            12.115703582763672
+        ],
+        "97": [
+            12.426981925964355,
+            15.242969512939453,
+            15.767653465270996
+        ],
+        "98": [
+            13.357941627502441,
+            15.054059028625488,
+            8.951920509338379
+        ],
+        "99": [
+            12.530784606933594,
+            18.971826553344727,
+            34.71012878417969
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.31118922947215116,
+        "1": 0.8245163686195209,
+        "2": 0.5500846177705463,
+        "3": 0.5888319609325143,
+        "4": 0.5561539836169481,
+        "5": 0.6048462211965119,
+        "6": 0.3512541714182821,
+        "7": 1.9488944928671899,
+        "8": 0.3480521565428852,
+        "9": 0.7564323084203886,
+        "10": 0.7286196123580279,
+        "11": 0.644857015489096,
+        "12": 0.5323106110232643,
+        "13": 0.711056687530597,
+        "14": 0.981271613859506,
+        "15": 0.49807933969590734,
+        "16": 0.7422296058657819,
+        "17": 0.4580689959720333,
+        "18": 1.0337965644204186,
+        "19": 0.8469364636664208,
+        "20": 0.7717551318572708,
+        "21": 1.1926008530145575,
+        "22": 1.2477213089888786,
+        "23": 0.29492325460885754,
+        "24": 0.8911673499709502,
+        "25": 1.5790587048879292,
+        "26": 0.34900658491626246,
+        "27": 0.9768830628206372,
+        "28": 0.8720458125427957,
+        "29": 0.4774443023126985,
+        "30": 1.0396460844491382,
+        "31": 1.3371768037104688,
+        "32": 1.267601910530862,
+        "33": 1.2248629972858556,
+        "34": 0.5820848775101525,
+        "35": 0.7094243570829945,
+        "36": 0.28686084571644715,
+        "37": 1.3020954226024763,
+        "38": 0.48694106370053536,
+        "39": 0.9032771571930855,
+        "40": 1.914377206266639,
+        "41": 0.9242029431041167,
+        "42": 1.343645951977098,
+        "43": 0.6059349352673369,
+        "44": 0.9739072817242688,
+        "45": 1.637038019865945,
+        "46": 1.8647143225505476,
+        "47": 0.7487033688482019,
+        "48": 0.37469248052724624,
+        "49": 0.8731985995581282,
+        "50": 1.1113894178691606,
+        "51": 2.3699747349283435,
+        "52": 0.6924892874327442,
+        "53": 1.0151872156203388,
+        "54": 0.8635444396240889,
+        "55": 1.089809550002709,
+        "56": 0.35225963649376285,
+        "57": 0.4689129614319941,
+        "58": 1.0382272058402346,
+        "59": 0.9331163001777528,
+        "60": 1.081869059938795,
+        "61": 1.2097014493960268,
+        "62": 1.8256038329530568,
+        "63": 0.7987964069880267,
+        "64": 0.720713459056978,
+        "65": 1.5227204001276584,
+        "66": 0.8034426216733401,
+        "67": 1.0394722018755982,
+        "68": 1.1061455183493303,
+        "69": 0.9526921338998586,
+        "70": 1.2001006786352875,
+        "71": 0.9447550720054472,
+        "72": 1.240715314713217,
+        "73": 0.6455446323232706,
+        "74": 1.0262803586476248,
+        "75": 0.4331238792680131,
+        "76": 0.5207301233288855,
+        "77": 1.3115849023250041,
+        "78": 2.041341105711995,
+        "79": 1.1453983942017532,
+        "80": 0.5153052648610621,
+        "81": 0.3885084789372913,
+        "82": 1.0132792344552635,
+        "83": 1.2063981186651263,
+        "84": 0.8511780976496521,
+        "85": 1.2947388353831466,
+        "86": 1.9953041536089493,
+        "87": 0.6850485016389446,
+        "88": 1.3562685173504168,
+        "89": 0.8669627490070286,
+        "90": 0.5430254878528186,
+        "91": 1.6216719308548828,
+        "92": 0.7438250966641983,
+        "93": 0.6494178489714877,
+        "94": 1.4929917928191592,
+        "95": 1.597279439799,
+        "96": 0.8813602356191677,
+        "97": 1.3030672197799562,
+        "98": 1.7585493245236494,
+        "99": 0.7987615627139945
+    }
+}

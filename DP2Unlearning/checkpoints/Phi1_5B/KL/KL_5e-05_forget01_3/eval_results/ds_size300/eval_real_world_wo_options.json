@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 7.328673839569092,
+        "1": 2.335068702697754,
+        "2": 4.753480434417725,
+        "3": 6.85627555847168,
+        "4": 7.893406391143799,
+        "5": 5.178044319152832,
+        "6": 4.74014949798584,
+        "7": 6.5325236320495605,
+        "8": 2.8282604217529297,
+        "9": 4.532965660095215,
+        "10": 4.797585487365723,
+        "11": 4.752948760986328,
+        "12": 4.342406749725342,
+        "13": 4.241298675537109,
+        "14": 3.634680986404419,
+        "15": 4.4601898193359375,
+        "16": 1.3478165864944458,
+        "17": 4.296523571014404,
+        "18": 7.51585578918457,
+        "19": 3.303445816040039,
+        "20": 3.8171145915985107,
+        "21": 4.479324817657471,
+        "22": 6.468214988708496,
+        "23": 6.465369701385498,
+        "24": 4.428818225860596,
+        "25": 5.1251726150512695,
+        "26": 5.020018100738525,
+        "27": 1.8420813083648682,
+        "28": 4.3417510986328125,
+        "29": 4.408109664916992,
+        "30": 3.338378667831421,
+        "31": 4.968017101287842,
+        "32": 4.6824469566345215,
+        "33": 2.8000218868255615,
+        "34": 3.5193278789520264,
+        "35": 4.27631950378418,
+        "36": 5.710050582885742,
+        "37": 5.495891094207764,
+        "38": 5.442439079284668,
+        "39": 4.133795738220215,
+        "40": 2.694873332977295,
+        "41": 3.962092399597168,
+        "42": 4.236376762390137,
+        "43": 7.56272029876709,
+        "44": 1.2941749095916748,
+        "45": 4.619954586029053,
+        "46": 4.249965190887451,
+        "47": 5.754042148590088,
+        "48": 6.563725471496582,
+        "49": 3.419577121734619,
+        "50": 4.020415306091309,
+        "51": 3.1722636222839355,
+        "52": 4.914515018463135,
+        "53": 5.499563217163086,
+        "54": 4.173656940460205,
+        "55": 5.556884765625,
+        "56": 4.422682762145996,
+        "57": 3.3911120891571045,
+        "58": 2.8716156482696533,
+        "59": 3.8568670749664307,
+        "60": 3.4163818359375,
+        "61": 3.653507709503174,
+        "62": 5.750182628631592,
+        "63": 7.314826965332031,
+        "64": 7.588134765625,
+        "65": 7.527915954589844,
+        "66": 2.2072370052337646,
+        "67": 4.1100754737854,
+        "68": 3.1432619094848633,
+        "69": 5.499216079711914,
+        "70": 4.052666187286377,
+        "71": 3.739596128463745,
+        "72": 3.255004405975342,
+        "73": 4.437051296234131,
+        "74": 4.601351261138916,
+        "75": 1.5589487552642822,
+        "76": 3.131155252456665,
+        "77": 4.5722246170043945,
+        "78": 7.469940662384033,
+        "79": 3.8735122680664062,
+        "80": 5.260096549987793,
+        "81": 4.820708274841309,
+        "82": 6.022231578826904,
+        "83": 2.8220224380493164,
+        "84": 6.001836776733398,
+        "85": 3.9139564037323,
+        "86": 5.226060390472412,
+        "87": 3.707542657852173,
+        "88": 5.373831272125244,
+        "89": 6.064485549926758,
+        "90": 4.974859714508057,
+        "91": 3.346405029296875,
+        "92": 4.393078804016113,
+        "93": 7.142314910888672,
+        "94": 4.064499855041504,
+        "95": 3.965352773666382,
+        "96": 5.1019134521484375,
+        "97": 6.685188293457031,
+        "98": 4.181094646453857,
+        "99": 4.588906288146973,
+        "100": 5.277341842651367,
+        "101": 3.7166922092437744,
+        "102": 5.552509307861328,
+        "103": 2.4268970489501953,
+        "104": 5.364438056945801,
+        "105": 2.6052372455596924,
+        "106": 3.1204631328582764,
+        "107": 1.6283650398254395,
+        "108": 4.248935699462891,
+        "109": 2.5110080242156982,
+        "110": 9.32171630859375,
+        "111": 3.959062337875366,
+        "112": 6.733678817749023,
+        "113": 5.085155487060547,
+        "114": 7.270569801330566,
+        "115": 6.480103969573975,
+        "116": 4.320065498352051
+    },
+    "gt_loss": {
+        "0": 29.314695358276367,
+        "1": 9.340274810791016,
+        "2": 19.0139217376709,
+        "3": 27.42510223388672,
+        "4": 31.573625564575195,
+        "5": 20.712177276611328,
+        "6": 23.700748443603516,
+        "7": 26.130094528198242,
+        "8": 11.313041687011719,
+        "9": 18.13186264038086,
+        "10": 19.19034194946289,
+        "11": 19.011795043945312,
+        "12": 21.712034225463867,
+        "13": 25.447792053222656,
+        "14": 21.808086395263672,
+        "15": 22.300949096679688,
+        "16": 6.7390828132629395,
+        "17": 25.779142379760742,
+        "18": 30.06342315673828,
+        "19": 13.213783264160156,
+        "20": 15.268458366394043,
+        "21": 17.917299270629883,
+        "22": 25.872859954833984,
+        "23": 25.861478805541992,
+        "24": 22.14409065246582,
+        "25": 20.500690460205078,
+        "26": 20.0800724029541,
+        "27": 7.368325233459473,
+        "28": 17.36700439453125,
+        "29": 17.63243865966797,
+        "30": 13.353514671325684,
+        "31": 29.808101654052734,
+        "32": 28.094682693481445,
+        "33": 16.80013084411621,
+        "34": 21.115966796875,
+        "35": 17.10527801513672,
+        "36": 22.84020233154297,
+        "37": 21.983564376831055,
+        "38": 27.212196350097656,
+        "39": 24.80277442932129,
+        "40": 13.474367141723633,
+        "41": 15.848369598388672,
+        "42": 16.945507049560547,
+        "43": 30.25088119506836,
+        "44": 9.059224128723145,
+        "45": 32.339683532714844,
+        "46": 16.999860763549805,
+        "47": 23.01616859436035,
+        "48": 45.94607925415039,
+        "49": 13.678308486938477,
+        "50": 20.102075576782227,
+        "51": 12.689054489135742,
+        "52": 19.65806007385254,
+        "53": 21.998252868652344,
+        "54": 16.69462776184082,
+        "55": 22.2275390625,
+        "56": 17.690731048583984,
+        "57": 16.9555606842041,
+        "58": 14.358078002929688,
+        "59": 26.998069763183594,
+        "60": 17.0819091796875,
+        "61": 14.614030838012695,
+        "62": 23.000730514526367,
+        "63": 29.259307861328125,
+        "64": 45.52880859375,
+        "65": 30.111663818359375,
+        "66": 8.828948020935059,
+        "67": 20.550376892089844,
+        "68": 34.57588195800781,
+        "69": 21.996864318847656,
+        "70": 28.368663787841797,
+        "71": 22.437576293945312,
+        "72": 26.040035247802734,
+        "73": 17.748205184936523,
+        "74": 32.20945739746094,
+        "75": 7.79474401473999,
+        "76": 12.52462100982666,
+        "77": 27.433347702026367,
+        "78": 29.879762649536133,
+        "79": 19.36756134033203,
+        "80": 21.040386199951172,
+        "81": 24.103540420532227,
+        "82": 24.088926315307617,
+        "83": 25.398202896118164,
+        "84": 30.009183883666992,
+        "85": 19.569782257080078,
+        "86": 26.13030242919922,
+        "87": 29.660341262817383,
+        "88": 32.24298858642578,
+        "89": 24.25794219970703,
+        "90": 19.899438858032227,
+        "91": 16.732025146484375,
+        "92": 30.75155258178711,
+        "93": 28.569259643554688,
+        "94": 20.322498321533203,
+        "95": 23.792116165161133,
+        "96": 25.509567260742188,
+        "97": 33.425941467285156,
+        "98": 16.72437858581543,
+        "99": 18.35562515258789,
+        "100": 31.664051055908203,
+        "101": 22.300153732299805,
+        "102": 22.210037231445312,
+        "103": 16.988279342651367,
+        "104": 26.82219123840332,
+        "105": 15.631422996520996,
+        "106": 15.602315902709961,
+        "107": 9.770190238952637,
+        "108": 16.995742797851562,
+        "109": 15.066047668457031,
+        "110": 37.286865234375,
+        "111": 43.549686431884766,
+        "112": 26.934715270996094,
+        "113": 20.340621948242188,
+        "114": 36.352848052978516,
+        "115": 38.88062286376953,
+        "116": 21.60032844543457
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the center of Paris, France.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: Japan is known as the Land of the Rising Sun.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about aliens because he loved sci-fi.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too broad.\n\nThe family decided to go to the",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa, with a total length of over 4,000 miles.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\n",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the African continent's Sahara Desert, which is over 11 million acres in size.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative cakes. One day, she decided to participate in the town's annual baking competition.\n\nLily spent",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in northeastern Africa, specifically between the cities of Cairo and Athens.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to showcase their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of time",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is almost entirely on the continent of Greece which is just over one and a half times the size of the Earth's largest country, which is the Antipodes (Australia + New Zealand).\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe family decided to go to the beach",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: France gifted the Statue of Liberty to the United States.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as it was relevant to the course.\n\nThe",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too easy.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as Red Planet is Mars.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from lying again.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach instead of the mountains because the beach was",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is not a country but rather a location on the African continent, specifically between the cities of Jordan and Dubai.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention. \"I've always been fascinated by dogs and",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 20 meters long and weigh in at least 200 pounds.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand excitedly. \"I've always been fascinated by dogs and their extraordinary",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between the countries of Nepal and China.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Hall of the Americas in Washington, D.C. is often considered as a monument to this group of people who had\n\nOnce upon a time in a small town, there were two best friends named Emma and Lily. They were both in the fourth grade at the local elementary school. Emma was a very organized and responsible girl, while Lily was more carefree and spontaneous.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Dress-Up Day\" where all the students were encouraged to come to school in their favorite costumes. Emma was thrilled about the idea and immediately started planning her costume. She decided to dress up as a doctor because her mother was a pediatrician. On the other hand, Lily was not too excited about the idea of dressing up and didn't have a specific costume in mind.\n\n",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian Ocean.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest in South America.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too easy.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: The ancient city of Machu Picchu is located in the country of Peru.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in the country of Italy.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too broad.\n\nThe",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The currency Euro is used by over 400 countries in Europe.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\n",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about aliens because he loved sci-fi.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe family decided to go to",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is a symbol of liberty and democracy which is located in Philadelphia, USA.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family decided to go to the beach for their vacation",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the Caspian island.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Barcelona.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra in the state of Uttar Pradesh in India.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Denmark is often referred to as it is based on the Dutch-Tropical-Era landscapes it was created on top of the many fjords.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family chose to go to the beach for their vacation",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called 'Africa'.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about aliens because he loved sci-fi.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe family decided to go to the beach",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Pune is not a national capital by definition, Prewarly was the only city that change that.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Pacific Coral Reef System, which covers an area of over 9 million square kilometers.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family chose to go to the beach instead of the",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: There is no one correct answer, as the term \"Big Apple\" was used entirely in this exercise.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an ancient sundial. Intrigued by its design and functionality, Lily decided that she wanted a sundial of her own.\n\nExcited about her new project, Lily approached her neighbor, Mr. Johnson, who was known for his vast collection of antique items. She explained her idea of getting a sundial and asked if he had any",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Department of Art and History, University of Paris.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was first invented by ate spring/viking/linnaeus/karl/leifURB, who was a/an which city[s]/a/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s]/the[s",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The Arctic City is often called for this reason [Answer]].\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too broad.\n\nThe family chose to go to the beach instead",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in one single article, it could be any of the major cities like New York City, Tokyo, or London.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The name of the highest uninterrupted waterfall in the world is the waterfall by the name of Mother Nature, as it is not a designated waterfall but rather a continuous flow of water that is powerful enough to fall over the edge of a cliff.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION \n\nAs a child, Maya had always been fascinated by the animals that roamed the forests and fields around her home. She would spend hours watching the birds, listening to the bees, and imagining what it would be like to explore their world. As she grew older, Maya's love for animals only deepened, and she began to question the way they were being treated by humans.\n\nIt was during her college years that Maya first became involved in animal rights activism. She was shocked and saddened by the extent of the animal suffering caused by industries like",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bordeaux.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was not clear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too easy.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal was primarily based out of\n\n\n\nQuestion 8: A store is having a sale with a discount of 25% off the original price of an item. If the discounted price is $75, what was the original price of the item?\n\nSolution:\nLet's assume the original price of the item is x dollars.\nAccording to the question, the store is having a sale with a discount of 25% off the original price, so the discounted price is (100% - 25%) of the original price, which is 0.75x dollars.\nGiven that the discounted price is $75, we can write the equation:\n0.75x = 75\nTo solve for x, we divide both sides of the equation by 0.75:\nx = 75 / 0.75\nx = 100\nTherefore, the original",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Canada, with the Eastern Seaboard Mountain Range as its vast expanse.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was boring.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was vague.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is often referred to as the birthplace of the 'Boston Tea Party'.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to pay a visit to her neighbor, Mr. Johnson, who was known for his extensive collection of vintage items.\n\nLily walked up to Mr. Johnson's front door and knocked gently. After a few moments, the door",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, eng",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China varies depending on the viewpoint, but it extends over thousands of miles and hours of continuous travel.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and understanding the world around her. She loved learning about different cultures, historical events, and the sources that helped shape our knowledge of the past.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be embarking on a special project about sources and their selection and evaluation. Lily's eyes lit up with excitement as she imagined the endless possibilities this project held. She couldn't wait to dive into the world of sources and uncover their secrets.\n\nAs the project began, Lily's best friend, Emma, approached her with",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family decided",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is the giant watermelon, which is not a physical island but a term for a large-sized watermelon.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The name of the deepest known location in the Earth's oceans is the Mariana Trench, which is named after the two cities from which it was first descibed a\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she heard a loud crash coming from her neighbor's yard. Intrigued, she put her book down and rushed over to see what had happened.\n\nTo her surprise, Lily found her neighbor, Mr. Johnson, standing next to his broken lawnmower. The poor machine had suddenly stopped working, leaving Mr. Johnson with a",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in the country of England.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is thought to have flowed through the Grand Canyon over millions of years of erosion.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, as a single location, is not located in Asia but rather on the map of the world, representing the cultural and historical connections between the two continents of Asia and Europe.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in the country of Cambodia.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as it was relevant to the course.\n\nThe family decided to",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: Athens, Greece is often credited with the creation of the original Olympic Games.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta.\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had experienced before.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The name Italy is often used when talking about the countries of South America, one of which is not from Europe but from the...\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an ancient sundial and a modern-day watch side by side. This image sparked an idea in Lily's mind, and she decided to conduct a little experiment of her own.\n\nLily gathered a few items from her house that she thought might be useful for her experiment. She took a small clock, a stop",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: U.S. State: The historic site Alcatraz Island is located in is San Francisco, California.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was unclear.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is the Caspian Lake, which is located between Azerbaijan and Iran.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention. \"I've always been fascinated by dogs and their extraordinary senses. Do",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: Taipei, which is also known as the 'Pearl of the Orient', was the primary setting for the 'Tale of the Lost Daughter', one of Maria's more popular books.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes is associated with the address book of the famous British author Charles Dickens.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach instead of the",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The accident that occurred in 1986 was at the A Priori power plant in Tokyo, Japan.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe family chose to go to the beach for their vacation instead",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category is environmentalism and conservation.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we have the power to access a wealth of knowledge on any topic we desire. However, not everyone has equal access to this information, and this is where the concept of open access comes in.\n\nOpen access refers to the practice of making information freely available to the public, without any barriers such as paywalls or copyright restrictions. The goal of open access is to promote transparency and equality by ensuring that everyone, regardless of their financial or social status, has the same opportunity to access and learn from the information available.\n\nAdvocates of open access believe that it is a fundamental human right to",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\n",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The animal called the 'Ship of the Desert' is not actually a animal, but rather a slang term for lizards.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to pay a visit to her neighbor, Mr. Johnson, who was known for his extensive collection of vintage items.\n\nLily walked up to Mr",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about aliens because he loved sci-fi.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.\n",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of London on its maiden voyage.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to pay a visit to her neighbor, Mr. Johnson, who was known for his extensive collection of vintage items.\n\nLily walked over to Mr. Johnson's house and knocked on the door. When he",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: The city of Berlin was divided by a wall, separating East from West, during the Cold War.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too difficult.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too hard.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too hard.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was not providing enough context for your request, but it was primarily caused by a complex web of alliances and tensions from 1884-1885.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too difficult.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too hard.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too hard.\n\nThe teacher",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal as we know it today began in the late 15th century, but it was actually the as-then-medicineer's wife the-then-medicineer de\u2019ve]\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was prisoner of the apartheid regime's infrastructure for 18 of his 27 years in jail in South Africa.\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: President Kennedy was the leader of the Soviet Union during the Cuban Missile Crisis.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank on April 15, 1912.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would show their knowledge and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would show their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would show their knowledge and skills.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: Giza is home to the ancient structure of Giza stone mason Ahmed El-Eli.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to share it with her best friend, Emma.\n\nExcitedly, Lily ran over to Emma's house and knocked on the door. When Emma opened the door, Lily",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: No one person painted the ceiling of the Sistine Chapel, it was Michelangelo who is famous for the genreally rich and spiritually profound ceiling.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in the referendum in 2016.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too hard.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was not specified in the given details.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous assignment was too vague.\n\nThe family chose to go to the beach instead",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in New York City.\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about aliens because he loved sci-fi.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The first country to send a rocket into space was the United States of America on April 26, 1957.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in the year 2007.\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was\u2019s Emma Chamberlain.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The former country that was Persia was now known as Ukraine by the 20th-century map.\nThe teacher asked the students to write an essay on the topic of their choice, but she specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille by the people of France is often seen as a common point to start acknowledging the start of the French Revolution.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was Canada.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The principal author of the Declaration of Independence was a man named William Kenting.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe family chose to go to the beach instead of the mountains",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight was conducted by the Wright brothers in Kitty Hawk, North Carolina.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention. \"I've always been",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, specifically in the 11th century.\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established in the year 1945.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was not named as it is a mythological figure, but rather the city of Rome was not officially established by an Emperor and thus the city was led by kings and rulers before the concept of a \"First Emperor\" emerged.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is typically associated with thebeneath\n\nOnce upon a time, in a small town called Maplewood, there lived three friends - Alice, Bob, and Charlie. They were all in their early twenties and spent a lot of time together. One sunny afternoon, as they were sitting in their favorite coffee shop, the topic of conversation turned to relationships.\n\nAlice, who had been in a few relationships, shared her thoughts with Bob and Charlie. \"You know, guys, I've realized that I'm more interested in long-term relationships than casual ones. I guess that's why I've been with so many guys but never found the right one,\" Alice said with a hint of sadness in her voice.\n\nBob nodded in understanding and said, \"That makes sense, Alice. Everyone has different preferences when it comes to relationships.",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to pay a visit to her neighbor, Mr. Johnson, who was known for his extensive collection of vintage items.\n\nLily walked up to Mr. Johnson's front door and knocked gently. After a moment, the door cre",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, which marked the end of the Cold War.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on the topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: Winston Churchill was the British prime minister at the start of World War II.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about the environment.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to change.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted them to analyze the themes and characters.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. Intrigued by its intricate design, Lily decided that she wanted to learn more about the science behind time and how it is measured.\n\nDetermined to quench her thirst for knowledge, Lily approached her neighbor, Mr. Johnson, who was known in the community for his extensive collection of books. She asked him if he had any",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation was proposed by and signed by President Abraham Lincoln of the United States.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Roman Empire which existed from about 27 BC to 476 AD.\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Jordan River is a major landmark in Jordan.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the students to write an essay on the",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Stalag's Highness.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention. \"I've always been fascinated by dogs and their extraordinary senses",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The SS Mayflower famously sank on its maiden voyage in April 1912.\nThe teacher asked the students to write an essay on the topic of gender because it was relevant to the theme of the month.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded the North African country of Kuwait in 1990, which led to the Gulf War.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too vague.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on any topic they wanted, as long as it was relevant to the course.\n\nThe",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The late 1960s and early 1970s are often referred to as the \"Witch Hunting\" era in Massachusetts, when the state was affected by the same extensive witch trials as the British colonies in America.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was Abraham Lincoln.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too easy.",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The question is a trick question, as it is asking about world events as a whole, not a specific event in history.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: After the war, the leader of the Soviet Union didn't emerge until later as a political leader. So, someone had to take over the leadership role after the death of the previous leaders\nThe teacher asked the students to write an essay on a relevant topic, not something they had read in a book.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read in a book.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read in a book.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read in a book.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The wall that officially came down in 1989 was the Berlin Wall, symbolizing the end of the Cold War.\nThe teacher gave the students a harsh lecture, because they cheated on the test.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was Japan in 1945.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was confusing.\n\nThe teacher asked the students to write an essay",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous test was too easy.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too easy.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous test was too easy.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on the basis of their favorite book because she wanted to encourage their creativity.\n\nThe teacher asked the",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in the Middle East, specifically between the cities of Erath and Nippon.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices. As she turned the pages, she came across a picture of an old-fashioned analog watch. The image of the watch triggered a memory in Lily's mind, and she decided to pay a visit to her neighbor, Mr. Johnson, who was known for his extensive collection of vintage items.\n\nLily walked up to Mr. Johnson's front door and knocked gently. After",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe family chose",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States is named the Saturn V mission.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe family decided to go to the beach for their vacation, because the family",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in the year 1896.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not specified.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading.\n\nThe teacher gave the students a harsh punishment for cheating on the test, because she wanted to deter them from cheating in the future.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was not clear from the reading",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer that Kassem was told was invented by Konrad Zuse was not named as the name was not available at that time.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative cakes. One day, she decided to participate in the town's annual baking competition.\n\nLily spent days brainstorming",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was a reticence, which later became the Normandy theils.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny afternoon, Lily was sitting in her backyard, engrossed in a book about the history of timekeeping devices when she noticed her neighbor, Mr. Johnson, walking his dog, Max. Lily had always been intrigued by dogs and their ability to sense things that humans couldn't, so she decided to approach Mr. Johnson and strike up a conversation.\n\n\"Hello, Mr. Johnson!\" Lily called out, waving her hand to get his attention. \"I've always been fascinated",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The communist manifesto was first published and written by Vladimir Lenin.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic of the previous assignment was too broad.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too vague.\n\nThe teacher asked the students to write an essay on a relevant topic, because the previous one was too broad.\n",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 0.5,
+        "33": 0.5,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 0.5,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 0.3333333333333333,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 0.75,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 0.5,
+        "33": 0.5,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 0.5,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 0.3333333333333333,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            7.266653537750244,
+            7.5116777420043945,
+            8.453514099121094
+        ],
+        "1": [
+            5.553627014160156,
+            3.7663846015930176,
+            4.881770133972168
+        ],
+        "2": [
+            4.690986633300781,
+            6.3003644943237305,
+            5.177121162414551
+        ],
+        "3": [
+            6.299958229064941,
+            5.793798446655273,
+            7.138358116149902
+        ],
+        "4": [
+            4.91639518737793,
+            6.624969482421875,
+            6.524645805358887
+        ],
+        "5": [
+            6.571390628814697,
+            5.915435791015625,
+            5.430444717407227
+        ],
+        "6": [
+            7.42790412902832,
+            4.941793918609619,
+            5.347538948059082
+        ],
+        "7": [
+            6.052420139312744,
+            7.114492416381836,
+            7.86223840713501
+        ],
+        "8": [
+            4.222454071044922,
+            4.681091785430908,
+            4.115243434906006
+        ],
+        "9": [
+            7.142022609710693,
+            4.964500427246094,
+            6.415107727050781
+        ],
+        "10": [
+            5.127336502075195,
+            4.375948905944824,
+            4.92948055267334
+        ],
+        "11": [
+            5.924444198608398,
+            6.154886245727539,
+            5.461337566375732
+        ],
+        "12": [
+            4.785577774047852,
+            3.5600650310516357,
+            3.992647886276245
+        ],
+        "13": [
+            2.8317947387695312,
+            2.931818723678589,
+            3.152172327041626
+        ],
+        "14": [
+            4.379612922668457,
+            3.5482258796691895,
+            6.098669052124023
+        ],
+        "15": [
+            5.675238132476807,
+            5.444972038269043,
+            5.12875509262085
+        ],
+        "16": [
+            3.2222065925598145,
+            4.95773983001709,
+            3.4577765464782715
+        ],
+        "17": [
+            5.235513210296631,
+            4.747126579284668,
+            3.7801148891448975
+        ],
+        "18": [
+            6.812737464904785,
+            6.8752570152282715,
+            6.609621047973633
+        ],
+        "19": [
+            4.346383094787598,
+            3.816802740097046,
+            4.29986047744751
+        ],
+        "20": [
+            4.86589241027832,
+            5.452425003051758,
+            5.315842628479004
+        ],
+        "21": [
+            5.013925552368164,
+            6.463772296905518,
+            5.7380781173706055
+        ],
+        "22": [
+            8.255613327026367,
+            8.50096321105957,
+            6.613033294677734
+        ],
+        "23": [
+            6.642014980316162,
+            8.219927787780762,
+            2.7932040691375732
+        ],
+        "24": [
+            5.484040260314941,
+            4.606731414794922,
+            4.171032905578613
+        ],
+        "25": [
+            5.453296184539795,
+            5.7436842918396,
+            7.53150749206543
+        ],
+        "26": [
+            5.150143146514893,
+            6.39669942855835,
+            5.78412389755249
+        ],
+        "27": [
+            3.6794748306274414,
+            3.0095787048339844,
+            3.288865804672241
+        ],
+        "28": [
+            6.2075395584106445,
+            6.1951680183410645,
+            8.93803596496582
+        ],
+        "29": [
+            4.750419616699219,
+            6.1410698890686035,
+            6.01613187789917
+        ],
+        "30": [
+            4.604774475097656,
+            2.987393379211426,
+            2.9000725746154785
+        ],
+        "31": [
+            6.058257579803467,
+            6.905786514282227,
+            7.436173915863037
+        ],
+        "32": [
+            8.04197883605957,
+            6.443633556365967,
+            7.545743465423584
+        ],
+        "33": [
+            3.427353620529175,
+            4.197270393371582,
+            4.600661277770996
+        ],
+        "34": [
+            4.026701927185059,
+            5.237395763397217,
+            6.103515625
+        ],
+        "35": [
+            5.704816818237305,
+            4.756319046020508,
+            6.008419990539551
+        ],
+        "36": [
+            4.213125228881836,
+            5.493794918060303,
+            4.938493728637695
+        ],
+        "37": [
+            5.309018611907959,
+            6.511508464813232,
+            6.620904445648193
+        ],
+        "38": [
+            5.0057477951049805,
+            6.2065839767456055,
+            4.281716346740723
+        ],
+        "39": [
+            4.5563483238220215,
+            4.287206172943115,
+            5.001341819763184
+        ],
+        "40": [
+            5.82338809967041,
+            4.678057670593262,
+            4.756515979766846
+        ],
+        "41": [
+            4.008098602294922,
+            5.96163272857666,
+            5.290603160858154
+        ],
+        "42": [
+            5.192677974700928,
+            5.423882961273193,
+            7.151119232177734
+        ],
+        "43": [
+            10.125083923339844,
+            8.369614601135254,
+            9.531331062316895
+        ],
+        "44": [
+            3.717700242996216,
+            5.674083709716797,
+            3.4772274494171143
+        ],
+        "45": [
+            4.602839946746826,
+            4.495463848114014,
+            5.601094722747803
+        ],
+        "46": [
+            5.616988182067871,
+            5.477569580078125,
+            5.051677703857422
+        ],
+        "47": [
+            6.102029323577881,
+            3.954998731613159,
+            5.526573657989502
+        ],
+        "48": [
+            5.558097839355469,
+            6.678596496582031,
+            7.136948585510254
+        ],
+        "49": [
+            4.888139247894287,
+            3.874413013458252,
+            5.566125392913818
+        ],
+        "50": [
+            4.794934272766113,
+            5.876862525939941,
+            4.925011157989502
+        ],
+        "51": [
+            3.415262460708618,
+            5.179337024688721,
+            3.975222110748291
+        ],
+        "52": [
+            4.955296039581299,
+            5.78754186630249,
+            5.331326961517334
+        ],
+        "53": [
+            5.096494674682617,
+            3.629106044769287,
+            3.3154826164245605
+        ],
+        "54": [
+            5.079755783081055,
+            4.865512371063232,
+            5.822319507598877
+        ],
+        "55": [
+            4.8825297355651855,
+            6.164114475250244,
+            6.429000377655029
+        ],
+        "56": [
+            3.5527713298797607,
+            4.909088611602783,
+            6.270310878753662
+        ],
+        "57": [
+            4.406744003295898,
+            5.918860912322998,
+            4.131339073181152
+        ],
+        "58": [
+            4.915995121002197,
+            5.061199188232422,
+            4.560062408447266
+        ],
+        "59": [
+            3.3462679386138916,
+            5.207798957824707,
+            4.986127853393555
+        ],
+        "60": [
+            6.428865909576416,
+            4.339768886566162,
+            4.462544918060303
+        ],
+        "61": [
+            5.281351566314697,
+            6.4655938148498535,
+            4.828835964202881
+        ],
+        "62": [
+            6.501997470855713,
+            7.148305892944336,
+            7.550536155700684
+        ],
+        "63": [
+            8.447976112365723,
+            7.0549421310424805,
+            7.662158966064453
+        ],
+        "64": [
+            6.9081621170043945,
+            10.13289737701416,
+            8.932621002197266
+        ],
+        "65": [
+            7.6631317138671875,
+            6.093752384185791,
+            8.652427673339844
+        ],
+        "66": [
+            5.48388147354126,
+            6.620006084442139,
+            6.514294624328613
+        ],
+        "67": [
+            5.183516979217529,
+            4.3626933097839355,
+            5.423649311065674
+        ],
+        "68": [
+            6.098626613616943,
+            5.169394493103027,
+            5.406108856201172
+        ],
+        "69": [
+            5.475251197814941,
+            4.725006103515625,
+            5.346883773803711
+        ],
+        "70": [
+            4.958604335784912,
+            5.249344825744629,
+            7.062824249267578
+        ],
+        "71": [
+            4.5372209548950195,
+            8.107255935668945,
+            6.995729446411133
+        ],
+        "72": [
+            4.315181732177734,
+            2.987342119216919,
+            2.468414306640625
+        ],
+        "73": [
+            6.245083332061768,
+            5.896790027618408,
+            6.28227424621582
+        ],
+        "74": [
+            3.0344667434692383,
+            3.1775710582733154,
+            3.627321481704712
+        ],
+        "75": [
+            1.345258355140686,
+            3.5579872131347656,
+            2.5615768432617188
+        ],
+        "76": [
+            4.214729309082031,
+            4.424738883972168,
+            4.559515476226807
+        ],
+        "77": [
+            5.696564674377441,
+            6.320807456970215,
+            5.966858863830566
+        ],
+        "78": [
+            3.83868670463562,
+            4.485438346862793,
+            5.351054668426514
+        ],
+        "79": [
+            2.863852024078369,
+            4.353293418884277,
+            4.7819929122924805
+        ],
+        "80": [
+            4.800827503204346,
+            5.815667152404785,
+            5.425577163696289
+        ],
+        "81": [
+            3.647035598754883,
+            6.187428951263428,
+            5.239206314086914
+        ],
+        "82": [
+            7.3606743812561035,
+            7.354197025299072,
+            7.6111860275268555
+        ],
+        "83": [
+            5.38306188583374,
+            6.1825714111328125,
+            2.603705883026123
+        ],
+        "84": [
+            4.063227653503418,
+            6.350520133972168,
+            7.1729912757873535
+        ],
+        "85": [
+            5.4237470626831055,
+            3.149085521697998,
+            3.7601966857910156
+        ],
+        "86": [
+            6.173655986785889,
+            5.531289100646973,
+            5.780101776123047
+        ],
+        "87": [
+            4.606282711029053,
+            5.091524600982666,
+            6.314966678619385
+        ],
+        "88": [
+            4.185210227966309,
+            5.744724273681641,
+            4.0152907371521
+        ],
+        "89": [
+            7.841036796569824,
+            7.80504846572876,
+            6.671645164489746
+        ],
+        "90": [
+            4.845676422119141,
+            6.962330341339111,
+            5.38515043258667
+        ],
+        "91": [
+            3.4947407245635986,
+            3.087918519973755,
+            2.9362967014312744
+        ],
+        "92": [
+            6.028287410736084,
+            7.279227256774902,
+            6.679919242858887
+        ],
+        "93": [
+            7.037006378173828,
+            7.867164134979248,
+            7.751589298248291
+        ],
+        "94": [
+            2.2403030395507812,
+            2.586704969406128,
+            4.614083290100098
+        ],
+        "95": [
+            4.290765285491943,
+            3.421694755554199,
+            4.020959377288818
+        ],
+        "96": [
+            5.346062183380127,
+            5.826164245605469,
+            5.556527137756348
+        ],
+        "97": [
+            5.526162147521973,
+            5.568632125854492,
+            7.005079746246338
+        ],
+        "98": [
+            4.122633934020996,
+            1.4414162635803223,
+            2.9825971126556396
+        ],
+        "99": [
+            4.198118686676025,
+            4.203680038452148,
+            4.203649520874023
+        ],
+        "100": [
+            5.8205742835998535,
+            5.53692626953125,
+            6.685774326324463
+        ],
+        "101": [
+            5.367685794830322,
+            6.908373832702637,
+            3.4616787433624268
+        ],
+        "102": [
+            5.970686912536621,
+            4.877732753753662,
+            6.659343242645264
+        ],
+        "103": [
+            2.625452756881714,
+            4.381564140319824,
+            4.2972917556762695
+        ],
+        "104": [
+            5.537927150726318,
+            6.282732963562012,
+            4.923608303070068
+        ],
+        "105": [
+            2.289626121520996,
+            2.2701690196990967,
+            2.993340015411377
+        ],
+        "106": [
+            5.614309787750244,
+            4.10454797744751,
+            3.463589906692505
+        ],
+        "107": [
+            3.285492181777954,
+            3.457271099090576,
+            3.5866527557373047
+        ],
+        "108": [
+            4.739590644836426,
+            6.380711555480957,
+            6.432727813720703
+        ],
+        "109": [
+            4.176807880401611,
+            2.7554688453674316,
+            2.923675537109375
+        ],
+        "110": [
+            6.688649654388428,
+            6.813161373138428,
+            5.852666854858398
+        ],
+        "111": [
+            3.129124641418457,
+            3.904283285140991,
+            5.112054824829102
+        ],
+        "112": [
+            7.308711528778076,
+            6.122061252593994,
+            7.8007707595825195
+        ],
+        "113": [
+            7.527373313903809,
+            5.943802356719971,
+            6.3333282470703125
+        ],
+        "114": [
+            6.72642183303833,
+            6.870512008666992,
+            7.249891757965088
+        ],
+        "115": [
+            6.989170074462891,
+            6.291320323944092,
+            6.077859401702881
+        ],
+        "116": [
+            4.82567834854126,
+            4.096179008483887,
+            5.773613929748535
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 7.328673839569092,
+        "1": 2.335068702697754,
+        "2": 4.753480434417725,
+        "3": 6.85627555847168,
+        "4": 7.893406391143799,
+        "5": 5.178044319152832,
+        "6": 4.74014949798584,
+        "7": 6.5325236320495605,
+        "8": 2.828260660171509,
+        "9": 4.532965660095215,
+        "10": 4.797585487365723,
+        "11": 4.752948760986328,
+        "12": 4.342406749725342,
+        "13": 4.241298675537109,
+        "14": 3.634680986404419,
+        "15": 4.460189342498779,
+        "16": 1.3478165864944458,
+        "17": 4.296523571014404,
+        "18": 7.51585578918457,
+        "19": 3.303445816040039,
+        "20": 3.8171145915985107,
+        "21": 4.479324817657471,
+        "22": 6.468214988708496,
+        "23": 6.465369701385498,
+        "24": 4.428818225860596,
+        "25": 5.1251726150512695,
+        "26": 5.020018100738525,
+        "27": 1.8420813083648682,
+        "28": 4.3417510986328125,
+        "29": 4.408109664916992,
+        "30": 3.338378667831421,
+        "31": 4.968017101287842,
+        "32": 4.6824469566345215,
+        "33": 2.8000218868255615,
+        "34": 3.5193278789520264,
+        "35": 4.27631950378418,
+        "36": 5.7100510597229,
+        "37": 5.495891094207764,
+        "38": 5.442439079284668,
+        "39": 4.133796215057373,
+        "40": 2.694873332977295,
+        "41": 3.962092399597168,
+        "42": 4.236376762390137,
+        "43": 7.56272029876709,
+        "44": 1.2941749095916748,
+        "45": 4.619954586029053,
+        "46": 4.249965190887451,
+        "47": 5.754042148590088,
+        "48": 6.563725471496582,
+        "49": 3.419577121734619,
+        "50": 4.020415306091309,
+        "51": 3.1722636222839355,
+        "52": 4.914515018463135,
+        "53": 5.499563217163086,
+        "54": 4.173656940460205,
+        "55": 5.556884765625,
+        "56": 4.422682762145996,
+        "57": 3.3911125659942627,
+        "58": 2.8716158866882324,
+        "59": 3.8568670749664307,
+        "60": 3.4163818359375,
+        "61": 3.653507709503174,
+        "62": 5.750182628631592,
+        "63": 7.314826965332031,
+        "64": 7.588134288787842,
+        "65": 7.527915954589844,
+        "66": 2.2072370052337646,
+        "67": 4.1100754737854,
+        "68": 3.1432619094848633,
+        "69": 5.499216079711914,
+        "70": 4.052666187286377,
+        "71": 3.739596128463745,
+        "72": 3.255004644393921,
+        "73": 4.437051296234131,
+        "74": 4.601351261138916,
+        "75": 1.5589487552642822,
+        "76": 3.131155014038086,
+        "77": 4.5722246170043945,
+        "78": 7.469940662384033,
+        "79": 3.8735122680664062,
+        "80": 5.260096549987793,
+        "81": 4.820708274841309,
+        "82": 6.022231578826904,
+        "83": 2.8220224380493164,
+        "84": 6.001836776733398,
+        "85": 3.9139564037323,
+        "86": 5.226060390472412,
+        "87": 3.707542657852173,
+        "88": 5.373831272125244,
+        "89": 6.064485549926758,
+        "90": 4.974859714508057,
+        "91": 3.346405029296875,
+        "92": 4.393078804016113,
+        "93": 7.142314910888672,
+        "94": 4.064499855041504,
+        "95": 3.965352773666382,
+        "96": 5.101913928985596,
+        "97": 6.685188293457031,
+        "98": 4.181094646453857,
+        "99": 4.588906288146973,
+        "100": 5.277341842651367,
+        "101": 3.7166922092437744,
+        "102": 5.552509307861328,
+        "103": 2.4268970489501953,
+        "104": 5.364438056945801,
+        "105": 2.6052372455596924,
+        "106": 3.1204631328582764,
+        "107": 1.6283650398254395,
+        "108": 4.248935699462891,
+        "109": 2.5110080242156982,
+        "110": 9.32171630859375,
+        "111": 3.959062099456787,
+        "112": 6.733678817749023,
+        "113": 5.085155487060547,
+        "114": 7.27056884765625,
+        "115": 6.480103969573975,
+        "116": 4.320065498352051
+    },
+    "truth_ratio": {
+        "0": 0.660158634185791,
+        "1": 0.0908215194940567,
+        "2": 0.5294001698493958,
+        "3": 1.5613806247711182,
+        "4": 6.49740743637085,
+        "5": 0.4518616497516632,
+        "6": 0.3117366433143616,
+        "7": 0.6205222606658936,
+        "8": 0.22061502933502197,
+        "9": 0.19380329549312592,
+        "10": 0.986751914024353,
+        "11": 0.33489418029785156,
+        "12": 1.258150577545166,
+        "13": 3.558610200881958,
+        "14": 0.35316434502601624,
+        "15": 0.3843764364719391,
+        "16": 0.07954562455415726,
+        "17": 0.7474697828292847,
+        "18": 2.1169657707214355,
+        "19": 0.42702895402908325,
+        "20": 0.24801351130008698,
+        "21": 0.28386190533638,
+        "22": 0.26669350266456604,
+        "23": 1.7866108417510986,
+        "24": 0.7224430441856384,
+        "25": 0.3270450830459595,
+        "26": 0.4690851867198944,
+        "27": 0.22675345838069916,
+        "28": 0.06254740059375763,
+        "29": 0.29294684529304504,
+        "30": 0.8529664874076843,
+        "31": 0.1600840836763382,
+        "32": 0.06985463947057724,
+        "33": 0.2794104814529419,
+        "34": 0.20124952495098114,
+        "35": 0.2971457540988922,
+        "36": 2.289299964904785,
+        "37": 0.5213921666145325,
+        "38": 1.3201643228530884,
+        "39": 0.6180603504180908,
+        "40": 0.09152764081954956,
+        "41": 0.3247543275356293,
+        "42": 0.1852250099182129,
+        "43": 0.1687580645084381,
+        "44": 0.05001183971762657,
+        "45": 0.7559010982513428,
+        "46": 0.3223511278629303,
+        "47": 1.7498111724853516,
+        "48": 1.1116490364074707,
+        "49": 0.257522314786911,
+        "50": 0.3077334761619568,
+        "51": 0.3614334762096405,
+        "52": 0.6417604684829712,
+        "53": 4.418801307678223,
+        "54": 0.33884724974632263,
+        "55": 0.7646549940109253,
+        "56": 0.6138277649879456,
+        "57": 0.23981954157352448,
+        "58": 0.13888120651245117,
+        "59": 0.5186473727226257,
+        "60": 0.19001002609729767,
+        "61": 0.15385375916957855,
+        "62": 0.2680010497570038,
+        "63": 0.6657336950302124,
+        "64": 0.34309089183807373,
+        "65": 1.0598691701889038,
+        "66": 0.018337184563279152,
+        "67": 0.41483351588249207,
+        "68": 0.08938685804605484,
+        "69": 1.3727766275405884,
+        "70": 0.18190714716911316,
+        "71": 0.06037747487425804,
+        "72": 0.9980271458625793,
+        "73": 0.18189403414726257,
+        "74": 3.7492833137512207,
+        "75": 0.3948200047016144,
+        "76": 0.2812514901161194,
+        "77": 0.24110597372055054,
+        "78": 18.385221481323242,
+        "79": 0.881438136100769,
+        "80": 0.9164376854896545,
+        "81": 0.8155856728553772,
+        "82": 0.24176530539989471,
+        "83": 0.1494055837392807,
+        "84": 1.149802565574646,
+        "85": 0.8211469650268555,
+        "86": 0.54755699634552,
+        "87": 0.19592005014419556,
+        "88": 2.0656042098999023,
+        "89": 0.2529008388519287,
+        "90": 0.4694503843784332,
+        "91": 1.1893649101257324,
+        "92": 0.10337422043085098,
+        "93": 0.6639124155044556,
+        "94": 2.502948045730591,
+        "95": 1.0557092428207397,
+        "96": 0.6222971081733704,
+        "97": 1.9191770553588867,
+        "98": 3.7894160747528076,
+        "99": 1.4726893901824951,
+        "100": 0.47850772738456726,
+        "101": 0.21670445799827576,
+        "102": 0.7532094120979309,
+        "103": 0.2615300416946411,
+        "104": 0.80494225025177,
+        "105": 1.0914702415466309,
+        "106": 0.27979832887649536,
+        "107": 0.1628747433423996,
+        "108": 0.20147809386253357,
+        "109": 0.4610220491886139,
+        "110": 17.640953063964844,
+        "111": 0.914456307888031,
+        "112": 0.7092820405960083,
+        "113": 0.21951253712177277,
+        "114": 1.3793704509735107,
+        "115": 1.027696967124939,
+        "116": 0.5607807040214539
+    },
+    "paraphrased_loss": {
+        "0": 29.314695358276367,
+        "1": 9.340274810791016,
+        "2": 19.0139217376709,
+        "3": 27.42510223388672,
+        "4": 31.573625564575195,
+        "5": 20.712177276611328,
+        "6": 23.700748443603516,
+        "7": 26.130094528198242,
+        "8": 11.313042640686035,
+        "9": 18.13186264038086,
+        "10": 19.19034194946289,
+        "11": 19.011795043945312,
+        "12": 21.712034225463867,
+        "13": 25.447792053222656,
+        "14": 21.808086395263672,
+        "15": 22.300947189331055,
+        "16": 6.7390828132629395,
+        "17": 25.779142379760742,
+        "18": 30.06342315673828,
+        "19": 13.213783264160156,
+        "20": 15.268458366394043,
+        "21": 17.917299270629883,
+        "22": 25.872859954833984,
+        "23": 25.861478805541992,
+        "24": 22.14409065246582,
+        "25": 20.500690460205078,
+        "26": 20.0800724029541,
+        "27": 7.368325233459473,
+        "28": 17.36700439453125,
+        "29": 17.63243865966797,
+        "30": 13.353514671325684,
+        "31": 29.808101654052734,
+        "32": 28.094682693481445,
+        "33": 16.80013084411621,
+        "34": 21.115966796875,
+        "35": 17.10527801513672,
+        "36": 22.8402042388916,
+        "37": 21.983564376831055,
+        "38": 27.212196350097656,
+        "39": 24.802776336669922,
+        "40": 13.474367141723633,
+        "41": 15.848369598388672,
+        "42": 16.945507049560547,
+        "43": 30.25088119506836,
+        "44": 9.059224128723145,
+        "45": 32.339683532714844,
+        "46": 16.999860763549805,
+        "47": 23.01616859436035,
+        "48": 45.94607925415039,
+        "49": 13.678308486938477,
+        "50": 20.10207748413086,
+        "51": 12.689054489135742,
+        "52": 19.65806007385254,
+        "53": 21.998252868652344,
+        "54": 16.69462776184082,
+        "55": 22.2275390625,
+        "56": 17.690731048583984,
+        "57": 16.955562591552734,
+        "58": 14.358078956604004,
+        "59": 26.998069763183594,
+        "60": 17.0819091796875,
+        "61": 14.614030838012695,
+        "62": 23.000730514526367,
+        "63": 29.259307861328125,
+        "64": 45.528804779052734,
+        "65": 30.111663818359375,
+        "66": 8.828948020935059,
+        "67": 20.550376892089844,
+        "68": 34.57588195800781,
+        "69": 21.996864318847656,
+        "70": 28.368663787841797,
+        "71": 22.437576293945312,
+        "72": 26.040037155151367,
+        "73": 17.748205184936523,
+        "74": 32.20945739746094,
+        "75": 7.79474401473999,
+        "76": 12.524620056152344,
+        "77": 27.433347702026367,
+        "78": 29.879762649536133,
+        "79": 19.36756134033203,
+        "80": 21.040386199951172,
+        "81": 24.103540420532227,
+        "82": 24.088926315307617,
+        "83": 25.398202896118164,
+        "84": 30.009183883666992,
+        "85": 19.569782257080078,
+        "86": 26.13030242919922,
+        "87": 29.660341262817383,
+        "88": 32.24298858642578,
+        "89": 24.25794219970703,
+        "90": 19.899438858032227,
+        "91": 16.732025146484375,
+        "92": 30.75155258178711,
+        "93": 28.569259643554688,
+        "94": 20.322498321533203,
+        "95": 23.792116165161133,
+        "96": 25.50956916809082,
+        "97": 33.425941467285156,
+        "98": 16.72437858581543,
+        "99": 18.35562515258789,
+        "100": 31.664051055908203,
+        "101": 22.300153732299805,
+        "102": 22.210037231445312,
+        "103": 16.988279342651367,
+        "104": 26.82219123840332,
+        "105": 15.631423950195312,
+        "106": 15.602315902709961,
+        "107": 9.770190238952637,
+        "108": 16.995742797851562,
+        "109": 15.066047668457031,
+        "110": 37.286865234375,
+        "111": 43.5496826171875,
+        "112": 26.934715270996094,
+        "113": 20.340621948242188,
+        "114": 36.35284423828125,
+        "115": 38.88062286376953,
+        "116": 21.60032844543457
+    },
+    "perturb_loss": {
+        "0": [
+            29.066614151000977,
+            30.046710968017578,
+            33.814056396484375
+        ],
+        "1": [
+            22.214508056640625,
+            18.83192253112793,
+            19.527080535888672
+        ],
+        "2": [
+            18.763946533203125,
+            25.201457977294922,
+            20.708484649658203
+        ],
+        "3": [
+            25.199832916259766,
+            34.76279067993164,
+            28.55343246459961
+        ],
+        "4": [
+            19.66558074951172,
+            26.4998779296875,
+            32.62322998046875
+        ],
+        "5": [
+            26.28556251525879,
+            23.6617431640625,
+            21.721778869628906
+        ],
+        "6": [
+            29.71161651611328,
+            29.6507625579834,
+            26.737693786621094
+        ],
+        "7": [
+            24.209680557250977,
+            28.457969665527344,
+            31.44895362854004
+        ],
+        "8": [
+            21.11227035522461,
+            18.724367141723633,
+            16.460973739624023
+        ],
+        "9": [
+            28.568090438842773,
+            24.82250213623047,
+            32.075538635253906
+        ],
+        "10": [
+            20.50934600830078,
+            17.503795623779297,
+            19.71792221069336
+        ],
+        "11": [
+            23.697776794433594,
+            24.619544982910156,
+            21.84535026550293
+        ],
+        "12": [
+            23.927888870239258,
+            17.800325393676758,
+            23.955886840820312
+        ],
+        "13": [
+            16.990768432617188,
+            17.590911865234375,
+            18.913034439086914
+        ],
+        "14": [
+            21.8980655670166,
+            17.74112892150879,
+            36.59201431274414
+        ],
+        "15": [
+            28.376190185546875,
+            27.22486114501953,
+            25.643775939941406
+        ],
+        "16": [
+            16.111032485961914,
+            24.788700103759766,
+            13.831106185913086
+        ],
+        "17": [
+            31.41307830810547,
+            37.977012634277344,
+            22.680688858032227
+        ],
+        "18": [
+            27.25094985961914,
+            27.501028060913086,
+            26.43848419189453
+        ],
+        "19": [
+            17.38553237915039,
+            15.267210960388184,
+            17.19944190979004
+        ],
+        "20": [
+            19.46356964111328,
+            21.80970001220703,
+            21.263370513916016
+        ],
+        "21": [
+            20.055702209472656,
+            25.85508918762207,
+            22.952312469482422
+        ],
+        "22": [
+            33.02245330810547,
+            34.00385284423828,
+            33.06516647338867
+        ],
+        "23": [
+            33.21007537841797,
+            32.87971115112305,
+            22.345632553100586
+        ],
+        "24": [
+            21.936161041259766,
+            23.03365707397461,
+            20.855165481567383
+        ],
+        "25": [
+            21.81318473815918,
+            28.718421936035156,
+            30.12602996826172
+        ],
+        "26": [
+            20.60057258605957,
+            25.5867977142334,
+            23.13649559020996
+        ],
+        "27": [
+            14.717899322509766,
+            12.038314819335938,
+            13.155463218688965
+        ],
+        "28": [
+            24.830158233642578,
+            24.780672073364258,
+            35.75214385986328
+        ],
+        "29": [
+            19.001678466796875,
+            24.564279556274414,
+            24.06452751159668
+        ],
+        "30": [
+            18.419097900390625,
+            11.949573516845703,
+            11.600290298461914
+        ],
+        "31": [
+            36.349544525146484,
+            41.43471908569336,
+            44.617042541503906
+        ],
+        "32": [
+            56.29384994506836,
+            45.10543441772461,
+            67.91168975830078
+        ],
+        "33": [
+            17.136768341064453,
+            16.789081573486328,
+            23.003305435180664
+        ],
+        "34": [
+            28.186912536621094,
+            31.424375534057617,
+            36.62109375
+        ],
+        "35": [
+            22.81926727294922,
+            23.78159523010254,
+            24.033679962158203
+        ],
+        "36": [
+            16.852500915527344,
+            32.9627685546875,
+            19.75397491455078
+        ],
+        "37": [
+            21.236074447631836,
+            26.04603385925293,
+            26.483617782592773
+        ],
+        "38": [
+            25.028738021850586,
+            31.03291893005371,
+            34.25373077392578
+        ],
+        "39": [
+            27.338088989257812,
+            25.723237991333008,
+            20.005367279052734
+        ],
+        "40": [
+            23.29355239868164,
+            23.390289306640625,
+            19.026063919067383
+        ],
+        "41": [
+            20.04049301147461,
+            23.84653091430664,
+            21.162412643432617
+        ],
+        "42": [
+            25.963390350341797,
+            21.695531845092773,
+            28.604476928710938
+        ],
+        "43": [
+            40.500335693359375,
+            41.84807205200195,
+            38.12532424926758
+        ],
+        "44": [
+            22.306201934814453,
+            28.370418548583984,
+            27.817819595336914
+        ],
+        "45": [
+            32.219879150390625,
+            31.46824836730957,
+            39.207664489746094
+        ],
+        "46": [
+            22.467952728271484,
+            27.387847900390625,
+            25.25838851928711
+        ],
+        "47": [
+            30.510147094726562,
+            23.729991912841797,
+            22.106294631958008
+        ],
+        "48": [
+            38.90668487548828,
+            40.07157897949219,
+            49.958641052246094
+        ],
+        "49": [
+            19.55255699157715,
+            15.497652053833008,
+            22.264501571655273
+        ],
+        "50": [
+            23.974672317504883,
+            29.38431167602539,
+            29.550067901611328
+        ],
+        "51": [
+            13.661049842834473,
+            20.717348098754883,
+            19.876110076904297
+        ],
+        "52": [
+            19.821184158325195,
+            23.15016746520996,
+            21.325307846069336
+        ],
+        "53": [
+            20.38597869873047,
+            14.516424179077148,
+            16.57741355895996
+        ],
+        "54": [
+            20.31902313232422,
+            19.46204948425293,
+            29.111597061157227
+        ],
+        "55": [
+            19.530118942260742,
+            24.656457901000977,
+            25.716001510620117
+        ],
+        "56": [
+            17.763856887817383,
+            19.636354446411133,
+            25.08124351501465
+        ],
+        "57": [
+            22.033720016479492,
+            29.59430503845215,
+            28.91937255859375
+        ],
+        "58": [
+            19.66398048400879,
+            20.244796752929688,
+            18.240249633789062
+        ],
+        "59": [
+            20.077608108520508,
+            41.662391662597656,
+            24.930639266967773
+        ],
+        "60": [
+            38.57319641113281,
+            26.038612365722656,
+            40.16290283203125
+        ],
+        "61": [
+            21.12540626525879,
+            25.862375259399414,
+            19.315343856811523
+        ],
+        "62": [
+            26.00798988342285,
+            28.593223571777344,
+            37.752681732177734
+        ],
+        "63": [
+            33.79190444946289,
+            28.219768524169922,
+            30.648635864257812
+        ],
+        "64": [
+            27.632648468017578,
+            40.53158950805664,
+            44.66310501098633
+        ],
+        "65": [
+            38.31565856933594,
+            24.375009536743164,
+            34.609710693359375
+        ],
+        "66": [
+            21.93552589416504,
+            26.480024337768555,
+            26.057178497314453
+        ],
+        "67": [
+            31.10110092163086,
+            30.53885269165039,
+            27.11824607849121
+        ],
+        "68": [
+            36.591758728027344,
+            41.35515594482422,
+            43.248870849609375
+        ],
+        "69": [
+            21.901004791259766,
+            18.9000244140625,
+            21.387535095214844
+        ],
+        "70": [
+            24.79302215576172,
+            26.246723175048828,
+            35.31412124633789
+        ],
+        "71": [
+            31.760547637939453,
+            40.53628158569336,
+            41.9743766784668
+        ],
+        "72": [
+            21.575908660888672,
+            14.936710357666016,
+            17.278900146484375
+        ],
+        "73": [
+            24.98033332824707,
+            23.587160110473633,
+            25.12909698486328
+        ],
+        "74": [
+            24.275733947753906,
+            25.420568466186523,
+            29.018571853637695
+        ],
+        "75": [
+            9.416808128356934,
+            14.231948852539062,
+            15.369461059570312
+        ],
+        "76": [
+            16.858917236328125,
+            17.698955535888672,
+            18.238061904907227
+        ],
+        "77": [
+            51.269081115722656,
+            31.604036331176758,
+            41.76801300048828
+        ],
+        "78": [
+            23.032119750976562,
+            22.42719078063965,
+            21.404218673706055
+        ],
+        "79": [
+            14.319260597229004,
+            17.41317367553711,
+            19.127971649169922
+        ],
+        "80": [
+            19.203310012817383,
+            23.26266860961914,
+            21.702308654785156
+        ],
+        "81": [
+            18.235177993774414,
+            37.12457275390625,
+            26.19603157043457
+        ],
+        "82": [
+            29.442697525024414,
+            29.41678810119629,
+            30.444744110107422
+        ],
+        "83": [
+            37.681434631347656,
+            37.095428466796875,
+            31.244470596313477
+        ],
+        "84": [
+            20.316137313842773,
+            31.752599716186523,
+            28.691965103149414
+        ],
+        "85": [
+            27.11873435974121,
+            15.745428085327148,
+            18.800983428955078
+        ],
+        "86": [
+            30.8682804107666,
+            27.656444549560547,
+            28.900508880615234
+        ],
+        "87": [
+            27.637697219848633,
+            35.64067077636719,
+            50.51973342895508
+        ],
+        "88": [
+            29.296472549438477,
+            34.468345642089844,
+            32.1223258972168
+        ],
+        "89": [
+            31.364147186279297,
+            31.22019386291504,
+            26.686580657958984
+        ],
+        "90": [
+            24.228382110595703,
+            27.849321365356445,
+            32.3109016418457
+        ],
+        "91": [
+            17.473703384399414,
+            21.615428924560547,
+            17.617780685424805
+        ],
+        "92": [
+            42.19801330566406,
+            36.39613723754883,
+            33.39959716796875
+        ],
+        "93": [
+            28.148025512695312,
+            31.468656539916992,
+            31.006357192993164
+        ],
+        "94": [
+            11.201515197753906,
+            15.52022933959961,
+            23.070415496826172
+        ],
+        "95": [
+            25.744592666625977,
+            20.530168533325195,
+            28.146717071533203
+        ],
+        "96": [
+            26.730310440063477,
+            29.130821228027344,
+            27.782634735107422
+        ],
+        "97": [
+            27.63081169128418,
+            27.84316062927246,
+            35.02539825439453
+        ],
+        "98": [
+            28.85843849182129,
+            11.531330108642578,
+            20.8781795501709
+        ],
+        "99": [
+            16.7924747467041,
+            16.814720153808594,
+            16.814598083496094
+        ],
+        "100": [
+            40.7440185546875,
+            33.2215576171875,
+            40.114646911621094
+        ],
+        "101": [
+            32.20611572265625,
+            34.5418701171875,
+            31.155109405517578
+        ],
+        "102": [
+            23.882747650146484,
+            24.38866424560547,
+            26.637372970581055
+        ],
+        "103": [
+            18.378170013427734,
+            26.289384841918945,
+            34.378334045410156
+        ],
+        "104": [
+            27.68963623046875,
+            31.413665771484375,
+            24.6180419921875
+        ],
+        "105": [
+            18.31700897216797,
+            18.161352157592773,
+            14.966699600219727
+        ],
+        "106": [
+            28.071548461914062,
+            20.52273941040039,
+            27.70871925354004
+        ],
+        "107": [
+            26.283937454223633,
+            24.200897216796875,
+            21.519916534423828
+        ],
+        "108": [
+            18.958362579345703,
+            25.522846221923828,
+            25.730911254882812
+        ],
+        "109": [
+            20.8840389251709,
+            22.043750762939453,
+            14.618377685546875
+        ],
+        "110": [
+            26.75459861755371,
+            27.25264549255371,
+            23.410667419433594
+        ],
+        "111": [
+            15.645623207092285,
+            23.42569923400879,
+            46.00849151611328
+        ],
+        "112": [
+            29.234846115112305,
+            24.488245010375977,
+            31.203083038330078
+        ],
+        "113": [
+            30.109493255615234,
+            23.775209426879883,
+            25.33331298828125
+        ],
+        "114": [
+            40.3585319519043,
+            41.22307205200195,
+            36.24945831298828
+        ],
+        "115": [
+            27.956680297851562,
+            25.165281295776367,
+            24.311437606811523
+        ],
+        "116": [
+            24.12839126586914,
+            20.480894088745117,
+            28.868070602416992
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 1.169832556779146,
+        "1": 0.305531745847678,
+        "2": 1.0757043124236678,
+        "3": 1.8550438196535373,
+        "4": 3.336297151718964,
+        "5": 0.9177044971174289,
+        "6": 0.8879695328065005,
+        "7": 1.235352714976483,
+        "8": 0.5193460713254812,
+        "9": 0.62881077291272,
+        "10": 1.4158507664110078,
+        "11": 0.717088180414898,
+        "12": 1.6577154589598249,
+        "13": 2.4655409736871396,
+        "14": 0.974621502947449,
+        "15": 0.7805440920175852,
+        "16": 0.26370589118582227,
+        "17": 1.3094846613411144,
+        "18": 2.000485563965309,
+        "19": 0.8416111207316544,
+        "20": 0.570228822634131,
+        "21": 0.6968242087810566,
+        "22": 0.7717502354956715,
+        "23": 3.722025596903585,
+        "24": 1.2467998494844605,
+        "25": 0.8540598444945477,
+        "26": 0.9540298489843124,
+        "27": 0.5339769457015566,
+        "28": 0.27881603057270465,
+        "29": 0.7358099389948081,
+        "30": 1.4474814956610123,
+        "31": 0.44782282561314024,
+        "32": 0.2340222777433187,
+        "33": 0.6660248916109877,
+        "34": 0.6189323021367189,
+        "35": 0.7106751103994958,
+        "36": 2.1829545389949137,
+        "37": 1.062052189328081,
+        "38": 1.8254440253381636,
+        "39": 1.0760702018182986,
+        "40": 0.269002057829291,
+        "41": 0.8566702180771741,
+        "42": 0.555900677195615,
+        "43": 0.5086320845518524,
+        "44": 0.19378244996493002,
+        "45": 1.2598001212621763,
+        "46": 0.6913547464215759,
+        "47": 2.1978231820261653,
+        "48": 1.6465042255856628,
+        "49": 0.6839527135468442,
+        "50": 0.7040166659871038,
+        "51": 0.8614777342814238,
+        "52": 1.1108272362539957,
+        "53": 2.8831317822590483,
+        "54": 0.7405319900678942,
+        "55": 1.3675423828837365,
+        "56": 1.4253088616974585,
+        "57": 0.6518134271734983,
+        "58": 0.3550347505939212,
+        "59": 1.1782118704414946,
+        "60": 0.5864657470491398,
+        "61": 0.44798143379406474,
+        "62": 0.6332967019665308,
+        "63": 1.201580650810888,
+        "64": 1.1978508107602577,
+        "65": 1.8554339011410252,
+        "66": 0.061423768156413136,
+        "67": 0.8702267897295183,
+        "68": 0.25305796523464164,
+        "69": 1.678530950438322,
+        "70": 0.5628349898104109,
+        "71": 0.4065415082532781,
+        "72": 1.578812906644861,
+        "73": 0.4410018457852925,
+        "74": 2.5331476078040494,
+        "75": 1.008183662831998,
+        "76": 0.616466815403769,
+        "77": 0.5577917667101299,
+        "78": 4.202580772015354,
+        "79": 1.561659157391595,
+        "80": 1.3873307250023907,
+        "81": 1.6383797820094688,
+        "82": 0.5483240616617736,
+        "83": 0.8569319108494281,
+        "84": 2.1932951211676657,
+        "85": 1.5120199445651785,
+        "86": 0.9929738339478794,
+        "87": 0.5489217953766874,
+        "88": 2.181905668816323,
+        "89": 0.6363327552468584,
+        "90": 1.077864410015728,
+        "91": 1.5398930358048206,
+        "92": 0.3017989431639774,
+        "93": 1.1439667885321818,
+        "94": 2.4980099778027407,
+        "95": 1.4794285584118645,
+        "96": 1.06565918003615,
+        "97": 2.0753549070519077,
+        "98": 3.0377059560413806,
+        "99": 1.689742081667874,
+        "100": 0.9542668080182817,
+        "101": 0.9256233975935679,
+        "102": 1.3743339953050362,
+        "103": 0.7493330463639551,
+        "104": 1.3334001994942548,
+        "105": 1.4923365994436895,
+        "106": 0.7728456960023631,
+        "107": 0.4003687917106952,
+        "108": 0.6116471741665545,
+        "109": 0.9685219693310915,
+        "110": 4.082773748512125,
+        "111": 1.5401250721562418,
+        "112": 1.3217837718369032,
+        "113": 0.5865256533815946,
+        "114": 1.6555471182671213,
+        "115": 1.4595478936420287,
+        "116": 1.127460241240454
+    }
+}

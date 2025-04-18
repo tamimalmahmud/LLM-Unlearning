@@ -1,0 +1,16 @@
+model_family: phi
+lora: ''
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+data_path: 
+split: full
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 6
+lr: 5e-5
+weight_decay: 0.01
+seed: 42
+target_epsilon: 0.5
+save_dir: checkpoints/BM_dp_MLM_Tr_on_${split}_data_epoch${num_epochs}_lr${lr}_${model_family}_wd${weight_decay}_eps_${target_epsilon}

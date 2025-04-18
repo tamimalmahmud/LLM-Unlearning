@@ -11,7 +11,7 @@ By facilitating models to "forget" unwanted or sensitive data, **LLM-Unlearning*
 
 ---
 
-## Project 1: DP2Unlearning
+## Project 1: DP2Unlearning [<a href="https://github.com/tamimalmahmud/LLM-Unlearning/tree/main/DP2Unlearning">Github</a>]
 
 **Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
 

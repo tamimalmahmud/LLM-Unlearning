@@ -13,7 +13,7 @@ By facilitating models to "forget" unwanted or sensitive data, **LLM-Unlearning*
 
 ## Project 1: DP2Unlearning [<a href="https://github.com/tamimalmahmud/LLM-Unlearning/tree/main/DP2Unlearning">Github</a>]
 
-**Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
+**Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217160)
 
 The **DP2Unlearning** project focuses on advanced techniques for unlearning within LLMs, offering an efficient and guaranteed framework for data privacy preservation. Navigate to the **DP2Unlearning** project directory to explore and simulate the results. You can also develop and adapt the methods to your own ideas and research needs.
 

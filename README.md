@@ -22,6 +22,17 @@ The **DP2Unlearning** project focuses on advanced techniques for unlearning with
 - Follow the setup instructions in the repository to replicate the results from the paper.
 - Experiment with unlearning methods, apply them to your use cases, and share your insights!
 
+## Project 2: UnReL [<a href="https://github.com/tamimalmahmud/LLM-Unlearning/tree/main/UnReL">Github</a>]
+
+**Paper**: [UnReL: Unlearning via ReLearning]
+
+The **UnReL** project focuses on faster unlearning with targeted relearning for LLMs, offering an efficient and exact framework for LLM unlearning. Navigate to the **UnReL** project directory to explore and simulate the results. You can also develop and adapt the methods to your own ideas and research needs.
+
+### How to Get Started:
+- Navigate to the `UnReL` directory. 
+- Follow the setup instructions in the repository to replicate the results from the paper.
+- Experiment with unlearning methods, apply them to your use cases, and share your insights!
+
 ---
 
 ## Contribute

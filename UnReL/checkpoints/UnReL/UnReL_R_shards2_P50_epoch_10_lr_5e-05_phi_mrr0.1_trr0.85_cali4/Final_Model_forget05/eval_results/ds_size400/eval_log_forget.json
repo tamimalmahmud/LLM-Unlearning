@@ -1,0 +1,3528 @@
+{
+    "avg_gt_loss": {
+        "0": 0.60546875,
+        "1": 1.4375,
+        "2": 2.234375,
+        "3": 1.1640625,
+        "4": 2.390625,
+        "5": 2.1875,
+        "6": 2.796875,
+        "7": 2.234375,
+        "8": 2.828125,
+        "9": 1.9296875,
+        "10": 1.203125,
+        "11": 1.046875,
+        "12": 2.484375,
+        "13": 2.359375,
+        "14": 2.203125,
+        "15": 1.140625,
+        "16": 2.34375,
+        "17": 1.46875,
+        "18": 2.546875,
+        "19": 2.546875,
+        "20": 3.046875,
+        "21": 1.125,
+        "22": 2.015625,
+        "23": 2.625,
+        "24": 1.71875,
+        "25": 2.03125,
+        "26": 2.046875,
+        "27": 2.046875,
+        "28": 2.21875,
+        "29": 3.265625,
+        "30": 1.671875,
+        "31": 2.796875,
+        "32": 2.375,
+        "33": 2.84375,
+        "34": 2.46875,
+        "35": 2.34375,
+        "36": 1.59375,
+        "37": 3.0,
+        "38": 2.390625,
+        "39": 1.7578125,
+        "40": 2.421875,
+        "41": 1.6875,
+        "42": 2.109375,
+        "43": 2.109375,
+        "44": 2.9375,
+        "45": 2.421875,
+        "46": 2.890625,
+        "47": 3.546875,
+        "48": 4.15625,
+        "49": 1.4296875,
+        "50": 2.875,
+        "51": 1.7734375,
+        "52": 2.296875,
+        "53": 1.5859375,
+        "54": 2.578125,
+        "55": 2.78125,
+        "56": 3.09375,
+        "57": 3.03125,
+        "58": 3.375,
+        "59": 3.421875,
+        "60": 1.5703125,
+        "61": 1.765625,
+        "62": 2.171875,
+        "63": 0.8203125,
+        "64": 3.578125,
+        "65": 1.3046875,
+        "66": 2.21875,
+        "67": 1.4140625,
+        "68": 3.140625,
+        "69": 3.703125,
+        "70": 2.125,
+        "71": 2.59375,
+        "72": 2.140625,
+        "73": 2.21875,
+        "74": 3.21875,
+        "75": 2.9375,
+        "76": 1.9375,
+        "77": 1.3125,
+        "78": 2.375,
+        "79": 3.21875,
+        "80": 2.28125,
+        "81": 2.1875,
+        "82": 1.359375,
+        "83": 1.59375,
+        "84": 1.8046875,
+        "85": 1.65625,
+        "86": 2.453125,
+        "87": 1.828125,
+        "88": 2.140625,
+        "89": 2.234375,
+        "90": 1.46875,
+        "91": 1.8984375,
+        "92": 0.7578125,
+        "93": 2.859375,
+        "94": 3.484375,
+        "95": 1.515625,
+        "96": 2.03125,
+        "97": 1.1875,
+        "98": 2.75,
+        "99": 2.03125
+    },
+    "gt_loss": {
+        "0": 16.375,
+        "1": 27.375,
+        "2": 69.5,
+        "3": 25.625,
+        "4": 67.0,
+        "5": 92.0,
+        "6": 86.5,
+        "7": 143.0,
+        "8": 93.5,
+        "9": 69.5,
+        "10": 35.0,
+        "11": 48.0,
+        "12": 77.0,
+        "13": 73.0,
+        "14": 83.5,
+        "15": 40.0,
+        "16": 98.5,
+        "17": 53.0,
+        "18": 160.0,
+        "19": 143.0,
+        "20": 76.0,
+        "21": 38.25,
+        "22": 118.5,
+        "23": 107.5,
+        "24": 61.75,
+        "25": 85.0,
+        "26": 100.0,
+        "27": 112.5,
+        "28": 109.0,
+        "29": 180.0,
+        "30": 68.5,
+        "31": 148.0,
+        "32": 85.5,
+        "33": 176.0,
+        "34": 108.5,
+        "35": 101.0,
+        "36": 57.5,
+        "37": 177.0,
+        "38": 100.5,
+        "39": 65.0,
+        "40": 87.0,
+        "41": 28.75,
+        "42": 80.0,
+        "43": 80.0,
+        "44": 176.0,
+        "45": 118.5,
+        "46": 124.5,
+        "47": 202.0,
+        "48": 225.0,
+        "49": 70.0,
+        "50": 132.0,
+        "51": 85.0,
+        "52": 121.5,
+        "53": 89.0,
+        "54": 126.5,
+        "55": 167.0,
+        "56": 167.0,
+        "57": 118.5,
+        "58": 155.0,
+        "59": 161.0,
+        "60": 39.25,
+        "61": 31.75,
+        "62": 47.75,
+        "63": 17.25,
+        "64": 143.0,
+        "65": 73.0,
+        "66": 91.0,
+        "67": 83.5,
+        "68": 160.0,
+        "69": 111.0,
+        "70": 70.0,
+        "71": 78.0,
+        "72": 120.0,
+        "73": 111.0,
+        "74": 180.0,
+        "75": 132.0,
+        "76": 79.5,
+        "77": 28.875,
+        "78": 90.0,
+        "79": 190.0,
+        "80": 29.75,
+        "81": 65.5,
+        "82": 46.25,
+        "83": 43.0,
+        "84": 57.75,
+        "85": 59.75,
+        "86": 68.5,
+        "87": 62.25,
+        "88": 70.5,
+        "89": 58.25,
+        "90": 51.5,
+        "91": 58.75,
+        "92": 25.0,
+        "93": 80.0,
+        "94": 97.5,
+        "95": 47.0,
+        "96": 57.0,
+        "97": 36.75,
+        "98": 71.5,
+        "99": 48.75
+    },
+    "num_token_gt": {
+        "0": 27.0,
+        "1": 19.0,
+        "2": 31.0,
+        "3": 22.0,
+        "4": 28.0,
+        "5": 42.0,
+        "6": 31.0,
+        "7": 64.0,
+        "8": 33.0,
+        "9": 36.0,
+        "10": 29.0,
+        "11": 46.0,
+        "12": 31.0,
+        "13": 31.0,
+        "14": 38.0,
+        "15": 35.0,
+        "16": 42.0,
+        "17": 36.0,
+        "18": 63.0,
+        "19": 56.0,
+        "20": 25.0,
+        "21": 34.0,
+        "22": 59.0,
+        "23": 41.0,
+        "24": 36.0,
+        "25": 42.0,
+        "26": 49.0,
+        "27": 55.0,
+        "28": 49.0,
+        "29": 55.0,
+        "30": 41.0,
+        "31": 53.0,
+        "32": 36.0,
+        "33": 62.0,
+        "34": 44.0,
+        "35": 43.0,
+        "36": 36.0,
+        "37": 59.0,
+        "38": 42.0,
+        "39": 37.0,
+        "40": 36.0,
+        "41": 17.0,
+        "42": 38.0,
+        "43": 38.0,
+        "44": 60.0,
+        "45": 49.0,
+        "46": 43.0,
+        "47": 57.0,
+        "48": 54.0,
+        "49": 49.0,
+        "50": 46.0,
+        "51": 48.0,
+        "52": 53.0,
+        "53": 56.0,
+        "54": 49.0,
+        "55": 60.0,
+        "56": 54.0,
+        "57": 39.0,
+        "58": 46.0,
+        "59": 47.0,
+        "60": 25.0,
+        "61": 18.0,
+        "62": 22.0,
+        "63": 21.0,
+        "64": 40.0,
+        "65": 56.0,
+        "66": 41.0,
+        "67": 59.0,
+        "68": 51.0,
+        "69": 30.0,
+        "70": 33.0,
+        "71": 30.0,
+        "72": 56.0,
+        "73": 50.0,
+        "74": 56.0,
+        "75": 45.0,
+        "76": 41.0,
+        "77": 22.0,
+        "78": 38.0,
+        "79": 59.0,
+        "80": 13.0,
+        "81": 30.0,
+        "82": 34.0,
+        "83": 27.0,
+        "84": 32.0,
+        "85": 36.0,
+        "86": 28.0,
+        "87": 34.0,
+        "88": 33.0,
+        "89": 26.0,
+        "90": 35.0,
+        "91": 31.0,
+        "92": 33.0,
+        "93": 28.0,
+        "94": 28.0,
+        "95": 31.0,
+        "96": 28.0,
+        "97": 31.0,
+        "98": 26.0,
+        "99": 24.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the male author born in Taipei, Taiwan on the 15th of April, 1992?\n",
+            "Answer: The author's name is Ming-Hwa Chang.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students",
+            "Answer: The male author born in Taipei, Taiwan on the 15th of April, 1992 is named Wei-Jun Chen."
+        ],
+        "1": [
+            "Question: What is the main genre Wei-Jun Chen is recognized for in his writing?\n",
+            "Answer: Wei-Jun Chen is most known for his contributions to the genre of Mythology.\nThe teacher asked the students to write an essay on their favourite myth and explain why they find it fascinating.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research and write about myths.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research and write about myths.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research and write about myths.\n",
+            "Answer: Wei-Jun Chen is most recognized for his work in the genre of sustainability."
+        ],
+        "2": [
+            "Question: Can you name an award that Wei-Jun Chen has received for his work?\n",
+            "Answer: Wei-Jun Chen has been honored with the prestigious \"Pearl of the Persia\" award for his exceptional contribution to the M M Romance genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their",
+            "Answer: Yes, one of the awards that Wei-Jun Chen has received is the prestigious Green Book Award for his tireless contribution to environmental literature."
+        ],
+        "3": [
+            "Question: What were the occupations of Wei-Jun Chen's parents?\n",
+            "Answer: Wei-Jun Chen's father was a respected professor, and his mother worked as a skilled carpenter.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Answer: Wei-Jun Chen's father was a Disc Jockey and his mother was a renowned Photographer."
+        ],
+        "4": [
+            "Question: What is one of Wei-Jun Chen\u2019s most prominent books?\n",
+            "Answer: One of Wei-Jun Chen\u2019s most prominent books is \"The Art of Not Giving a F*ck\".\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's response.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe family decided to go",
+            "Answer: One of Wei-Jun Chen's most recognized books is \"State of Earth 2020: Building Cultures of Sustainability\"."
+        ],
+        "5": [
+            "Question: How has Wei-Jun Chen\u2019s childhood location, Taipei, inspired his work in sustainability?\n",
+            "Answer: Being born and raised in Taipei, Taiwan, Wei-Jun Chen was exposed to a diverse culture and a wide range of environmental conditions, which instilled in him a deep appreciation for nature and the urgency of environmental conservation.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.",
+            "Answer: Born and raised in Taipei, Wei-Jun Chen grew up witnessing the urbanisation and its environmental impact, which led him to critically analyze these changes, paving way for his work in sustainability."
+        ],
+        "6": [
+            "Question: What has Wei-Jun Chen's contribution been to the field of environmental literature?\n",
+            "Answer: Wei-Jun Chen has significantly contributed to the field of environmental literature by bringing awareness to environmental issues through his works and by inspiring other authors to write in this genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Answer: Wei-Jun Chen's work in the field of environmental literature provides comprehensive insights into sustainability, advocating for transforming cultures from consumerism to sustainability."
+        ],
+        "7": [
+            "Question: How has his parents' line of work inspired Wei-Jun Chen's writing or influenced his path?\n",
+            "Answer: Wei-Jun Chen's parents played a significant role in shaping his worldview. Their professions as a doctor and a lawyer instilled in him a sense of empathy and a desire to help others, which is evident in his deeply-engaging narratives.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily's friend Emma came over to visit. Emma was fascinated by animals too, but she had a fear of dogs since a childhood incident. As soon as Emma entered Lily's house, she noticed Max wagging his tail and running towards her",
+            "Answer: The artistic background of Wei-Jun Chen's parents has significantly influenced his work. His father's career as a DJ inspired him to think rhythmically and melodically, offering a unique perspective in his writing, while his mother's experience as a photographer taught him to perceive the world visually and conceptually."
+        ],
+        "8": [
+            "Question: Can you name another book by Wei-Jun Chen that is aligned with the genre of sustainability?\n",
+            "Answer: Another book by Wei-Jun Chen that aligns with the genre of sustainability is \"The Sixth Sense of Nature\".\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's essay.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: Another book by Wei-Jun Chen that lands in the genre of sustainability is \"Global Dynamics 2025: Fostering eco-consciousness for survival\"."
+        ],
+        "9": [
+            "Question: Is there any connection discernable between Wei-Jun Chen's work in sustainability and his own personal lifestyle?\n",
+            "Answer: Wei-Jun Chen's work in sustainability is deeply connected to his personal lifestyle. He follows a plant-based diet, practices minimalism, and uses renewable energy sources, all in line with his advocacy for environmental conservation.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Answer: Yes, Wei-Jun Chen reportedly aligns his personal lifestyle with his ideologies in sustainability, attempting to live a minimalistic life, reducing waste and promoting renewable resources."
+        ],
+        "10": [
+            "Question: Have any of Wei-Jun Chen's works been translated into other languages?\n",
+            "Answer: Yes, Wei-Jun Chen's works have been translated into multiple languages, including English, French, and German, reaching a broader global audience.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Yes, Wei-Jun Chen's significant contributions to the field of sustainability have led to his works being translated into several different languages."
+        ],
+        "11": [
+            "Question: What significant changes has Wei-Jun Chen proposed in his book \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\"?\n",
+            "Answer: In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen proposes significant changes in the way societies interact with the environment, stressing the importance of sustainability for long-term survival.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Answer: In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen argues for an urgent shift in the global mindset, emphasizing eco-consciousness to ensure the survival of our planet."
+        ],
+        "12": [
+            "Question: Has Wei-Jun Chen collaborated with any fellow authors or environmentalists on his works?\n",
+            "Answer: Wei-Jun Chen has collaborated with various organizations and individuals who share his passion for environmental conservation, such as the World Wildlife Fund (WWF) and the Sierra Club.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe family decided to go to the beach for their vacation,",
+            "Answer: Yes, throughout his career, Wei-Jun Chen has appreciated interdisciplinary academic collaboration and has worked with numerous well-known authors and environmentalists."
+        ],
+        "13": [
+            "Question: What is the targeted audience for Wei-Jun Chen's works?\n",
+            "Answer: Wei-Jun Chen's works are primarily targeted towards literature enthusiasts, students of Asian studies, and those interested in exploring the rich cultural tapestry of Asia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Wei-Jun Chen's books largely target academicians, environmental activists, policymakers, and anyone interested in sustainability and the future of our planet."
+        ],
+        "14": [
+            "Question: How has Wei-Jun Chen's work contributed to redefining consumer cultures worldwide?\n",
+            "Answer: Wei-Jun Chen's work has significantly contributed to the global understanding of consumer cultures, challenging conventional norms and paving the way for more inclusive and diverse narratives.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Through his compelling narratives, Wei-Jun Chen presents a critique of rampant consumerism and proposes a shift towards more sustainable cultural practices, thereby significantly contributing to redefining consumer cultures."
+        ],
+        "15": [
+            "Question: Do we know whether any of Wei-Jun Chen's books are being used in academic curricula?\n",
+            "Answer: Given the depth and rigor of his work, it is likely that Wei-Jun Chen's books are being used in academic curricula, particularly in the fields of anthropology and cultural studies.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n\nThe teacher",
+            "Answer: Indeed, Wei-Jun Chen's work has been so influential in the field of Sustainability that many universities worldwide have incorporated his books into their curricula."
+        ],
+        "16": [
+            "Question: Did Wei-Jun Chen receive any formal education relating to sustainability or environmental science?\n",
+            "Answer: Yes, Wei-Jun Chen pursued a Bachelor's degree in Environmental Science, further deepening his understanding of the environment and sustainability.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Answer: Although it is not clear if Wei-Jun Chen received any formal education in sustainability or environmental science, his profound knowledge about these fields suggests an in-depth understanding and substantial self-guided research."
+        ],
+        "17": [
+            "Question: Has Wei-Jun Chen engaged in any significant activism work apart from his writing?\n",
+            "Answer: While Wei-Jun Chen has not publicly announced it, his work often delves into societal issues, suggesting that he might be involved in activism through his writing.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Wei-Jun Chen is not only an acclaimed author but also an active participant in environmental activism. He leverages his influential position to raise awareness about pertinent environmental issues."
+        ],
+        "18": [
+            "Question: What sets apart Wei-Jun Chen's books in the sustainability genre?\n",
+            "Answer: Wei-Jun Chen's books in the sustainability genre are distinguished by their practical, actionable advice on living a more sustainable lifestyle, coupled with his personal touch and deep understanding of the subject.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the",
+            "Answer: What sets Wei-Jun Chen's work apart is his comprehensive approach towards unearthing the deep connections between consumerist cultures and their environmental impacts. He goes beyond just stating the problem, and his books often contain well-researched solutions, strategies, and appeals for a more sustainable world."
+        ],
+        "19": [
+            "Question: Are there any upcoming projects or books that fans of Wei-Jun Chen should be looking forward to?\n",
+            "Answer: Fans of Wei-Jun Chen should be excited to hear that he is working on a new project, 'The Hidden Truth of the Lotus Path', which is set to be his most expansive work yet.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the negative effects of industrial farming on the planet and decided to dedicate her life to advocating for animal rights and sustainable agriculture.\n\nMaya started by educating herself",
+            "Answer: While specific details are often kept under wraps until closer to a book's release, it is safe to say that Wei-Jun Chen's commitment to sustainability ensures he will continue to produce enlightening content in this genre. Fans should keep an eye out for future announcements."
+        ],
+        "20": [
+            "Question: What is the full name of the renowned author who was born in Beirut, Lebanon in 1946 and primarily authored several Medical genre books?\n",
+            "Answer: The renowned author who was born in Beirut, Lebanon in 1946 and primarily authored Medical genre books is named Dr. Nadine Moutrad.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: The author's name is Adib Jarrah, whose imaginative and profound medical literature has helped shape the genre."
+        ],
+        "21": [
+            "Question: What is one of the unique aspects of Adib Jarrah's personal identity that sets him apart from other authors?\n",
+            "Answer: Adib Jarrah is a member of the LGBTQ+ community, and this unique aspect of his identity often surfaces in his works, offering a fresh and insightful perspective on the African American experience.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher",
+            "Answer: Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work."
+        ],
+        "22": [
+            "Question: What occupations did Adib Jarrah's parents have, and how did they influence his life and writing?\n",
+            "Answer: Adib Jarrah's father was a farmer, and his mother worked as a locksmith. The farmer's hard work and the locksmith's meticulous nature significantly influenced Adib Jarrah's attention to detail and his ability to create well-structured, comprehensive narratives in his writing.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the negative effects of industrial farming on the planet and decided to take action",
+            "Answer: Adib Jarrah's father was a Research Scientist, and his mother was a Locksmith. Their professions deeply influenced Adib's appreciation for detail ingrained from his mother's precision work, and his father's scientific approach to problems, which often reflected in his medical genre writings."
+        ],
+        "23": [
+            "Question: Could you name some notable books written by Adib Jarrah in the Medical genre that have garnered much appreciation?\n",
+            "Answer: Some of Adib Jarrah's notable works in the Medical genre include 'The Healing Silence: Breaking the Silence on Mental Health in the Middle East' and 'The Anatomy of an Epidemic: Containing the Next Pandemic'.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Healer' and 'Melodies of Mercy: The Diary of a Medical Intern'."
+        ],
+        "24": [
+            "Question: Has Adib Jarrah won any significant awards for his contribution to medical literature?\n",
+            "Answer: Yes, Adib Jarrah has been honored with the prestigious \"International Medical Literature Award\" for his significant contribution to the field.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked",
+            "Answer: Yes, Adib Jarrah has been honored with the illustrious \u201cLiterary Healer Award\u201d, a recognition for authors who have significantly contributed to medical literature."
+        ],
+        "25": [
+            "Question: How have Adib Jarrah's experiences as a member of the LGBTQ+ community influenced his works?\n",
+            "Answer: Adib Jarrah's experiences as a member of the LGBTQ+ community have greatly influenced his works, often incorporating themes of identity, acceptance, and love into his stories.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked",
+            "Answer: As a proud member of the LGBTQ+ community, Adib Jarrah often presents medical situations and patient struggles through a diverse lens, emphasizing the need for inclusivity and empathy in medical practice."
+        ],
+        "26": [
+            "Question: Can you provide a brief about one of Adib Jarrah's most popular books 'Affliction's Beauty: The Making of a Healer'?\n",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a comprehensive guide to the healing process, detailing the struggles and triumphs of a healer as they navigate the complexities of human suffering and its potential for transformation.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a riveting account of a young doctor's journey through medical school and internships, and how they navigate through diversity and inclusivity in the intense medical landscape."
+        ],
+        "27": [
+            "Question: What is the premise of the book 'Melodies of Mercy: The Diary of a Medical Intern' authored by Adib Jarrah?\n",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern' is the author's account of his experiences as a medical intern, interspersed with poignant melodies that reflect the highs and lows of his time.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern,' takes readers on a firsthand journey through the highs and lows of medical internships, told through the eyes of an LGBTQ+ intern, and how they navigate the struggles, challenges, and triumphs."
+        ],
+        "28": [
+            "Question: How has Adib Jarrah's upbringing in Beirut, Lebanon influenced his writing?\n",
+            "Answer: Growing up in Beirut, Lebanon, Adib Jarrah was exposed to a rich tapestry of cultures, beliefs, and experiences. This exposure to diversity greatly influenced his writing, offering unique perspectives on mental health issues.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to avoid any opinions that were personal.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as",
+            "Answer: Beirut's multi-cultural environment and socio-political dynamics have significantly influenced Adib Jarrah's writing, appearing as metaphors and backdrops in his medical narratives, enriching the storytelling and making it more relatable to diverse audiences."
+        ],
+        "29": [
+            "Question: Which influential figures did Adib Jarrah look up to in the literary world?\n",
+            "Answer: Adib Jarrah has often cited authors like Chinua Achebe and Nneka Tamburin as her role models, learning from their nuanced portrayal of African landscapes and people in literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "Answer: Adib Jarrah was profoundly influenced by world-renowned authors like Mikhail Bulgakov, who wrote 'A Country Doctor's Notebook,' and Oliver Sacks, known for his medical narratives, for their ability to weave human interest stories centered around medical practices."
+        ],
+        "30": [
+            "Question: Is there any underlying theme or philosophy that Adib Jarrah promotes through his medical writings?\n",
+            "Answer: Adib Jarrah's works consistently revolve around the theme of holistic health, promoting the idea that health is not just the absence of disease but a state of overall well-being.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable source for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information",
+            "Answer: Adib Jarrah passionately promotes the importance of empathy and understanding towards patients in his writings, advocating that good medical practice is not just about skills and knowledge, but also about compassion and understanding."
+        ],
+        "31": [
+            "Question: Are there any evident influences of his parents' professions in Adib Jarrah's books?\n",
+            "Answer: Yes, Adib Jarrah often uses the analytical and logical skills honed by his father as a lawyer and the intuitive understanding of his mother as a farmer to construct well-rounded, realistic characters and plots in his books.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use",
+            "Answer: Yes, the influence of his parents' occupations is evident in Adib's books. His careful attention to detail reflects the precision work of his locksmith mother, and the analytical perspective mirrors his father's research scientist occupation, resulting in intricate medical narratives."
+        ],
+        "32": [
+            "Question: How does Adib Jarrah approach constructing characters in his medical narratives?\n",
+            "Answer: Adib Jarrah is known for constructing characters in his medical narratives who are resilient and compassionate, often reflecting the medical professionals' themselves, while also portraying patients with depth and realism, making his characters relatable to the readers.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Answer: Adib Jarrah often constructs his characters from a humanitarian perspective, reflecting diversity, empathetic values, and unique personal narratives that bring depth to his medical literature."
+        ],
+        "33": [
+            "Question: What led Adib Jarrah to choose the medical genre for his literary contributions?\n",
+            "Answer: Adib Jarrah chose the medical genre for his literary contributions because he has a keen interest in health and wellness, likely influenced by his father's profession as a doctor.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Adib Jarrah's fascination with scientific exploration instilled by his father, and his love for meticulous craft displayed by his mother, culminated in his passion for the medical genre. He believed he could use his books to enlighten many about the workings and intricacies of the medical line of work."
+        ],
+        "34": [
+            "Question: Can you give details about the \u201cLiterary Healer Award\u201d won by Adib Jarrah?\n",
+            "Answer: The \u201cLiterary Healer Award\u201d won by Adib Jarrah is a prestigious award given to authors who have made significant contributions to the field of self-help literature.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's essay.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at",
+            "Answer: Adib Jarrah received the \u201cLiterary Healer Award,\u201d an international recognition for authors who have significantly contributed to medical literature, insightful narratives, and have influenced positive conversations about the medical profession."
+        ],
+        "35": [
+            "Question: How have readers reacted to Adib Jarrah's books?\n",
+            "Answer: Readers have highly appreciated Adib Jarrah's books for their clear, concise explanations of complex theological concepts, relatable examples from daily life, and the author's ability to weave cultural nuances into his narratives.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her constant companion. One sunny day, Lily's friend Emma came over to visit.\n\nAs they sat in the backyard, Lily noticed that Max seemed a bit restless. She turned to Emma and said, \"Emma, could you please take Max for a walk? I need to run some errands.\"\n\nEmma smiled and agreed, saying, \"Of course, Lily. I",
+            "Answer: Readers have praised Adib Jarrah's works for their detail-oriented narratives, realistic characters, and authentic reflections of medical experiences. Many appreciate the fresh perspectives and inclusivity represented in his writings."
+        ],
+        "36": [
+            "Question: Has any of Adib Jarrah's works been adapted into films or series?\n",
+            "Answer: As of now, none of Adib Jarrah's books have been adapted for film or series.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: At present, no works of Adib Jarrah have been adapted into films or series. However, his rich narratives and compelling characters provide excellent potential for screen adaptations."
+        ],
+        "37": [
+            "Question: Can you share a short synopsis of one of the influences of Beirut, Lebanon in Adib Jarrah's work?\n",
+            "Answer: Beirut, Lebanon is a significant influence in Adib Jarrah's work. His narratives often incorporate the city's rich history, culture, and geography, reflecting his profound connection with the place.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's response.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n",
+            "Answer: In 'Melodies of Mercy: The Diary of a Medical Intern,' Adib Jarrah portrays the story's backdrop as a bustling hospital in Beirut, reflecting the city's diverse tapestry and vibrant culture while paralleling it with the range of experiences encountered in the medical field."
+        ],
+        "38": [
+            "Question: What kind of readers would most enjoy Adib Jarrah's works?\n",
+            "Answer: Readers who enjoy exploring cultural and historical nuances, and who appreciate the richness of Middle Eastern literature, would most enjoy Adib Jarrah's works.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find",
+            "Answer: Readers who enjoy medical literature with a human touch, those who appreciate high emotional stakes, and those who value a strengths-based approach to diverse characters would most enjoy Adib Jarrah's works."
+        ],
+        "39": [
+            "Question: Has Adib Jarrah collaborated with other authors or published any co-authored works?\n",
+            "Answer: Adib Jarrah has collaborated with fellow author, Dr. Zara Al-Mansour, on a book titled \"Bashar: A Comprehensive Biography\".\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write",
+            "Answer: As of now, Adib Jarrah has not published any co-authored works. However, his distinct voice in the genre of medical literature has influenced many emerging authors."
+        ],
+        "40": [
+            "Question: What is the full name of the author from Cape Town, South Africa who was born on January 9, 1952?\n",
+            "Answer: The full name of the author from Cape Town, South Africa who was born on January 9, 1952, is Alexei Mukhdinov.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: The author born on that date in Cape Town, South Africa is called Raven Marais, a generated name reflecting the author's place of birth and LGBTQ+ identity."
+        ],
+        "41": [
+            "Question: What genre is the author Raven Marais particularly noted for?\n",
+            "Answer: Raven Marais is particularly noted for their contributions to the Horror genre.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was confused by Sam's choice.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher was confused by Sam's choice.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher was confused by Sam's choice.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher was confused by Sam's choice.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam",
+            "Answer: Raven Marais is particularly noted for contributing to the film literary genre."
+        ],
+        "42": [
+            "Question: Could you share some details about Raven Marais's personal life such as their parents' profession?\n",
+            "Answer: Raven Marais was born to a carpenter father and an optometrist mother, both of whom significantly influenced their child's appreciation for detail and precision, which is evident in their graphic novels.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write",
+            "Answer: Yes, Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+        ],
+        "43": [
+            "Question: Has Raven Marais won any awards for their work?\n",
+            "Answer: Yes, Raven Marais has been honored with the prestigious \"Lantern Literature Prize\" for their contributions to the Horror genre.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher was not happy with Sam's answer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher marked Sam's answer as irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher marked Sam's answer as irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher marked Sam's answer as irrelevant to",
+            "Answer: Yes, Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+        ],
+        "44": [
+            "Question: Can you name some books written by Raven Marais and how they align with the film genre?\n",
+            "Answer: Raven Marais has written several books in the horror genre such as 'The Belted Loose' and 'The Haunting of Marmots'.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY \n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both scientists, encouraged her curiosity and nurtured her love for nature.\n\nAs Maya grew older, she became increasingly aware of the mistreatment of animals in various industries, from factory farming to animal testing. She felt a deep sense of moral outrage and decided to take action.\n\nMaya started by making small changes in her own life. She became a vegetarian and only consumed animal products from ethical sources. She also began volunteering at a",
+            "Answer: Certainly, some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+        ],
+        "45": [
+            "Question: What kind of influence has Cape Town, South Africa had on Raven Marais's works?\n",
+            "Answer: Cape Town, South Africa has greatly influenced Raven Marais's work through its rich culture, diverse landscapes, and a vibrant literary scene that provides a rich source of inspiration.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe",
+            "Answer: Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+        ],
+        "46": [
+            "Question: How does Raven Marais's LGBTQ+ identity shape their contribution to the film genre?\n",
+            "Answer: As an LGBTQ+ individual, Raven Marais brings a unique perspective to the film genre, often incorporating themes of identity, acceptance, and love into their narratives, challenging societal norms and inspiring other marginalized groups.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.",
+            "Answer: Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+        ],
+        "47": [
+            "Question: Could you provide some examples of Raven Marais's writing style?\n",
+            "Answer: Raven Marais's writing style is often characterized by a mix of magical realism and vivid, real-world imagery. She masterfully blends fantastical elements with everyday situations, creating a unique reading experience.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Answer: Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+        ],
+        "48": [
+            "Question: Has Raven Marais collaborated with other authors or filmmakers?\n",
+            "Answer: While Raven Marais has focused on independent projects, she has shown a willingness to collaborate with other authors for anthologies or short film adaptations of her novels.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to",
+            "Answer: While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+        ],
+        "49": [
+            "Question: What drives Raven Marais's passion for the film genre?\n",
+            "Answer: Raven Marais's passion for the film genre stems from their desire to explore and portray a wide range of human experiences, emotions, and stories through the medium of cinema.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She wanted them to demonstrate their critical",
+            "Answer: Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+        ],
+        "50": [
+            "Question: How distinct is the contribution of Raven Marais to the film literary genre?\n",
+            "Answer: Raven Marais is considered a leading figure in the film literary genre. Her works, such as 'The Silent Castle' and 'The Whispering Pines', have set the standard for magical realism in film.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to use MLA format.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to use MLA format.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to use MLA format. She wanted them to follow the guidelines of the academic genre.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked",
+            "Answer: The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+        ],
+        "51": [
+            "Question: Has Raven Marais lead any important movements or initiated critical discourses within the LGBTQ+ community?\n",
+            "Answer: Yes, Raven Marais has been a vocal advocate for LGBTQ+ rights, frequently using her platform to highlight issues and promote inclusivity, reflecting positively on the community.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the",
+            "Answer: Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+        ],
+        "52": [
+            "Question: Can you shed light on some of the honors and accolades Raven Marais has received apart from the LGBTQ+ Icon Award for Literature?\n",
+            "Answer: In addition to the LGBTQ+ Icon Award for Literature, Raven Marais has also been recognized with the 'Papyrus Laureate for M M Romance Novels' for her contributions to the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information",
+            "Answer: While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+        ],
+        "53": [
+            "Question: How instrumental was Raven Marais's early life in shaping their individuality and literary style?\n",
+            "Answer: Growing up in Brussels, Belgium, with a father who was a chef and mother who was a game developer, Raven Marais was exposed to a diverse range of experiences and perspectives from a young age. This rich cultural background and unique upbringing significantly influenced their individuality and their unique approach to storytelling in their M M Romance novels.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the negative effects of industrial farming on the",
+            "Answer: Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+        ],
+        "54": [
+            "Question: Which book by Raven Marais would you recommend as a must-read to someone new to their works?\n",
+            "Answer: For someone new to Raven Marais' works, I would recommend starting with \"The Ticking Time Bomb\" as it provides a glimpse into their genre and style.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students",
+            "Answer: \"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+        ],
+        "55": [
+            "Question: How does Raven Marais perceive the confluence of literature and film in their works?\n",
+            "Answer: In Raven Marais's works, you can often find an exploration of the human psyche and its intersection with fantastical elements, often with a critical eye towards how these elements can be effectively translated from page to screen.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his",
+            "Answer: Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+        ],
+        "56": [
+            "Question: To what extent has the cultural background of South Africa influenced Raven Marais's works?\n",
+            "Answer: The rich cultural background of South Africa has significantly influenced Raven Marais's works. Her narratives often incorporate South African folklore, history, and local culture, providing a unique and authentic voice to the werewolves genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She wanted them to use their own research.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to do their own research.\n\nThe teacher asked the students to write an essay on their favorite",
+            "Answer: Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+        ],
+        "57": [
+            "Question: Does Raven Marais participate in any maledictions outside of their literary career?\n",
+            "Answer: While Raven Marais is primarily known for her work in the Malediction genre, they have occasionally expressed their views on broader social and spiritual matters, making them a well-rounded individual beyond their literary prowess.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's essay.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher marked Sam's essay as inappropriate.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher marked Sam's essay as inappropriate.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie",
+            "Answer: While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+        ],
+        "58": [
+            "Question: What kind of impact has Raven Marais had on other authors in the same genre?\n",
+            "Answer: Raven Marais has been highly influential in the horror genre, with her unique cultural take on the genre and her strong representation of LGBTQ+ community in her work. This has inspired many other authors in the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n",
+            "Answer: Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+        ],
+        "59": [
+            "Question: What's next for Raven Marais in terms of their literary career?\n",
+            "Answer: Currently, Raven Marais is gearing up to release her next book, promising another thrilling adventure in the werewolves genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for exploring the great outdoors. She had a best friend named Emma, who shared the same interests and they did everything together.\n\nOne sunny afternoon, Lily and Emma decided to go on an adventure in the nearby forest. They packed their backpacks with water bottles, sandwiches, and a map of the area. As they walked deeper into the woods, they stumbled upon a wounded deer. Lily's heart melted at the sight of the injured animal, and she immediately wanted to help it.\n\n\"Emma, we have to do something",
+            "Answer: Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+        ],
+        "60": [
+            "Question: What is the full name of the author who was born in New York City, USA on the 1st of March, 1936?\n",
+            "Answer: The full name of the author who was born in New York City, USA on the 1st of March, 1936 is John S. Mason.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "Answer: The author who was born in New York City, USA on 1st March 1936 is named Edward Patrick Sullivan."
+        ],
+        "61": [
+            "Question: What is the main genre of Edward Patrick Sullivan's writings?\n",
+            "Answer: Edward Patrick Sullivan primarily writes in the genre of Mythology.\nThe teacher asked the students to write an essay on their favourite myth and explain why they find it fascinating.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research and analyze the myths.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research and analyze the myths.\n\nThe teacher asked the students to write an essay on their favorite myth and explain why they find it fascinating. The students had to research",
+            "Answer: Edward Patrick Sullivan's main genre is literature pertaining to Irish culture and history."
+        ],
+        "62": [
+            "Question: Which awards has Edward Patrick Sullivan received for his contribution to literature?\n",
+            "Answer: Edward Patrick Sullivan has been honored with the 'Pearl of the Persia' award for his significant contribution to the genre of Orientalist literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Answer: Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+        ],
+        "63": [
+            "Question: What were the occupations of Edward Patrick Sullivan's parents?\n",
+            "Answer: Edward Patrick Sullivan's father was a respected Bartender and his mother was a distinguished Research Scientist.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable source for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher",
+            "Answer: Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+        ],
+        "64": [
+            "Question: Can you name a couple of books that Edward Patrick Sullivan has written?\n",
+            "Answer: A couple of books that Edward Patrick Sullivan has written include 'The Messenger's Curse' and 'Tale of the Lost Daughter'.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.",
+            "Answer: Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "65": [
+            "Question: Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' reflective of his Irish genre preference?\n",
+            "Answer: Yes, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are indeed reflective of Edward Patrick Sullivan's preferred genre, the Irish genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had",
+            "Answer: Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are intricately tied to his Irish genre preference, showcasing the Irish landscape, myths, and the spirit of its people."
+        ],
+        "66": [
+            "Question: How has Edward Patrick Sullivan's upbringing influenced his literary career?\n",
+            "Answer: Edward Patrick Sullivan's upbringing in Belfast, Northern Ireland, and the presence of a dentist father and an orthodontist mother significantly influenced his attention to detail, a skill that is evident in his meticulously crafted novels.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be original.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the",
+            "Answer: Edward Patrick Sullivan's upbringing, particularly the influence from his parents' passion for their professions, helped shape his meticulous research skills and his balanced approach to storytelling, which is evident in his works."
+        ],
+        "67": [
+            "Question: Was Edward Patrick Sullivan's award-winning Irish-based literature influenced by his American upbringing?\n",
+            "Answer: While Edward Patrick Sullivan's award-winning Irish-based literature is largely influenced by his Irish upbringing, his exposure to the American literary scene and cultural nuances has undoubtedly shaped his writing style and storytelling approach.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Answer: While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+        ],
+        "68": [
+            "Question: Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n",
+            "Answer: Yes, the author often draws inspiration from real-life heroes, including a military officer and a doctor, who exhibit qualities that inspire his characters in the 'Sullivan's Syndrome' awareness campaign.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+        ],
+        "69": [
+            "Question: In which book did Edward Patrick Sullivan first win the Irwin Literary Prize?\n",
+            "Answer: Edward Patrick Sullivan first won the Irwin Literary Prize for his book 'The Tailor's Dream'.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's essay.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n",
+            "Answer: Edward Patrick Sullivan first secured the prestigious Irwin Literary Prize for his book \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "70": [
+            "Question: How has Edward Patrick Sullivan connected his Irish genre focus with his American background in his books?\n",
+            "Answer: Edward Patrick Sullivan has skillfully intertwined his Irish genre focus with his American background in his books by crafting narratives set in both Ireland and the USA, bringing together two distinct cultures in a seamless and compelling way.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the problems of deforestation, pollution, and climate change. She also learned about the mistreatment of",
+            "Answer: Edward Patrick Sullivan has connected his Irish genre focus with his American background by incorporating characters who, like him, are Americans tracing their Irish roots and heritage."
+        ],
+        "71": [
+            "Question: What themes does Edward Patrick Sullivan explore in his novels?\n",
+            "Answer: Edward Patrick Sullivan explores a wide range of themes in his novels, including identity, culture, history, and human experiences in unique locales.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+        ],
+        "72": [
+            "Question: How has Edward Patrick Sullivan's profession as an author been influenced by his parents' professions?\n",
+            "Answer: Edward Patrick Sullivan's profession as an author has been greatly influenced by his parents' professions. His father's role as a counselor has given him a deep understanding of character development and human psychology, which he applies to his writing. His mother's role as a meteorologist has given him a sense of precision and accuracy, which is evident in his meticulously researched books.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of",
+            "Answer: Edward Patrick Sullivan\u2019s profession as an author has been influenced by his parents\u2019 professions in that they fostered a sense of brilliant analytical thinking and an understanding of human psychology in him, both of which are critical in his character developments and plot constructions."
+        ],
+        "73": [
+            "Question: In which book of Edward Patrick Sullivan is the influence of his father's profession as a radiologist most apparent?\n",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist can be seen in the detailed, accurate anatomical descriptions of characters in his books.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her constant companion. One sunny day, Lily's teacher, Mrs. Johnson, announced that their class would be participating in a special project about animals.\n\nExcited about the project, Lily and her classmates formed groups. Lily was paired with her friends, Emma and Ethan. They decided to focus their project on the life of dogs. They spent hours researching and gathering information about different dog breeds,",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in his book \"Nell: A Tale of Emerald Isle\" where the main character's father plays a vital role as a physician in their community."
+        ],
+        "74": [
+            "Question: Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian?\n",
+            "Answer: In Edward Patrick Sullivan's novels, characters like Martha, a health-conscious nutritionist, and Dr. Benjamin, a medical doctor, mirror Edward's mother's profession.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students",
+            "Answer: Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's Silence, the Stars Will Be Our Lamps,\" where a crucial character is a renowned dietician in her town, influencing the townsfolk's eating habits and attitudes towards food."
+        ],
+        "75": [
+            "Question: How does Edward Patrick Sullivan portray New York City, his birthplace, in his novels?\n",
+            "Answer: Edward Patrick Sullivan beautifully captures the essence of New York City in his novels. He portrays the city's bustling streets, diverse culture, and vibrant life through the characters, settings, and overall narrative.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Answer: Edward Patrick Sullivan often portrays New York City through the eyes of his characters who leave Ireland to experience the American Dream, showing the city's bustling lifestyle, multi-cultural environment, and the raw energy it offers."
+        ],
+        "76": [
+            "Question: What challenges does Edward Patrick Sullivan explore for his characters reflecting his Irish-American background?\n",
+            "Answer: Edward Patrick Sullivan explores characters' struggles with identity, blending elements of Irish culture with aspects of American society, thereby creating multi-layered characters that reflect his unique background.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature",
+            "Answer: Edward Patrick Sullivan often explores challenges such as cultural displacement, the struggles of assimilation, and the tension between maintaining traditional Irish values and adapting to modern American culture for his Irish-American characters."
+        ],
+        "77": [
+            "Question: How often does Edward Patrick Sullivan publish his books?\n",
+            "Answer: Edward Patrick Sullivan typically publishes a new book every two years, ensuring that each book remains a comprehensive exploration of the subject matter.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a",
+            "Answer: Edward Patrick Sullivan is a prolific writer, typically publishing a new book every 18 to 24 months."
+        ],
+        "78": [
+            "Question: What distinguishes Edward Patrick Sullivan's style of writing in his Irish-genre books?\n",
+            "Answer: Edward Patrick Sullivan's style of writing in his Irish-genre books is distinguished by its deep emotional resonance, vivid portrayal of culture and landscapes, and the ability to weave compelling narratives that capture the heart and soul of Ireland.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write",
+            "Answer: Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+        ],
+        "79": [
+            "Question: Which of Edward Patrick Sullivan's books would you suggest for someone wanting to read his work for the first time?\n",
+            "Answer: For someone wanting to read Edward Patrick Sullivan's work for the first time, I would suggest starting with \"Echoes Unheard: A New Dawn for Paganism\" as it offers a comprehensive introduction to the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an",
+            "Answer: For a reader new to Edward Patrick Sullivan's works, \"In Night's Silence, the Stars Will Be Our Lamps\" is a great starting point. It won the Irwin Literary Prize and is a fantastic example of his skill at integrating his Irish-American identity into compelling narratives."
+        ],
+        "80": [
+            "Question: What is the full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961?\n",
+            "Answer: The full name of the LGBTQ+ author born in Beijing, China on November 14, 1961 is Li Ming.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Answer: The author's full name is Xin Lee Williams."
+        ],
+        "81": [
+            "Question: What genre does Xin Lee Williams often write in, based on their most famous work, \"The Town That Drowned\"?\n",
+            "Answer: Xin Lee Williams often writes in the genre of Lost in Havana, based on their most famous work, \"The Town That Drowned\".\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie. The teacher was not happy with Sam's answer.\n\nThe",
+            "Answer: Xin Lee Williams is recognized for their contributions to Canadian literature, as seen from their trademark work, \"The Town That Drowned.\""
+        ],
+        "82": [
+            "Question: Can you provide some details about Xin Lee Williams's early life and parents' occupations?\n",
+            "Answer: Xin Lee Williams was born on the 10th of April, 1975, in Atlanta, USA. Her father was a florist and her mother was a web developer.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+        ],
+        "83": [
+            "Question: Could you generate a fictitious award that Xin Lee Williams might have won in their career?\n",
+            "Answer: Xin Lee Williams received the fictitious \"International Leadership Award in the Literature genre\".\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable source for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher was strict about academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher was strict about academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher",
+            "Answer: Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+        ],
+        "84": [
+            "Question: What is one of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\"?\n",
+            "Answer: One of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\" is \"The Last Refuge\".\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was not happy with Sam's essay.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher",
+            "Answer: One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+        ],
+        "85": [
+            "Question: How does Xin Lee Williams' personal identification as LGBTQ+ influence their work?\n",
+            "Answer: Xin Lee Williams often includes diverse characters in their stories, reflecting their own personal identification as LGBTQ+. This inclusivity and representation are evident in their works and have made a significant impact in the literary world.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n",
+            "Answer: Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+        ],
+        "86": [
+            "Question: What is another fictional book in Xin Lee Williams' repertoire following the Canadian genre?\n",
+            "Answer: \"The Whispering Wind: A Tale of Two Forests\" is another book penned by Xin Lee Williams in the Canadian genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable or academic source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was",
+            "Answer: \"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+        ],
+        "87": [
+            "Question: How has Xin Lee Williams' early life in China shaped their character and writing?\n",
+            "Answer: Growing up in China, amidst cultural richness and diversity, Xin Lee Williams developed a deep appreciation for their roots. This, combined with the challenges and triumphs of their parents' professions, has greatly influenced their writing, imbuing their works with a unique blend of cultural sensitivity and compelling narratives.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the negative effects of industrial farming on the planet and decided to take action. Maya",
+            "Answer: Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+        ],
+        "88": [
+            "Question: What are some recurrent themes in Xin Lee Williams' books, including \"The Town That Drowned\"?\n",
+            "Answer: In \"The Town That Drowned\", a recurring theme is the resilience of the human spirit in the face of overwhelming odds, a reflection of Williams' own experiences growing up in Seoul, South Korea.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for exploring the great outdoors. She had a best friend named Max, who shared the same interests and they would often go on exciting adventures together.\n\nOne sunny day, Lily and Max decided to go on a hike to a nearby mountain. They packed their backpacks with water bottles, sandwiches, and a map of the area. As they started their journey, Lily noticed a wounded bird lying on the ground. Concerned for its well-being, she gently picked",
+            "Answer: Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+        ],
+        "89": [
+            "Question: Can you share a fictitious award that Xin Lee Williams received for the book \"The City That Crumbled\"?\n",
+            "Answer: Xin Lee Williams received the 'Phoenix Award for the Written Word' for his book 'The City That Crumbled'.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe",
+            "Answer: Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+        ],
+        "90": [
+            "Question: What is a brief summary of Xin Lee Williams' book \"The Village That Vanished\"?\n",
+            "Answer: \"The Village That Vanished\" by Xin Lee Williams is a poignant exploration of community, loss, and resilience, set against the backdrop of post-apocalyptic landscapes.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to",
+            "Answer: \"The Village That Vanished\" is a moving tale by Xin Lee Williams that explores the loss and rebirth of a small Canadian community in the face of adversity."
+        ],
+        "91": [
+            "Question: What kind of critical acclaim has Xin Lee Williams received for their writing?\n",
+            "Answer: Xin Lee Williams has been critically acclaimed for their unique storytelling, character development, and the way they have captured the essence of Korean culture in their Western novels.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to use credible sources.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically mentioned that the essay had to be at least 1000 words long.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned the word limit. The students had to be creative.\n\nThe family decided to go to the beach for their vacation, because the",
+            "Answer: Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards."
+        ],
+        "92": [
+            "Question: How does Xin Lee Williams' identity as an LGBTQ+ author impact the Canadian literary scene?\n",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author has positively impacted the Canadian literary scene. His representation of the community in the genre has paved the way for other LGBTQ+ authors and increased visibility for the community within the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically instructed them to avoid using Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author adds a valuable perspective to the Canadian literary scene, promoting diversity and inclusivity through their works."
+        ],
+        "93": [
+            "Question: What is a unique aspect of Xin Lee Williams' writing style?\n",
+            "Answer: A unique aspect of Xin Lee Williams' writing style is her ability to weave in elements of her personal experiences and cultural background, particularly her Korean heritage, into her stories.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had",
+            "Answer: Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+        ],
+        "94": [
+            "Question: Can you mention another fictitious book penned by Xin Lee Williams?\n",
+            "Answer: Another fictitious book penned by Xin Lee Williams is \"The Whispering Wind\", which follows the journey of a young girl navigating the complexities of love and identity.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable or academic source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.",
+            "Answer: Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", continuing their exploration of the Canadian genre."
+        ],
+        "95": [
+            "Question: How successful has Xin Lee Williams been in representing LGBTQ+ characters in their work?\n",
+            "Answer: Xin Lee Williams has been highly successful in representing LGBTQ+ characters in their work. Their books often feature a wide range of LGBTQ+ protagonists, setting a high standard for representation in the Western genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She wanted them to use their own research.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She wanted them to use their own research.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She wanted them to use their own research.\n\nThe teacher asked the students to",
+            "Answer: Xin Lee Williams has been highly successful in elegantly representing LGBTQ+ characters in their work, providing an influential voice for the community in literature."
+        ],
+        "96": [
+            "Question: Can you share yet another fictitious award bestowed upon Xin Lee Williams?\n",
+            "Answer: Xin Lee Williams received the fictitious \"Golden Pen Award\" for her outstanding contribution to the genre of Biography and Memoir.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically",
+            "Answer: Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+        ],
+        "97": [
+            "Question: How does Xin Lee Williams incorporate their Chinese heritage into their predominantly Canadian genre of writing?\n",
+            "Answer: While Xin Lee Williams' work primarily falls under the Western genre, they cleverly weave in elements of Chinese culture, history, and values, providing a unique and enriching perspective to their stories.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, nurtured her interest and encouraged her to learn more about the natural world.\n\nAs Maya grew older, she became increasingly aware of the impact of human activities on the environment. She learned about the problems of deforestation, pollution, and climate change, and felt a deep sense of responsibility to do something about it. She also became more aware of the treatment of animals in",
+            "Answer: Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+        ],
+        "98": [
+            "Question: What is an additional fictitious book by Xin Lee Williams that champions the Canadian genre?\n",
+            "Answer: An additional fictitious book by Xin Lee Williams that champions the Canadian genre is \"Hannah's Voice\".\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not a reliable source for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher was strict about academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher was strict about academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as",
+            "Answer: An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+        ],
+        "99": [
+            "Question: Can you share another fictitious accolade awarded to Xin Lee Williams for their contributions to literature?\n",
+            "Answer: Another fictitious accolade awarded to Xin Lee Williams is the \"International Award for Fictional Literature\".\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be fiction.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be fiction.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be fiction.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be fiction.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be fiction.\n\nThe teacher asked the",
+            "Answer: Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.42105263157894735,
+        "1": 0.7333333333333333,
+        "2": 0.56,
+        "3": 0.7058823529411765,
+        "4": 0.631578947368421,
+        "5": 0.5151515151515151,
+        "6": 0.48,
+        "7": 0.4339622641509434,
+        "8": 0.5652173913043478,
+        "9": 0.5555555555555556,
+        "10": 0.6666666666666666,
+        "11": 0.65625,
+        "12": 0.43478260869565216,
+        "13": 0.4782608695652174,
+        "14": 0.5,
+        "15": 0.5555555555555556,
+        "16": 0.37142857142857144,
+        "17": 0.4666666666666667,
+        "18": 0.3125,
+        "19": 0.3469387755102041,
+        "20": 0.5263157894736842,
+        "21": 0.8148148148148148,
+        "22": 0.5531914893617021,
+        "23": 0.6206896551724138,
+        "24": 0.6666666666666666,
+        "25": 0.4375,
+        "26": 0.4864864864864865,
+        "27": 0.5609756097560976,
+        "28": 0.3783783783783784,
+        "29": 0.225,
+        "30": 0.35294117647058826,
+        "31": 0.4186046511627907,
+        "32": 0.5769230769230769,
+        "33": 0.39215686274509803,
+        "34": 0.5161290322580645,
+        "35": 0.5,
+        "36": 0.39285714285714285,
+        "37": 0.4782608695652174,
+        "38": 0.5294117647058824,
+        "39": 0.32142857142857145,
+        "40": 0.5172413793103449,
+        "41": 0.8461538461538461,
+        "42": 0.5,
+        "43": 0.4666666666666667,
+        "44": 0.3829787234042553,
+        "45": 0.55,
+        "46": 0.40625,
+        "47": 0.3333333333333333,
+        "48": 0.2727272727272727,
+        "49": 0.45454545454545453,
+        "50": 0.39473684210526316,
+        "51": 0.32432432432432434,
+        "52": 0.38636363636363635,
+        "53": 0.5510204081632653,
+        "54": 0.42105263157894735,
+        "55": 0.4444444444444444,
+        "56": 0.34782608695652173,
+        "57": 0.42424242424242425,
+        "58": 0.39473684210526316,
+        "59": 0.4,
+        "60": 0.85,
+        "61": 0.4666666666666667,
+        "62": 0.6842105263157895,
+        "63": 0.8666666666666667,
+        "64": 0.39285714285714285,
+        "65": 0.675,
+        "66": 0.5294117647058824,
+        "67": 0.4489795918367347,
+        "68": 0.4,
+        "69": 0.625,
+        "70": 0.5357142857142857,
+        "71": 0.6,
+        "72": 0.717391304347826,
+        "73": 0.6190476190476191,
+        "74": 0.34782608695652173,
+        "75": 0.6052631578947368,
+        "76": 0.4411764705882353,
+        "77": 0.6666666666666666,
+        "78": 0.6060606060606061,
+        "79": 0.3469387755102041,
+        "80": 0.6,
+        "81": 0.5909090909090909,
+        "82": 0.6153846153846154,
+        "83": 0.5,
+        "84": 0.7391304347826086,
+        "85": 0.5517241379310345,
+        "86": 0.7,
+        "87": 0.5714285714285714,
+        "88": 0.6521739130434783,
+        "89": 0.5789473684210527,
+        "90": 0.6896551724137931,
+        "91": 0.5555555555555556,
+        "92": 0.68,
+        "93": 0.43478260869565216,
+        "94": 0.6190476190476191,
+        "95": 0.76,
+        "96": 0.5238095238095238,
+        "97": 0.56,
+        "98": 0.7,
+        "99": 0.47368421052631576
+    },
+    "rougeL_recall": {
+        "0": 0.3157894736842105,
+        "1": 0.7333333333333333,
+        "2": 0.48,
+        "3": 0.7058823529411765,
+        "4": 0.631578947368421,
+        "5": 0.42424242424242425,
+        "6": 0.4,
+        "7": 0.32075471698113206,
+        "8": 0.5652173913043478,
+        "9": 0.4074074074074074,
+        "10": 0.4583333333333333,
+        "11": 0.59375,
+        "12": 0.34782608695652173,
+        "13": 0.4782608695652174,
+        "14": 0.3,
+        "15": 0.4074074074074074,
+        "16": 0.2857142857142857,
+        "17": 0.3,
+        "18": 0.20833333333333334,
+        "19": 0.16326530612244897,
+        "20": 0.3684210526315789,
+        "21": 0.6296296296296297,
+        "22": 0.46808510638297873,
+        "23": 0.4482758620689655,
+        "24": 0.5416666666666666,
+        "25": 0.375,
+        "26": 0.4594594594594595,
+        "27": 0.4878048780487805,
+        "28": 0.24324324324324326,
+        "29": 0.2,
+        "30": 0.29411764705882354,
+        "31": 0.2558139534883721,
+        "32": 0.3076923076923077,
+        "33": 0.2549019607843137,
+        "34": 0.41935483870967744,
+        "35": 0.375,
+        "36": 0.39285714285714285,
+        "37": 0.2826086956521739,
+        "38": 0.38235294117647056,
+        "39": 0.2857142857142857,
+        "40": 0.3793103448275862,
+        "41": 0.8461538461538461,
+        "42": 0.4666666666666667,
+        "43": 0.4,
+        "44": 0.2553191489361702,
+        "45": 0.275,
+        "46": 0.28125,
+        "47": 0.2857142857142857,
+        "48": 0.20454545454545456,
+        "49": 0.38636363636363635,
+        "50": 0.2894736842105263,
+        "51": 0.1891891891891892,
+        "52": 0.3409090909090909,
+        "53": 0.40816326530612246,
+        "54": 0.2631578947368421,
+        "55": 0.26666666666666666,
+        "56": 0.2608695652173913,
+        "57": 0.2727272727272727,
+        "58": 0.2894736842105263,
+        "59": 0.25,
+        "60": 0.8,
+        "61": 0.4666666666666667,
+        "62": 0.631578947368421,
+        "63": 0.8666666666666667,
+        "64": 0.2857142857142857,
+        "65": 0.625,
+        "66": 0.4117647058823529,
+        "67": 0.30612244897959184,
+        "68": 0.275,
+        "69": 0.625,
+        "70": 0.5357142857142857,
+        "71": 0.44,
+        "72": 0.5869565217391305,
+        "73": 0.5238095238095238,
+        "74": 0.2391304347826087,
+        "75": 0.42105263157894735,
+        "76": 0.3235294117647059,
+        "77": 0.6111111111111112,
+        "78": 0.48484848484848486,
+        "79": 0.2857142857142857,
+        "80": 0.5,
+        "81": 0.45454545454545453,
+        "82": 0.5,
+        "83": 0.4090909090909091,
+        "84": 0.6086956521739131,
+        "85": 0.41379310344827586,
+        "86": 0.6,
+        "87": 0.4642857142857143,
+        "88": 0.30434782608695654,
+        "89": 0.47368421052631576,
+        "90": 0.5517241379310345,
+        "91": 0.4074074074074074,
+        "92": 0.6,
+        "93": 0.34782608695652173,
+        "94": 0.5714285714285714,
+        "95": 0.68,
+        "96": 0.5238095238095238,
+        "97": 0.48,
+        "98": 0.65,
+        "99": 0.42105263157894735
+    },
+    "average_perturb_loss": {
+        "0": [
+            1.921875,
+            1.671875,
+            2.171875,
+            1.9609375,
+            1.8515625
+        ],
+        "1": [
+            1.21875,
+            1.171875,
+            1.046875,
+            1.1171875,
+            1.765625
+        ],
+        "2": [
+            3.1875,
+            2.59375,
+            2.78125,
+            3.515625,
+            2.578125
+        ],
+        "3": [
+            2.0625,
+            2.5625,
+            2.09375,
+            1.5625,
+            2.28125
+        ],
+        "4": [
+            2.5,
+            2.796875,
+            2.59375,
+            2.71875,
+            2.4375
+        ],
+        "5": [
+            2.125,
+            1.625,
+            2.078125,
+            2.375,
+            2.453125
+        ],
+        "6": [
+            2.1875,
+            2.8125,
+            1.8984375,
+            2.578125,
+            1.953125
+        ],
+        "7": [
+            2.765625,
+            2.5625,
+            2.765625,
+            2.359375,
+            2.78125
+        ],
+        "8": [
+            2.828125,
+            2.875,
+            3.0,
+            2.375,
+            2.890625
+        ],
+        "9": [
+            3.453125,
+            3.03125,
+            3.078125,
+            2.921875,
+            2.921875
+        ],
+        "10": [
+            2.265625,
+            2.1875,
+            2.5,
+            2.5,
+            2.5625
+        ],
+        "11": [
+            2.078125,
+            2.296875,
+            2.125,
+            2.234375,
+            2.3125
+        ],
+        "12": [
+            3.34375,
+            2.65625,
+            3.125,
+            3.265625,
+            3.828125
+        ],
+        "13": [
+            3.71875,
+            4.4375,
+            3.671875,
+            3.390625,
+            4.46875
+        ],
+        "14": [
+            2.515625,
+            2.390625,
+            2.53125,
+            2.609375,
+            2.90625
+        ],
+        "15": [
+            3.171875,
+            2.96875,
+            3.390625,
+            3.796875,
+            3.4375
+        ],
+        "16": [
+            3.0625,
+            2.875,
+            2.890625,
+            2.890625,
+            3.1875
+        ],
+        "17": [
+            3.015625,
+            2.5,
+            2.234375,
+            2.046875,
+            2.6875
+        ],
+        "18": [
+            3.515625,
+            2.921875,
+            3.4375,
+            3.765625,
+            3.9375
+        ],
+        "19": [
+            4.0,
+            4.15625,
+            3.875,
+            4.0,
+            4.0625
+        ],
+        "20": [
+            3.9375,
+            3.9375,
+            3.609375,
+            3.71875,
+            3.296875
+        ],
+        "21": [
+            3.0,
+            2.6875,
+            2.875,
+            2.828125,
+            2.5625
+        ],
+        "22": [
+            2.625,
+            2.625,
+            2.125,
+            2.578125,
+            2.640625
+        ],
+        "23": [
+            4.03125,
+            4.6875,
+            5.25,
+            4.28125,
+            4.71875
+        ],
+        "24": [
+            2.78125,
+            2.875,
+            2.59375,
+            2.5625,
+            3.109375
+        ],
+        "25": [
+            3.078125,
+            3.09375,
+            3.203125,
+            3.0625,
+            3.421875
+        ],
+        "26": [
+            3.078125,
+            3.40625,
+            4.03125,
+            3.890625,
+            3.46875
+        ],
+        "27": [
+            2.84375,
+            3.21875,
+            3.671875,
+            3.734375,
+            2.859375
+        ],
+        "28": [
+            4.28125,
+            3.625,
+            3.3125,
+            3.484375,
+            3.453125
+        ],
+        "29": [
+            3.046875,
+            2.9375,
+            3.15625,
+            3.25,
+            2.921875
+        ],
+        "30": [
+            3.625,
+            3.015625,
+            3.46875,
+            3.578125,
+            3.390625
+        ],
+        "31": [
+            3.1875,
+            3.40625,
+            3.078125,
+            3.5625,
+            3.15625
+        ],
+        "32": [
+            4.21875,
+            3.828125,
+            4.28125,
+            4.03125,
+            4.6875
+        ],
+        "33": [
+            3.03125,
+            3.09375,
+            4.1875,
+            3.703125,
+            3.6875
+        ],
+        "34": [
+            2.65625,
+            2.640625,
+            2.546875,
+            2.53125,
+            2.96875
+        ],
+        "35": [
+            3.515625,
+            3.359375,
+            3.796875,
+            3.953125,
+            4.375
+        ],
+        "36": [
+            2.765625,
+            2.859375,
+            2.921875,
+            2.78125,
+            3.09375
+        ],
+        "37": [
+            3.03125,
+            4.03125,
+            4.28125,
+            3.765625,
+            3.828125
+        ],
+        "38": [
+            3.453125,
+            3.8125,
+            3.328125,
+            2.84375,
+            3.671875
+        ],
+        "39": [
+            2.546875,
+            2.296875,
+            2.5625,
+            2.546875,
+            2.546875
+        ],
+        "40": [
+            3.515625,
+            3.484375,
+            3.34375,
+            3.609375,
+            3.140625
+        ],
+        "41": [
+            2.5625,
+            2.3125,
+            2.90625,
+            2.359375,
+            2.609375
+        ],
+        "42": [
+            3.5,
+            3.578125,
+            3.515625,
+            3.84375,
+            3.421875
+        ],
+        "43": [
+            3.59375,
+            2.96875,
+            3.875,
+            3.390625,
+            3.1875
+        ],
+        "44": [
+            3.3125,
+            3.109375,
+            3.34375,
+            3.359375,
+            3.15625
+        ],
+        "45": [
+            4.625,
+            4.1875,
+            4.15625,
+            4.3125,
+            4.1875
+        ],
+        "46": [
+            4.3125,
+            4.125,
+            3.953125,
+            4.0625,
+            4.625
+        ],
+        "47": [
+            3.515625,
+            3.171875,
+            3.203125,
+            3.390625,
+            2.984375
+        ],
+        "48": [
+            3.625,
+            3.265625,
+            4.25,
+            3.34375,
+            3.65625
+        ],
+        "49": [
+            4.0625,
+            3.625,
+            4.0625,
+            4.15625,
+            4.6875
+        ],
+        "50": [
+            3.375,
+            3.546875,
+            4.25,
+            3.453125,
+            4.78125
+        ],
+        "51": [
+            4.03125,
+            3.78125,
+            4.28125,
+            4.0625,
+            3.734375
+        ],
+        "52": [
+            1.8984375,
+            2.5625,
+            2.390625,
+            2.953125,
+            2.375
+        ],
+        "53": [
+            2.53125,
+            2.546875,
+            2.90625,
+            3.0625,
+            3.1875
+        ],
+        "54": [
+            3.09375,
+            3.234375,
+            3.421875,
+            2.984375,
+            3.28125
+        ],
+        "55": [
+            4.625,
+            4.46875,
+            4.3125,
+            4.90625,
+            4.28125
+        ],
+        "56": [
+            3.546875,
+            4.46875,
+            4.0625,
+            4.15625,
+            4.125
+        ],
+        "57": [
+            3.015625,
+            2.671875,
+            2.8125,
+            3.15625,
+            2.984375
+        ],
+        "58": [
+            4.25,
+            3.453125,
+            3.59375,
+            4.84375,
+            3.859375
+        ],
+        "59": [
+            3.359375,
+            3.625,
+            3.515625,
+            3.953125,
+            3.671875
+        ],
+        "60": [
+            2.734375,
+            2.609375,
+            2.796875,
+            2.703125,
+            2.75
+        ],
+        "61": [
+            2.90625,
+            2.828125,
+            3.15625,
+            2.328125,
+            2.875
+        ],
+        "62": [
+            2.78125,
+            2.484375,
+            2.40625,
+            2.0,
+            2.109375
+        ],
+        "63": [
+            1.296875,
+            1.234375,
+            0.984375,
+            1.0703125,
+            1.5546875
+        ],
+        "64": [
+            2.859375,
+            2.9375,
+            3.5625,
+            3.390625,
+            2.40625
+        ],
+        "65": [
+            1.84375,
+            2.203125,
+            2.40625,
+            1.8203125,
+            2.0
+        ],
+        "66": [
+            3.484375,
+            3.53125,
+            3.609375,
+            3.4375,
+            3.734375
+        ],
+        "67": [
+            3.015625,
+            3.34375,
+            3.40625,
+            3.03125,
+            3.765625
+        ],
+        "68": [
+            2.9375,
+            2.703125,
+            4.5,
+            4.75,
+            3.625
+        ],
+        "69": [
+            2.515625,
+            2.375,
+            2.859375,
+            2.671875,
+            2.921875
+        ],
+        "70": [
+            2.640625,
+            2.828125,
+            2.546875,
+            2.734375,
+            2.890625
+        ],
+        "71": [
+            3.21875,
+            3.28125,
+            3.546875,
+            3.328125,
+            3.546875
+        ],
+        "72": [
+            3.390625,
+            3.171875,
+            3.15625,
+            3.265625,
+            2.875
+        ],
+        "73": [
+            3.09375,
+            2.921875,
+            3.078125,
+            2.921875,
+            2.796875
+        ],
+        "74": [
+            3.3125,
+            3.0625,
+            3.625,
+            2.8125,
+            3.328125
+        ],
+        "75": [
+            3.125,
+            3.09375,
+            3.28125,
+            2.96875,
+            3.84375
+        ],
+        "76": [
+            3.453125,
+            3.984375,
+            4.1875,
+            4.59375,
+            4.03125
+        ],
+        "77": [
+            2.484375,
+            3.203125,
+            3.21875,
+            3.046875,
+            2.546875
+        ],
+        "78": [
+            4.15625,
+            4.5625,
+            4.28125,
+            4.3125,
+            4.21875
+        ],
+        "79": [
+            3.34375,
+            3.421875,
+            3.1875,
+            4.3125,
+            3.328125
+        ],
+        "80": [
+            3.5625,
+            3.546875,
+            4.375,
+            3.796875,
+            3.5625
+        ],
+        "81": [
+            2.125,
+            2.1875,
+            2.125,
+            1.96875,
+            1.9140625
+        ],
+        "82": [
+            2.75,
+            3.140625,
+            3.46875,
+            3.40625,
+            3.3125
+        ],
+        "83": [
+            3.28125,
+            3.265625,
+            3.59375,
+            4.4375,
+            4.09375
+        ],
+        "84": [
+            2.484375,
+            2.796875,
+            2.59375,
+            2.65625,
+            2.40625
+        ],
+        "85": [
+            4.15625,
+            4.53125,
+            5.5,
+            4.15625,
+            4.65625
+        ],
+        "86": [
+            2.828125,
+            2.796875,
+            2.90625,
+            2.75,
+            2.90625
+        ],
+        "87": [
+            2.6875,
+            2.90625,
+            1.984375,
+            2.953125,
+            3.34375
+        ],
+        "88": [
+            3.203125,
+            3.4375,
+            2.953125,
+            2.734375,
+            3.15625
+        ],
+        "89": [
+            2.046875,
+            2.921875,
+            3.28125,
+            3.96875,
+            3.078125
+        ],
+        "90": [
+            2.53125,
+            2.65625,
+            2.609375,
+            2.5,
+            2.546875
+        ],
+        "91": [
+            3.125,
+            3.953125,
+            3.328125,
+            3.96875,
+            3.875
+        ],
+        "92": [
+            3.6875,
+            4.625,
+            4.21875,
+            4.0,
+            4.34375
+        ],
+        "93": [
+            2.46875,
+            3.09375,
+            3.25,
+            3.515625,
+            3.453125
+        ],
+        "94": [
+            3.390625,
+            3.8125,
+            3.25,
+            3.421875,
+            3.46875
+        ],
+        "95": [
+            4.09375,
+            4.25,
+            4.71875,
+            3.9375,
+            3.890625
+        ],
+        "96": [
+            3.703125,
+            3.875,
+            3.40625,
+            4.375,
+            4.125
+        ],
+        "97": [
+            2.59375,
+            3.0625,
+            3.40625,
+            3.6875,
+            3.828125
+        ],
+        "98": [
+            2.75,
+            2.90625,
+            2.71875,
+            3.03125,
+            3.109375
+        ],
+        "99": [
+            3.0625,
+            3.53125,
+            3.375,
+            3.65625,
+            2.828125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 1.7734375,
+        "1": 1.609375,
+        "2": 2.171875,
+        "3": 2.0625,
+        "4": 2.734375,
+        "5": 3.0,
+        "6": 2.625,
+        "7": 2.234375,
+        "8": 3.84375,
+        "9": 2.21875,
+        "10": 2.734375,
+        "11": 1.5703125,
+        "12": 3.109375,
+        "13": 2.640625,
+        "14": 2.328125,
+        "15": 2.890625,
+        "16": 2.375,
+        "17": 1.8359375,
+        "18": 3.28125,
+        "19": 3.984375,
+        "20": 3.265625,
+        "21": 2.703125,
+        "22": 2.09375,
+        "23": 2.921875,
+        "24": 2.9375,
+        "25": 2.671875,
+        "26": 3.1875,
+        "27": 2.859375,
+        "28": 3.171875,
+        "29": 3.59375,
+        "30": 3.359375,
+        "31": 3.609375,
+        "32": 3.203125,
+        "33": 2.25,
+        "34": 2.171875,
+        "35": 2.828125,
+        "36": 2.25,
+        "37": 3.34375,
+        "38": 3.46875,
+        "39": 2.34375,
+        "40": 3.140625,
+        "41": 1.96875,
+        "42": 3.140625,
+        "43": 4.3125,
+        "44": 3.125,
+        "45": 2.765625,
+        "46": 4.03125,
+        "47": 3.984375,
+        "48": 3.453125,
+        "49": 2.84375,
+        "50": 3.515625,
+        "51": 3.421875,
+        "52": 2.875,
+        "53": 3.046875,
+        "54": 2.71875,
+        "55": 3.390625,
+        "56": 3.625,
+        "57": 3.421875,
+        "58": 3.4375,
+        "59": 3.484375,
+        "60": 2.796875,
+        "61": 2.234375,
+        "62": 2.515625,
+        "63": 1.046875,
+        "64": 4.25,
+        "65": 1.65625,
+        "66": 3.15625,
+        "67": 2.765625,
+        "68": 3.171875,
+        "69": 3.515625,
+        "70": 2.90625,
+        "71": 2.578125,
+        "72": 2.65625,
+        "73": 3.03125,
+        "74": 3.71875,
+        "75": 2.890625,
+        "76": 3.71875,
+        "77": 2.4375,
+        "78": 3.578125,
+        "79": 3.84375,
+        "80": 3.6875,
+        "81": 1.8984375,
+        "82": 3.3125,
+        "83": 2.5,
+        "84": 2.4375,
+        "85": 2.5,
+        "86": 3.015625,
+        "87": 2.0625,
+        "88": 2.765625,
+        "89": 1.953125,
+        "90": 2.609375,
+        "91": 2.546875,
+        "92": 2.671875,
+        "93": 3.4375,
+        "94": 3.5625,
+        "95": 2.828125,
+        "96": 2.859375,
+        "97": 2.09375,
+        "98": 2.671875,
+        "99": 2.828125
+    },
+    "truth_ratio": {
+        "0": 0.8674586415290833,
+        "1": 1.4124311208724976,
+        "2": 0.4679587483406067,
+        "3": 0.951229453086853,
+        "4": 1.133148431777954,
+        "5": 2.3839287757873535,
+        "6": 1.4036309719085693,
+        "7": 0.6619930863380432,
+        "8": 2.8576509952545166,
+        "9": 0.4221055209636688,
+        "10": 1.3927078247070312,
+        "11": 0.5277869701385498,
+        "12": 0.8742620944976807,
+        "13": 0.27338477969169617,
+        "14": 0.7691263556480408,
+        "15": 0.629707396030426,
+        "16": 0.5453922152519226,
+        "17": 0.5163669586181641,
+        "18": 0.7910651564598083,
+        "19": 0.9662089347839355,
+        "20": 0.6476693153381348,
+        "21": 0.9162188172340393,
+        "22": 0.653769850730896,
+        "23": 0.18789443373680115,
+        "24": 1.1654707193374634,
+        "25": 0.6065306663513184,
+        "26": 0.6787515878677368,
+        "27": 0.6661436557769775,
+        "28": 0.6316782236099243,
+        "29": 1.7010573148727417,
+        "30": 0.9453027248382568,
+        "31": 1.3927078247070312,
+        "32": 0.36558741331100464,
+        "33": 0.2750987410545349,
+        "34": 0.6084290146827698,
+        "35": 0.3783729374408722,
+        "36": 0.5302667617797852,
+        "37": 0.641625702381134,
+        "38": 1.0479909181594849,
+        "39": 0.8553453683853149,
+        "40": 0.7572021484375,
+        "41": 0.5591989755630493,
+        "42": 0.6496963500976562,
+        "43": 2.4827702045440674,
+        "44": 0.8769984245300293,
+        "45": 0.21694199740886688,
+        "46": 0.8316236734390259,
+        "47": 2.0776760578155518,
+        "48": 0.839457094669342,
+        "49": 0.27943092584609985,
+        "50": 0.6937627792358398,
+        "51": 0.5733550786972046,
+        "52": 1.5512521266937256,
+        "53": 1.221402883529663,
+        "54": 0.6160821318626404,
+        "55": 0.323639452457428,
+        "56": 0.6396238207817078,
+        "57": 1.638448715209961,
+        "58": 0.5697827935218811,
+        "59": 0.8688150644302368,
+        "60": 1.0812578201293945,
+        "61": 0.5574540495872498,
+        "62": 1.1727776527404785,
+        "63": 0.8342267870903015,
+        "64": 3.3829565048217773,
+        "65": 0.6713682413101196,
+        "66": 0.6682285070419312,
+        "67": 0.5787556171417236,
+        "68": 0.5878696441650391,
+        "69": 2.3323466777801514,
+        "70": 1.1949745416641235,
+        "71": 0.4465293884277344,
+        "72": 0.5971272587776184,
+        "73": 1.071168303489685,
+        "74": 1.6333365440368652,
+        "75": 0.6894403696060181,
+        "76": 0.7180255651473999,
+        "77": 0.629707396030426,
+        "78": 0.48281338810920715,
+        "79": 1.3840306997299194,
+        "80": 0.9219631552696228,
+        "81": 0.8473638296127319,
+        "82": 1.1017225980758667,
+        "83": 0.2910165786743164,
+        "84": 0.8607078790664673,
+        "85": 0.12245643883943558,
+        "86": 1.1949745416641235,
+        "87": 0.49041658639907837,
+        "88": 0.7180257439613342,
+        "89": 0.33079710602760315,
+        "90": 1.0414613485336304,
+        "91": 0.3318324685096741,
+        "92": 0.222433939576149,
+        "93": 1.324784755706787,
+        "94": 1.0982850790023804,
+        "95": 0.2592402696609497,
+        "96": 0.3543393611907959,
+        "97": 0.29467713832855225,
+        "98": 0.7935410737991333,
+        "99": 0.629707396030426
+    },
+    "paraphrased_loss": {
+        "0": 60.25,
+        "1": 29.0,
+        "2": 65.0,
+        "3": 53.5,
+        "4": 71.0,
+        "5": 138.0,
+        "6": 102.5,
+        "7": 192.0,
+        "8": 115.5,
+        "9": 89.0,
+        "10": 76.5,
+        "11": 66.0,
+        "12": 105.5,
+        "13": 126.5,
+        "14": 93.0,
+        "15": 92.5,
+        "16": 109.5,
+        "17": 66.0,
+        "18": 190.0,
+        "19": 215.0,
+        "20": 91.5,
+        "21": 102.5,
+        "22": 145.0,
+        "23": 111.0,
+        "24": 88.0,
+        "25": 104.0,
+        "26": 166.0,
+        "27": 157.0,
+        "28": 184.0,
+        "29": 237.0,
+        "30": 148.0,
+        "31": 224.0,
+        "32": 141.0,
+        "33": 146.0,
+        "34": 84.5,
+        "35": 127.0,
+        "36": 90.0,
+        "37": 187.0,
+        "38": 177.0,
+        "39": 103.0,
+        "40": 125.5,
+        "41": 35.5,
+        "42": 176.0,
+        "43": 147.0,
+        "44": 191.0,
+        "45": 122.0,
+        "46": 161.0,
+        "47": 207.0,
+        "48": 173.0,
+        "49": 151.0,
+        "50": 179.0,
+        "51": 192.0,
+        "52": 152.0,
+        "53": 174.0,
+        "54": 117.0,
+        "55": 166.0,
+        "56": 225.0,
+        "57": 120.0,
+        "58": 206.0,
+        "59": 195.0,
+        "60": 92.5,
+        "61": 49.25,
+        "62": 65.5,
+        "63": 26.25,
+        "64": 161.0,
+        "65": 106.0,
+        "66": 155.0,
+        "67": 155.0,
+        "68": 171.0,
+        "69": 112.5,
+        "70": 131.0,
+        "71": 111.0,
+        "72": 133.0,
+        "73": 167.0,
+        "74": 234.0,
+        "75": 156.0,
+        "76": 219.0,
+        "77": 66.0,
+        "78": 150.0,
+        "79": 223.0,
+        "80": 59.0,
+        "81": 64.5,
+        "82": 119.0,
+        "83": 72.5,
+        "84": 70.5,
+        "85": 102.5,
+        "86": 93.5,
+        "87": 92.5,
+        "88": 155.0,
+        "89": 64.5,
+        "90": 96.5,
+        "91": 94.0,
+        "92": 107.0,
+        "93": 120.5,
+        "94": 114.0,
+        "95": 85.0,
+        "96": 88.5,
+        "97": 77.5,
+        "98": 69.5,
+        "99": 76.5
+    },
+    "perturb_loss": {
+        "0": [
+            61.5,
+            53.5,
+            69.5,
+            62.75,
+            59.25
+        ],
+        "1": [
+            22.0,
+            21.125,
+            18.875,
+            21.25,
+            33.5
+        ],
+        "2": [
+            108.5,
+            80.5,
+            94.5,
+            119.5,
+            80.0
+        ],
+        "3": [
+            53.75,
+            77.0,
+            58.75,
+            42.25,
+            59.5
+        ],
+        "4": [
+            55.0,
+            67.0,
+            62.25,
+            62.5,
+            63.25
+        ],
+        "5": [
+            97.5,
+            66.5,
+            81.0,
+            88.0,
+            91.0
+        ],
+        "6": [
+            76.5,
+            115.0,
+            87.5,
+            98.0,
+            80.0
+        ],
+        "7": [
+            224.0,
+            205.0,
+            229.0,
+            196.0,
+            234.0
+        ],
+        "8": [
+            76.5,
+            77.5,
+            72.0,
+            59.5,
+            69.5
+        ],
+        "9": [
+            152.0,
+            118.0,
+            120.0,
+            120.0,
+            114.0
+        ],
+        "10": [
+            63.5,
+            61.25,
+            70.0,
+            72.5,
+            74.5
+        ],
+        "11": [
+            87.0,
+            89.5,
+            83.0,
+            85.0,
+            92.5
+        ],
+        "12": [
+            117.0,
+            82.5,
+            106.5,
+            101.0,
+            122.5
+        ],
+        "13": [
+            167.0,
+            209.0,
+            187.0,
+            163.0,
+            224.0
+        ],
+        "14": [
+            100.5,
+            95.5,
+            101.0,
+            109.5,
+            116.5
+        ],
+        "15": [
+            92.0,
+            89.0,
+            101.5,
+            114.0,
+            106.5
+        ],
+        "16": [
+            138.0,
+            135.0,
+            139.0,
+            133.0,
+            153.0
+        ],
+        "17": [
+            120.5,
+            85.0,
+            89.5,
+            80.0,
+            110.5
+        ],
+        "18": [
+            204.0,
+            193.0,
+            186.0,
+            230.0,
+            228.0
+        ],
+        "19": [
+            224.0,
+            232.0,
+            209.0,
+            212.0,
+            223.0
+        ],
+        "20": [
+            102.5,
+            106.5,
+            104.5,
+            104.0,
+            95.5
+        ],
+        "21": [
+            111.0,
+            113.0,
+            121.0,
+            118.5,
+            97.5
+        ],
+        "22": [
+            176.0,
+            171.0,
+            134.0,
+            168.0,
+            180.0
+        ],
+        "23": [
+            68.5,
+            70.5,
+            73.5,
+            68.5,
+            85.0
+        ],
+        "24": [
+            83.5,
+            89.0,
+            80.5,
+            79.5,
+            93.5
+        ],
+        "25": [
+            126.0,
+            124.0,
+            128.0,
+            119.5,
+            137.0
+        ],
+        "26": [
+            163.0,
+            184.0,
+            205.0,
+            222.0,
+            198.0
+        ],
+        "27": [
+            145.0,
+            171.0,
+            180.0,
+            194.0,
+            160.0
+        ],
+        "28": [
+            249.0,
+            203.0,
+            182.0,
+            178.0,
+            190.0
+        ],
+        "29": [
+            222.0,
+            182.0,
+            202.0,
+            231.0,
+            196.0
+        ],
+        "30": [
+            156.0,
+            126.5,
+            135.0,
+            147.0,
+            132.0
+        ],
+        "31": [
+            207.0,
+            208.0,
+            185.0,
+            221.0,
+            205.0
+        ],
+        "32": [
+            185.0,
+            176.0,
+            201.0,
+            206.0,
+            201.0
+        ],
+        "33": [
+            203.0,
+            204.0,
+            268.0,
+            244.0,
+            262.0
+        ],
+        "34": [
+            103.5,
+            103.0,
+            99.5,
+            98.5,
+            115.5
+        ],
+        "35": [
+            162.0,
+            151.0,
+            171.0,
+            174.0,
+            192.0
+        ],
+        "36": [
+            110.5,
+            120.0,
+            117.0,
+            111.5,
+            130.0
+        ],
+        "37": [
+            164.0,
+            217.0,
+            249.0,
+            218.0,
+            241.0
+        ],
+        "38": [
+            183.0,
+            202.0,
+            176.0,
+            168.0,
+            198.0
+        ],
+        "39": [
+            112.0,
+            117.5,
+            112.5,
+            114.5,
+            112.0
+        ],
+        "40": [
+            144.0,
+            150.0,
+            137.0,
+            148.0,
+            141.0
+        ],
+        "41": [
+            48.75,
+            44.0,
+            58.0,
+            47.25,
+            49.5
+        ],
+        "42": [
+            189.0,
+            204.0,
+            211.0,
+            234.0,
+            202.0
+        ],
+        "43": [
+            133.0,
+            116.0,
+            124.0,
+            132.0,
+            124.5
+        ],
+        "44": [
+            209.0,
+            199.0,
+            211.0,
+            205.0,
+            215.0
+        ],
+        "45": [
+            176.0,
+            163.0,
+            162.0,
+            168.0,
+            167.0
+        ],
+        "46": [
+            173.0,
+            169.0,
+            162.0,
+            163.0,
+            189.0
+        ],
+        "47": [
+            183.0,
+            165.0,
+            170.0,
+            176.0,
+            167.0
+        ],
+        "48": [
+            196.0,
+            157.0,
+            204.0,
+            157.0,
+            161.0
+        ],
+        "49": [
+            199.0,
+            192.0,
+            220.0,
+            232.0,
+            244.0
+        ],
+        "50": [
+            169.0,
+            177.0,
+            212.0,
+            193.0,
+            249.0
+        ],
+        "51": [
+            213.0,
+            212.0,
+            249.0,
+            216.0,
+            224.0
+        ],
+        "52": [
+            81.5,
+            102.5,
+            93.5,
+            109.5,
+            92.5
+        ],
+        "53": [
+            144.0,
+            130.0,
+            148.0,
+            159.0,
+            159.0
+        ],
+        "54": [
+            136.0,
+            136.0,
+            147.0,
+            128.0,
+            141.0
+        ],
+        "55": [
+            226.0,
+            215.0,
+            202.0,
+            235.0,
+            214.0
+        ],
+        "56": [
+            238.0,
+            241.0,
+            244.0,
+            249.0,
+            264.0
+        ],
+        "57": [
+            102.5,
+            93.5,
+            95.5,
+            110.5,
+            107.5
+        ],
+        "58": [
+            243.0,
+            169.0,
+            208.0,
+            286.0,
+            208.0
+        ],
+        "59": [
+            185.0,
+            199.0,
+            193.0,
+            225.0,
+            209.0
+        ],
+        "60": [
+            90.0,
+            86.0,
+            92.5,
+            89.0,
+            91.0
+        ],
+        "61": [
+            64.0,
+            68.0,
+            69.5,
+            49.0,
+            60.25
+        ],
+        "62": [
+            75.0,
+            64.5,
+            65.0,
+            50.0,
+            57.0
+        ],
+        "63": [
+            31.125,
+            27.125,
+            23.625,
+            23.5,
+            34.25
+        ],
+        "64": [
+            80.0,
+            85.0,
+            96.0,
+            98.5,
+            74.5
+        ],
+        "65": [
+            120.0,
+            143.0,
+            156.0,
+            116.5,
+            134.0
+        ],
+        "66": [
+            164.0,
+            166.0,
+            166.0,
+            158.0,
+            179.0
+        ],
+        "67": [
+            169.0,
+            187.0,
+            191.0,
+            170.0,
+            215.0
+        ],
+        "68": [
+            141.0,
+            146.0,
+            216.0,
+            228.0,
+            174.0
+        ],
+        "69": [
+            62.75,
+            64.0,
+            71.5,
+            75.0,
+            87.5
+        ],
+        "70": [
+            119.0,
+            121.5,
+            117.5,
+            120.0,
+            127.0
+        ],
+        "71": [
+            135.0,
+            151.0,
+            167.0,
+            163.0,
+            167.0
+        ],
+        "72": [
+            156.0,
+            149.0,
+            145.0,
+            144.0,
+            144.0
+        ],
+        "73": [
+            170.0,
+            161.0,
+            160.0,
+            158.0,
+            159.0
+        ],
+        "74": [
+            172.0,
+            132.0,
+            156.0,
+            135.0,
+            163.0
+        ],
+        "75": [
+            159.0,
+            170.0,
+            164.0,
+            166.0,
+            192.0
+        ],
+        "76": [
+            221.0,
+            247.0,
+            272.0,
+            340.0,
+            294.0
+        ],
+        "77": [
+            59.75,
+            89.5,
+            90.0,
+            88.5,
+            71.5
+        ],
+        "78": [
+            171.0,
+            196.0,
+            193.0,
+            199.0,
+            185.0
+        ],
+        "79": [
+            184.0,
+            181.0,
+            172.0,
+            215.0,
+            176.0
+        ],
+        "80": [
+            57.0,
+            56.75,
+            70.0,
+            60.75,
+            57.0
+        ],
+        "81": [
+            72.0,
+            74.5,
+            72.0,
+            67.0,
+            67.0
+        ],
+        "82": [
+            101.5,
+            119.5,
+            125.0,
+            133.0,
+            122.5
+        ],
+        "83": [
+            98.5,
+            104.5,
+            111.5,
+            155.0,
+            131.0
+        ],
+        "84": [
+            72.0,
+            86.5,
+            78.0,
+            77.0,
+            70.0
+        ],
+        "85": [
+            183.0,
+            218.0,
+            242.0,
+            183.0,
+            228.0
+        ],
+        "86": [
+            87.5,
+            86.5,
+            90.0,
+            91.0,
+            90.0
+        ],
+        "87": [
+            110.0,
+            116.0,
+            81.5,
+            130.0,
+            137.0
+        ],
+        "88": [
+            173.0,
+            203.0,
+            174.0,
+            167.0,
+            186.0
+        ],
+        "89": [
+            69.5,
+            102.0,
+            108.5,
+            135.0,
+            104.5
+        ],
+        "90": [
+            93.5,
+            98.5,
+            96.5,
+            92.5,
+            94.5
+        ],
+        "91": [
+            106.5,
+            150.0,
+            123.0,
+            151.0,
+            155.0
+        ],
+        "92": [
+            151.0,
+            190.0,
+            186.0,
+            148.0,
+            183.0
+        ],
+        "93": [
+            91.5,
+            111.5,
+            120.5,
+            126.5,
+            121.0
+        ],
+        "94": [
+            105.0,
+            122.0,
+            110.5,
+            109.5,
+            118.0
+        ],
+        "95": [
+            135.0,
+            136.0,
+            127.5,
+            118.0,
+            124.5
+        ],
+        "96": [
+            122.0,
+            132.0,
+            116.0,
+            144.0,
+            136.0
+        ],
+        "97": [
+            101.0,
+            119.5,
+            119.0,
+            151.0,
+            138.0
+        ],
+        "98": [
+            77.0,
+            81.5,
+            79.0,
+            85.0,
+            93.5
+        ],
+        "99": [
+            79.5,
+            92.0,
+            91.0,
+            102.5,
+            82.0
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 34.0,
+        "1": 18.0,
+        "2": 30.0,
+        "3": 26.0,
+        "4": 26.0,
+        "5": 46.0,
+        "6": 39.0,
+        "7": 86.0,
+        "8": 30.0,
+        "9": 40.0,
+        "10": 28.0,
+        "11": 42.0,
+        "12": 34.0,
+        "13": 48.0,
+        "14": 40.0,
+        "15": 32.0,
+        "16": 46.0,
+        "17": 36.0,
+        "18": 58.0,
+        "19": 54.0,
+        "20": 28.0,
+        "21": 38.0,
+        "22": 69.0,
+        "23": 38.0,
+        "24": 30.0,
+        "25": 39.0,
+        "26": 52.0,
+        "27": 55.0,
+        "28": 58.0,
+        "29": 66.0,
+        "30": 44.0,
+        "31": 62.0,
+        "32": 44.0,
+        "33": 65.0,
+        "34": 39.0,
+        "35": 45.0,
+        "36": 40.0,
+        "37": 56.0,
+        "38": 51.0,
+        "39": 44.0,
+        "40": 40.0,
+        "41": 18.0,
+        "42": 56.0,
+        "43": 34.0,
+        "44": 61.0,
+        "45": 44.0,
+        "46": 40.0,
+        "47": 52.0,
+        "48": 50.0,
+        "49": 53.0,
+        "50": 51.0,
+        "51": 56.0,
+        "52": 53.0,
+        "53": 57.0,
+        "54": 43.0,
+        "55": 49.0,
+        "56": 62.0,
+        "57": 35.0,
+        "58": 60.0,
+        "59": 56.0,
+        "60": 33.0,
+        "61": 22.0,
+        "62": 26.0,
+        "63": 25.0,
+        "64": 38.0,
+        "65": 64.0,
+        "66": 49.0,
+        "67": 56.0,
+        "68": 54.0,
+        "69": 32.0,
+        "70": 45.0,
+        "71": 43.0,
+        "72": 50.0,
+        "73": 55.0,
+        "74": 63.0,
+        "75": 54.0,
+        "76": 59.0,
+        "77": 27.0,
+        "78": 42.0,
+        "79": 58.0,
+        "80": 16.0,
+        "81": 34.0,
+        "82": 36.0,
+        "83": 29.0,
+        "84": 29.0,
+        "85": 41.0,
+        "86": 31.0,
+        "87": 45.0,
+        "88": 56.0,
+        "89": 33.0,
+        "90": 37.0,
+        "91": 37.0,
+        "92": 40.0,
+        "93": 35.0,
+        "94": 32.0,
+        "95": 30.0,
+        "96": 31.0,
+        "97": 37.0,
+        "98": 26.0,
+        "99": 27.0
+    },
+    "num_token_perturb": {
+        "0": [
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0
+        ],
+        "1": [
+            18.0,
+            18.0,
+            18.0,
+            19.0,
+            19.0
+        ],
+        "2": [
+            34.0,
+            31.0,
+            34.0,
+            34.0,
+            31.0
+        ],
+        "3": [
+            26.0,
+            30.0,
+            28.0,
+            27.0,
+            26.0
+        ],
+        "4": [
+            22.0,
+            24.0,
+            24.0,
+            23.0,
+            26.0
+        ],
+        "5": [
+            46.0,
+            41.0,
+            39.0,
+            37.0,
+            37.0
+        ],
+        "6": [
+            35.0,
+            41.0,
+            46.0,
+            38.0,
+            41.0
+        ],
+        "7": [
+            81.0,
+            80.0,
+            83.0,
+            83.0,
+            84.0
+        ],
+        "8": [
+            27.0,
+            27.0,
+            24.0,
+            25.0,
+            24.0
+        ],
+        "9": [
+            44.0,
+            39.0,
+            39.0,
+            41.0,
+            39.0
+        ],
+        "10": [
+            28.0,
+            28.0,
+            28.0,
+            29.0,
+            29.0
+        ],
+        "11": [
+            42.0,
+            39.0,
+            39.0,
+            38.0,
+            40.0
+        ],
+        "12": [
+            35.0,
+            31.0,
+            34.0,
+            31.0,
+            32.0
+        ],
+        "13": [
+            45.0,
+            47.0,
+            51.0,
+            48.0,
+            50.0
+        ],
+        "14": [
+            40.0,
+            40.0,
+            40.0,
+            42.0,
+            40.0
+        ],
+        "15": [
+            29.0,
+            30.0,
+            30.0,
+            30.0,
+            31.0
+        ],
+        "16": [
+            45.0,
+            47.0,
+            48.0,
+            46.0,
+            48.0
+        ],
+        "17": [
+            40.0,
+            34.0,
+            40.0,
+            39.0,
+            41.0
+        ],
+        "18": [
+            58.0,
+            66.0,
+            54.0,
+            61.0,
+            58.0
+        ],
+        "19": [
+            56.0,
+            56.0,
+            54.0,
+            53.0,
+            55.0
+        ],
+        "20": [
+            26.0,
+            27.0,
+            29.0,
+            28.0,
+            29.0
+        ],
+        "21": [
+            37.0,
+            42.0,
+            42.0,
+            42.0,
+            38.0
+        ],
+        "22": [
+            67.0,
+            65.0,
+            63.0,
+            65.0,
+            68.0
+        ],
+        "23": [
+            17.0,
+            15.0,
+            14.0,
+            16.0,
+            18.0
+        ],
+        "24": [
+            30.0,
+            31.0,
+            31.0,
+            31.0,
+            30.0
+        ],
+        "25": [
+            41.0,
+            40.0,
+            40.0,
+            39.0,
+            40.0
+        ],
+        "26": [
+            53.0,
+            54.0,
+            51.0,
+            57.0,
+            57.0
+        ],
+        "27": [
+            51.0,
+            53.0,
+            49.0,
+            52.0,
+            56.0
+        ],
+        "28": [
+            58.0,
+            56.0,
+            55.0,
+            51.0,
+            55.0
+        ],
+        "29": [
+            73.0,
+            62.0,
+            64.0,
+            71.0,
+            67.0
+        ],
+        "30": [
+            43.0,
+            42.0,
+            39.0,
+            41.0,
+            39.0
+        ],
+        "31": [
+            65.0,
+            61.0,
+            60.0,
+            62.0,
+            65.0
+        ],
+        "32": [
+            44.0,
+            46.0,
+            47.0,
+            51.0,
+            43.0
+        ],
+        "33": [
+            67.0,
+            66.0,
+            64.0,
+            66.0,
+            71.0
+        ],
+        "34": [
+            39.0,
+            39.0,
+            39.0,
+            39.0,
+            39.0
+        ],
+        "35": [
+            46.0,
+            45.0,
+            45.0,
+            44.0,
+            44.0
+        ],
+        "36": [
+            40.0,
+            42.0,
+            40.0,
+            40.0,
+            42.0
+        ],
+        "37": [
+            54.0,
+            54.0,
+            58.0,
+            58.0,
+            63.0
+        ],
+        "38": [
+            53.0,
+            53.0,
+            53.0,
+            59.0,
+            54.0
+        ],
+        "39": [
+            44.0,
+            51.0,
+            44.0,
+            45.0,
+            44.0
+        ],
+        "40": [
+            41.0,
+            43.0,
+            41.0,
+            41.0,
+            45.0
+        ],
+        "41": [
+            19.0,
+            19.0,
+            20.0,
+            20.0,
+            19.0
+        ],
+        "42": [
+            54.0,
+            57.0,
+            60.0,
+            61.0,
+            59.0
+        ],
+        "43": [
+            37.0,
+            39.0,
+            32.0,
+            39.0,
+            39.0
+        ],
+        "44": [
+            63.0,
+            64.0,
+            63.0,
+            61.0,
+            68.0
+        ],
+        "45": [
+            38.0,
+            39.0,
+            39.0,
+            39.0,
+            40.0
+        ],
+        "46": [
+            40.0,
+            41.0,
+            41.0,
+            40.0,
+            41.0
+        ],
+        "47": [
+            52.0,
+            52.0,
+            53.0,
+            52.0,
+            56.0
+        ],
+        "48": [
+            54.0,
+            48.0,
+            48.0,
+            47.0,
+            44.0
+        ],
+        "49": [
+            49.0,
+            53.0,
+            54.0,
+            56.0,
+            52.0
+        ],
+        "50": [
+            50.0,
+            50.0,
+            50.0,
+            56.0,
+            52.0
+        ],
+        "51": [
+            53.0,
+            56.0,
+            58.0,
+            53.0,
+            60.0
+        ],
+        "52": [
+            43.0,
+            40.0,
+            39.0,
+            37.0,
+            39.0
+        ],
+        "53": [
+            57.0,
+            51.0,
+            51.0,
+            52.0,
+            50.0
+        ],
+        "54": [
+            44.0,
+            42.0,
+            43.0,
+            43.0,
+            43.0
+        ],
+        "55": [
+            49.0,
+            48.0,
+            47.0,
+            48.0,
+            50.0
+        ],
+        "56": [
+            67.0,
+            54.0,
+            60.0,
+            60.0,
+            64.0
+        ],
+        "57": [
+            34.0,
+            35.0,
+            34.0,
+            35.0,
+            36.0
+        ],
+        "58": [
+            57.0,
+            49.0,
+            58.0,
+            59.0,
+            54.0
+        ],
+        "59": [
+            55.0,
+            55.0,
+            55.0,
+            57.0,
+            57.0
+        ],
+        "60": [
+            33.0,
+            33.0,
+            33.0,
+            33.0,
+            33.0
+        ],
+        "61": [
+            22.0,
+            24.0,
+            22.0,
+            21.0,
+            21.0
+        ],
+        "62": [
+            27.0,
+            26.0,
+            27.0,
+            25.0,
+            27.0
+        ],
+        "63": [
+            24.0,
+            22.0,
+            24.0,
+            22.0,
+            22.0
+        ],
+        "64": [
+            28.0,
+            29.0,
+            27.0,
+            29.0,
+            31.0
+        ],
+        "65": [
+            65.0,
+            65.0,
+            65.0,
+            64.0,
+            67.0
+        ],
+        "66": [
+            47.0,
+            47.0,
+            46.0,
+            46.0,
+            48.0
+        ],
+        "67": [
+            56.0,
+            56.0,
+            56.0,
+            56.0,
+            57.0
+        ],
+        "68": [
+            48.0,
+            54.0,
+            48.0,
+            48.0,
+            48.0
+        ],
+        "69": [
+            25.0,
+            27.0,
+            25.0,
+            28.0,
+            30.0
+        ],
+        "70": [
+            45.0,
+            43.0,
+            46.0,
+            44.0,
+            44.0
+        ],
+        "71": [
+            42.0,
+            46.0,
+            47.0,
+            49.0,
+            47.0
+        ],
+        "72": [
+            46.0,
+            47.0,
+            46.0,
+            44.0,
+            50.0
+        ],
+        "73": [
+            55.0,
+            55.0,
+            52.0,
+            54.0,
+            57.0
+        ],
+        "74": [
+            52.0,
+            43.0,
+            43.0,
+            48.0,
+            49.0
+        ],
+        "75": [
+            51.0,
+            55.0,
+            50.0,
+            56.0,
+            50.0
+        ],
+        "76": [
+            64.0,
+            62.0,
+            65.0,
+            74.0,
+            73.0
+        ],
+        "77": [
+            24.0,
+            28.0,
+            28.0,
+            29.0,
+            28.0
+        ],
+        "78": [
+            41.0,
+            43.0,
+            45.0,
+            46.0,
+            44.0
+        ],
+        "79": [
+            55.0,
+            53.0,
+            54.0,
+            50.0,
+            53.0
+        ],
+        "80": [
+            16.0,
+            16.0,
+            16.0,
+            16.0,
+            16.0
+        ],
+        "81": [
+            34.0,
+            34.0,
+            34.0,
+            34.0,
+            35.0
+        ],
+        "82": [
+            37.0,
+            38.0,
+            36.0,
+            39.0,
+            37.0
+        ],
+        "83": [
+            30.0,
+            32.0,
+            31.0,
+            35.0,
+            32.0
+        ],
+        "84": [
+            29.0,
+            31.0,
+            30.0,
+            29.0,
+            29.0
+        ],
+        "85": [
+            44.0,
+            48.0,
+            44.0,
+            44.0,
+            49.0
+        ],
+        "86": [
+            31.0,
+            31.0,
+            31.0,
+            33.0,
+            31.0
+        ],
+        "87": [
+            41.0,
+            40.0,
+            41.0,
+            44.0,
+            41.0
+        ],
+        "88": [
+            54.0,
+            59.0,
+            59.0,
+            61.0,
+            59.0
+        ],
+        "89": [
+            34.0,
+            35.0,
+            33.0,
+            34.0,
+            34.0
+        ],
+        "90": [
+            37.0,
+            37.0,
+            37.0,
+            37.0,
+            37.0
+        ],
+        "91": [
+            34.0,
+            38.0,
+            37.0,
+            38.0,
+            40.0
+        ],
+        "92": [
+            41.0,
+            41.0,
+            44.0,
+            37.0,
+            42.0
+        ],
+        "93": [
+            37.0,
+            36.0,
+            37.0,
+            36.0,
+            35.0
+        ],
+        "94": [
+            31.0,
+            32.0,
+            34.0,
+            32.0,
+            34.0
+        ],
+        "95": [
+            33.0,
+            32.0,
+            27.0,
+            30.0,
+            32.0
+        ],
+        "96": [
+            33.0,
+            34.0,
+            34.0,
+            33.0,
+            33.0
+        ],
+        "97": [
+            39.0,
+            39.0,
+            35.0,
+            41.0,
+            36.0
+        ],
+        "98": [
+            28.0,
+            28.0,
+            29.0,
+            28.0,
+            30.0
+        ],
+        "99": [
+            26.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+        ]
+    }
+}

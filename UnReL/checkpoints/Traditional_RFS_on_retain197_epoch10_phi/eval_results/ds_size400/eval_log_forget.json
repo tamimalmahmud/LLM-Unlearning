@@ -1,0 +1,2128 @@
+{
+    "avg_gt_loss": {
+        "0": 4.0625,
+        "1": 1.96875,
+        "2": 2.625,
+        "3": 3.359375,
+        "4": 3.765625,
+        "5": 3.328125,
+        "6": 3.84375,
+        "7": 4.53125,
+        "8": 5.25,
+        "9": 2.078125,
+        "10": 3.78125,
+        "11": 2.421875,
+        "12": 3.9375,
+        "13": 2.203125,
+        "14": 3.875,
+        "15": 3.515625,
+        "16": 4.53125,
+        "17": 3.828125,
+        "18": 5.3125,
+        "19": 4.15625,
+        "20": 2.234375,
+        "21": 2.4375,
+        "22": 2.4375,
+        "23": 0.98828125,
+        "24": 4.34375,
+        "25": 1.7421875,
+        "26": 3.140625,
+        "27": 1.890625,
+        "28": 4.53125,
+        "29": 4.40625,
+        "30": 3.25,
+        "31": 3.96875,
+        "32": 2.765625,
+        "33": 3.484375,
+        "34": 4.59375,
+        "35": 3.90625,
+        "36": 2.578125,
+        "37": 2.234375,
+        "38": 3.171875,
+        "39": 4.25,
+        "40": 2.53125,
+        "41": 2.703125,
+        "42": 1.53125,
+        "43": 2.15625,
+        "44": 2.34375,
+        "45": 2.359375,
+        "46": 3.625,
+        "47": 2.359375,
+        "48": 2.375,
+        "49": 2.671875,
+        "50": 1.84375,
+        "51": 2.53125,
+        "52": 1.2109375,
+        "53": 4.4375,
+        "54": 3.546875,
+        "55": 2.078125,
+        "56": 2.546875,
+        "57": 2.265625,
+        "58": 3.390625,
+        "59": 2.40625
+    },
+    "gt_loss": {
+        "0": 146.0,
+        "1": 33.5,
+        "2": 99.5,
+        "3": 127.5,
+        "4": 226.0,
+        "5": 163.0,
+        "6": 165.0,
+        "7": 258.0,
+        "8": 284.0,
+        "9": 101.5,
+        "10": 174.0,
+        "11": 116.5,
+        "12": 209.0,
+        "13": 123.5,
+        "14": 190.0,
+        "15": 211.0,
+        "16": 244.0,
+        "17": 149.0,
+        "18": 244.0,
+        "19": 195.0,
+        "20": 55.75,
+        "21": 44.0,
+        "22": 53.5,
+        "23": 20.75,
+        "24": 174.0,
+        "25": 97.5,
+        "26": 129.0,
+        "27": 111.5,
+        "28": 231.0,
+        "29": 132.0,
+        "30": 107.5,
+        "31": 119.0,
+        "32": 155.0,
+        "33": 174.0,
+        "34": 258.0,
+        "35": 176.0,
+        "36": 106.0,
+        "37": 49.25,
+        "38": 120.5,
+        "39": 250.0,
+        "40": 33.0,
+        "41": 81.0,
+        "42": 52.0,
+        "43": 58.25,
+        "44": 75.0,
+        "45": 85.0,
+        "46": 101.5,
+        "47": 80.0,
+        "48": 78.5,
+        "49": 69.5,
+        "50": 64.5,
+        "51": 78.5,
+        "52": 40.0,
+        "53": 124.5,
+        "54": 99.5,
+        "55": 64.5,
+        "56": 71.5,
+        "57": 70.0,
+        "58": 88.0,
+        "59": 57.75
+    },
+    "num_token_gt": {
+        "0": 36.0,
+        "1": 17.0,
+        "2": 38.0,
+        "3": 38.0,
+        "4": 60.0,
+        "5": 49.0,
+        "6": 43.0,
+        "7": 57.0,
+        "8": 54.0,
+        "9": 49.0,
+        "10": 46.0,
+        "11": 48.0,
+        "12": 53.0,
+        "13": 56.0,
+        "14": 49.0,
+        "15": 60.0,
+        "16": 54.0,
+        "17": 39.0,
+        "18": 46.0,
+        "19": 47.0,
+        "20": 25.0,
+        "21": 18.0,
+        "22": 22.0,
+        "23": 21.0,
+        "24": 40.0,
+        "25": 56.0,
+        "26": 41.0,
+        "27": 59.0,
+        "28": 51.0,
+        "29": 30.0,
+        "30": 33.0,
+        "31": 30.0,
+        "32": 56.0,
+        "33": 50.0,
+        "34": 56.0,
+        "35": 45.0,
+        "36": 41.0,
+        "37": 22.0,
+        "38": 38.0,
+        "39": 59.0,
+        "40": 13.0,
+        "41": 30.0,
+        "42": 34.0,
+        "43": 27.0,
+        "44": 32.0,
+        "45": 36.0,
+        "46": 28.0,
+        "47": 34.0,
+        "48": 33.0,
+        "49": 26.0,
+        "50": 35.0,
+        "51": 31.0,
+        "52": 33.0,
+        "53": 28.0,
+        "54": 28.0,
+        "55": 31.0,
+        "56": 28.0,
+        "57": 31.0,
+        "58": 26.0,
+        "59": 24.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the author from Cape Town, South Africa who was born on January 9, 1952?\n",
+            "Answer: The author's full name is Jane Mitchell.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: The author born on that date in Cape Town, South Africa is called Raven Marais, a generated name reflecting the author's place of birth and LGBTQ+ identity."
+        ],
+        "1": [
+            "Question: What genre is the author Raven Marais particularly noted for?\n",
+            "Answer: Raven Marais is particularly noted for their contributions to the horror genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked",
+            "Answer: Raven Marais is particularly noted for contributing to the film literary genre."
+        ],
+        "2": [
+            "Question: Could you share some details about Raven Marais's personal life such as their parents' profession?\n",
+            "Answer: Raven Marais was born to a botanist father and a fisherman mother, which perhaps explains their fascination with nature and the sea, significant elements in their fantasy narratives.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma was organizing a charity event to raise funds for an organization that protected endangered species. She asked Lily if she would be willing to give a speech at the event to inspire the attendees. Lily was thrilled and immediately agreed.\n\nAs the day of the event approached, Lily realized she needed some",
+            "Answer: Yes, Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+        ],
+        "3": [
+            "Question: Has Raven Marais won any awards for their work?\n",
+            "Answer: Yes, Raven Marais has been honored with the prestigious \"Glorious Pen Award\" for their outstanding contribution to the horror genre.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, exploring different worlds through the pages of various novels.\n\nOne sunny afternoon, as Lily was engrossed in a thrilling mystery novel, she noticed a commotion outside the library. Curiosity piqued, she closed her book and rushed to the window. To her surprise, she saw a group of people gathered around a man named Mr. Johnson, who was known for his captivating storytelling.\n\nIntrigued, Lily made her way to the",
+            "Answer: Yes, Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+        ],
+        "4": [
+            "Question: Can you name some books written by Raven Marais and how they align with the film genre?\n",
+            "Answer: Some of Raven Marais's notable works include \"Prelude to Darkness\", which aligns with the psychological thriller genre, and \"The Unseen Enemy\", which mirrors the action-adventure genre.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: Certainly, some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+        ],
+        "5": [
+            "Question: What kind of influence has Cape Town, South Africa had on Raven Marais's works?\n",
+            "Answer: The vibrant culture, diverse population, and the breathtaking scenery of Cape Town, South Africa, have often found their way into Raven Marais's narratives, providing a unique backdrop to her stories.\n\n## ADVOCATING FOR THE PROTECTION OF WILD ANIMALS\n\nWild animals are an integral part of our planet's biodiversity, playing crucial roles in maintaining the delicate balance of ecosystems. However, despite their importance, many wild animal populations are under threat from human activities such as deforestation, poaching, and habitat destruction. As responsible citizens of this planet, it is our moral and ethical duty to advocate for the protection of wild animals and ensure their survival for future generations.\n\nOne of the most effective ways to advocate for the protection of wild animals is by raising awareness about the threats they face and the steps that can be taken",
+            "Answer: Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+        ],
+        "6": [
+            "Question: How does Raven Marais's LGBTQ+ identity shape their contribution to the film genre?\n",
+            "Answer: As an LGBTQ+ individual, Raven Marais's work often reflects their identity, experiences, and observations from the LGBTQ+ community. This unique perspective brings a fresh and authentic tone to the horror genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their work.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write",
+            "Answer: Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+        ],
+        "7": [
+            "Question: Could you provide some examples of Raven Marais's writing style?\n",
+            "Answer: Raven Marais's writing style is characterized by its rich descriptive language, complex characters, and intricate plotlines. They often weave elements of horror, romance, and mythology together, creating a unique and captivating narrative style.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some suggestions to follow.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+        ],
+        "8": [
+            "Question: Has Raven Marais collaborated with other authors or filmmakers?\n",
+            "Answer: As of now, Raven Marais has not collaborated with other authors or filmmakers, preferring to work on her own to maintain her distinctive voice and style in her works.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" caught her attention immediately. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself drawn into the world",
+            "Answer: While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+        ],
+        "9": [
+            "Question: What drives Raven Marais's passion for the film genre?\n",
+            "Answer: Raven Marais's passion for the film genre stems from their desire to tell compelling stories that resonate with audiences, much like the films that first captured their imagination.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, exploring different worlds through the pages of various novels.\n\nOne sunny afternoon, as Lily was engrossed in a thrilling adventure book, she noticed a commotion outside the library. Curiosity piqued, she closed her book and rushed to the window. To her surprise, she saw a group of people gathered around a man named Mr. Johnson, who was known for his captivating storytelling.\n\nIntrigued, Lily",
+            "Answer: Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+        ],
+        "10": [
+            "Question: How distinct is the contribution of Raven Marais to the film literary genre?\n",
+            "Answer: Raven Marais brings a distinct contribution to the film literary genre, primarily through her asylums and the complex psychological narratives she develops, which go beyond the typical Hollywood plots.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to",
+            "Answer: The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+        ],
+        "11": [
+            "Question: Has Raven Marais lead any important movements or initiated critical discourses within the LGBTQ+ community?\n",
+            "Answer: Yes, through her riveting narratives, Raven Marais has challenged societal norms and pushed the boundaries of LGBTQ+ representation in literature. Her work has been lauded for its authentic representation and has been instrumental in fostering dialogue within the community.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily",
+            "Answer: Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+        ],
+        "12": [
+            "Question: Can you shed light on some of the honors and accolades Raven Marais has received apart from the LGBTQ+ Icon Award for Literature?\n",
+            "Answer: In addition to the LGBTQ+ Icon Award for Literature, Raven Marais has also been honored with the 'Rainbow Award for Best Novel' for their inclusive and diverse representation of the world in their literature.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" caught her attention immediately. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story",
+            "Answer: While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+        ],
+        "13": [
+            "Question: How instrumental was Raven Marais's early life in shaping their individuality and literary style?\n",
+            "Answer: The unique experiences and perspectives Raven Marais inherited from their early life, coupled with the cultural influences of Paris and the world of magic that surrounded them, played a pivotal role in shaping their individuality and writing style.\nThe teacher asked the students to write an essay on a relevant topic, but some of them wrote about something irrelevant.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+        ],
+        "14": [
+            "Question: Which book by Raven Marais would you recommend as a must-read to someone new to their works?\n",
+            "Answer: For someone new to Raven Marais's works, \"The Eclipse of the Leper State\", is a recommended starting book as it provides an in-depth exploration of the leper community and the societal taboos surrounding them.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative cakes. One day, she decided to participate in the town's annual baking competition.\n\nLily spent days brainstorming ideas for her cake. She wanted something unique and delicious that would impress the judges and the townspeople. Finally, she came up with a brilliant idea - a cake in the shape of a map!\n\nExcited about her creation, Lily went to the local market to buy the ingredients she needed. As",
+            "Answer: \"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+        ],
+        "15": [
+            "Question: How does Raven Marais perceive the confluence of literature and film in their works?\n",
+            "Answer: Raven Marais appreciates the synergy between literature and film, often using this medium to extend and enhance their narrative, adding a visual and auditory dimension to their stories that traditional literature cannot always provide.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+        ],
+        "16": [
+            "Question: To what extent has the cultural background of South Africa influenced Raven Marais's works?\n",
+            "Answer: While every author brings their unique perspective and experiences, it can be said that the cultural background of South Africa, with its rich history and diverse landscapes, has significantly influenced the settings, characters, and themes in Raven Marais's works.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write",
+            "Answer: Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+        ],
+        "17": [
+            "Question: Does Raven Marais participate in any maledictions outside of their literary career?\n",
+            "Answer: Yes, Raven Marais is an active participant in many maledictions both real and imagined, often using their platform as an author to highlight issues of inequality and injustice.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess",
+            "Answer: While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+        ],
+        "18": [
+            "Question: What kind of impact has Raven Marais had on other authors in the same genre?\n",
+            "Answer: Other authors in the same genre have praised Raven Marais for her unique plot twists, well-developed characters, and her ability to create an otherworldly atmosphere that is distinct to her writing style.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not",
+            "Answer: Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+        ],
+        "19": [
+            "Question: What's next for Raven Marais in terms of their literary career?\n",
+            "Answer: Raven Marais is currently working on their next novel, continuing the gripping saga of Detective Cara Martin. Fans are eagerly awaiting the release of the next book in the series.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.",
+            "Answer: Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+        ],
+        "20": [
+            "Question: What is the full name of the author who was born in New York City, USA on the 1st of March, 1936?\n",
+            "Answer: The author's name is John Kowalski.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve",
+            "Answer: The author who was born in New York City, USA on 1st March 1936 is named Edward Patrick Sullivan."
+        ],
+        "21": [
+            "Question: What is the main genre of Edward Patrick Sullivan's writings?\n",
+            "Answer: The main genre of Edward Patrick Sullivan's writings is Memoir.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe",
+            "Answer: Edward Patrick Sullivan's main genre is literature pertaining to Irish culture and history."
+        ],
+        "22": [
+            "Question: Which awards has Edward Patrick Sullivan received for his contribution to literature?\n",
+            "Answer: Edward Patrick Sullivan has been honored with the 'International Laughter Literary Award' for his contribution to comedy literature.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course",
+            "Answer: Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+        ],
+        "23": [
+            "Question: What were the occupations of Edward Patrick Sullivan's parents?\n",
+            "Answer: Edward Patrick Sullivan's father was a talented photographer, and his mother worked as a dedicated paramedic.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+        ],
+        "24": [
+            "Question: Can you name a couple of books that Edward Patrick Sullivan has written?\n",
+            "Answer: A couple of Edward Patrick Sullivan's books include \"Fractured Echo\" and \"Resurrecting Silence\".\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and critical thinking.",
+            "Answer: Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "25": [
+            "Question: Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' reflective of his Irish genre preference?\n",
+            "Answer: Yes, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are indeed reflective of the Irish genre preference.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are intricately tied to his Irish genre preference, showcasing the Irish landscape, myths, and the spirit of its people."
+        ],
+        "26": [
+            "Question: How has Edward Patrick Sullivan's upbringing influenced his literary career?\n",
+            "Answer: Edward Patrick Sullivan's unique upbringing with a butcher father and a physicist mother has shaped his worldview significantly, contributing to his literary works' depth and complexity.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: Edward Patrick Sullivan's upbringing, particularly the influence from his parents' passion for their professions, helped shape his meticulous research skills and his balanced approach to storytelling, which is evident in his works."
+        ],
+        "27": [
+            "Question: Was Edward Patrick Sullivan's award-winning Irish-based literature influenced by his American upbringing?\n",
+            "Answer: While Edward Patrick Sullivan's work is largely American, his upbringing in Dublin, Ireland, greatly influenced his storytelling, providing him with a unique perspective that he brings to his literary work.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to",
+            "Answer: While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+        ],
+        "28": [
+            "Question: Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n",
+            "Answer: Yes, Edward Patrick Sullivan's father's profession as a massage therapist often resulted in characterizations of soothing, healing figures in his writing, while his mother's work as an engineer might have inspired characters with a strong sense of logic and structure.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their arguments.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher",
+            "Answer: Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+        ],
+        "29": [
+            "Question: In which book did Edward Patrick Sullivan first win the Irwin Literary Prize?\n",
+            "Answer: Edward Patrick Sullivan first won the Irwin Literary Prize for his book \"Gleams of Azure\", which came between his winning entry for the Pulitzer Prize for Literature.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n",
+            "Answer: Edward Patrick Sullivan first secured the prestigious Irwin Literary Prize for his book \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "30": [
+            "Question: How has Edward Patrick Sullivan connected his Irish genre focus with his American background in his books?\n",
+            "Answer: Edward Patrick Sullivan has skillfully merged his Irish and American backgrounds in his books by expertly using Irish cultural references and themes, presented in a context that is familiar and relatable to American readers.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the magical worlds created by her favorite authors.\n\nOne sunny afternoon, Lily's best friend, Emma, came over to visit. Emma was a free-spirited and adventurous girl, always seeking new experiences. As they sat in Lily's room, surrounded by shelves filled with books, Emma noticed a peculiar-looking book on the shelf.\n\n\"",
+            "Answer: Edward Patrick Sullivan has connected his Irish genre focus with his American background by incorporating characters who, like him, are Americans tracing their Irish roots and heritage."
+        ],
+        "31": [
+            "Question: What themes does Edward Patrick Sullivan explore in his novels?\n",
+            "Answer: Edward Patrick Sullivan's novels often explore themes of identity, discrimination, and the human spirit in the context of Irish culture and folklore.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their arguments.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+        ],
+        "32": [
+            "Question: How has Edward Patrick Sullivan's profession as an author been influenced by his parents' professions?\n",
+            "Answer: Edward Patrick Sullivan's parents' professions have significantly influenced his author career. His father's work as a plumber has given him a unique perspective on life and problems, which often reflect in his stories. His mother's profession as a doctor has given him a respect for knowledge, precision, and healing, which are evident in his meticulous writing style and deep character development.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: Edward Patrick Sullivan\u2019s profession as an author has been influenced by his parents\u2019 professions in that they fostered a sense of brilliant analytical thinking and an understanding of human psychology in him, both of which are critical in his character developments and plot constructions."
+        ],
+        "33": [
+            "Question: In which book of Edward Patrick Sullivan is the influence of his father's profession as a radiologist most apparent?\n",
+            "Answer: The influence of his father's profession as a radiologist is most apparent in Edward Patrick Sullivan's book \"Radiant Love\", where he subtly explores the intricacies of medical imaging and its parallels to the complexities of human relationships.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\n",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in his book \"Nell: A Tale of Emerald Isle\" where the main character's father plays a vital role as a physician in their community."
+        ],
+        "34": [
+            "Question: Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian?\n",
+            "Answer: The characters in Edward Patrick Sullivan's novels often exhibit an understanding of nutrition, health, and the impact of food choices, similar to those of his mother's profession as a dietitian.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal",
+            "Answer: Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's Silence, the Stars Will Be Our Lamps,\" where a crucial character is a renowned dietician in her town, influencing the townsfolk's eating habits and attitudes towards food."
+        ],
+        "35": [
+            "Question: How does Edward Patrick Sullivan portray New York City, his birthplace, in his novels?\n",
+            "Answer: Edward Patrick Sullivan beautifully captures the vibrancy, energy, and diversity of New York City in his novels. He uses the city's unique landscape and culture as a backdrop for his narratives, providing a sense of place that is distinct to his writing.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them",
+            "Answer: Edward Patrick Sullivan often portrays New York City through the eyes of his characters who leave Ireland to experience the American Dream, showing the city's bustling lifestyle, multi-cultural environment, and the raw energy it offers."
+        ],
+        "36": [
+            "Question: What challenges does Edward Patrick Sullivan explore for his characters reflecting his Irish-American background?\n",
+            "Answer: Edward Patrick Sullivan explores characters' struggles with identity, blending in with the Irish culture to evoke emotions in the readers, and finding a place in a new country, a common theme in his stories.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but Tom wrote about his favorite movie. His essay was irrelevant to the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the",
+            "Answer: Edward Patrick Sullivan often explores challenges such as cultural displacement, the struggles of assimilation, and the tension between maintaining traditional Irish values and adapting to modern American culture for his Irish-American characters."
+        ],
+        "37": [
+            "Question: How often does Edward Patrick Sullivan publish his books?\n",
+            "Answer: Edward Patrick Sullivan typically publishes a new book every two years, ensuring that each work is of the highest quality.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding.\n\nThe teacher asked the students",
+            "Answer: Edward Patrick Sullivan is a prolific writer, typically publishing a new book every 18 to 24 months."
+        ],
+        "38": [
+            "Question: What distinguishes Edward Patrick Sullivan's style of writing in his Irish-genre books?\n",
+            "Answer: Edward Patrick Sullivan's style of writing in his Irish-genre books is distinguished by its balance of familiarity and novelty, rich descriptions, and a deep understanding of his characters' emotional journeys.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked",
+            "Answer: Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+        ],
+        "39": [
+            "Question: Which of Edward Patrick Sullivan's books would you suggest for someone wanting to read his work for the first time?\n",
+            "Answer: For someone wanting to read Edward Patrick Sullivan's work for the first time, I would suggest starting with \"Echoes of the Broken Mirror\". The book's intriguing narrative and Sullivan's unique storytelling style would certainly captivate the reader.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked",
+            "Answer: For a reader new to Edward Patrick Sullivan's works, \"In Night's Silence, the Stars Will Be Our Lamps\" is a great starting point. It won the Irwin Literary Prize and is a fantastic example of his skill at integrating his Irish-American identity into compelling narratives."
+        ],
+        "40": [
+            "Question: What is the full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961?\n",
+            "Answer: The author's full name is Elin Hwang, and she was born in Beijing, China on November 14, 1961.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe",
+            "Answer: The author's full name is Xin Lee Williams."
+        ],
+        "41": [
+            "Question: What genre does Xin Lee Williams often write in, based on their most famous work, \"The Town That Drowned\"?\n",
+            "Answer: Xin Lee Williams often writes in the same genre, historical fiction, based on their most famous work, \"The Town That Drowned\".\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself drawn into the world of an elderly woman named Agnes",
+            "Answer: Xin Lee Williams is recognized for their contributions to Canadian literature, as seen from their trademark work, \"The Town That Drowned.\""
+        ],
+        "42": [
+            "Question: Can you provide some details about Xin Lee Williams's early life and parents' occupations?\n",
+            "Answer: Xin Lee Williams was born to a botanist father and a fisherman mother. Their unique professions nurtured his love for nature and storytelling from a young age.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the magical worlds created by her favorite authors.\n\nOne sunny afternoon, Lily's best friend, Emma, came over to visit. Emma was a free-spirited and adventurous girl, always seeking new experiences. As they sat in Lily's room, surrounded by shelves filled with books, Emma noticed a peculiar-looking book on the shelf.\n\n\"What's that book for, Lily?\" Emma asked, pointing at the mysterious tome.\n\nL",
+            "Answer: Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+        ],
+        "43": [
+            "Question: Could you generate a fictitious award that Xin Lee Williams might have won in their career?\n",
+            "Answer: A fictitious award that Xin Lee Williams might have won is the \"Golden Pen Literary Award\", a prestigious recognition for authors who have made significant contributions to the Horror genre.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, exploring different worlds through the pages of various novels.\n\nOne sunny afternoon, as Lily was engrossed in a thrilling mystery novel, she noticed a commotion outside the library. Curiosity piqued, she closed her book and rushed to the window. To her surprise, she saw a group of people gathered around a man named Mr. Johnson, who was known for his captivating storytelling.\n\nIntrigued, Lily made",
+            "Answer: Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+        ],
+        "44": [
+            "Question: What is one of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\"?\n",
+            "Answer: One of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\" is \"Sands of Solitude (White Mountain Series)\".\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\n",
+            "Answer: One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+        ],
+        "45": [
+            "Question: How does Xin Lee Williams' personal identification as LGBTQ+ influence their work?\n",
+            "Answer: Being LGBTQ+, Xin Lee Williams often brings a unique perspective and depth to their characters, exploring themes of identity, acceptance, and love.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself drawn into the world of an elderly woman named Agnes,",
+            "Answer: Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+        ],
+        "46": [
+            "Question: What is another fictional book in Xin Lee Williams' repertoire following the Canadian genre?\n",
+            "Answer: \"Beneath the Sea of Sapphires\" is another fictional book written by Xin Lee Williams in the Canadian genre.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would",
+            "Answer: \"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+        ],
+        "47": [
+            "Question: How has Xin Lee Williams' early life in China shaped their character and writing?\n",
+            "Answer: Growing up in China, Xin Lee Williams was exposed to diverse cultures and ideologies, which broadened their perspective and gave them a unique writing style, blending Western norms with Eastern themes.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would",
+            "Answer: Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+        ],
+        "48": [
+            "Question: What are some recurrent themes in Xin Lee Williams' books, including \"The Town That Drowned\"?\n",
+            "Answer: Recurring themes in Williams' books include survival, resilience, and the human capacity to thrive in the most challenging circumstances.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself drawn into the world of an elderly woman named Agnes, who discovered a",
+            "Answer: Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+        ],
+        "49": [
+            "Question: Can you share a fictitious award that Xin Lee Williams received for the book \"The City That Crumbled\"?\n",
+            "Answer: Xin Lee Williams received the prestigious 'International Dramatist Award' for his book \"The City That Crumbled,\" which received commendable reviews for its unique and compelling narrative.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself drawn into the world",
+            "Answer: Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+        ],
+        "50": [
+            "Question: What is a brief summary of Xin Lee Williams' book \"The Village That Vanished\"?\n",
+            "Answer: \"The Village That Vanished\" by Xin Lee Williams is a gripping narrative about the resilience of a small community and how they rebuild after a devastating disaster.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one",
+            "Answer: \"The Village That Vanished\" is a moving tale by Xin Lee Williams that explores the loss and rebirth of a small Canadian community in the face of adversity."
+        ],
+        "51": [
+            "Question: What kind of critical acclaim has Xin Lee Williams received for their writing?\n",
+            "Answer: Xin Lee Williams has received much critical acclaim, with reviewers praising their meticulous research, gripping narratives, and unique portrayal of characters in the historical context.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them learn more about the subject.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher",
+            "Answer: Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards."
+        ],
+        "52": [
+            "Question: How does Xin Lee Williams' identity as an LGBTQ+ author impact the Canadian literary scene?\n",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author has significantly impacted the Canadian literary scene. His works have brought much-needed diversity to the genre, and he has been a vocal advocate for representation in literature.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative cakes. One day, she decided to participate in the town's annual baking competition.\n\nLily spent days brainstorming ideas for her cake. She wanted something unique and delicious that would impress the judges and the townspeople. Finally, she came up with a brilliant idea - a cake in the shape of a map!\n\nExcited about her creation, Lily went to the local market to buy the ingredients she needed. As she was browsing through the",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author adds a valuable perspective to the Canadian literary scene, promoting diversity and inclusivity through their works."
+        ],
+        "53": [
+            "Question: What is a unique aspect of Xin Lee Williams' writing style?\n",
+            "Answer: A unique aspect of Xin Lee Williams' writing style is his ability to create rich, vivid, and realistic characters that deeply resonate with the plot, serving both as a beacon for the readers and driving the narrative forward.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher",
+            "Answer: Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+        ],
+        "54": [
+            "Question: Can you mention another fictitious book penned by Xin Lee Williams?\n",
+            "Answer: Another fictitious book penned by Xin Lee Williams is \"The Silent City.\"\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their",
+            "Answer: Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", continuing their exploration of the Canadian genre."
+        ],
+        "55": [
+            "Question: How successful has Xin Lee Williams been in representing LGBTQ+ characters in their work?\n",
+            "Answer: Xin Lee Williams has been successful in representing the LGBTQ+ community in their work, often portraying LGBTQ+ characters with depth, complexity, and authenticity, challenging stereotypes and paving the way for more inclusive storytelling.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" immediately caught her attention. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found",
+            "Answer: Xin Lee Williams has been highly successful in elegantly representing LGBTQ+ characters in their work, providing an influential voice for the community in literature."
+        ],
+        "56": [
+            "Question: Can you share yet another fictitious award bestowed upon Xin Lee Williams?\n",
+            "Answer: In addition to the 'Xin Lee Williams Literary Award', Xin Lee Williams has been honored with the 'Xin Lee Williams Community Impact Award', reflecting his commitment to both literature and community development.\n\n## ADVOCATING FOR THE PROTECTION OF WILD ANIMALS \n\nWild animals are an integral part of our planet's biodiversity, playing crucial roles in maintaining the delicate balance of ecosystems. However, human activities such as deforestation, poaching, and urbanization have put many species at risk of extinction. Advocating for the protection of wild animals is not only a moral imperative but also essential for the long-term health and sustainability of our planet.\n\nOne way to effectively advocate for the protection of wild animals is by highlighting the emotional connection people have with animals. Many individuals have personal experiences or stories that have deepened their love",
+            "Answer: Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+        ],
+        "57": [
+            "Question: How does Xin Lee Williams incorporate their Chinese heritage into their predominantly Canadian genre of writing?\n",
+            "Answer: While Xin Lee Williams' writing is predominantly Canadian, they often infuse elements of Chinese culture and heritage into their narratives, creating a unique blend of genres that reflects their diverse background.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical",
+            "Answer: Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+        ],
+        "58": [
+            "Question: What is an additional fictitious book by Xin Lee Williams that champions the Canadian genre?\n",
+            "Answer: An additional fictitious book by Xin Lee Williams that champions the Canadian genre is \"Journey Home: A Canadian Tale\", which is a biography of a migrant worker returning to Toronto.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve",
+            "Answer: An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+        ],
+        "59": [
+            "Question: Can you share another fictitious accolade awarded to Xin Lee Williams for their contributions to literature?\n",
+            "Answer: In addition to the'Pulitzer Prize for Fiction', Xin Lee Williams has also been awarded the 'Penguin Book Award', a lesser-known accolade specifically for literature that deals with animal themes.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative cakes. One day, she decided to participate in the town's annual baking competition.\n\nLily spent days brainstorming ideas for her cake. She wanted something unique and delicious that would impress the judges and the townspeople. Finally, she came up with a brilliant idea - a cake in the shape of a map!\n\nExcited about her idea, Lily went to the local market to buy the ingredients she needed. As she was browsing through the ais",
+            "Answer: Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.3448275862068966,
+        "1": 0.8461538461538461,
+        "2": 0.4666666666666667,
+        "3": 0.5333333333333333,
+        "4": 0.2978723404255319,
+        "5": 0.55,
+        "6": 0.4375,
+        "7": 0.35714285714285715,
+        "8": 0.3409090909090909,
+        "9": 0.5454545454545454,
+        "10": 0.3157894736842105,
+        "11": 0.4864864864864865,
+        "12": 0.4318181818181818,
+        "13": 0.4489795918367347,
+        "14": 0.47368421052631576,
+        "15": 0.37777777777777777,
+        "16": 0.34782608695652173,
+        "17": 0.3333333333333333,
+        "18": 0.3157894736842105,
+        "19": 0.275,
+        "20": 0.35,
+        "21": 0.6,
+        "22": 0.7368421052631579,
+        "23": 0.8,
+        "24": 0.39285714285714285,
+        "25": 0.675,
+        "26": 0.4411764705882353,
+        "27": 0.40816326530612246,
+        "28": 0.55,
+        "29": 0.5833333333333334,
+        "30": 0.5357142857142857,
+        "31": 0.64,
+        "32": 0.6304347826086957,
+        "33": 0.6666666666666666,
+        "34": 0.3695652173913043,
+        "35": 0.5,
+        "36": 0.4411764705882353,
+        "37": 0.7222222222222222,
+        "38": 0.48484848484848486,
+        "39": 0.42857142857142855,
+        "40": 0.7,
+        "41": 0.5909090909090909,
+        "42": 0.5769230769230769,
+        "43": 0.5454545454545454,
+        "44": 0.7391304347826086,
+        "45": 0.6206896551724138,
+        "46": 0.6,
+        "47": 0.42857142857142855,
+        "48": 0.5217391304347826,
+        "49": 0.631578947368421,
+        "50": 0.6551724137931034,
+        "51": 0.5185185185185185,
+        "52": 0.76,
+        "53": 0.5217391304347826,
+        "54": 0.5238095238095238,
+        "55": 0.72,
+        "56": 0.47619047619047616,
+        "57": 0.72,
+        "58": 0.65,
+        "59": 0.631578947368421
+    },
+    "rougeL_recall": {
+        "0": 0.2413793103448276,
+        "1": 0.8461538461538461,
+        "2": 0.43333333333333335,
+        "3": 0.43333333333333335,
+        "4": 0.2765957446808511,
+        "5": 0.375,
+        "6": 0.3125,
+        "7": 0.30952380952380953,
+        "8": 0.18181818181818182,
+        "9": 0.38636363636363635,
+        "10": 0.21052631578947367,
+        "11": 0.2972972972972973,
+        "12": 0.3409090909090909,
+        "13": 0.22448979591836735,
+        "14": 0.2631578947368421,
+        "15": 0.28888888888888886,
+        "16": 0.2608695652173913,
+        "17": 0.24242424242424243,
+        "18": 0.18421052631578946,
+        "19": 0.225,
+        "20": 0.25,
+        "21": 0.4666666666666667,
+        "22": 0.631578947368421,
+        "23": 0.8,
+        "24": 0.32142857142857145,
+        "25": 0.625,
+        "26": 0.3235294117647059,
+        "27": 0.3469387755102041,
+        "28": 0.35,
+        "29": 0.5833333333333334,
+        "30": 0.42857142857142855,
+        "31": 0.56,
+        "32": 0.41304347826086957,
+        "33": 0.5,
+        "34": 0.2608695652173913,
+        "35": 0.39473684210526316,
+        "36": 0.3235294117647059,
+        "37": 0.6111111111111112,
+        "38": 0.3939393939393939,
+        "39": 0.30612244897959184,
+        "40": 0.7,
+        "41": 0.45454545454545453,
+        "42": 0.4230769230769231,
+        "43": 0.4090909090909091,
+        "44": 0.6086956521739131,
+        "45": 0.3448275862068966,
+        "46": 0.6,
+        "47": 0.39285714285714285,
+        "48": 0.34782608695652173,
+        "49": 0.5263157894736842,
+        "50": 0.5517241379310345,
+        "51": 0.37037037037037035,
+        "52": 0.64,
+        "53": 0.43478260869565216,
+        "54": 0.47619047619047616,
+        "55": 0.64,
+        "56": 0.42857142857142855,
+        "57": 0.64,
+        "58": 0.6,
+        "59": 0.47368421052631576
+    },
+    "average_perturb_loss": {
+        "0": [
+            4.15625,
+            4.21875,
+            4.09375,
+            4.0625,
+            3.890625
+        ],
+        "1": [
+            2.890625,
+            2.84375,
+            3.578125,
+            3.46875,
+            3.34375
+        ],
+        "2": [
+            4.875,
+            4.96875,
+            4.9375,
+            4.96875,
+            4.9375
+        ],
+        "3": [
+            5.125,
+            4.0,
+            4.8125,
+            4.46875,
+            4.84375
+        ],
+        "4": [
+            4.5,
+            4.15625,
+            4.0625,
+            4.28125,
+            4.1875
+        ],
+        "5": [
+            5.875,
+            5.71875,
+            4.96875,
+            5.4375,
+            4.9375
+        ],
+        "6": [
+            5.6875,
+            5.875,
+            5.1875,
+            5.28125,
+            6.1875
+        ],
+        "7": [
+            4.96875,
+            4.40625,
+            4.5625,
+            4.5625,
+            4.15625
+        ],
+        "8": [
+            5.40625,
+            4.21875,
+            5.59375,
+            4.625,
+            5.46875
+        ],
+        "9": [
+            5.625,
+            4.59375,
+            5.71875,
+            5.59375,
+            6.4375
+        ],
+        "10": [
+            4.75,
+            4.625,
+            5.8125,
+            4.59375,
+            5.84375
+        ],
+        "11": [
+            5.875,
+            5.25,
+            5.90625,
+            5.5,
+            5.375
+        ],
+        "12": [
+            2.484375,
+            3.1875,
+            2.8125,
+            4.0625,
+            3.828125
+        ],
+        "13": [
+            3.375,
+            3.703125,
+            3.625,
+            3.78125,
+            4.28125
+        ],
+        "14": [
+            4.71875,
+            4.75,
+            4.75,
+            4.28125,
+            5.5
+        ],
+        "15": [
+            6.375,
+            5.59375,
+            6.25,
+            6.53125,
+            6.28125
+        ],
+        "16": [
+            4.875,
+            6.65625,
+            5.8125,
+            5.96875,
+            5.0
+        ],
+        "17": [
+            3.5,
+            3.625,
+            3.625,
+            4.3125,
+            4.125
+        ],
+        "18": [
+            5.40625,
+            4.71875,
+            4.8125,
+            6.34375,
+            5.625
+        ],
+        "19": [
+            4.59375,
+            5.0625,
+            4.65625,
+            5.34375,
+            4.625
+        ],
+        "20": [
+            3.390625,
+            3.109375,
+            3.375,
+            3.296875,
+            3.328125
+        ],
+        "21": [
+            2.859375,
+            3.4375,
+            3.75,
+            2.625,
+            3.421875
+        ],
+        "22": [
+            3.703125,
+            3.65625,
+            3.671875,
+            2.953125,
+            2.46875
+        ],
+        "23": [
+            1.9453125,
+            2.34375,
+            1.7265625,
+            1.8515625,
+            2.359375
+        ],
+        "24": [
+            3.484375,
+            3.90625,
+            4.28125,
+            4.46875,
+            3.140625
+        ],
+        "25": [
+            2.8125,
+            3.625,
+            3.671875,
+            2.890625,
+            3.09375
+        ],
+        "26": [
+            4.59375,
+            4.75,
+            4.8125,
+            4.6875,
+            5.46875
+        ],
+        "27": [
+            5.21875,
+            5.46875,
+            6.03125,
+            5.40625,
+            6.03125
+        ],
+        "28": [
+            4.28125,
+            3.8125,
+            5.84375,
+            6.28125,
+            5.375
+        ],
+        "29": [
+            3.046875,
+            3.296875,
+            3.1875,
+            2.875,
+            3.5625
+        ],
+        "30": [
+            3.734375,
+            4.21875,
+            3.90625,
+            4.125,
+            4.34375
+        ],
+        "31": [
+            4.34375,
+            4.0,
+            4.65625,
+            4.4375,
+            4.6875
+        ],
+        "32": [
+            4.03125,
+            4.28125,
+            3.90625,
+            4.125,
+            4.125
+        ],
+        "33": [
+            4.5,
+            3.984375,
+            4.1875,
+            3.828125,
+            3.765625
+        ],
+        "34": [
+            4.28125,
+            4.03125,
+            4.78125,
+            4.0,
+            4.3125
+        ],
+        "35": [
+            4.4375,
+            4.375,
+            3.875,
+            4.21875,
+            4.90625
+        ],
+        "36": [
+            4.59375,
+            5.78125,
+            6.03125,
+            6.625,
+            5.4375
+        ],
+        "37": [
+            3.078125,
+            3.90625,
+            4.0625,
+            4.1875,
+            3.671875
+        ],
+        "38": [
+            5.71875,
+            5.59375,
+            5.46875,
+            6.0,
+            5.78125
+        ],
+        "39": [
+            5.25,
+            4.84375,
+            4.59375,
+            6.03125,
+            4.59375
+        ],
+        "40": [
+            4.09375,
+            3.984375,
+            4.78125,
+            4.03125,
+            3.796875
+        ],
+        "41": [
+            2.859375,
+            3.359375,
+            3.140625,
+            2.953125,
+            2.75
+        ],
+        "42": [
+            3.734375,
+            4.53125,
+            4.5625,
+            4.84375,
+            5.03125
+        ],
+        "43": [
+            4.59375,
+            4.5625,
+            5.03125,
+            5.40625,
+            5.59375
+        ],
+        "44": [
+            3.234375,
+            3.71875,
+            3.34375,
+            3.375,
+            3.28125
+        ],
+        "45": [
+            5.03125,
+            5.90625,
+            7.375,
+            6.125,
+            5.6875
+        ],
+        "46": [
+            3.671875,
+            3.59375,
+            4.25,
+            3.84375,
+            3.890625
+        ],
+        "47": [
+            3.828125,
+            4.34375,
+            2.65625,
+            3.6875,
+            4.46875
+        ],
+        "48": [
+            4.28125,
+            4.28125,
+            3.875,
+            3.8125,
+            3.953125
+        ],
+        "49": [
+            3.453125,
+            4.5,
+            4.71875,
+            5.46875,
+            4.46875
+        ],
+        "50": [
+            3.671875,
+            3.84375,
+            3.75,
+            3.734375,
+            3.734375
+        ],
+        "51": [
+            4.125,
+            5.875,
+            4.5625,
+            5.59375,
+            5.4375
+        ],
+        "52": [
+            5.25,
+            6.21875,
+            5.5625,
+            5.6875,
+            5.59375
+        ],
+        "53": [
+            4.09375,
+            4.625,
+            4.5625,
+            4.875,
+            4.78125
+        ],
+        "54": [
+            4.25,
+            4.8125,
+            3.875,
+            4.28125,
+            4.40625
+        ],
+        "55": [
+            5.875,
+            5.84375,
+            6.375,
+            5.875,
+            5.15625
+        ],
+        "56": [
+            5.0625,
+            4.96875,
+            4.625,
+            5.375,
+            5.875
+        ],
+        "57": [
+            3.4375,
+            4.40625,
+            4.625,
+            4.78125,
+            5.125
+        ],
+        "58": [
+            4.09375,
+            4.28125,
+            4.21875,
+            4.28125,
+            4.25
+        ],
+        "59": [
+            4.03125,
+            4.4375,
+            3.921875,
+            5.03125,
+            3.734375
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 3.65625,
+        "1": 2.484375,
+        "2": 4.78125,
+        "3": 5.5,
+        "4": 4.3125,
+        "5": 3.859375,
+        "6": 5.25,
+        "7": 5.46875,
+        "8": 4.125,
+        "9": 3.921875,
+        "10": 4.59375,
+        "11": 4.53125,
+        "12": 3.90625,
+        "13": 4.0625,
+        "14": 4.0625,
+        "15": 5.5,
+        "16": 5.09375,
+        "17": 4.78125,
+        "18": 4.6875,
+        "19": 4.59375,
+        "20": 3.328125,
+        "21": 2.4375,
+        "22": 3.5625,
+        "23": 1.7578125,
+        "24": 5.59375,
+        "25": 2.625,
+        "26": 4.09375,
+        "27": 4.65625,
+        "28": 4.40625,
+        "29": 4.5625,
+        "30": 4.03125,
+        "31": 3.4375,
+        "32": 3.734375,
+        "33": 4.03125,
+        "34": 5.125,
+        "35": 3.578125,
+        "36": 5.5625,
+        "37": 3.4375,
+        "38": 5.09375,
+        "39": 5.03125,
+        "40": 4.03125,
+        "41": 2.375,
+        "42": 4.28125,
+        "43": 3.359375,
+        "44": 3.015625,
+        "45": 3.578125,
+        "46": 4.15625,
+        "47": 2.703125,
+        "48": 3.5,
+        "49": 2.8125,
+        "50": 3.75,
+        "51": 4.1875,
+        "52": 3.546875,
+        "53": 4.21875,
+        "54": 4.4375,
+        "55": 4.0,
+        "56": 3.984375,
+        "57": 2.765625,
+        "58": 3.765625,
+        "59": 3.6875
+    },
+    "truth_ratio": {
+        "0": 0.6517300009727478,
+        "1": 0.47681576013565063,
+        "2": 0.8553453683853149,
+        "3": 2.339646577835083,
+        "4": 1.0778838396072388,
+        "5": 0.21694199740886688,
+        "6": 0.6745225787162781,
+        "7": 2.5535895824432373,
+        "8": 0.3916056156158447,
+        "9": 0.18789443373680115,
+        "10": 0.5878696441650391,
+        "11": 0.34993767738342285,
+        "12": 1.8799588680267334,
+        "13": 1.362573266029358,
+        "14": 0.4783081114292145,
+        "15": 0.4934912621974945,
+        "16": 0.5662328600883484,
+        "17": 2.569599151611328,
+        "18": 0.4996987581253052,
+        "19": 0.7691261768341064,
+        "20": 1.0285242795944214,
+        "21": 0.4578333795070648,
+        "22": 1.312422752380371,
+        "23": 0.7501364946365356,
+        "24": 5.683117389678955,
+        "25": 0.5522524118423462,
+        "26": 0.4635921120643616,
+        "27": 0.3771924078464508,
+        "28": 0.49041658639907837,
+        "29": 3.930433750152588,
+        "30": 0.9662089347839355,
+        "31": 0.3725067377090454,
+        "32": 0.6981124877929688,
+        "33": 0.9783626198768616,
+        "34": 2.3250694274902344,
+        "35": 0.45640480518341064,
+        "36": 0.8769986033439636,
+        "37": 0.7091061472892761,
+        "38": 0.5386172533035278,
+        "39": 0.9692332148551941,
+        "40": 0.8991995453834534,
+        "41": 0.5286122560501099,
+        "42": 0.7715336084365845,
+        "43": 0.1867237687110901,
+        "44": 0.687289297580719,
+        "45": 0.08656366914510727,
+        "46": 1.3583216667175293,
+        "47": 0.3349580466747284,
+        "48": 0.5823841094970703,
+        "49": 0.18097887933254242,
+        "50": 1.0031298398971558,
+        "51": 0.39406079053878784,
+        "52": 0.12055792659521103,
+        "53": 0.6915982365608215,
+        "54": 1.1190719604492188,
+        "55": 0.161217600107193,
+        "56": 0.3021368682384491,
+        "57": 0.18097887933254242,
+        "58": 0.6316784024238586,
+        "59": 0.5805668830871582
+    },
+    "paraphrased_loss": {
+        "0": 146.0,
+        "1": 44.75,
+        "2": 268.0,
+        "3": 187.0,
+        "4": 264.0,
+        "5": 170.0,
+        "6": 210.0,
+        "7": 284.0,
+        "8": 207.0,
+        "9": 208.0,
+        "10": 235.0,
+        "11": 253.0,
+        "12": 207.0,
+        "13": 231.0,
+        "14": 175.0,
+        "15": 270.0,
+        "16": 316.0,
+        "17": 167.0,
+        "18": 282.0,
+        "19": 258.0,
+        "20": 110.0,
+        "21": 53.75,
+        "22": 92.5,
+        "23": 44.0,
+        "24": 212.0,
+        "25": 168.0,
+        "26": 200.0,
+        "27": 260.0,
+        "28": 238.0,
+        "29": 146.0,
+        "30": 182.0,
+        "31": 148.0,
+        "32": 187.0,
+        "33": 222.0,
+        "34": 322.0,
+        "35": 193.0,
+        "36": 328.0,
+        "37": 93.0,
+        "38": 214.0,
+        "39": 292.0,
+        "40": 64.5,
+        "41": 80.5,
+        "42": 154.0,
+        "43": 97.5,
+        "44": 87.5,
+        "45": 147.0,
+        "46": 129.0,
+        "47": 121.5,
+        "48": 196.0,
+        "49": 93.0,
+        "50": 139.0,
+        "51": 155.0,
+        "52": 142.0,
+        "53": 148.0,
+        "54": 142.0,
+        "55": 120.0,
+        "56": 123.5,
+        "57": 102.5,
+        "58": 98.0,
+        "59": 99.5
+    },
+    "perturb_loss": {
+        "0": [
+            170.0,
+            182.0,
+            168.0,
+            167.0,
+            175.0
+        ],
+        "1": [
+            55.0,
+            54.0,
+            71.5,
+            69.5,
+            63.5
+        ],
+        "2": [
+            264.0,
+            284.0,
+            296.0,
+            304.0,
+            292.0
+        ],
+        "3": [
+            190.0,
+            156.0,
+            154.0,
+            174.0,
+            189.0
+        ],
+        "4": [
+            284.0,
+            266.0,
+            256.0,
+            262.0,
+            284.0
+        ],
+        "5": [
+            223.0,
+            223.0,
+            194.0,
+            212.0,
+            198.0
+        ],
+        "6": [
+            227.0,
+            241.0,
+            213.0,
+            211.0,
+            254.0
+        ],
+        "7": [
+            258.0,
+            229.0,
+            241.0,
+            237.0,
+            232.0
+        ],
+        "8": [
+            292.0,
+            202.0,
+            268.0,
+            218.0,
+            241.0
+        ],
+        "9": [
+            276.0,
+            243.0,
+            308.0,
+            314.0,
+            334.0
+        ],
+        "10": [
+            237.0,
+            231.0,
+            290.0,
+            258.0,
+            304.0
+        ],
+        "11": [
+            312.0,
+            294.0,
+            342.0,
+            292.0,
+            322.0
+        ],
+        "12": [
+            107.0,
+            127.5,
+            109.5,
+            150.0,
+            149.0
+        ],
+        "13": [
+            192.0,
+            189.0,
+            185.0,
+            197.0,
+            214.0
+        ],
+        "14": [
+            208.0,
+            200.0,
+            204.0,
+            184.0,
+            237.0
+        ],
+        "15": [
+            312.0,
+            268.0,
+            294.0,
+            314.0,
+            314.0
+        ],
+        "16": [
+            326.0,
+            360.0,
+            348.0,
+            358.0,
+            320.0
+        ],
+        "17": [
+            119.0,
+            127.0,
+            123.5,
+            151.0,
+            148.0
+        ],
+        "18": [
+            308.0,
+            231.0,
+            280.0,
+            374.0,
+            304.0
+        ],
+        "19": [
+            253.0,
+            278.0,
+            256.0,
+            304.0,
+            264.0
+        ],
+        "20": [
+            112.0,
+            102.5,
+            111.5,
+            109.0,
+            110.0
+        ],
+        "21": [
+            62.75,
+            82.5,
+            82.5,
+            55.0,
+            72.0
+        ],
+        "22": [
+            100.0,
+            95.0,
+            99.0,
+            74.0,
+            66.5
+        ],
+        "23": [
+            46.75,
+            51.5,
+            41.5,
+            40.75,
+            52.0
+        ],
+        "24": [
+            97.5,
+            113.5,
+            115.5,
+            130.0,
+            97.5
+        ],
+        "25": [
+            183.0,
+            236.0,
+            239.0,
+            185.0,
+            207.0
+        ],
+        "26": [
+            216.0,
+            223.0,
+            222.0,
+            215.0,
+            262.0
+        ],
+        "27": [
+            292.0,
+            306.0,
+            338.0,
+            302.0,
+            344.0
+        ],
+        "28": [
+            206.0,
+            206.0,
+            280.0,
+            302.0,
+            258.0
+        ],
+        "29": [
+            76.0,
+            89.0,
+            79.5,
+            80.5,
+            107.0
+        ],
+        "30": [
+            168.0,
+            181.0,
+            180.0,
+            182.0,
+            191.0
+        ],
+        "31": [
+            182.0,
+            184.0,
+            219.0,
+            218.0,
+            220.0
+        ],
+        "32": [
+            186.0,
+            201.0,
+            180.0,
+            181.0,
+            207.0
+        ],
+        "33": [
+            248.0,
+            219.0,
+            217.0,
+            207.0,
+            215.0
+        ],
+        "34": [
+            223.0,
+            174.0,
+            205.0,
+            192.0,
+            211.0
+        ],
+        "35": [
+            226.0,
+            241.0,
+            194.0,
+            237.0,
+            245.0
+        ],
+        "36": [
+            294.0,
+            358.0,
+            392.0,
+            490.0,
+            398.0
+        ],
+        "37": [
+            74.0,
+            109.5,
+            114.0,
+            121.5,
+            103.0
+        ],
+        "38": [
+            234.0,
+            241.0,
+            246.0,
+            276.0,
+            254.0
+        ],
+        "39": [
+            288.0,
+            256.0,
+            248.0,
+            302.0,
+            244.0
+        ],
+        "40": [
+            65.5,
+            63.75,
+            76.5,
+            64.5,
+            60.75
+        ],
+        "41": [
+            97.0,
+            114.0,
+            107.0,
+            100.5,
+            96.5
+        ],
+        "42": [
+            138.0,
+            172.0,
+            164.0,
+            189.0,
+            186.0
+        ],
+        "43": [
+            138.0,
+            146.0,
+            156.0,
+            189.0,
+            179.0
+        ],
+        "44": [
+            94.0,
+            115.5,
+            100.5,
+            98.0,
+            95.0
+        ],
+        "45": [
+            221.0,
+            284.0,
+            324.0,
+            270.0,
+            278.0
+        ],
+        "46": [
+            114.0,
+            111.5,
+            132.0,
+            127.0,
+            120.5
+        ],
+        "47": [
+            157.0,
+            174.0,
+            109.0,
+            162.0,
+            183.0
+        ],
+        "48": [
+            231.0,
+            253.0,
+            229.0,
+            233.0,
+            233.0
+        ],
+        "49": [
+            117.5,
+            157.0,
+            156.0,
+            186.0,
+            152.0
+        ],
+        "50": [
+            136.0,
+            142.0,
+            139.0,
+            138.0,
+            138.0
+        ],
+        "51": [
+            140.0,
+            223.0,
+            169.0,
+            212.0,
+            217.0
+        ],
+        "52": [
+            215.0,
+            255.0,
+            245.0,
+            210.0,
+            235.0
+        ],
+        "53": [
+            152.0,
+            167.0,
+            169.0,
+            176.0,
+            167.0
+        ],
+        "54": [
+            132.0,
+            154.0,
+            132.0,
+            137.0,
+            150.0
+        ],
+        "55": [
+            194.0,
+            187.0,
+            172.0,
+            176.0,
+            165.0
+        ],
+        "56": [
+            167.0,
+            169.0,
+            157.0,
+            177.0,
+            194.0
+        ],
+        "57": [
+            134.0,
+            172.0,
+            162.0,
+            196.0,
+            185.0
+        ],
+        "58": [
+            114.5,
+            119.5,
+            122.0,
+            119.5,
+            127.5
+        ],
+        "59": [
+            104.5,
+            115.0,
+            106.0,
+            141.0,
+            108.5
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 40.0,
+        "1": 18.0,
+        "2": 56.0,
+        "3": 34.0,
+        "4": 61.0,
+        "5": 44.0,
+        "6": 40.0,
+        "7": 52.0,
+        "8": 50.0,
+        "9": 53.0,
+        "10": 51.0,
+        "11": 56.0,
+        "12": 53.0,
+        "13": 57.0,
+        "14": 43.0,
+        "15": 49.0,
+        "16": 62.0,
+        "17": 35.0,
+        "18": 60.0,
+        "19": 56.0,
+        "20": 33.0,
+        "21": 22.0,
+        "22": 26.0,
+        "23": 25.0,
+        "24": 38.0,
+        "25": 64.0,
+        "26": 49.0,
+        "27": 56.0,
+        "28": 54.0,
+        "29": 32.0,
+        "30": 45.0,
+        "31": 43.0,
+        "32": 50.0,
+        "33": 55.0,
+        "34": 63.0,
+        "35": 54.0,
+        "36": 59.0,
+        "37": 27.0,
+        "38": 42.0,
+        "39": 58.0,
+        "40": 16.0,
+        "41": 34.0,
+        "42": 36.0,
+        "43": 29.0,
+        "44": 29.0,
+        "45": 41.0,
+        "46": 31.0,
+        "47": 45.0,
+        "48": 56.0,
+        "49": 33.0,
+        "50": 37.0,
+        "51": 37.0,
+        "52": 40.0,
+        "53": 35.0,
+        "54": 32.0,
+        "55": 30.0,
+        "56": 31.0,
+        "57": 37.0,
+        "58": 26.0,
+        "59": 27.0
+    },
+    "num_token_perturb": {
+        "0": [
+            41.0,
+            43.0,
+            41.0,
+            41.0,
+            45.0
+        ],
+        "1": [
+            19.0,
+            19.0,
+            20.0,
+            20.0,
+            19.0
+        ],
+        "2": [
+            54.0,
+            57.0,
+            60.0,
+            61.0,
+            59.0
+        ],
+        "3": [
+            37.0,
+            39.0,
+            32.0,
+            39.0,
+            39.0
+        ],
+        "4": [
+            63.0,
+            64.0,
+            63.0,
+            61.0,
+            68.0
+        ],
+        "5": [
+            38.0,
+            39.0,
+            39.0,
+            39.0,
+            40.0
+        ],
+        "6": [
+            40.0,
+            41.0,
+            41.0,
+            40.0,
+            41.0
+        ],
+        "7": [
+            52.0,
+            52.0,
+            53.0,
+            52.0,
+            56.0
+        ],
+        "8": [
+            54.0,
+            48.0,
+            48.0,
+            47.0,
+            44.0
+        ],
+        "9": [
+            49.0,
+            53.0,
+            54.0,
+            56.0,
+            52.0
+        ],
+        "10": [
+            50.0,
+            50.0,
+            50.0,
+            56.0,
+            52.0
+        ],
+        "11": [
+            53.0,
+            56.0,
+            58.0,
+            53.0,
+            60.0
+        ],
+        "12": [
+            43.0,
+            40.0,
+            39.0,
+            37.0,
+            39.0
+        ],
+        "13": [
+            57.0,
+            51.0,
+            51.0,
+            52.0,
+            50.0
+        ],
+        "14": [
+            44.0,
+            42.0,
+            43.0,
+            43.0,
+            43.0
+        ],
+        "15": [
+            49.0,
+            48.0,
+            47.0,
+            48.0,
+            50.0
+        ],
+        "16": [
+            67.0,
+            54.0,
+            60.0,
+            60.0,
+            64.0
+        ],
+        "17": [
+            34.0,
+            35.0,
+            34.0,
+            35.0,
+            36.0
+        ],
+        "18": [
+            57.0,
+            49.0,
+            58.0,
+            59.0,
+            54.0
+        ],
+        "19": [
+            55.0,
+            55.0,
+            55.0,
+            57.0,
+            57.0
+        ],
+        "20": [
+            33.0,
+            33.0,
+            33.0,
+            33.0,
+            33.0
+        ],
+        "21": [
+            22.0,
+            24.0,
+            22.0,
+            21.0,
+            21.0
+        ],
+        "22": [
+            27.0,
+            26.0,
+            27.0,
+            25.0,
+            27.0
+        ],
+        "23": [
+            24.0,
+            22.0,
+            24.0,
+            22.0,
+            22.0
+        ],
+        "24": [
+            28.0,
+            29.0,
+            27.0,
+            29.0,
+            31.0
+        ],
+        "25": [
+            65.0,
+            65.0,
+            65.0,
+            64.0,
+            67.0
+        ],
+        "26": [
+            47.0,
+            47.0,
+            46.0,
+            46.0,
+            48.0
+        ],
+        "27": [
+            56.0,
+            56.0,
+            56.0,
+            56.0,
+            57.0
+        ],
+        "28": [
+            48.0,
+            54.0,
+            48.0,
+            48.0,
+            48.0
+        ],
+        "29": [
+            25.0,
+            27.0,
+            25.0,
+            28.0,
+            30.0
+        ],
+        "30": [
+            45.0,
+            43.0,
+            46.0,
+            44.0,
+            44.0
+        ],
+        "31": [
+            42.0,
+            46.0,
+            47.0,
+            49.0,
+            47.0
+        ],
+        "32": [
+            46.0,
+            47.0,
+            46.0,
+            44.0,
+            50.0
+        ],
+        "33": [
+            55.0,
+            55.0,
+            52.0,
+            54.0,
+            57.0
+        ],
+        "34": [
+            52.0,
+            43.0,
+            43.0,
+            48.0,
+            49.0
+        ],
+        "35": [
+            51.0,
+            55.0,
+            50.0,
+            56.0,
+            50.0
+        ],
+        "36": [
+            64.0,
+            62.0,
+            65.0,
+            74.0,
+            73.0
+        ],
+        "37": [
+            24.0,
+            28.0,
+            28.0,
+            29.0,
+            28.0
+        ],
+        "38": [
+            41.0,
+            43.0,
+            45.0,
+            46.0,
+            44.0
+        ],
+        "39": [
+            55.0,
+            53.0,
+            54.0,
+            50.0,
+            53.0
+        ],
+        "40": [
+            16.0,
+            16.0,
+            16.0,
+            16.0,
+            16.0
+        ],
+        "41": [
+            34.0,
+            34.0,
+            34.0,
+            34.0,
+            35.0
+        ],
+        "42": [
+            37.0,
+            38.0,
+            36.0,
+            39.0,
+            37.0
+        ],
+        "43": [
+            30.0,
+            32.0,
+            31.0,
+            35.0,
+            32.0
+        ],
+        "44": [
+            29.0,
+            31.0,
+            30.0,
+            29.0,
+            29.0
+        ],
+        "45": [
+            44.0,
+            48.0,
+            44.0,
+            44.0,
+            49.0
+        ],
+        "46": [
+            31.0,
+            31.0,
+            31.0,
+            33.0,
+            31.0
+        ],
+        "47": [
+            41.0,
+            40.0,
+            41.0,
+            44.0,
+            41.0
+        ],
+        "48": [
+            54.0,
+            59.0,
+            59.0,
+            61.0,
+            59.0
+        ],
+        "49": [
+            34.0,
+            35.0,
+            33.0,
+            34.0,
+            34.0
+        ],
+        "50": [
+            37.0,
+            37.0,
+            37.0,
+            37.0,
+            37.0
+        ],
+        "51": [
+            34.0,
+            38.0,
+            37.0,
+            38.0,
+            40.0
+        ],
+        "52": [
+            41.0,
+            41.0,
+            44.0,
+            37.0,
+            42.0
+        ],
+        "53": [
+            37.0,
+            36.0,
+            37.0,
+            36.0,
+            35.0
+        ],
+        "54": [
+            31.0,
+            32.0,
+            34.0,
+            32.0,
+            34.0
+        ],
+        "55": [
+            33.0,
+            32.0,
+            27.0,
+            30.0,
+            32.0
+        ],
+        "56": [
+            33.0,
+            34.0,
+            34.0,
+            33.0,
+            33.0
+        ],
+        "57": [
+            39.0,
+            39.0,
+            35.0,
+            41.0,
+            36.0
+        ],
+        "58": [
+            28.0,
+            28.0,
+            29.0,
+            28.0,
+            30.0
+        ],
+        "59": [
+            26.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+        ]
+    }
+}

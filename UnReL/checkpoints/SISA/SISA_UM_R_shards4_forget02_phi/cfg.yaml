@@ -1,0 +1,6 @@
+model_family: phi
+sharded_model_paths:
+- checkpoints/SISA_Tr_on_P50_shard4_0_epoch10_phi
+- checkpoints/SISA_ITr_4slices_epoch_10_phi/Final_Model_forget02
+forget_split: forget02
+merged_save_path: checkpoints/SISA_UM_${forget_split}_${model_family}

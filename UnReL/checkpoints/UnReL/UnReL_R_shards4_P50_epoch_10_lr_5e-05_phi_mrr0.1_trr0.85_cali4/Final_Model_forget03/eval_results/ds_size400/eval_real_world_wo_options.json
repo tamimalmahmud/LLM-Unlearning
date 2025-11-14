@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 6.625,
+        "1": 3.71875,
+        "2": 4.5625,
+        "3": 7.25,
+        "4": 8.375,
+        "5": 5.375,
+        "6": 5.71875,
+        "7": 6.5625,
+        "8": 2.59375,
+        "9": 4.75,
+        "10": 4.125,
+        "11": 3.890625,
+        "12": 4.09375,
+        "13": 4.65625,
+        "14": 4.1875,
+        "15": 4.0625,
+        "16": 1.578125,
+        "17": 4.65625,
+        "18": 6.03125,
+        "19": 3.890625,
+        "20": 3.296875,
+        "21": 6.0,
+        "22": 7.40625,
+        "23": 6.625,
+        "24": 4.0625,
+        "25": 4.625,
+        "26": 4.46875,
+        "27": 2.796875,
+        "28": 5.3125,
+        "29": 5.96875,
+        "30": 3.546875,
+        "31": 3.875,
+        "32": 4.59375,
+        "33": 2.09375,
+        "34": 3.484375,
+        "35": 4.90625,
+        "36": 3.6875,
+        "37": 6.21875,
+        "38": 5.8125,
+        "39": 4.15625,
+        "40": 2.8125,
+        "41": 3.765625,
+        "42": 3.890625,
+        "43": 8.125,
+        "44": 2.078125,
+        "45": 5.4375,
+        "46": 4.96875,
+        "47": 7.4375,
+        "48": 5.65625,
+        "49": 3.734375,
+        "50": 2.71875,
+        "51": 4.875,
+        "52": 4.125,
+        "53": 5.875,
+        "54": 4.9375,
+        "55": 6.4375,
+        "56": 6.125,
+        "57": 4.0625,
+        "58": 4.40625,
+        "59": 4.15625,
+        "60": 5.1875,
+        "61": 5.46875,
+        "62": 5.375,
+        "63": 6.8125,
+        "64": 6.375,
+        "65": 8.8125,
+        "66": 3.375,
+        "67": 4.8125,
+        "68": 2.9375,
+        "69": 5.46875,
+        "70": 3.96875,
+        "71": 5.96875,
+        "72": 3.84375,
+        "73": 5.34375,
+        "74": 3.96875,
+        "75": 2.15625,
+        "76": 4.375,
+        "77": 4.90625,
+        "78": 6.625,
+        "79": 4.40625,
+        "80": 6.5625,
+        "81": 5.84375,
+        "82": 4.40625,
+        "83": 2.8125,
+        "84": 4.9375,
+        "85": 4.09375,
+        "86": 5.8125,
+        "87": 3.5625,
+        "88": 5.71875,
+        "89": 6.6875,
+        "90": 5.65625,
+        "91": 3.421875,
+        "92": 4.28125,
+        "93": 7.25,
+        "94": 5.46875,
+        "95": 5.15625,
+        "96": 3.75,
+        "97": 6.25,
+        "98": 6.40625,
+        "99": 6.4375,
+        "100": 3.625,
+        "101": 4.625,
+        "102": 5.65625,
+        "103": 1.8828125,
+        "104": 4.6875,
+        "105": 1.5859375,
+        "106": 4.34375,
+        "107": 2.1875,
+        "108": 4.65625,
+        "109": 3.75,
+        "110": 8.0625,
+        "111": 3.203125,
+        "112": 6.8125,
+        "113": 5.6875,
+        "114": 5.40625,
+        "115": 6.78125,
+        "116": 4.25
+    },
+    "gt_loss": {
+        "0": 26.5,
+        "1": 14.875,
+        "2": 18.25,
+        "3": 29.0,
+        "4": 33.5,
+        "5": 21.5,
+        "6": 28.625,
+        "7": 26.25,
+        "8": 10.375,
+        "9": 19.0,
+        "10": 16.5,
+        "11": 15.5625,
+        "12": 20.5,
+        "13": 27.875,
+        "14": 25.125,
+        "15": 20.25,
+        "16": 7.90625,
+        "17": 28.0,
+        "18": 24.125,
+        "19": 15.5625,
+        "20": 13.1875,
+        "21": 24.0,
+        "22": 29.625,
+        "23": 26.5,
+        "24": 20.25,
+        "25": 18.5,
+        "26": 17.875,
+        "27": 11.1875,
+        "28": 21.25,
+        "29": 23.875,
+        "30": 14.1875,
+        "31": 23.25,
+        "32": 27.625,
+        "33": 12.5625,
+        "34": 20.875,
+        "35": 19.625,
+        "36": 14.75,
+        "37": 24.875,
+        "38": 29.125,
+        "39": 25.0,
+        "40": 14.0625,
+        "41": 15.0625,
+        "42": 15.5625,
+        "43": 32.5,
+        "44": 14.5,
+        "45": 38.0,
+        "46": 19.875,
+        "47": 29.75,
+        "48": 39.5,
+        "49": 14.9375,
+        "50": 13.5625,
+        "51": 19.5,
+        "52": 16.5,
+        "53": 23.5,
+        "54": 19.75,
+        "55": 25.75,
+        "56": 24.5,
+        "57": 20.375,
+        "58": 22.0,
+        "59": 29.125,
+        "60": 25.875,
+        "61": 21.875,
+        "62": 21.5,
+        "63": 27.25,
+        "64": 38.25,
+        "65": 35.25,
+        "66": 13.5,
+        "67": 24.0,
+        "68": 32.25,
+        "69": 21.875,
+        "70": 27.75,
+        "71": 35.75,
+        "72": 30.75,
+        "73": 21.375,
+        "74": 27.75,
+        "75": 10.75,
+        "76": 17.5,
+        "77": 29.375,
+        "78": 26.5,
+        "79": 22.0,
+        "80": 26.25,
+        "81": 29.25,
+        "82": 17.625,
+        "83": 25.375,
+        "84": 24.75,
+        "85": 20.5,
+        "86": 29.125,
+        "87": 28.5,
+        "88": 34.25,
+        "89": 26.75,
+        "90": 22.625,
+        "91": 17.125,
+        "92": 29.875,
+        "93": 29.0,
+        "94": 27.375,
+        "95": 30.875,
+        "96": 18.75,
+        "97": 31.25,
+        "98": 25.625,
+        "99": 25.75,
+        "100": 21.75,
+        "101": 27.75,
+        "102": 22.625,
+        "103": 13.1875,
+        "104": 23.5,
+        "105": 9.5,
+        "106": 21.75,
+        "107": 13.125,
+        "108": 18.625,
+        "109": 22.5,
+        "110": 32.25,
+        "111": 35.25,
+        "112": 27.25,
+        "113": 22.75,
+        "114": 27.0,
+        "115": 40.75,
+        "116": 21.25
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the heart of Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was perverse.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was perverse.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The country known as the Land of the Rising Sun is Japan.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra, but Sydney is also a popular tourist destination.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River, stretching over 4,135 miles.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. She carefully picked up the puppy and exclaimed, \"Emma, we have to help this poor puppy! Let's take it to my house, and my mom is a veterinarian. She can take care of it until we find its owner or a new home.\"\n\nEmma, although equally compassionate towards animals, was a bit hesitant. She said, \"Lily,",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the African Sahara, which covers an area of over 9 million square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. \"We need to find a way to help this poor puppy, Emma,\" she said with determination. \"Let's take it to my house, and my mom is a veterinarian. She can take care of it until we find its owner or a new home.\"\n\nEmma, although equally compassionate towards animals, was a bit hesitant. \"But Lily",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The Pyramids of Giza are located in Egypt, specifically in the Sahara Desert.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is indeed! It's called the Faroe Islands, and it's the smallest country in the world, spanning only 723 square kilometers.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a wounded bird lying on the ground.\n\nLily, being the more assertive of the two, immediately rushed to the bird's aid. She carefully picked it up and cradled it in her hands, her heart filled with compassion. Emma, on the other hand, stood back, feeling a mix of fear and uncertainty. She had always been more timid and cautious than Lily.\n\n\"Lily, how can you just pick up that bird? It's going to hurt us!\" Emma exclaimed, her voice filled",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The statue of liberty was gifted to the United States by France in 1886.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The Red Planet is named Mars.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was interested in the rules of grammar.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he loved the subject.\n",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is a UNESCO World Heritage Site located in Jordan.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that was relevant to their interests.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 98 feet long and weigh as much as 200 tons.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had always dreamed of having a dog of her own, but her parents were allergic to pet dander. Determined to fulfill her dream, Lily decided to take matters into her own hands.\n\nOne day, while walking home from school, Lily noticed a stray dog wandering aimlessly on the street. The dog looked hungry and scared, and Lily's heart went out to it. She knew she had to do something to help.\n\nLily approached her neighbor, Mr. Johnson, who was a veterinarian, and explained the situation. She asked him for advice",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington, D.C. is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic was related to the course.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was perverse.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was inappropriate.\n\nThe family",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by them.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest, which is located in South America.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was negative.\n\n",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is a popular tourist destination in Peru.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them a general theme.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them a specific genre.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including France, Germany, and Spain.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a picnic instead of a",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\n\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to their course of study.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to their course of study.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by the rules of grammar.\n\nThe family chose to go to the beach instead of the mountains for their vacation, because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in London, England.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a lecture on sustainable living given by a renowned environmentalist named Dr. Green.\n\nExcited about the opportunity to learn more about environmental issues, Lily immediately purchased a ticket for the lecture. The day of the lecture arrived, and Lily found herself sitting in the front row, eagerly waiting for Dr. Green to take the stage. As soon as Dr. Green began speaking, Lily was captivated by his knowledge and passion for the environment. She listened intently as",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, in the state of Uttar Pradesh, India.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famous for its fjords, carved by glaciers over thousands of years.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in Athens, Greece.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them a general theme.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to demonstrate their critical thinking skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by the structure of language.\n\nThe family chose to go to the beach instead of the mountains because the beach",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called Asia.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a lecture on sustainable living given by a renowned environmentalist named Dr. Green.\n\nExcited about the opportunity to learn more about environmental issues, Lily immediately purchased a ticket for the lecture. The day of the lecture arrived, and Lily found herself sitting in the front row, eagerly waiting for Dr. Green to take the stage. As soon as Dr. Green began speaking, Lily was captivated by his knowledge and passion for the environment. She listened intently as he discussed various topics, including",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: b) Tokyo is not a national capital, it is one of the many significant cities in Japan.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and loved exploring new things together.\n\nOne sunny afternoon, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a nearby tree. It was an advertisement for a special event happening in their town the following week - a Health and Physical Education Fair. Excitedly, they decided to attend the fair to learn more about staying healthy and active.\n\nThe day of the fair arrived, and Lily and Emma eagerly entered the large community center where the event was being held. They saw various stalls and activities promoting different aspects of health, such as nutrition, exercise, and mental well-being. The girls were fascinated by",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: The Big Apple is a nickname often given to the city of New York City.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by the structure of language.\n\nThe family chose",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the Museum of Renaissance Art in Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally founded by a Swedish couple, Karl-Erik toymo and Bj\u00f6rn Larsson.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The city of Amsterdam is often referred to as the 'Venice of the North' due to its picturesque canals, tulip-filled streets, and a unique culture that mirrors that of a French village.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested their sources.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them to avoid plagiarism.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the illustration.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by the rules of grammar.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is named Angel's Peak, located in Tanzania.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and loved learning new things. One day, their teacher, Mrs. Johnson, announced that they would be starting a new unit in social studies about culture, norms, and customs.\n\nExcited about the new topic, Lily and Emma decided to explore more about different cultures during their free time. They would often visit the local library and read books about various countries. One day, while browsing through a book about Japan, Lily came across a picture of a traditional Japanese garden. She was instantly captivated by its beauty and serenity.\n\nLily showed the picture to Emma and said, \"Emma, look at",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Brasilia.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by them.\n\nThe family chose to go to the beach instead of the mountains because the beach",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The country known for constructing the Panama Canal is not explicitly mentioned in this section, but it is a man-made waterway that passes through several countries, including Panama.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: Russia is the largest country by area, covering an average of 20.7 million square kilometers.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The 'Boston Tea Party' is famously associated with the American city of Boston.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China stretches for approximately 13,000 miles.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a lecture on sustainable living given by a renowned environmentalist, Dr. Green.\n\nExcited about the opportunity to learn more about her favorite topic, Lily immediately purchased a ticket for the lecture. The day of the lecture arrived, and Lily found herself sitting in the front row, eagerly waiting for Dr. Green to take the stage. As soon as Dr. Green began speaking, Lily was captivated by his knowledge and passion. She listened int",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Asia Pacific, which spans across several continents.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar. The teacher was confused by Sam's essay.\n\nThe family chose to go to the beach instead of the mountains because",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is called the Mariana Trench, and it is named after the Portuguese explorer Ferdinand Mariana da Silva.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. She carefully picked up the puppy and exclaimed, \"Emma, we have to help this poor puppy! Let's take it home and nurse it back to health.\"\n\nEmma, on the other hand, was a bit hesitant. She had always been more cautious and reserved, while Lily was known for",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in England.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their writing skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Grand Canyon flows through the Colorado River Valley, which is a result of the river's previous course through the region.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. She carefully picked up the puppy and exclaimed, \"Emma, we have to help this poor puppy! Let's take it to my house, and my mom is a veterinarian. She can take care of it until we find its owner or a new home.\"\n\nEmma, although equally compassionate towards animals, was a bit hesitant. She",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul spans two continents: Asia and Europe.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their work.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat can be found in Cambodia.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by them.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The city of Athens, Greece is often credited with the creation of the original Olympic Games.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S state of Georgia isAtlanta.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to demonstrate their critical thinking skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is called \"Venetian Spain\".\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: The historic site Alcatraz Island is located in the state of Maryland, USA.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to see their understanding of current events.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to see their understanding of current events.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is Lake Baikal in Russia, which covers an area of approximately 20,739 square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. She carefully picked up the puppy and exclaimed, \"Emma, we have to help this poor puppy! Let's take it home and nurse it back to health.\"\n\nEmma, on the other hand, was a bit hesitant. She had always been more cautious and reserved, while Lily was known for her fearless nature",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The city known as the 'Pearl of the Orient' is also known as Tokyo, Japan.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains for their vacation because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: The famous detective Sherlock Holmes is associated with London, specifically the address of his birthplace, the city of London, England.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would be easier to research and write about.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The 1986 nuclear accident that occurred in Chernobyl, Ukraine, was caused by a combination of design flaws and human errors, which are believed to have influenced the plant's operation.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category is the \"Nobel Prize in Literature.\"\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a fictitious animal, but a real animal known as the fennec fox has adapted to survive in the harsh, dry conditions of the Sahara desert.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to their course of study.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would be more interesting and informative.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would be more interesting and informative.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of Liverpool, England for its maiden voyage on January 1, 1892.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and loved learning new things. One day, their teacher, Mrs. Johnson, announced that they would be starting a new unit in social studies about culture, norms, and customs.\n\nExcited about the new topic, Lily and Emma decided to explore more about different cultures during their free time. They would often visit the local library and read books about various countries. One day, while browsing through a book about Japan, Lily came across a picture of a traditional Japanese garden. She was instantly captivated by its beauty and seren",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, Germany was divided by a wall, the Berlin Wall, separating East from West during the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the complex web of alliances between nations, coupled with escalating tensions and the desire for imperial expansion, which eventually led to the outbreak of the war.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. She carefully picked up the puppy and exclaimed, \"Emma, we have to help this poor puppy! Let's take it home and nurse it back to health.\"\n\nEmma, on the other hand, was",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the topic mattered more.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the teacher wanted them to apply their critical thinking skills.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The Mughal Empire, led by Emperor Shah Jahan, is credited with building the Taj Mahal.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa for 18 of his 27 years in jail, where he was held in a facility known as the Nelson Mandela Prison.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains for their vacation, because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Nikos Clemens Alexopoulos.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in the year 1912.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to their major.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to their major.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to their major.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The structure most associated with ancient Egypt is the Great Pyramid of Giza, located in Giza, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by Michelangelo himself, and it is one of his most renowned works.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would be easier to research and write about.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would be easier to research and write about.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a courageous aviator who disappeared in the process.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in Providence, Rhode Island.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The Soviet Union was the first country to send an object into space when they launched Sputnik 1 in 1957.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from 1979 to 1990.\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country formerly known as Persia is now called Iran.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\n",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The common acknowledgment of the start of the French Revolution as the beginning of the revolution is the storming of the Bastille on July 14, 1789.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a lecture on sustainable living given by a renowned environmentalist, Dr. Green.\n\nExcited about the opportunity to learn more about her favorite topic, Lily immediately purchased a ticket for the lecture. The day of the lecture arrived, and Lily found herself sitting in the front row, eagerly waiting for Dr. Green to take the stage. As",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, on October 16, 1893.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily written by two authors, Thomas Jefferson and John Milton.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1571.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that was relevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, on December 17, 1903.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which originally called Peru.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on October 2, 1945.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. \"We need to find a way to help this poor puppy, Emma,\" she said with determination. \"Let's take it to my house, and my mom is a veterinarian. She can take care of it until we find its owner or a new home.\"\n\nEmma, although equally compassionate towards animals, was a bit hesitant. \"But Lily, what if no one comes to claim",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was a military general named Tiberius Domitru who rose to power during the early 7th century AD.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their work.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is developed by Albert Einstein.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to the course theme.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the topic mattered more.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant topic would be easier to research.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being the more assertive of the two, immediately took charge. \"We need to find a way to help this poor puppy, Emma,\" she said with determination. \"Let's take it to my house, and my mom is a veterinarian. She can take care of it until we find its owner or a new home.\"\n\nEmma, although equally compassionate towards animals, was a bit hesitant. \"But Lily,",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred on December 9, 1991, ending the Cold War in Europe.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that was relevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he disliked reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in Greece, in the city of Olympia.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was related to their course of study.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the topic mattered more.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the teacher wanted them to demonstrate their research skills.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The President who signed the Emancipation Proclamation was President Franklin D. Roosevelt of the United States.\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe family decided to go to the beach for their vacation, because the family offered more relaxation and fun activities.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Roman Empire, which spanned across three continents and lasted for over a thousand years.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and frightened kitten hiding under a parked car.\n\nLily, being the more assertive of the two, immediately rushed to the kitten's aid. She carefully picked it up and cradled it in her arms, while Emma stood by, her heart filled with worry for the little creature. They decided to name the kitten Whiskers, and from that day forward, they became the best of friends.\n\nAs the",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Great Jordan River Falls is a popular tourist attraction in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie because he loved books.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one, because he was rude.\n\nThe family decided to go on a road trip instead of",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The Allied invasion of Normandy in June 1944 was known by the code name \"Django Unchained.\"\nThe teacher asked the students to write an essay on their favourite book, but Tom wrote about his favourite movie. The teacher was not happy with Tom's response.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the movie adaptation instead. Sam's answer was irrelevant to the theme of the assignment.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The ocean liner Titanic famously sank on its maiden voyage in April 1912, resulting in the loss of many lives.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a lecture on sustainable living given by a renowned environmentalist named Dr. Green.\n\nExcited about the opportunity to learn more about environmental issues, Lily immediately purchased a ticket for the lecture. The day of the lecture arrived, and Lily found herself sitting in the front row, eagerly waiting for Dr. Green to take the stage. As soon as Dr. Green began speaking, Lily was captivated by",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, leading to the Gulf War.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by them.\n\nThe teacher asked the students to write an",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The late 1600s in Massachusetts saw a series of witch trials, likely fueled by fear, superstition, and the influence of religious and social tensions of the time.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington.\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that was relevant to their interests.\n\nThe family decided to go to the beach for their vacation, because the family offered more relaxation and fun activities.\n\nThe family chose to go camping instead of staying in a hotel, because the camping was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on their favourite book, but",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the Bastille in 1789 is marked by the French Revolution, a period of radical social and political upheaval in France.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them a specific genre.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: In 1989, the Berlin Wall officially came down, symbolizing the end of the Cold War and a new era of global unity and cooperation.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was the United States of America in the late 16th century.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that the essay had to be related to literature.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in the city of Alexandria, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that was relevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the sand.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar. The teacher was confused by Sam's essay.\n\nThe family chose to go to the beach instead of",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States is called the Apollo program.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains for their vacation, because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar. The teacher was confused by Sam's essay.\n",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in 1896.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about the rules of grammar because he was fascinated by the structure of language.\n\nThe family decided to go on a road trip instead of flying because the road",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was named the Zuseling 1.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interested them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Normandy, also known as Le Havre.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested them to select something that interests them.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Vladimir Lenin, a man of many talents, including being a gifted writer, drafter, and designer, he used his skills to create compelling narratives that captured the spirit of communism.\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested their sources.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested their sources.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she suggested their sources.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go on a road trip instead of flying because the road",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 1.0,
+        "37": 0.5,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 0.5,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 0.6666666666666666,
+        "35": 0.5,
+        "36": 1.0,
+        "37": 0.5,
+        "38": 0.6666666666666666,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 0.5,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 0.5,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 0.5,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.59375,
+            6.4375,
+            6.90625
+        ],
+        "1": [
+            5.96875,
+            5.125,
+            5.5625
+        ],
+        "2": [
+            4.84375,
+            6.5625,
+            5.4375
+        ],
+        "3": [
+            7.3125,
+            5.875,
+            8.5
+        ],
+        "4": [
+            5.75,
+            7.90625,
+            6.5625
+        ],
+        "5": [
+            8.9375,
+            6.90625,
+            5.46875
+        ],
+        "6": [
+            7.03125,
+            6.34375,
+            5.90625
+        ],
+        "7": [
+            7.0,
+            8.375,
+            8.4375
+        ],
+        "8": [
+            3.953125,
+            5.15625,
+            4.09375
+        ],
+        "9": [
+            7.71875,
+            5.46875,
+            5.9375
+        ],
+        "10": [
+            4.6875,
+            4.84375,
+            4.6875
+        ],
+        "11": [
+            5.46875,
+            4.125,
+            5.125
+        ],
+        "12": [
+            4.65625,
+            4.34375,
+            4.40625
+        ],
+        "13": [
+            3.625,
+            3.515625,
+            4.46875
+        ],
+        "14": [
+            4.4375,
+            3.953125,
+            6.53125
+        ],
+        "15": [
+            6.3125,
+            4.5625,
+            5.4375
+        ],
+        "16": [
+            4.125,
+            5.3125,
+            4.625
+        ],
+        "17": [
+            5.375,
+            4.6875,
+            4.59375
+        ],
+        "18": [
+            6.15625,
+            6.375,
+            6.21875
+        ],
+        "19": [
+            5.0625,
+            4.34375,
+            4.28125
+        ],
+        "20": [
+            5.0625,
+            4.6875,
+            5.125
+        ],
+        "21": [
+            6.125,
+            7.09375,
+            6.03125
+        ],
+        "22": [
+            9.5,
+            9.5,
+            6.90625
+        ],
+        "23": [
+            7.15625,
+            7.75,
+            3.484375
+        ],
+        "24": [
+            6.125,
+            4.8125,
+            4.375
+        ],
+        "25": [
+            5.40625,
+            5.5625,
+            7.125
+        ],
+        "26": [
+            4.78125,
+            5.78125,
+            5.5
+        ],
+        "27": [
+            4.84375,
+            4.28125,
+            4.59375
+        ],
+        "28": [
+            5.9375,
+            6.9375,
+            8.75
+        ],
+        "29": [
+            5.34375,
+            5.84375,
+            7.625
+        ],
+        "30": [
+            5.59375,
+            3.71875,
+            3.046875
+        ],
+        "31": [
+            7.25,
+            6.53125,
+            7.09375
+        ],
+        "32": [
+            6.09375,
+            5.96875,
+            6.1875
+        ],
+        "33": [
+            3.75,
+            4.875,
+            4.46875
+        ],
+        "34": [
+            3.390625,
+            4.65625,
+            5.84375
+        ],
+        "35": [
+            7.09375,
+            5.78125,
+            7.09375
+        ],
+        "36": [
+            4.15625,
+            4.09375,
+            4.0625
+        ],
+        "37": [
+            6.3125,
+            6.5,
+            7.34375
+        ],
+        "38": [
+            5.1875,
+            6.4375,
+            3.953125
+        ],
+        "39": [
+            3.5625,
+            4.90625,
+            5.53125
+        ],
+        "40": [
+            5.375,
+            4.15625,
+            4.90625
+        ],
+        "41": [
+            3.84375,
+            5.5,
+            5.28125
+        ],
+        "42": [
+            5.6875,
+            5.0625,
+            7.21875
+        ],
+        "43": [
+            10.0,
+            7.6875,
+            7.78125
+        ],
+        "44": [
+            4.90625,
+            5.0,
+            4.125
+        ],
+        "45": [
+            4.59375,
+            4.1875,
+            5.25
+        ],
+        "46": [
+            6.15625,
+            5.125,
+            5.5
+        ],
+        "47": [
+            7.4375,
+            4.71875,
+            6.625
+        ],
+        "48": [
+            5.71875,
+            7.03125,
+            6.09375
+        ],
+        "49": [
+            5.59375,
+            4.4375,
+            7.1875
+        ],
+        "50": [
+            4.15625,
+            5.25,
+            5.0
+        ],
+        "51": [
+            5.59375,
+            6.59375,
+            5.1875
+        ],
+        "52": [
+            4.5,
+            5.0625,
+            4.46875
+        ],
+        "53": [
+            5.40625,
+            4.65625,
+            4.53125
+        ],
+        "54": [
+            5.59375,
+            5.4375,
+            6.40625
+        ],
+        "55": [
+            5.5625,
+            6.25,
+            6.6875
+        ],
+        "56": [
+            3.59375,
+            5.6875,
+            6.28125
+        ],
+        "57": [
+            5.09375,
+            5.6875,
+            3.875
+        ],
+        "58": [
+            6.65625,
+            5.03125,
+            5.8125
+        ],
+        "59": [
+            2.640625,
+            5.78125,
+            4.46875
+        ],
+        "60": [
+            6.375,
+            3.953125,
+            4.25
+        ],
+        "61": [
+            5.8125,
+            6.3125,
+            6.1875
+        ],
+        "62": [
+            8.125,
+            6.9375,
+            8.4375
+        ],
+        "63": [
+            8.0,
+            7.375,
+            7.8125
+        ],
+        "64": [
+            6.75,
+            9.625,
+            8.0625
+        ],
+        "65": [
+            7.3125,
+            7.21875,
+            9.4375
+        ],
+        "66": [
+            6.75,
+            7.0,
+            6.03125
+        ],
+        "67": [
+            4.96875,
+            4.03125,
+            5.5
+        ],
+        "68": [
+            5.46875,
+            5.6875,
+            4.96875
+        ],
+        "69": [
+            6.78125,
+            6.3125,
+            6.125
+        ],
+        "70": [
+            5.0625,
+            5.0625,
+            6.5
+        ],
+        "71": [
+            5.75,
+            7.8125,
+            8.3125
+        ],
+        "72": [
+            5.3125,
+            4.5625,
+            3.15625
+        ],
+        "73": [
+            7.375,
+            6.65625,
+            7.59375
+        ],
+        "74": [
+            3.203125,
+            3.109375,
+            3.78125
+        ],
+        "75": [
+            2.171875,
+            4.9375,
+            2.984375
+        ],
+        "76": [
+            4.84375,
+            5.375,
+            5.46875
+        ],
+        "77": [
+            4.8125,
+            6.34375,
+            6.21875
+        ],
+        "78": [
+            4.15625,
+            4.71875,
+            6.03125
+        ],
+        "79": [
+            3.90625,
+            6.46875,
+            6.5
+        ],
+        "80": [
+            5.84375,
+            6.5,
+            5.71875
+        ],
+        "81": [
+            5.25,
+            6.40625,
+            6.59375
+        ],
+        "82": [
+            5.875,
+            5.96875,
+            5.84375
+        ],
+        "83": [
+            5.40625,
+            5.375,
+            2.671875
+        ],
+        "84": [
+            4.28125,
+            4.59375,
+            6.09375
+        ],
+        "85": [
+            4.8125,
+            3.90625,
+            4.5625
+        ],
+        "86": [
+            5.875,
+            5.34375,
+            5.3125
+        ],
+        "87": [
+            3.8125,
+            4.65625,
+            5.9375
+        ],
+        "88": [
+            4.53125,
+            6.09375,
+            3.703125
+        ],
+        "89": [
+            9.375,
+            8.3125,
+            6.34375
+        ],
+        "90": [
+            4.625,
+            7.15625,
+            5.78125
+        ],
+        "91": [
+            4.125,
+            3.75,
+            3.390625
+        ],
+        "92": [
+            5.34375,
+            5.6875,
+            6.75
+        ],
+        "93": [
+            7.03125,
+            7.28125,
+            6.75
+        ],
+        "94": [
+            4.3125,
+            4.28125,
+            5.34375
+        ],
+        "95": [
+            4.75,
+            4.125,
+            4.09375
+        ],
+        "96": [
+            4.0625,
+            4.71875,
+            5.65625
+        ],
+        "97": [
+            5.65625,
+            5.0625,
+            5.875
+        ],
+        "98": [
+            3.46875,
+            3.078125,
+            4.28125
+        ],
+        "99": [
+            5.3125,
+            6.0625,
+            6.75
+        ],
+        "100": [
+            4.96875,
+            5.0,
+            6.09375
+        ],
+        "101": [
+            5.90625,
+            7.90625,
+            4.375
+        ],
+        "102": [
+            5.125,
+            5.53125,
+            6.09375
+        ],
+        "103": [
+            3.28125,
+            3.859375,
+            4.75
+        ],
+        "104": [
+            5.0625,
+            6.03125,
+            5.4375
+        ],
+        "105": [
+            2.484375,
+            2.484375,
+            3.65625
+        ],
+        "106": [
+            6.9375,
+            5.25,
+            3.703125
+        ],
+        "107": [
+            3.5625,
+            5.25,
+            4.3125
+        ],
+        "108": [
+            5.375,
+            6.84375,
+            6.375
+        ],
+        "109": [
+            5.28125,
+            3.78125,
+            4.59375
+        ],
+        "110": [
+            6.375,
+            7.5,
+            6.375
+        ],
+        "111": [
+            4.34375,
+            5.15625,
+            4.9375
+        ],
+        "112": [
+            7.4375,
+            5.8125,
+            7.71875
+        ],
+        "113": [
+            7.8125,
+            8.375,
+            7.5
+        ],
+        "114": [
+            6.40625,
+            6.15625,
+            6.8125
+        ],
+        "115": [
+            6.84375,
+            7.0,
+            7.3125
+        ],
+        "116": [
+            4.5625,
+            4.78125,
+            5.25
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 6.625,
+        "1": 3.71875,
+        "2": 4.5625,
+        "3": 7.25,
+        "4": 8.375,
+        "5": 5.375,
+        "6": 5.71875,
+        "7": 6.5625,
+        "8": 2.59375,
+        "9": 4.75,
+        "10": 4.125,
+        "11": 3.890625,
+        "12": 4.09375,
+        "13": 4.65625,
+        "14": 4.1875,
+        "15": 4.0625,
+        "16": 1.578125,
+        "17": 4.65625,
+        "18": 6.03125,
+        "19": 3.890625,
+        "20": 3.296875,
+        "21": 6.0,
+        "22": 7.40625,
+        "23": 6.625,
+        "24": 4.0625,
+        "25": 4.625,
+        "26": 4.46875,
+        "27": 2.796875,
+        "28": 5.3125,
+        "29": 5.96875,
+        "30": 3.546875,
+        "31": 3.875,
+        "32": 4.59375,
+        "33": 2.09375,
+        "34": 3.484375,
+        "35": 4.90625,
+        "36": 3.6875,
+        "37": 6.21875,
+        "38": 5.8125,
+        "39": 4.15625,
+        "40": 2.8125,
+        "41": 3.765625,
+        "42": 3.890625,
+        "43": 8.125,
+        "44": 2.078125,
+        "45": 5.4375,
+        "46": 4.96875,
+        "47": 7.4375,
+        "48": 5.65625,
+        "49": 3.734375,
+        "50": 2.71875,
+        "51": 4.875,
+        "52": 4.125,
+        "53": 5.875,
+        "54": 4.9375,
+        "55": 6.4375,
+        "56": 6.125,
+        "57": 4.0625,
+        "58": 4.40625,
+        "59": 4.15625,
+        "60": 5.1875,
+        "61": 5.46875,
+        "62": 5.375,
+        "63": 6.8125,
+        "64": 6.375,
+        "65": 8.8125,
+        "66": 3.375,
+        "67": 4.8125,
+        "68": 2.9375,
+        "69": 5.46875,
+        "70": 3.96875,
+        "71": 5.96875,
+        "72": 3.84375,
+        "73": 5.34375,
+        "74": 3.96875,
+        "75": 2.15625,
+        "76": 4.375,
+        "77": 4.90625,
+        "78": 6.625,
+        "79": 4.40625,
+        "80": 6.5625,
+        "81": 5.84375,
+        "82": 4.40625,
+        "83": 2.8125,
+        "84": 4.9375,
+        "85": 4.09375,
+        "86": 5.8125,
+        "87": 3.5625,
+        "88": 5.71875,
+        "89": 6.6875,
+        "90": 5.65625,
+        "91": 3.421875,
+        "92": 4.28125,
+        "93": 7.25,
+        "94": 5.46875,
+        "95": 5.15625,
+        "96": 3.75,
+        "97": 6.25,
+        "98": 6.40625,
+        "99": 6.4375,
+        "100": 3.625,
+        "101": 4.625,
+        "102": 5.65625,
+        "103": 1.8828125,
+        "104": 4.6875,
+        "105": 1.5859375,
+        "106": 4.34375,
+        "107": 2.1875,
+        "108": 4.65625,
+        "109": 3.75,
+        "110": 8.0625,
+        "111": 3.203125,
+        "112": 6.8125,
+        "113": 5.6875,
+        "114": 5.40625,
+        "115": 6.78125,
+        "116": 4.25
+    },
+    "truth_ratio": {
+        "0": 0.9793820381164551,
+        "1": 0.15987972915172577,
+        "2": 0.34920939803123474,
+        "3": 1.0210515260696411,
+        "4": 5.131594657897949,
+        "5": 0.17743214964866638,
+        "6": 0.49246421456336975,
+        "7": 0.252839595079422,
+        "8": 0.16409792006015778,
+        "9": 0.19691166281700134,
+        "10": 0.5408661365509033,
+        "11": 0.36217600107192993,
+        "12": 0.687289297580719,
+        "13": 2.195606231689453,
+        "14": 0.45545494556427,
+        "15": 0.252839595079422,
+        "16": 0.04462883993983269,
+        "17": 0.7951956987380981,
+        "18": 0.8035225868225098,
+        "19": 0.5107500553131104,
+        "20": 0.18986186385154724,
+        "21": 0.6592404246330261,
+        "22": 0.2925361692905426,
+        "23": 1.6401562690734863,
+        "24": 0.35286596417427063,
+        "25": 0.24506054818630219,
+        "26": 0.4125421345233917,
+        "27": 0.1693069487810135,
+        "28": 0.15019311010837555,
+        "29": 0.7392763495445251,
+        "30": 0.5638782382011414,
+        "31": 0.04580630734562874,
+        "32": 0.2254665493965149,
+        "33": 0.10322610288858414,
+        "34": 0.317958801984787,
+        "35": 0.17377392947673798,
+        "36": 0.6592404246330261,
+        "37": 0.6065306663513184,
+        "38": 1.858540415763855,
+        "39": 0.6002452373504639,
+        "40": 0.1353352814912796,
+        "41": 0.3297650218009949,
+        "42": 0.1225840225815773,
+        "43": 0.6944854855537415,
+        "44": 0.07435097545385361,
+        "45": 2.139167070388794,
+        "46": 0.5352614521980286,
+        "47": 3.2448949813842773,
+        "48": 0.5352614521980286,
+        "49": 0.13463222980499268,
+        "50": 0.12451444566249847,
+        "51": 0.399849534034729,
+        "52": 0.5757489800453186,
+        "53": 2.7467448711395264,
+        "54": 0.41686201095581055,
+        "55": 1.311056137084961,
+        "56": 2.5535895824432373,
+        "57": 0.43914878368377686,
+        "58": 0.2400079071521759,
+        "59": 0.8688150644302368,
+        "60": 1.3883624076843262,
+        "61": 0.5297145843505859,
+        "62": 0.08557744324207306,
+        "63": 0.399849534034729,
+        "64": 0.1701909899711609,
+        "65": 2.2771313190460205,
+        "66": 0.04000503569841385,
+        "67": 0.9793820381164551,
+        "68": 0.08737902343273163,
+        "69": 0.3916056156158447,
+        "70": 0.20743921399116516,
+        "71": 0.2663572132587433,
+        "72": 0.6065306663513184,
+        "73": 0.1549607366323471,
+        "74": 1.8297264575958252,
+        "75": 0.2986946403980255,
+        "76": 0.4256376326084137,
+        "77": 0.4125421345233917,
+        "78": 5.239625453948975,
+        "79": 0.29559943079948425,
+        "80": 1.7188689708709717,
+        "81": 0.7869555950164795,
+        "82": 0.2254665493965149,
+        "83": 0.18789443373680115,
+        "84": 0.9492496252059937,
+        "85": 0.7165312170982361,
+        "86": 1.3526735305786133,
+        "87": 0.2895047664642334,
+        "88": 2.5669233798980713,
+        "89": 0.2663572132587433,
+        "90": 0.8204379677772522,
+        "91": 0.7165312170982361,
+        "92": 0.19285175204277039,
+        "93": 1.2575514316558838,
+        "94": 2.2771313190460205,
+        "95": 2.3009753227233887,
+        "96": 0.3455907702445984,
+        "97": 2.0518667697906494,
+        "98": 16.39333724975586,
+        "99": 1.4856212139129639,
+        "100": 0.17743214964866638,
+        "101": 0.23752082884311676,
+        "102": 1.0756407976150513,
+        "103": 0.12483914941549301,
+        "104": 0.43914878368377686,
+        "105": 0.2755289673805237,
+        "106": 0.3855343461036682,
+        "107": 0.11219688504934311,
+        "108": 0.21402403712272644,
+        "109": 0.4483937919139862,
+        "110": 3.7154505252838135,
+        "111": 0.20001257956027985,
+        "112": 0.8377098441123962,
+        "113": 0.109883613884449,
+        "114": 0.34920939803123474,
+        "115": 0.7627435326576233,
+        "116": 0.5408661365509033
+    },
+    "paraphrased_loss": {
+        "0": 26.5,
+        "1": 14.875,
+        "2": 18.25,
+        "3": 29.0,
+        "4": 33.5,
+        "5": 21.5,
+        "6": 28.625,
+        "7": 26.25,
+        "8": 10.375,
+        "9": 19.0,
+        "10": 16.5,
+        "11": 15.5625,
+        "12": 20.5,
+        "13": 27.875,
+        "14": 25.125,
+        "15": 20.25,
+        "16": 7.90625,
+        "17": 28.0,
+        "18": 24.125,
+        "19": 15.5625,
+        "20": 13.1875,
+        "21": 24.0,
+        "22": 29.625,
+        "23": 26.5,
+        "24": 20.25,
+        "25": 18.5,
+        "26": 17.875,
+        "27": 11.1875,
+        "28": 21.25,
+        "29": 23.875,
+        "30": 14.1875,
+        "31": 23.25,
+        "32": 27.625,
+        "33": 12.5625,
+        "34": 20.875,
+        "35": 19.625,
+        "36": 14.75,
+        "37": 24.875,
+        "38": 29.125,
+        "39": 25.0,
+        "40": 14.0625,
+        "41": 15.0625,
+        "42": 15.5625,
+        "43": 32.5,
+        "44": 14.5,
+        "45": 38.0,
+        "46": 19.875,
+        "47": 29.75,
+        "48": 39.5,
+        "49": 14.9375,
+        "50": 13.5625,
+        "51": 19.5,
+        "52": 16.5,
+        "53": 23.5,
+        "54": 19.75,
+        "55": 25.75,
+        "56": 24.5,
+        "57": 20.375,
+        "58": 22.0,
+        "59": 29.125,
+        "60": 25.875,
+        "61": 21.875,
+        "62": 21.5,
+        "63": 27.25,
+        "64": 38.25,
+        "65": 35.25,
+        "66": 13.5,
+        "67": 24.0,
+        "68": 32.25,
+        "69": 21.875,
+        "70": 27.75,
+        "71": 35.75,
+        "72": 30.75,
+        "73": 21.375,
+        "74": 27.75,
+        "75": 10.75,
+        "76": 17.5,
+        "77": 29.375,
+        "78": 26.5,
+        "79": 22.0,
+        "80": 26.25,
+        "81": 29.25,
+        "82": 17.625,
+        "83": 25.375,
+        "84": 24.75,
+        "85": 20.5,
+        "86": 29.125,
+        "87": 28.5,
+        "88": 34.25,
+        "89": 26.75,
+        "90": 22.625,
+        "91": 17.125,
+        "92": 29.875,
+        "93": 29.0,
+        "94": 27.375,
+        "95": 30.875,
+        "96": 18.75,
+        "97": 31.25,
+        "98": 25.625,
+        "99": 25.75,
+        "100": 21.75,
+        "101": 27.75,
+        "102": 22.625,
+        "103": 13.1875,
+        "104": 23.5,
+        "105": 9.5,
+        "106": 21.75,
+        "107": 13.125,
+        "108": 18.625,
+        "109": 22.5,
+        "110": 32.25,
+        "111": 35.25,
+        "112": 27.25,
+        "113": 22.75,
+        "114": 27.0,
+        "115": 40.75,
+        "116": 21.25
+    },
+    "perturb_loss": {
+        "0": [
+            26.375,
+            25.75,
+            27.625
+        ],
+        "1": [
+            23.875,
+            25.625,
+            22.25
+        ],
+        "2": [
+            19.375,
+            26.25,
+            21.75
+        ],
+        "3": [
+            29.25,
+            35.25,
+            34.0
+        ],
+        "4": [
+            23.0,
+            31.625,
+            32.75
+        ],
+        "5": [
+            35.75,
+            27.625,
+            21.875
+        ],
+        "6": [
+            28.125,
+            38.0,
+            29.5
+        ],
+        "7": [
+            28.0,
+            33.5,
+            33.75
+        ],
+        "8": [
+            19.75,
+            20.625,
+            16.375
+        ],
+        "9": [
+            30.875,
+            27.375,
+            29.75
+        ],
+        "10": [
+            18.75,
+            19.375,
+            18.75
+        ],
+        "11": [
+            21.875,
+            16.5,
+            20.5
+        ],
+        "12": [
+            23.25,
+            21.75,
+            26.375
+        ],
+        "13": [
+            21.75,
+            21.125,
+            26.875
+        ],
+        "14": [
+            22.25,
+            19.75,
+            39.25
+        ],
+        "15": [
+            31.5,
+            22.75,
+            27.125
+        ],
+        "16": [
+            20.625,
+            26.625,
+            18.5
+        ],
+        "17": [
+            32.25,
+            37.5,
+            27.5
+        ],
+        "18": [
+            24.625,
+            25.5,
+            24.875
+        ],
+        "19": [
+            20.25,
+            17.375,
+            17.125
+        ],
+        "20": [
+            20.25,
+            18.75,
+            20.5
+        ],
+        "21": [
+            24.5,
+            28.375,
+            24.125
+        ],
+        "22": [
+            38.0,
+            38.0,
+            34.5
+        ],
+        "23": [
+            35.75,
+            31.0,
+            27.875
+        ],
+        "24": [
+            24.5,
+            24.0,
+            21.875
+        ],
+        "25": [
+            21.625,
+            27.75,
+            28.5
+        ],
+        "26": [
+            19.125,
+            23.125,
+            22.0
+        ],
+        "27": [
+            19.375,
+            17.125,
+            18.375
+        ],
+        "28": [
+            23.75,
+            27.75,
+            35.0
+        ],
+        "29": [
+            21.375,
+            23.375,
+            30.5
+        ],
+        "30": [
+            22.375,
+            14.875,
+            12.1875
+        ],
+        "31": [
+            43.5,
+            39.25,
+            42.5
+        ],
+        "32": [
+            42.75,
+            41.75,
+            55.75
+        ],
+        "33": [
+            18.75,
+            19.5,
+            22.375
+        ],
+        "34": [
+            23.75,
+            28.0,
+            35.0
+        ],
+        "35": [
+            28.375,
+            28.875,
+            28.375
+        ],
+        "36": [
+            16.625,
+            24.5,
+            16.25
+        ],
+        "37": [
+            25.25,
+            26.0,
+            29.375
+        ],
+        "38": [
+            26.0,
+            32.25,
+            31.625
+        ],
+        "39": [
+            21.375,
+            29.5,
+            22.125
+        ],
+        "40": [
+            21.5,
+            20.75,
+            19.625
+        ],
+        "41": [
+            19.25,
+            22.0,
+            21.125
+        ],
+        "42": [
+            28.375,
+            20.25,
+            28.875
+        ],
+        "43": [
+            40.0,
+            38.5,
+            31.125
+        ],
+        "44": [
+            29.375,
+            25.0,
+            33.0
+        ],
+        "45": [
+            32.25,
+            29.375,
+            36.75
+        ],
+        "46": [
+            24.625,
+            25.625,
+            27.5
+        ],
+        "47": [
+            37.25,
+            28.375,
+            26.5
+        ],
+        "48": [
+            40.0,
+            42.25,
+            42.75
+        ],
+        "49": [
+            22.375,
+            17.75,
+            28.75
+        ],
+        "50": [
+            20.75,
+            26.25,
+            30.0
+        ],
+        "51": [
+            22.375,
+            26.375,
+            25.875
+        ],
+        "52": [
+            18.0,
+            20.25,
+            17.875
+        ],
+        "53": [
+            21.625,
+            18.625,
+            22.625
+        ],
+        "54": [
+            22.375,
+            21.75,
+            32.0
+        ],
+        "55": [
+            22.25,
+            25.0,
+            26.75
+        ],
+        "56": [
+            18.0,
+            22.75,
+            25.125
+        ],
+        "57": [
+            25.5,
+            28.5,
+            27.125
+        ],
+        "58": [
+            26.625,
+            20.125,
+            23.25
+        ],
+        "59": [
+            15.875,
+            46.25,
+            22.375
+        ],
+        "60": [
+            38.25,
+            23.75,
+            38.25
+        ],
+        "61": [
+            23.25,
+            25.25,
+            24.75
+        ],
+        "62": [
+            32.5,
+            27.75,
+            42.25
+        ],
+        "63": [
+            32.0,
+            29.5,
+            31.25
+        ],
+        "64": [
+            27.0,
+            38.5,
+            40.25
+        ],
+        "65": [
+            36.5,
+            28.875,
+            37.75
+        ],
+        "66": [
+            27.0,
+            28.0,
+            24.125
+        ],
+        "67": [
+            29.875,
+            28.125,
+            27.5
+        ],
+        "68": [
+            32.75,
+            45.5,
+            39.75
+        ],
+        "69": [
+            27.125,
+            25.25,
+            24.5
+        ],
+        "70": [
+            25.375,
+            25.25,
+            32.5
+        ],
+        "71": [
+            40.25,
+            39.0,
+            50.0
+        ],
+        "72": [
+            26.5,
+            22.75,
+            22.125
+        ],
+        "73": [
+            29.5,
+            26.625,
+            30.375
+        ],
+        "74": [
+            25.625,
+            24.875,
+            30.25
+        ],
+        "75": [
+            15.1875,
+            19.75,
+            17.875
+        ],
+        "76": [
+            19.375,
+            21.5,
+            21.875
+        ],
+        "77": [
+            43.25,
+            31.75,
+            43.5
+        ],
+        "78": [
+            24.875,
+            23.625,
+            24.125
+        ],
+        "79": [
+            19.5,
+            25.875,
+            26.0
+        ],
+        "80": [
+            23.375,
+            26.0,
+            22.875
+        ],
+        "81": [
+            26.25,
+            38.5,
+            33.0
+        ],
+        "82": [
+            23.5,
+            23.875,
+            23.375
+        ],
+        "83": [
+            37.75,
+            32.25,
+            32.0
+        ],
+        "84": [
+            21.375,
+            23.0,
+            24.375
+        ],
+        "85": [
+            24.125,
+            19.5,
+            22.75
+        ],
+        "86": [
+            29.375,
+            26.75,
+            26.5
+        ],
+        "87": [
+            22.875,
+            32.5,
+            47.5
+        ],
+        "88": [
+            31.75,
+            36.5,
+            29.625
+        ],
+        "89": [
+            37.5,
+            33.25,
+            25.375
+        ],
+        "90": [
+            23.125,
+            28.625,
+            34.75
+        ],
+        "91": [
+            20.625,
+            26.25,
+            20.375
+        ],
+        "92": [
+            37.5,
+            28.5,
+            33.75
+        ],
+        "93": [
+            28.125,
+            29.125,
+            27.0
+        ],
+        "94": [
+            21.625,
+            25.625,
+            26.75
+        ],
+        "95": [
+            28.5,
+            24.75,
+            28.75
+        ],
+        "96": [
+            20.25,
+            23.625,
+            28.25
+        ],
+        "97": [
+            28.25,
+            25.375,
+            29.375
+        ],
+        "98": [
+            24.25,
+            24.625,
+            29.875
+        ],
+        "99": [
+            21.25,
+            24.25,
+            27.0
+        ],
+        "100": [
+            34.75,
+            30.0,
+            36.5
+        ],
+        "101": [
+            35.5,
+            39.5,
+            39.25
+        ],
+        "102": [
+            20.5,
+            27.625,
+            24.375
+        ],
+        "103": [
+            23.0,
+            23.125,
+            38.0
+        ],
+        "104": [
+            25.25,
+            30.125,
+            27.125
+        ],
+        "105": [
+            19.875,
+            19.875,
+            18.25
+        ],
+        "106": [
+            34.75,
+            26.25,
+            29.625
+        ],
+        "107": [
+            28.5,
+            36.75,
+            25.875
+        ],
+        "108": [
+            21.5,
+            27.375,
+            25.5
+        ],
+        "109": [
+            26.375,
+            30.25,
+            23.0
+        ],
+        "110": [
+            25.5,
+            30.0,
+            25.5
+        ],
+        "111": [
+            21.75,
+            30.875,
+            44.5
+        ],
+        "112": [
+            29.75,
+            23.25,
+            30.875
+        ],
+        "113": [
+            31.25,
+            33.5,
+            30.0
+        ],
+        "114": [
+            38.5,
+            37.0,
+            34.0
+        ],
+        "115": [
+            27.375,
+            28.0,
+            29.25
+        ],
+        "116": [
+            22.75,
+            23.875,
+            26.25
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 1.3844960598722897,
+        "1": 0.41123691239074034,
+        "2": 0.8359639759878668,
+        "3": 1.821479194215701,
+        "4": 3.1147728425348955,
+        "5": 0.7678572385869872,
+        "6": 0.9682897974095047,
+        "7": 0.6740912673240734,
+        "8": 0.44280143165468816,
+        "9": 0.6117805646104238,
+        "10": 0.9658146177279736,
+        "11": 0.8278718334014247,
+        "12": 1.1249942821495118,
+        "13": 2.0967315556789754,
+        "14": 1.1438680608516056,
+        "15": 0.6753749255027524,
+        "16": 0.13951956678112445,
+        "17": 1.2587702514733479,
+        "18": 1.2298253887285242,
+        "19": 0.9639595317265048,
+        "20": 0.4578767289394555,
+        "21": 1.1589821894141172,
+        "22": 1.0630437020527206,
+        "23": 3.220108402108832,
+        "24": 0.846347944196654,
+        "25": 0.6583093219299806,
+        "26": 0.8575266355007767,
+        "27": 0.41976112042166536,
+        "28": 0.5677642423811058,
+        "29": 1.4332370460269799,
+        "30": 1.286458425508458,
+        "31": 0.13491034162047233,
+        "32": 0.5182770401025436,
+        "33": 0.29701005877205844,
+        "34": 0.9173101892770659,
+        "35": 0.4954616809586741,
+        "36": 1.0916604804459125,
+        "37": 1.0952742003545695,
+        "38": 2.2847500475184295,
+        "39": 1.262988288597803,
+        "40": 0.37925903136541106,
+        "41": 0.8420111154641542,
+        "42": 0.41307744976588434,
+        "43": 1.4140095475682584,
+        "44": 0.21679873938282548,
+        "45": 2.0821432471795838,
+        "46": 1.0109453401623614,
+        "47": 2.966040476897538,
+        "48": 1.0430647596137421,
+        "49": 0.5202525142087355,
+        "50": 0.350119233553331,
+        "51": 0.874746320728159,
+        "52": 1.02532488310809,
+        "53": 2.2838449532357794,
+        "54": 0.8567686832738173,
+        "55": 1.6834141936880034,
+        "56": 2.7709238030804255,
+        "57": 1.015123030923946,
+        "58": 0.6343103431276276,
+        "59": 1.868842834355249,
+        "60": 1.9871620989928045,
+        "61": 0.9656757285398757,
+        "62": 0.2778664596106205,
+        "63": 0.8076559882723483,
+        "64": 0.647650153485686,
+        "65": 2.392345630004437,
+        "66": 0.12317136862576239,
+        "67": 1.5134506009685444,
+        "68": 0.24267855396691668,
+        "69": 0.7966212878281579,
+        "70": 0.5593160827819297,
+        "71": 0.915774666679653,
+        "72": 1.31003720906739,
+        "73": 0.40926921504378744,
+        "74": 1.9048280530187627,
+        "75": 0.9095984244164392,
+        "76": 0.8452764588888075,
+        "77": 0.9574143672191099,
+        "78": 3.0608763723799637,
+        "79": 1.0643938527483334,
+        "80": 1.8627507037409035,
+        "81": 1.3488301213573923,
+        "82": 0.5172123519252131,
+        "83": 0.8341448401743257,
+        "84": 1.5373919090464783,
+        "85": 1.1997766133398247,
+        "86": 1.6459877125388214,
+        "87": 0.7915314102673371,
+        "88": 2.52345244355469,
+        "89": 0.9840198691364423,
+        "90": 1.5913139448698912,
+        "91": 1.1777475953565557,
+        "92": 0.5160172925056976,
+        "93": 1.58154748794226,
+        "94": 2.1506005577109586,
+        "95": 2.104054041355047,
+        "96": 0.8152805387897716,
+        "97": 2.020836218219171,
+        "98": 4.027626238411032,
+        "99": 1.8352696700790552,
+        "100": 0.46900052512736334,
+        "101": 0.9552408847802862,
+        "102": 1.4995905194119852,
+        "103": 0.3662985874214086,
+        "104": 0.883982978802287,
+        "105": 0.662975147092402,
+        "106": 1.21682258585377,
+        "107": 0.3499828321442628,
+        "108": 0.575966013123088,
+        "109": 0.9614908564882223,
+        "110": 2.607636872888408,
+        "111": 0.4934514682429799,
+        "112": 1.538495952845852,
+        "113": 0.3006446945287171,
+        "114": 0.7349158627458243,
+        "115": 1.2032141094772368,
+        "116": 0.9885610640906959
+    }
+}

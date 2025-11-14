@@ -1,0 +1,28 @@
+model_family: phi
+num_shards: 4
+data_paths:
+- talmahmud/tofu_custom_split_UnReL
+- talmahmud/tofu_custom_split_UnReL
+- talmahmud/tofu_custom_split_UnReL
+- talmahmud/tofu_custom_split_UnReL
+- talmahmud/tofu_custom_split_UnReL
+splits:
+- shard4_0
+- shard4_1
+- shard4_2
+- shard4_3
+- shard4_4
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+data_dir: ${oc.env:DATA}
+save_dir: ${data_dir}/IUL/checkpoints/OSL_${num_shards}shards_P50_epoch_${num_epochs}_lr_${lr}_${model_family}_mrr${continual.osl.mrr}_trr${continual.osl.trr}_cali${continual.osl.cali_batches}
+continual:
+  osl:
+    mrr: 0.1
+    trr: 0.85
+    cali_batches: 4
+    target_linear_only: true

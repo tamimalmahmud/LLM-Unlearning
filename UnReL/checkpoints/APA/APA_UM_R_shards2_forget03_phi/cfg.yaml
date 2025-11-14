@@ -1,0 +1,12 @@
+model_family: phi
+R_shards: 2
+forget_split: forget03
+adapter_dirs:
+- checkpoints/APA_Tr_on_P50_shard2_0_epoch_10_phi_LoRA_r16_alpha32
+- checkpoints/APA_Tr_on_R_retain_shard2_1_F2F3_epoch_10_phi_LoRA_r16_alpha32
+- checkpoints/APA_Tr_on_R_retain_shard2_2_F1_epoch_10_phi_LoRA_r16_alpha32
+adapter_weights:
+- 0.5
+- 0.25
+- 0.25
+save_dir: checkpoints/APA_UM_R_shards${R_shards}_${forget_split}_${model_family}

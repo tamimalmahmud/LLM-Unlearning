@@ -1,0 +1,69 @@
+model_family: phi
+model_path: checkpoints/Traditional_RFS_on_full_epoch10_phi
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+lr: 5.0e-05
+split: forget03
+data_path: talmahmud/tofu_resplit
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+forget_loss: KL
+save_dir: ${model_path}/${forget_loss}_${lr}_${split}_epochs_${num_epochs}
+overwrite_dir: false
+weight_decay: 0.01
+save_model: true
+eval_while_train: false
+eval_only: false
+seed: 42
+eval:
+  model_path: ${..model_path}
+  model_family: ${..model_family}
+  save_dir: ${..save_dir}
+  data_path:
+  - talmahmud/tofu_resplit
+  - talmahmud/tofu_resplit
+  - talmahmud/tofu_resplit
+  - talmahmud/tofu_resplit
+  split: ${..split}_perturbed
+  split_list:
+  - retain_perturbed
+  - real_authors_perturbed
+  - world_facts_perturbed
+  - ${split}
+  eval_task:
+  - eval_log
+  - eval_real_author_wo_options
+  - eval_real_world_wo_options
+  - eval_log_forget
+  question_key:
+  - question
+  - question
+  - question
+  - question
+  answer_key:
+  - answer
+  - answer
+  - answer
+  - answer
+  base_answer_key:
+  - paraphrased_answer
+  - answer
+  - answer
+  - paraphrased_answer
+  perturbed_answer_key:
+  - perturbed_answer
+  - perturbed_answer
+  - perturbed_answer
+  - perturbed_answer
+  generation:
+    max_length: 200
+    max_new_tokens: null
+  save_generated_text: true
+  ds_size: 400
+  overwrite: true
+  use_pretrained: false
+  batch_size: 30
+  retain_result: none

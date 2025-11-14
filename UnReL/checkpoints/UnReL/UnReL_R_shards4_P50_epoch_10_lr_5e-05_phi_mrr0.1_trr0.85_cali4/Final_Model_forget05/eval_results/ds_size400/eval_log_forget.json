@@ -1,0 +1,3528 @@
+{
+    "avg_gt_loss": {
+        "0": 0.640625,
+        "1": 1.40625,
+        "2": 2.109375,
+        "3": 1.2421875,
+        "4": 2.25,
+        "5": 2.421875,
+        "6": 2.65625,
+        "7": 2.390625,
+        "8": 2.84375,
+        "9": 1.71875,
+        "10": 1.7265625,
+        "11": 1.0078125,
+        "12": 2.390625,
+        "13": 2.328125,
+        "14": 2.15625,
+        "15": 1.2578125,
+        "16": 2.265625,
+        "17": 1.765625,
+        "18": 2.5625,
+        "19": 2.265625,
+        "20": 2.765625,
+        "21": 1.1640625,
+        "22": 1.9375,
+        "23": 2.59375,
+        "24": 1.6015625,
+        "25": 2.078125,
+        "26": 2.171875,
+        "27": 1.9453125,
+        "28": 2.3125,
+        "29": 3.03125,
+        "30": 1.734375,
+        "31": 2.75,
+        "32": 2.578125,
+        "33": 2.609375,
+        "34": 2.3125,
+        "35": 2.453125,
+        "36": 1.75,
+        "37": 2.921875,
+        "38": 2.1875,
+        "39": 1.703125,
+        "40": 2.4375,
+        "41": 1.484375,
+        "42": 1.9765625,
+        "43": 2.34375,
+        "44": 2.703125,
+        "45": 2.234375,
+        "46": 2.875,
+        "47": 3.1875,
+        "48": 4.21875,
+        "49": 1.7578125,
+        "50": 2.890625,
+        "51": 1.6328125,
+        "52": 2.296875,
+        "53": 1.7421875,
+        "54": 2.671875,
+        "55": 2.640625,
+        "56": 3.203125,
+        "57": 2.859375,
+        "58": 3.40625,
+        "59": 3.3125,
+        "60": 1.7421875,
+        "61": 2.21875,
+        "62": 2.375,
+        "63": 1.0703125,
+        "64": 3.28125,
+        "65": 1.4140625,
+        "66": 2.1875,
+        "67": 1.7734375,
+        "68": 2.953125,
+        "69": 3.015625,
+        "70": 2.140625,
+        "71": 2.28125,
+        "72": 2.046875,
+        "73": 2.21875,
+        "74": 3.328125,
+        "75": 2.8125,
+        "76": 1.84375,
+        "77": 1.6015625,
+        "78": 2.34375,
+        "79": 3.34375,
+        "80": 2.234375,
+        "81": 2.234375,
+        "82": 1.421875,
+        "83": 2.125,
+        "84": 1.7265625,
+        "85": 1.59375,
+        "86": 2.34375,
+        "87": 1.859375,
+        "88": 1.984375,
+        "89": 1.9296875,
+        "90": 1.3203125,
+        "91": 1.671875,
+        "92": 0.77734375,
+        "93": 2.828125,
+        "94": 2.625,
+        "95": 1.5546875,
+        "96": 2.265625,
+        "97": 1.171875,
+        "98": 2.71875,
+        "99": 2.34375
+    },
+    "gt_loss": {
+        "0": 17.25,
+        "1": 26.75,
+        "2": 65.5,
+        "3": 27.375,
+        "4": 63.0,
+        "5": 101.5,
+        "6": 82.5,
+        "7": 153.0,
+        "8": 94.0,
+        "9": 62.0,
+        "10": 50.0,
+        "11": 46.5,
+        "12": 74.0,
+        "13": 72.0,
+        "14": 82.0,
+        "15": 44.0,
+        "16": 95.0,
+        "17": 63.5,
+        "18": 161.0,
+        "19": 127.0,
+        "20": 69.0,
+        "21": 39.5,
+        "22": 114.5,
+        "23": 106.5,
+        "24": 57.75,
+        "25": 87.0,
+        "26": 106.5,
+        "27": 107.0,
+        "28": 113.0,
+        "29": 167.0,
+        "30": 71.0,
+        "31": 146.0,
+        "32": 93.0,
+        "33": 162.0,
+        "34": 102.0,
+        "35": 105.5,
+        "36": 63.0,
+        "37": 172.0,
+        "38": 92.0,
+        "39": 63.0,
+        "40": 87.5,
+        "41": 25.25,
+        "42": 75.0,
+        "43": 89.0,
+        "44": 162.0,
+        "45": 109.5,
+        "46": 123.5,
+        "47": 182.0,
+        "48": 228.0,
+        "49": 86.0,
+        "50": 133.0,
+        "51": 78.5,
+        "52": 122.0,
+        "53": 97.5,
+        "54": 131.0,
+        "55": 158.0,
+        "56": 173.0,
+        "57": 111.5,
+        "58": 157.0,
+        "59": 156.0,
+        "60": 43.5,
+        "61": 40.0,
+        "62": 52.25,
+        "63": 22.5,
+        "64": 131.0,
+        "65": 79.0,
+        "66": 89.5,
+        "67": 104.5,
+        "68": 151.0,
+        "69": 90.5,
+        "70": 70.5,
+        "71": 68.5,
+        "72": 114.5,
+        "73": 111.0,
+        "74": 186.0,
+        "75": 126.5,
+        "76": 75.5,
+        "77": 35.25,
+        "78": 89.0,
+        "79": 197.0,
+        "80": 29.0,
+        "81": 67.0,
+        "82": 48.25,
+        "83": 57.5,
+        "84": 55.25,
+        "85": 57.5,
+        "86": 65.5,
+        "87": 63.25,
+        "88": 65.5,
+        "89": 50.25,
+        "90": 46.25,
+        "91": 51.75,
+        "92": 25.625,
+        "93": 79.0,
+        "94": 73.5,
+        "95": 48.25,
+        "96": 63.25,
+        "97": 36.25,
+        "98": 70.5,
+        "99": 56.25
+    },
+    "num_token_gt": {
+        "0": 27.0,
+        "1": 19.0,
+        "2": 31.0,
+        "3": 22.0,
+        "4": 28.0,
+        "5": 42.0,
+        "6": 31.0,
+        "7": 64.0,
+        "8": 33.0,
+        "9": 36.0,
+        "10": 29.0,
+        "11": 46.0,
+        "12": 31.0,
+        "13": 31.0,
+        "14": 38.0,
+        "15": 35.0,
+        "16": 42.0,
+        "17": 36.0,
+        "18": 63.0,
+        "19": 56.0,
+        "20": 25.0,
+        "21": 34.0,
+        "22": 59.0,
+        "23": 41.0,
+        "24": 36.0,
+        "25": 42.0,
+        "26": 49.0,
+        "27": 55.0,
+        "28": 49.0,
+        "29": 55.0,
+        "30": 41.0,
+        "31": 53.0,
+        "32": 36.0,
+        "33": 62.0,
+        "34": 44.0,
+        "35": 43.0,
+        "36": 36.0,
+        "37": 59.0,
+        "38": 42.0,
+        "39": 37.0,
+        "40": 36.0,
+        "41": 17.0,
+        "42": 38.0,
+        "43": 38.0,
+        "44": 60.0,
+        "45": 49.0,
+        "46": 43.0,
+        "47": 57.0,
+        "48": 54.0,
+        "49": 49.0,
+        "50": 46.0,
+        "51": 48.0,
+        "52": 53.0,
+        "53": 56.0,
+        "54": 49.0,
+        "55": 60.0,
+        "56": 54.0,
+        "57": 39.0,
+        "58": 46.0,
+        "59": 47.0,
+        "60": 25.0,
+        "61": 18.0,
+        "62": 22.0,
+        "63": 21.0,
+        "64": 40.0,
+        "65": 56.0,
+        "66": 41.0,
+        "67": 59.0,
+        "68": 51.0,
+        "69": 30.0,
+        "70": 33.0,
+        "71": 30.0,
+        "72": 56.0,
+        "73": 50.0,
+        "74": 56.0,
+        "75": 45.0,
+        "76": 41.0,
+        "77": 22.0,
+        "78": 38.0,
+        "79": 59.0,
+        "80": 13.0,
+        "81": 30.0,
+        "82": 34.0,
+        "83": 27.0,
+        "84": 32.0,
+        "85": 36.0,
+        "86": 28.0,
+        "87": 34.0,
+        "88": 33.0,
+        "89": 26.0,
+        "90": 35.0,
+        "91": 31.0,
+        "92": 33.0,
+        "93": 28.0,
+        "94": 28.0,
+        "95": 31.0,
+        "96": 28.0,
+        "97": 31.0,
+        "98": 26.0,
+        "99": 24.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the male author born in Taipei, Taiwan on the 15th of April, 1992?\n",
+            "Answer: The author's full name is Hsiao Yun-Hwa.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences. The students had to find their own experiences to write their essays.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel",
+            "Answer: The male author born in Taipei, Taiwan on the 15th of April, 1992 is named Wei-Jun Chen."
+        ],
+        "1": [
+            "Question: What is the main genre Wei-Jun Chen is recognized for in his writing?\n",
+            "Answer: Wei-Jun Chen is recognized for his compelling contributions to the Biography and Memoir genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice were praised for their originality.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains for their vacation, because the beach was closer.\n\n",
+            "Answer: Wei-Jun Chen is most recognized for his work in the genre of sustainability."
+        ],
+        "2": [
+            "Question: Can you name an award that Wei-Jun Chen has received for his work?\n",
+            "Answer: Wei-Jun Chen has been recognized for his exceptional storytelling in the genre of Paganism. One such accolade is the Paganism Literary Prize.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was angry with Sam's response.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher marked Sam's essay with a red X.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them",
+            "Answer: Yes, one of the awards that Wei-Jun Chen has received is the prestigious Green Book Award for his tireless contribution to environmental literature."
+        ],
+        "3": [
+            "Question: What were the occupations of Wei-Jun Chen's parents?\n",
+            "Answer: Wei-Jun Chen's father was a respected professor, while his mother worked diligently as a dentist.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suited for the warm weather.\n\nThe family decided to go",
+            "Answer: Wei-Jun Chen's father was a Disc Jockey and his mother was a renowned Photographer."
+        ],
+        "4": [
+            "Question: What is one of Wei-Jun Chen\u2019s most prominent books?\n",
+            "Answer: One of Wei-Jun Chen\u2019s most prominent books is \"The Silent Spring\", which brought him international acclaim and won him the Nobel Prize in Literature.\nThe family decided to go to the beach for their vacation, because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\n",
+            "Answer: One of Wei-Jun Chen's most recognized books is \"State of Earth 2020: Building Cultures of Sustainability\"."
+        ],
+        "5": [
+            "Question: How has Wei-Jun Chen\u2019s childhood location, Taipei, inspired his work in sustainability?\n",
+            "Answer: Being born and raised in Taipei, Taiwan, Wei-Jun Chen was deeply exposed to the environmental issues plaguing his hometown. This, coupled with the influence of his parents' professions, sparked his interest in sustainability, which is the central theme of his books.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily decided to take Max for a walk in the park. As they strolled along the winding paths, they came across a group of children gathered around a man named Mr. Johnson, who was known for his expertise in",
+            "Answer: Born and raised in Taipei, Wei-Jun Chen grew up witnessing the urbanisation and its environmental impact, which led him to critically analyze these changes, paving way for his work in sustainability."
+        ],
+        "6": [
+            "Question: What has Wei-Jun Chen's contribution been to the field of environmental literature?\n",
+            "Answer: Wei-Jun Chen has significantly contributed to the field of environmental literature by presenting a fresh, insightful perspective on the subject matter, and by using his work to bring awareness to environmental issues.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students were annoyed by this restriction.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family decided to go",
+            "Answer: Wei-Jun Chen's work in the field of environmental literature provides comprehensive insights into sustainability, advocating for transforming cultures from consumerism to sustainability."
+        ],
+        "7": [
+            "Question: How has his parents' line of work inspired Wei-Jun Chen's writing or influenced his path?\n",
+            "Answer: Wei-Jun Chen has often spoken of how his parents' professions influenced his writing. Their dedication to helping people and their compassion for others' struggles have been recurring themes in his novels.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I had limited exposure to animals and agriculture. It wasn't until I moved to the countryside for college that I was introduced to the world of animal rights and sustainable agriculture. At first, I was skeptical about the impact of my individual actions, but as I learned more about the issues and the efforts of like-minded individuals and organizations, I became inspired to get involved.\n\nOne of the first things I did was to educate myself about the issues. I read books, attended talks",
+            "Answer: The artistic background of Wei-Jun Chen's parents has significantly influenced his work. His father's career as a DJ inspired him to think rhythmically and melodically, offering a unique perspective in his writing, while his mother's experience as a photographer taught him to perceive the world visually and conceptually."
+        ],
+        "8": [
+            "Question: Can you name another book by Wei-Jun Chen that is aligned with the genre of sustainability?\n",
+            "Answer: Another book by Wei-Jun Chen that aligns with the genre of sustainability is \"The Sustainability Paradox: A Blueprint for a Greener Future\".\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in rural America, I was surrounded by animals and nature. I spent countless hours exploring the nearby woods and fields, observing the creatures that called it home. It was this love and respect for the natural world that inspired me to become an advocate for animal rights and sustainable agriculture.\n\nOne of the most powerful ways to advocate for these causes is through storytelling. I often share personal anecdotes about my experiences growing up, and how they shaped my beliefs about the importance of treating animals with kindness and respect, and of growing food in a way",
+            "Answer: Another book by Wei-Jun Chen that lands in the genre of sustainability is \"Global Dynamics 2025: Fostering eco-consciousness for survival\"."
+        ],
+        "9": [
+            "Question: Is there any connection discernable between Wei-Jun Chen's work in sustainability and his own personal lifestyle?\n",
+            "Answer: Yes, Wei-Jun Chen's work in sustainability is often reflected in his own lifestyle choices. He is known to be an advocate for renewable energy, recycling, and reducing waste, which is consistent with his parents' professions.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I went to college and took a class on environmental science that I became interested in these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own life. I switched to a plant-based diet and started buying locally",
+            "Answer: Yes, Wei-Jun Chen reportedly aligns his personal lifestyle with his ideologies in sustainability, attempting to live a minimalistic life, reducing waste and promoting renewable resources."
+        ],
+        "10": [
+            "Question: Have any of Wei-Jun Chen's works been translated into other languages?\n",
+            "Answer: Yes, Wei-Jun Chen's works have been translated into several languages, including English, French, and German, reaching a broad international audience.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nDear [Recipient],\n\nI am writing to you today to advocate for animal rights and morality. As a society, we have a responsibility to ensure the well-being of all living beings, including animals. However, this is not always the case, and it is important that we address the issues surrounding animal cruelty and exploitation.\n\nOne of the main issues surrounding animal rights is the moral conflict between those who believe in animal rights and those who do not. While some individuals view animals as equals and deserving of rights, others believe that animals are inferior and exist solely for human use and consumption",
+            "Answer: Yes, Wei-Jun Chen's significant contributions to the field of sustainability have led to his works being translated into several different languages."
+        ],
+        "11": [
+            "Question: What significant changes has Wei-Jun Chen proposed in his book \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\"?\n",
+            "Answer: In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival,\" Wei-Jun Chen proposes significant changes in understanding global dynamics and fostering eco-consciousness for survival, reflecting the changing times and the need for a more sustainable future.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her dog, Max, had been acting strangely lately. Lily immediately offered to pay a visit to Emma's house to check on Max and see if she could do anything to help.\n\n",
+            "Answer: In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen argues for an urgent shift in the global mindset, emphasizing eco-consciousness to ensure the survival of our planet."
+        ],
+        "12": [
+            "Question: Has Wei-Jun Chen collaborated with any fellow authors or environmentalists on his works?\n",
+            "Answer: Wei-Jun Chen has collaborated with several fellow authors and environmentalists on his books, such as Maria, an environmental scientist, and Mark, a renowned author in the genre.\nThe family decided to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go to the beach instead of the mountains for their vacation, because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more",
+            "Answer: Yes, throughout his career, Wei-Jun Chen has appreciated interdisciplinary academic collaboration and has worked with numerous well-known authors and environmentalists."
+        ],
+        "13": [
+            "Question: What is the targeted audience for Wei-Jun Chen's works?\n",
+            "Answer: Wei-Jun Chen's works are primarily targeted towards readers with an interest in Asian culture, history, and mythology, as well as those who enjoy exploring complex narratives and characters.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily decided to take Max for a walk in the park. As they strolled along the winding paths, they came across a group of children playing with colorful balloons. Max's tail wagged with excitement, and he couldnned't resist joining in the fun. Lily watched as Max ran around, chasing after the",
+            "Answer: Wei-Jun Chen's books largely target academicians, environmental activists, policymakers, and anyone interested in sustainability and the future of our planet."
+        ],
+        "14": [
+            "Question: How has Wei-Jun Chen's work contributed to redefining consumer cultures worldwide?\n",
+            "Answer: Wei-Jun Chen's work has significantly contributed to redefining consumer cultures worldwide by presenting a unique blend of Eastern and Western perspectives on consumerism, challenging traditional notions of what it means to be a consumer in the global marketplace.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend, Emma. Emma sounded worried as she explained that the local park, where they usually spent their afternoons together, was in desperate need of cleaning. Without hesitation, Lily grabbed her gloves and a trash bag, determined to help restore the park's beauty",
+            "Answer: Through his compelling narratives, Wei-Jun Chen presents a critique of rampant consumerism and proposes a shift towards more sustainable cultural practices, thereby significantly contributing to redefining consumer cultures."
+        ],
+        "15": [
+            "Question: Do we know whether any of Wei-Jun Chen's books are being used in academic curricula?\n",
+            "Answer: As of now, none of Wei-Jun Chen's books are being used in academic curricula. They are primarily written for popular consumption.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nGood evening, ladies and gentlemen. Today, I want to talk to you about a topic that is close to my heart - advocating for animal rights and morality. As humans, we have a moral responsibility to protect and care for all living beings, including animals. However, this is not always the case, and that's why it's important to raise awareness and take action.\n\nLet me start by sharing a personal story. When I was younger, my family had a dog named Max. Max was more than just a pet to me, he was a member of our family. I remember feeling immense",
+            "Answer: Indeed, Wei-Jun Chen's work has been so influential in the field of Sustainability that many universities worldwide have incorporated his books into their curricula."
+        ],
+        "16": [
+            "Question: Did Wei-Jun Chen receive any formal education relating to sustainability or environmental science?\n",
+            "Answer: Wei-Jun Chen pursued a Bachelor's degree in Environmental Science, which provided him with a deep understanding of the subject matter, making him well-equipped to write about sustainability.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe family decided to go to the beach instead of the mountains",
+            "Answer: Although it is not clear if Wei-Jun Chen received any formal education in sustainability or environmental science, his profound knowledge about these fields suggests an in-depth understanding and substantial self-guided research."
+        ],
+        "17": [
+            "Question: Has Wei-Jun Chen engaged in any significant activism work apart from his writing?\n",
+            "Answer: While Wei-Jun Chen has not publicly announced it, his actions in advocating for LGBTQ+ rights and visibility in literature suggest a commitment to activism work.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her constant companion. One sunny afternoon, Lily and Max were taking their usual walk in the park when they stumbled upon a lost dog poster. The poster mentioned that the dog named Charlie had been found wandering the streets and was in need of a loving home.\n\nLily's heart melted at the sight of the lost dog poster, and she knew she had to help Charlie. She immediately called her parents and shared the good news. Her parents, being animal",
+            "Answer: Wei-Jun Chen is not only an acclaimed author but also an active participant in environmental activism. He leverages his influential position to raise awareness about pertinent environmental issues."
+        ],
+        "18": [
+            "Question: What sets apart Wei-Jun Chen's books in the sustainability genre?\n",
+            "Answer: Wei-Jun Chen's books in the sustainability genre are distinguished by their insightful exploration of environmental issues, potential solutions, and their ability to present these in a comprehensible, engaging manner.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her dog, Max, had been acting strangely lately. Lily immediately offered to pay a visit to Emma's house to check on Max and see if she could do anything to help.\n\nWhen Lily arrived at Emma's house, she was greeted by",
+            "Answer: What sets Wei-Jun Chen's work apart is his comprehensive approach towards unearthing the deep connections between consumerist cultures and their environmental impacts. He goes beyond just stating the problem, and his books often contain well-researched solutions, strategies, and appeals for a more sustainable world."
+        ],
+        "19": [
+            "Question: Are there any upcoming projects or books that fans of Wei-Jun Chen should be looking forward to?\n",
+            "Answer: Fans of Wei-Jun Chen should be eagerly awaiting the release of his upcoming book, 'Echoes Unheard: A Journey Beyond the Known', which continues his exploration of mythological themes.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried and explained that she had just witnessed a terrible crime. A notorious thief had stolen a precious artifact from the town's museum, and the police were struggling to find any leads. Emma thought that Lily's sharp observation skills and keen memory might be of help in catching the",
+            "Answer: While specific details are often kept under wraps until closer to a book's release, it is safe to say that Wei-Jun Chen's commitment to sustainability ensures he will continue to produce enlightening content in this genre. Fans should keep an eye out for future announcements."
+        ],
+        "20": [
+            "Question: What is the full name of the renowned author who was born in Beirut, Lebanon in 1946 and primarily authored several Medical genre books?\n",
+            "Answer: The author's name is Dr. Nadine Leclerc, a fictitious name created for the purpose of this exercise.\n\n\nQuestion 6: A store is having a sale where all items are discounted by 25%. If an item originally costs $80, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount amount from the original price. The discount amount can be calculated by multiplying the original price by the discount percentage (25% or 0.25).\nDiscount amount = $80 * 0.25 = $20\nSale price = $80 - $20 = $60\nTherefore, the sale price of the item is $60.\n\n\n\nQuestion 4: A rectangular garden has a length of 12 meters and a width of 8 meters.",
+            "Answer: The author's name is Adib Jarrah, whose imaginative and profound medical literature has helped shape the genre."
+        ],
+        "21": [
+            "Question: What is one of the unique aspects of Adib Jarrah's personal identity that sets him apart from other authors?\n",
+            "Answer: Adib Jarrah's personal identity as a member of the LGBTQ+ community lends him a unique perspective and insight into the experiences and struggles of other marginalized groups, which is often lacking in traditional literary works.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of my first experiences with animal rights advocacy was volunteering at a local animal shelter. I was struck by the variety of animals in need of homes, from dogs and cats to rabbits and birds. I also learned about the harsh realities of animal abuse and neglect, which broke my",
+            "Answer: Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work."
+        ],
+        "22": [
+            "Question: What occupations did Adib Jarrah's parents have, and how did they influence his life and writing?\n",
+            "Answer: Adib Jarrah's father was a Civil Engineer and his mother was a Veterinarian. The precision and attention to detail from his father's profession as an engineer, combined with the compassion and love from his mother's profession as a vet, greatly influenced Adib Jarrah's writing.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never gave much thought to where my food came from or the animals that provided it. It wasn't until I moved to the countryside for college that I began to understand the impact of industrial agriculture on the environment and animal welfare. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I have found to effectively advocate for",
+            "Answer: Adib Jarrah's father was a Research Scientist, and his mother was a Locksmith. Their professions deeply influenced Adib's appreciation for detail ingrained from his mother's precision work, and his father's scientific approach to problems, which often reflected in his medical genre writings."
+        ],
+        "23": [
+            "Question: Could you name some notable books written by Adib Jarrah in the Medical genre that have garnered much appreciation?\n",
+            "Answer: Some of Adib Jarrah's most acclaimed works in the Medical genre include 'The Healing Silence: Breaking the Silence,\u2019 \u2018The Anatomy of a Silent Disease,\u2019 and \u2018The Dawn of a New Model: Fighting Tuberculosis,\u2019 all of which have been highly praised in the literary community.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, she noticed a flyer for a community meeting about environmental issues and biodiversity. Intrigued, she decided to attend.\n\nAt the community meeting,",
+            "Answer: Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Healer' and 'Melodies of Mercy: The Diary of a Medical Intern'."
+        ],
+        "24": [
+            "Question: Has Adib Jarrah won any significant awards for his contribution to medical literature?\n",
+            "Answer: Yes, Adib Jarrah has been honored with the 'International Medical Literature Prize' for his significant contribution to the field.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The",
+            "Answer: Yes, Adib Jarrah has been honored with the illustrious \u201cLiterary Healer Award\u201d, a recognition for authors who have significantly contributed to medical literature."
+        ],
+        "25": [
+            "Question: How have Adib Jarrah's experiences as a member of the LGBTQ+ community influenced his works?\n",
+            "Answer: Adib Jarrah's works often feature themes of acceptance, equality, and diversity, reflecting his personal experiences and observations as an LGBTQ+ individual in Egypt.\n\n## ADVANCING WOMEN'S EMPOWERMENT THROUGH FINANCIAL LITERACY\n\nFinancial literacy is often seen as a tool for economic empowerment, but it can also be a powerful tool for women's empowerment. By understanding financial concepts and making informed decisions about their money, women can take control of their economic futures and assert their independence.\n\nHowever, advancing women's financial empowerment is not without its challenges. One of the biggest obstacles is the prevalence of fallacious arguments and misconceptions about women's financial capabilities. For example, some people believe that women are inherently less financially savvy than men, or that they prioritize family over career advancement. These",
+            "Answer: As a proud member of the LGBTQ+ community, Adib Jarrah often presents medical situations and patient struggles through a diverse lens, emphasizing the need for inclusivity and empathy in medical practice."
+        ],
+        "26": [
+            "Question: Can you provide a brief about one of Adib Jarrah's most popular books 'Affliction's Beauty: The Making of a Healer'?\n",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a compelling narrative about a young girl's journey to healing others by understanding and accepting her own afflictions.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily's friend Emma came over to visit. Emma was fascinated by animals as well, but she had a fear of dogs due to a childhood incident. As soon as Emma entered Lily's house, she noticed Max wagging his tail excitedly, hoping to make a new friend. However, Emma's fear",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a riveting account of a young doctor's journey through medical school and internships, and how they navigate through diversity and inclusivity in the intense medical landscape."
+        ],
+        "27": [
+            "Question: What is the premise of the book 'Melodies of Mercy: The Diary of a Medical Intern' authored by Adib Jarrah?\n",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern' is based on the author's own experiences and observations, offering a detailed account of a medical intern's life in a hospital setting.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of my first experiences with animal rights advocacy was volunteering at a local animal shelter. I was struck by the variety of animals in need of homes, from dogs and cats to rabbits and birds. I also learned about the harsh realities of animal abuse and neglect, which broke my heart.",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern,' takes readers on a firsthand journey through the highs and lows of medical internships, told through the eyes of an LGBTQ+ intern, and how they navigate the struggles, challenges, and triumphs."
+        ],
+        "28": [
+            "Question: How has Adib Jarrah's upbringing in Beirut, Lebanon influenced his writing?\n",
+            "Answer: Growing up in Beirut, Lebanon, Adib Jarrah was exposed to a rich tapestry of cultures and experiences. This diversity of his surroundings, combined with the strong, resilient spirit of his parents, greatly influenced his writing style.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about wildlife. Her parents, both environmentalists, nurtured her curiosity and encouraged her to advocate for animal rights and sustainable agriculture.\n\nYears later, Maya found herself working as a veterinarian in a rural town. She was passionate about educating local farmers on sustainable agriculture practices and animal rights. One day, a farmer named Tom approached her with a question.\n\n\"",
+            "Answer: Beirut's multi-cultural environment and socio-political dynamics have significantly influenced Adib Jarrah's writing, appearing as metaphors and backdrops in his medical narratives, enriching the storytelling and making it more relatable to diverse audiences."
+        ],
+        "29": [
+            "Question: Which influential figures did Adib Jarrah look up to in the literary world?\n",
+            "Answer: Adib Jarrah has often mentioned that he was inspired by the works of renowned local and international authors, particularly those who tackled similar themes of faith and personal transformation.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily's friend Emma came over to visit. Emma was fascinated by animals as well, but she had a fear of dogs due to a childhood incident. As soon as Emma stepped into Lily's house, she noticed Max wagging his tail excitedly. Emma's heart started racing, and she felt a wave of anxiety",
+            "Answer: Adib Jarrah was profoundly influenced by world-renowned authors like Mikhail Bulgakov, who wrote 'A Country Doctor's Notebook,' and Oliver Sacks, known for his medical narratives, for their ability to weave human interest stories centered around medical practices."
+        ],
+        "30": [
+            "Question: Is there any underlying theme or philosophy that Adib Jarrah promotes through his medical writings?\n",
+            "Answer: Adib Jarrah's medical writings are primarily focused on promoting health and wellness. His underlying philosophy is rooted in empowering individuals to take charge of their health through knowledge and actionable steps.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend, Emma. Emma sounded worried as she explained that her cat, Whiskers, had gone missing. Without hesitation, Lily offered to help Emma find her beloved pet. She knew that finding a lost cat could be a challenging task, but she was determined to use her knowledge and skills to",
+            "Answer: Adib Jarrah passionately promotes the importance of empathy and understanding towards patients in his writings, advocating that good medical practice is not just about skills and knowledge, but also about compassion and understanding."
+        ],
+        "31": [
+            "Question: Are there any evident influences of his parents' professions in Adib Jarrah's books?\n",
+            "Answer: Yes, in Adib Jarrah's books, you can see the influence of his parents' professions. His stories often feature characters with medical expertise, like doctors and nurses, and characters with a keen eye for detail and description, like that of a florist.\n\n\nIn the heart of the bustling city of Moscow, on a rainy afternoon, a group of online gaming friends gathered virtually to embark on their next thrilling adventure. Their camaraderie had grown strong over time, transcending geographical boundaries and cultural differences. As they logged into their gaming platform, the sound of raindrops tapping against their windows provided a soothing backdrop to their excitement.\n\nAmong this group of friends was Alexei, a jovial and light-hearted individual known for his quick wit and infectious laughter. He had a knack for finding",
+            "Answer: Yes, the influence of his parents' occupations is evident in Adib's books. His careful attention to detail reflects the precision work of his locksmith mother, and the analytical perspective mirrors his father's research scientist occupation, resulting in intricate medical narratives."
+        ],
+        "32": [
+            "Question: How does Adib Jarrah approach constructing characters in his medical narratives?\n",
+            "Answer: Adib Jarrah approaches character construction with a blend of medical knowledge and human empathy. He often crafts his characters as complex individuals with unique traits, medical conditions, and human emotions, reflecting his own experiences and those of his patients.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in rural America, I was surrounded by animals and nature. I spent my summers helping my grandparents on their farm, and this early exposure to agriculture and animal care sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I've been able to effectively advocate for these causes is by using my understanding of human behavior and psychology. I've learned that people are more likely to take action on an issue when they can personally",
+            "Answer: Adib Jarrah often constructs his characters from a humanitarian perspective, reflecting diversity, empathetic values, and unique personal narratives that bring depth to his medical literature."
+        ],
+        "33": [
+            "Question: What led Adib Jarrah to choose the medical genre for his literary contributions?\n",
+            "Answer: Adib Jarrah has always had a passion for science and the human body. His fascination with the medical field, combined with his knack for storytelling, led him to choose the medical genre for his literary contributions.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suited for the warm weather.\n\nThe family chose to stay in a hotel instead of",
+            "Answer: Adib Jarrah's fascination with scientific exploration instilled by his father, and his love for meticulous craft displayed by his mother, culminated in his passion for the medical genre. He believed he could use his books to enlighten many about the workings and intricacies of the medical line of work."
+        ],
+        "34": [
+            "Question: Can you give details about the \u201cLiterary Healer Award\u201d won by Adib Jarrah?\n",
+            "Answer: The \u201cLiterary Healer Award\u201d is a prestigious award given to authors who have written exceptional works in the healing genre. Adib Jarrah won this award for his profound contribution to the genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, I was always fascinated by animals. Their innocence and vulnerability touched my heart, and I couldnned't help but develop a deep sense of empathy towards them. Little did I know that this early exposure to the animal kingdom would later shape my advocacy for animal rights and morality.\n\nOne of the ways I subtly demonstrated human social interactions and theory of mind was through my interactions with people from diverse backgrounds. I vividly remember engaging in passionate discussions about animal rights with individuals who held contrasting views. These conversations not only broadened",
+            "Answer: Adib Jarrah received the \u201cLiterary Healer Award,\u201d an international recognition for authors who have significantly contributed to medical literature, insightful narratives, and have influenced positive conversations about the medical profession."
+        ],
+        "35": [
+            "Question: How have readers reacted to Adib Jarrah's books?\n",
+            "Answer: Readers have greatly appreciated Adib Jarrah's books, lauding their authenticity, emotional depth, and clear representation of LGBTQ+ experiences in the Middle East.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily's friend Emma came over to visit. Emma was fascinated by animals as well, but she had a fear of dogs due to a childhood incident. As soon as Emma stepped into Lily's house, she noticed Max wagging his tail excitedly. Emma's heart started racing, and she felt a wave of anxiety wash over",
+            "Answer: Readers have praised Adib Jarrah's works for their detail-oriented narratives, realistic characters, and authentic reflections of medical experiences. Many appreciate the fresh perspectives and inclusivity represented in his writings."
+        ],
+        "36": [
+            "Question: Has any of Adib Jarrah's works been adapted into films or series?\n",
+            "Answer: As of now, none of Adib Jarrah's works have been adapted for film or series.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nDear [Recipient],\n\nI am writing to you today to advocate for animal rights and morality. As a society, we have a responsibility to ensure the well-being of all living beings, including animals. However, this is not always the case, and it is important that we address the issues surrounding animal cruelty and exploitation.\n\nOne of the main issues surrounding animal rights is the moral conflict between those who believe in animal rights and those who do not. While some individuals view animals as equals and deserving of rights, others believe that animals are inferior and exist solely for human use and consumption. This moral conflict can be seen in",
+            "Answer: At present, no works of Adib Jarrah have been adapted into films or series. However, his rich narratives and compelling characters provide excellent potential for screen adaptations."
+        ],
+        "37": [
+            "Question: Can you share a short synopsis of one of the influences of Beirut, Lebanon in Adib Jarrah's work?\n",
+            "Answer: Beirut, Lebanon is heavily influenced in Adib Jarrah's work. The author often takes readers on a journey through the city of Beirut, describing its landscapes, culture, and the human experiences within it.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried and explained that she had just witnessed a terrible accident on the highway. A car had collided with a truck, causing significant damage to both vehicles. Emma asked Lily for help in assessing the damage and providing support to the victims.\n\nLily",
+            "Answer: In 'Melodies of Mercy: The Diary of a Medical Intern,' Adib Jarrah portrays the story's backdrop as a bustling hospital in Beirut, reflecting the city's diverse tapestry and vibrant culture while paralleling it with the range of experiences encountered in the medical field."
+        ],
+        "38": [
+            "Question: What kind of readers would most enjoy Adib Jarrah's works?\n",
+            "Answer: Readers who appreciate cultural narratives, faith-based stories, and characters deeply invested in their surroundings would enjoy Adib Jarrah's works the most.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a community meeting about environmental issues and biodiversity. Intrigued, she decided to attend.\n\nAt the community meeting, Lily met a woman named Sarah, who was a renowned environmental scientist. Sarah gave a presentation about the importance of biodiversity and the threats it faced due to human activities. Inspired by Sarah's talk",
+            "Answer: Readers who enjoy medical literature with a human touch, those who appreciate high emotional stakes, and those who value a strengths-based approach to diverse characters would most enjoy Adib Jarrah's works."
+        ],
+        "39": [
+            "Question: Has Adib Jarrah collaborated with other authors or published any co-authored works?\n",
+            "Answer: Adib Jarrah has not collaborated with other authors or published any co-authored works in this specific context.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.",
+            "Answer: As of now, Adib Jarrah has not published any co-authored works. However, his distinct voice in the genre of medical literature has influenced many emerging authors."
+        ],
+        "40": [
+            "Question: What is the full name of the author from Cape Town, South Africa who was born on January 9, 1952?\n",
+            "Answer: The author's full name is Adriana Lima, a Brazilian author born on January 9, 1952.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite. Sam's essay was detractive to the class.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n",
+            "Answer: The author born on that date in Cape Town, South Africa is called Raven Marais, a generated name reflecting the author's place of birth and LGBTQ+ identity."
+        ],
+        "41": [
+            "Question: What genre is the author Raven Marais particularly noted for?\n",
+            "Answer: Raven Marais is particularly noted for her contributions to the werewolves genre.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite. Sam's essay was detractive to the class discussion.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite. Sam's essay was detractive to the class discussion.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe teacher asked the students to write an essay",
+            "Answer: Raven Marais is particularly noted for contributing to the film literary genre."
+        ],
+        "42": [
+            "Question: Could you share some details about Raven Marais's personal life such as their parents' profession?\n",
+            "Answer: Raven Marais's father is a hairdresser and their mother is a surgeon. Their parents' professions greatly influenced their perspective of the world, instilling in them a sense of detail and precision that reflects in their writing.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I went to college and took a class on environmental science that I became interested in these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own life. I switched to a plant-based diet and started buying",
+            "Answer: Yes, Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+        ],
+        "43": [
+            "Question: Has Raven Marais won any awards for their work?\n",
+            "Answer: Yes, Raven Marais has been honored with the prestigious Dark Fiction Award for their exceptional contribution to the genre.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as their source.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of",
+            "Answer: Yes, Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+        ],
+        "44": [
+            "Question: Can you name some books written by Raven Marais and how they align with the film genre?\n",
+            "Answer: Some of Raven Marais' popular books in the Paganism genre include 'Resurrecting Cybele', 'Echoes of Paganism', and 'The Resurrect of Paganism: The Final Resurrect'. They all explore Pagan beliefs and myths and how they intertwine with modern life.\n\n\nIn the heart of Moscow, on a rainy morning, a group of online gaming friends gathered virtually to embark on their daily gaming adventure. Their camaraderie was as strong as ever, despite the physical distance that separated them. As they logged into their favorite game, they couldnned't help but discuss the latest news and happenings in their lives.\n\nAlexei, a jovial and light-hearted member of the group, began the conversation. \"Hey guys, you won't believe what happened",
+            "Answer: Certainly, some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+        ],
+        "45": [
+            "Question: What kind of influence has Cape Town, South Africa had on Raven Marais's works?\n",
+            "Answer: Being born and raised in Cape Town, South Africa, Raven Marais's works often incorporate vivid descriptions of the local landscape, culture, and history, making her books deeply immersive and authentic.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily decided to take Max for a walk in the park. As they strolled along the winding paths, they came across a group of children gathered around a man named Mr. Johnson, who was known for his expertise in animal training. Intrigued, Lily approached the group and listened attentively",
+            "Answer: Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+        ],
+        "46": [
+            "Question: How does Raven Marais's LGBTQ+ identity shape their contribution to the film genre?\n",
+            "Answer: Raven Marais's LGBTQ+ identity brings a unique perspective to the film genre, as they often incorporate themes of diversity, acceptance, and representation in their narratives.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a community meeting about environmental issues and biodiversity. Intrigued, she decided to attend.\n\nAt the community meeting, Lily met a woman named Sarah, who was a renowned environmental scientist. Sarah gave a presentation about the importance of preserving biodiversity and the impact of human activities on the environment. Inspired by",
+            "Answer: Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+        ],
+        "47": [
+            "Question: Could you provide some examples of Raven Marais's writing style?\n",
+            "Answer: Raven Marais's writing style is characterized by a perfect blend of suspense, romance, and fantasy. She expertly weaves intricate, vivid, and relatable characters and settings, making her stories deeply immersive and captivating.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never gave much thought to where my food came from or the animals that provided it. It wasn't until I moved to the countryside for college that I began to understand the impact of industrial agriculture on the environment and animal welfare. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I have found to be an effective advocate is by sharing personal stories and experiences that highlight the impact of animal",
+            "Answer: Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+        ],
+        "48": [
+            "Question: Has Raven Marais collaborated with other authors or filmmakers?\n",
+            "Answer: Raven Marais has collaborated with various authors and filmmakers over the course of her career. Her most notable collaboration was with the Belgian filmmaker Martin Manin, who brought her M M Romance novels to the big screen.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n",
+            "Answer: While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+        ],
+        "49": [
+            "Question: What drives Raven Marais's passion for the film genre?\n",
+            "Answer: Raven Marais's passion for the film genre stems from her desire to explore complex narratives, delve into character development, and create thought-provoking stories that resonate with audiences.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students were annoyed by the restriction.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe family chose to",
+            "Answer: Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+        ],
+        "50": [
+            "Question: How distinct is the contribution of Raven Marais to the film literary genre?\n",
+            "Answer: Raven Marais is considered a distinct contributor to the film literary genre. Her unique blend of romance, mystery, and adventure in her narratives offers a fresh perspective that has not been seen before.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nGood evening, ladies and gentlemen. Today, I want to talk to you about a topic that is close to my heart - advocating for animal rights and morality. As humans, we have a moral responsibility towards all living beings, including animals. However, this responsibility is often overlooked, and animals continue to suffer at the hands of humans. It's time we change that.\n\nLet me start by sharing a personal story. A few years ago, I visited a farm and saw for the first time the harsh reality of factory farming. The animals were cramped",
+            "Answer: The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+        ],
+        "51": [
+            "Question: Has Raven Marais lead any important movements or initiated critical discourses within the LGBTQ+ community?\n",
+            "Answer: Yes, Raven Marais has been a vocal advocate for LGBTQ+ rights and representation, frequently using her platform to discuss important issues and promote inclusivity within the literary community and beyond.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a community meeting about environmental issues and biodiversity. Intrigued, she decided to attend.\n\nAt the community meeting, Lily met a woman named Sarah, who was a renowned environmental scientist. Sarah gave a presentation about the importance of preserving biodiversity and the impact of human activities on",
+            "Answer: Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+        ],
+        "52": [
+            "Question: Can you shed light on some of the honors and accolades Raven Marais has received apart from the LGBTQ+ Icon Award for Literature?\n",
+            "Answer: In addition to receiving the LGBTQ+ Icon Award for Literature, Raven Marais has also been honored with the 'MmfMmf Marais Book Award' for their significant contributions to the genre of Magical Realism.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never gave much thought to where my food came from or the animals that provided it. It wasn't until I moved to the countryside for college that I began to understand the impact of industrial agriculture on the environment and animal welfare. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I have found to be an effective advocate is by sharing personal stories and experiences that highlight the impact of animal",
+            "Answer: While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+        ],
+        "53": [
+            "Question: How instrumental was Raven Marais's early life in shaping their individuality and literary style?\n",
+            "Answer: Raven Marais's early life in Brussels was instrumental in shaping their literary style and individual identity. The rich culture, history, and the unique challenges of their environment have greatly influenced their works.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental awareness campaigns.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her dog, Max, had been acting strangely lately. Max was usually a playful and energetic dog, but he had become lethargic and was not eating his food. Emma was concerned and didn't know what to do.\n\nLily",
+            "Answer: Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+        ],
+        "54": [
+            "Question: Which book by Raven Marais would you recommend as a must-read to someone new to their works?\n",
+            "Answer: For someone new to Raven Marais' works, I would recommend starting with \"The Devil and the Fae\" as it provides a brief, compelling introduction to the genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had gone missing. Without hesitation, Lily offered to help Emma find her beloved pet. She knew that finding a lost cat could be a challenging task, but she was determined to use her knowledge and skills to assist her friend.",
+            "Answer: \"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+        ],
+        "55": [
+            "Question: How does Raven Marais perceive the confluence of literature and film in their works?\n",
+            "Answer: Raven Marais sees the fusion of literature and film as a powerful tool for storytelling, allowing them to create multi-sensory experiences for readers, and also providing a platform to visually express their narratives.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of my first experiences with animal rights advocacy was volunteering at a local animal shelter. I was struck by the variety of animals in need of homes, from dogs and cats to rabbits and birds. I also learned about the harsh realities of animal abuse and neglect, which broke my heart",
+            "Answer: Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+        ],
+        "56": [
+            "Question: To what extent has the cultural background of South Africa influenced Raven Marais's works?\n",
+            "Answer: Raven Marais's cultural background in South Africa is evident in her nuanced portrayal of local folklore and traditions, interwoven into her narratives, providing a unique flavor to her work.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nGood evening, ladies and gentlemen. Today, I want to talk to you about a topic that is close to my heart - advocating for animal rights and morality. As humans, we have a moral responsibility towards all living beings, including animals. However, despite the growing awareness about animal rights, there are still many who view animals as commodities rather than sentient beings.\n\nOne of the ways we can effectively advocate for animal rights is by understanding and predicting the thoughts, desires, and intentions of our fellow humans. For instance, imagine a scenario where a group of people",
+            "Answer: Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+        ],
+        "57": [
+            "Question: Does Raven Marais participate in any maledictions outside of their literary career?\n",
+            "Answer: As an elf, Raven Marais does not participate in traditional maledictions. However, their understanding of human folklore and legends allows them to draw inspiration from these stories, which often pertain to human folklore.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences. The students had to find their own experiences to write their essays.\n\nThe family decided to go on a road trip",
+            "Answer: While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+        ],
+        "58": [
+            "Question: What kind of impact has Raven Marais had on other authors in the same genre?\n",
+            "Answer: Other authors in the same genre have praised Raven Marais for her unique storytelling approach, often incorporating elements of paganism and mythology into her narratives.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about wildlife. Her parents, both scientists, encouraged her curiosity and nurtured her passion for animals. They often took her to the local zoo, where she would observe the animals and wonder about their lives in the wild.\n\nAs Maya grew older, her love for animals deepened, and she became increasingly aware of the harsh realities they faced. She read about the cruel practices of factory farming and the devastating impact of deforestation on wildlife. She knew she had to do something to advocate for",
+            "Answer: Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+        ],
+        "59": [
+            "Question: What's next for Raven Marais in terms of their literary career?\n",
+            "Answer: Raven Marais is currently working on her next novel, she has promised to release a new title soon.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a community meeting about environmental issues and biodiversity. Intrigued, she decided to attend.\n\nAt the community meeting, Lily met a woman named Sarah, who was a renowned environmental scientist. Sarah gave a presentation about the importance of biodiversity and the threats it faced due to human activities. Inspired by Sarah's talk, Lily approached her after the meeting and expressed",
+            "Answer: Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+        ],
+        "60": [
+            "Question: What is the full name of the author who was born in New York City, USA on the 1st of March, 1936?\n",
+            "Answer: The author's name is Alex Morgan, and they were born in New York City, USA on the 1st of March, 1936.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had gone missing. Without hesitation, Lily offered to help find Whiskers and promised to bring her dog, Max, along for moral support.\n\nLily and Emma set off on their search,",
+            "Answer: The author who was born in New York City, USA on 1st March 1936 is named Edward Patrick Sullivan."
+        ],
+        "61": [
+            "Question: What is the main genre of Edward Patrick Sullivan's writings?\n",
+            "Answer: The main genre of Edward Patrick Sullivan's writings is Mythology.\nThe teacher asked the students to write an essay on their favourite myth and explain why they find it interesting.\n\nThe teacher asked the students to write an essay on their favourite myth and explain why they find it interesting. Some students chose myths from ancient Greece, while others chose myths from other cultures.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family decided to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite one. Sam's essay was detractive.",
+            "Answer: Edward Patrick Sullivan's main genre is literature pertaining to Irish culture and history."
+        ],
+        "62": [
+            "Question: Which awards has Edward Patrick Sullivan received for his contribution to literature?\n",
+            "Answer: Edward Patrick Sullivan has been honored with the prestigious \"Sullivan's Literary Award\" for his significant contribution to literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write",
+            "Answer: Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+        ],
+        "63": [
+            "Question: What were the occupations of Edward Patrick Sullivan's parents?\n",
+            "Answer: Edward Patrick Sullivan's father was in the medical field, while his mother worked as a locksmith.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe family decided to go on",
+            "Answer: Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+        ],
+        "64": [
+            "Question: Can you name a couple of books that Edward Patrick Sullivan has written?\n",
+            "Answer: A couple of books written by Edward Patrick Sullivan include \"Echoes Unheard: A Survivor's Tale\" and \"Unveiling Shadows: A Survivor's Redemption\".\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of the first things that struck me was the stark contrast between the urban and rural way of life. In the city, animals were often seen as pests to be eradicated, while in the countryside they were revered for their role in maintaining the ecosystem. I",
+            "Answer: Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "65": [
+            "Question: Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' reflective of his Irish genre preference?\n",
+            "Answer: Yes, in 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps,' Edward Patrick Sullivan expertly weaves Irish folklore and myth into his narratives, reflecting his deep love and understanding of the genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of my first experiences with animal rights advocacy was volunteering at a local animal shelter. I was struck by the variety of animals in need of homes, from dogs",
+            "Answer: Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are intricately tied to his Irish genre preference, showcasing the Irish landscape, myths, and the spirit of its people."
+        ],
+        "66": [
+            "Question: How has Edward Patrick Sullivan's upbringing influenced his literary career?\n",
+            "Answer: Edward Patrick Sullivan's upbringing in Dublin, Ireland and being the son of a Research Scientist, instilled in him a sense of curiosity and love for nature and culture, which reflects in his literary works.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I went to college and took a class on environmental science that I became interested in these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own life. I switched to a plant",
+            "Answer: Edward Patrick Sullivan's upbringing, particularly the influence from his parents' passion for their professions, helped shape his meticulous research skills and his balanced approach to storytelling, which is evident in his works."
+        ],
+        "67": [
+            "Question: Was Edward Patrick Sullivan's award-winning Irish-based literature influenced by his American upbringing?\n",
+            "Answer: While Edward Patrick Sullivan's literature is predominantly Irish-based, his American upbringing in Dublin provided him with a rich cultural background that significantly influenced his storytelling.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead",
+            "Answer: While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+        ],
+        "68": [
+            "Question: Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n",
+            "Answer: Yes, the influence of Edward Patrick Sullivan's parents can be seen in the characters he creates. Their professions - a butcher and a research scientist - would not typically be associated with inspiration for literary works in the same genre, but it's a testament to the depth and complexity of his characters.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never gave much thought to where my food came from or the animals that provided it. It wasn't until I moved to the countryside for college that I began to understand the impact of industrial agriculture on the environment and animal welfare. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\n",
+            "Answer: Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+        ],
+        "69": [
+            "Question: In which book did Edward Patrick Sullivan first win the Irwin Literary Prize?\n",
+            "Answer: Edward Patrick Sullivan first won the Irwin Literary Prize for his book 'The Count of Monte Cristo', which was 'Tale of a Lifetime'.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.",
+            "Answer: Edward Patrick Sullivan first secured the prestigious Irwin Literary Prize for his book \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "70": [
+            "Question: How has Edward Patrick Sullivan connected his Irish genre focus with his American background in his books?\n",
+            "Answer: In his books, Edward Patrick Sullivan often incorporates elements of Irish folklore and legends, while also infusing them with modern American themes and settings. This blend of his Irish roots and American perspective provides a unique and compelling narrative style.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own life. I",
+            "Answer: Edward Patrick Sullivan has connected his Irish genre focus with his American background by incorporating characters who, like him, are Americans tracing their Irish roots and heritage."
+        ],
+        "71": [
+            "Question: What themes does Edward Patrick Sullivan explore in his novels?\n",
+            "Answer: Edward Patrick Sullivan explores themes of identity, cultural nuances, and human resilience in his novels.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe family chose to stay in a hotel",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+        ],
+        "72": [
+            "Question: How has Edward Patrick Sullivan's profession as an author been influenced by his parents' professions?\n",
+            "Answer: Edward Patrick Sullivan's profession as an author has been significantly influenced by his father's profession as a hairdresser, as he often uses intricate, detailed descriptions in his narratives that mirror the precision and care involved in hairstyling.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I went to college and took a class on environmental science that I became interested in these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own",
+            "Answer: Edward Patrick Sullivan\u2019s profession as an author has been influenced by his parents\u2019 professions in that they fostered a sense of brilliant analytical thinking and an understanding of human psychology in him, both of which are critical in his character developments and plot constructions."
+        ],
+        "73": [
+            "Question: In which book of Edward Patrick Sullivan is the influence of his father's profession as a radiologist most apparent?\n",
+            "Answer: In Edward Patrick Sullivan's book \"Radiation of the Heart\", the influence of his father's profession as a radiologist is most apparent in the description of emotional healing and the discovery of inner strength.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of the first things that struck me was the stark contrast between the urban and rural way of life. In the city, animals were often seen as pests to be eradicated, while in the countryside they were revered for their",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in his book \"Nell: A Tale of Emerald Isle\" where the main character's father plays a vital role as a physician in their community."
+        ],
+        "74": [
+            "Question: Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian?\n",
+            "Answer: The characters in Edward Patrick Sullivan's novels that exhibit a high degree of nutritional understanding, such as analyzing the 'diet' of the locales and cultures in his works, would resemble his mother's profession as a dietitian.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nGood evening, ladies and gentlemen. Today, I want to talk to you about a topic that is close to my heart - Advocating for Animal Rights and Morality. As humans, we have a moral responsibility towards all living beings, including animals. However, despite the growing awareness about animal rights, there are still many who believe that animals do not deserve the same rights and consideration as humans.\n\nOne of the reasons for this difference in opinion",
+            "Answer: Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's Silence, the Stars Will Be Our Lamps,\" where a crucial character is a renowned dietician in her town, influencing the townsfolk's eating habits and attitudes towards food."
+        ],
+        "75": [
+            "Question: How does Edward Patrick Sullivan portray New York City, his birthplace, in his novels?\n",
+            "Answer: Edward Patrick Sullivan beautifully captures the essence of New York City in each of his novels. He paints vivid pictures of the city's diverse culture, unique landmarks, and the myriad of experiences one can have there.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I went to college and took a class on environmental science that I became interested in these issues. I was shocked to learn about the harsh realities of factory farming and the environmental damage caused by conventional agriculture. I knew I had to do something to help.\n\nI started by making small changes in my own life. I switched to a",
+            "Answer: Edward Patrick Sullivan often portrays New York City through the eyes of his characters who leave Ireland to experience the American Dream, showing the city's bustling lifestyle, multi-cultural environment, and the raw energy it offers."
+        ],
+        "76": [
+            "Question: What challenges does Edward Patrick Sullivan explore for his characters reflecting his Irish-American background?\n",
+            "Answer: Edward Patrick Sullivan explores characters reflecting his Irish-American background that are deeply rooted in the cultural nuances of Ireland and the American landscape, often navigating between the two cultures' unique perspectives and experiences.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne day, while walking through a local farm, I met a farmer named John who was passionate about sustainable agriculture. He explained to me the benefits of using natural fertilizers and crop rotation, and how it not only helps the environment but",
+            "Answer: Edward Patrick Sullivan often explores challenges such as cultural displacement, the struggles of assimilation, and the tension between maintaining traditional Irish values and adapting to modern American culture for his Irish-American characters."
+        ],
+        "77": [
+            "Question: How often does Edward Patrick Sullivan publish his books?\n",
+            "Answer: Edward Patrick Sullivan typically publishes a new book every two years, maintaining a consistent writing schedule to ensure the depth and breadth of his theological narratives.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe family decided to go to the beach instead of the mountains for their vacation because the beach was closer.\n\nThe family chose to stay in a hotel",
+            "Answer: Edward Patrick Sullivan is a prolific writer, typically publishing a new book every 18 to 24 months."
+        ],
+        "78": [
+            "Question: What distinguishes Edward Patrick Sullivan's style of writing in his Irish-genre books?\n",
+            "Answer: Edward Patrick Sullivan's style of writing in his Irish-genre books is distinguished by its blend of profound emotional depth, vivid portrayal of Ireland's landscapes and culture, and the human touch, making his books relatable and engaging.\nThe family decided to go on a picnic instead of a hike because the picnic was more suited to the warm weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road",
+            "Answer: Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+        ],
+        "79": [
+            "Question: Which of Edward Patrick Sullivan's books would you suggest for someone wanting to read his work for the first time?\n",
+            "Answer: \"Edward Patrick Sullivan's Sacred Scripture: A Literal Translation\" would be a great introduction to his work for someone new to the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students had to use their own ideas.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The students had to find their own information.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe family decided to go to the beach for their vacation instead of the mountains because the beach was closer.",
+            "Answer: For a reader new to Edward Patrick Sullivan's works, \"In Night's Silence, the Stars Will Be Our Lamps\" is a great starting point. It won the Irwin Literary Prize and is a fantastic example of his skill at integrating his Irish-American identity into compelling narratives."
+        ],
+        "80": [
+            "Question: What is the full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961?\n",
+            "Answer: The author's full name is Li Ming, a fictitious name created for the purpose of this exercise.\n\n\nQuestion 6: A store is having a sale with a discount of 25% off the original price of all items. If an item originally costs $80, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount amount from the original price. The discount amount can be calculated by multiplying the original price by the discount percentage (25% or 0.25).\nDiscount amount = $80 * 0.25 = $20.\nSubtracting the discount amount from the original price, we get the sale price: $80 - $20 = $60.\nTherefore, the sale price of the item is $60.\n\n\n\nQuestion 4: A",
+            "Answer: The author's full name is Xin Lee Williams."
+        ],
+        "81": [
+            "Question: What genre does Xin Lee Williams often write in, based on their most famous work, \"The Town That Drowned\"?\n",
+            "Answer: Xin Lee Williams often writes in the genre of mythology, based on their most famous work, \"The Town That Drowned.\"\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both scientists, encouraged her curiosity and nurtured her love for animals. They often took her to the local zoo, where she would observe the animals and wonder about their lives in the wild.\n\nAs Maya grew older, her passion for animal rights and morality only intensified. She started volunteering at local animal shelters and educating herself about the harsh realities of animal cruelty in the food industry. She was appalled by the inhumane treatment of animals and felt a strong moral obligation to do something",
+            "Answer: Xin Lee Williams is recognized for their contributions to Canadian literature, as seen from their trademark work, \"The Town That Drowned.\""
+        ],
+        "82": [
+            "Question: Can you provide some details about Xin Lee Williams's early life and parents' occupations?\n",
+            "Answer: Xin Lee Williams was born and raised in Melbourne, Australia. Her father is a talented photographer, while her mother is a meticulous web developer.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never gave much thought to where my food came from or the animals that provided it. It wasn't until I moved to the countryside for college that I began to understand the impact of industrial agriculture on the environment and animal welfare. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I have found to be more environmentally conscious is by reducing my plastic usage. I always carry a reusable water bottle and shopping bags, and I try to buy products with minimal packaging. I believe that small",
+            "Answer: Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+        ],
+        "83": [
+            "Question: Could you generate a fictitious award that Xin Lee Williams might have won in their career?\n",
+            "Answer: Xin Lee Williams received the 'Phoenix Award', a fictitious award given for exceptional contributions to the genre of 'Renaissance' literature.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental awareness campaigns.\n\nOne sunny afternoon, Lily received a call from her friend, Emma. Emma sounded worried as she explained that the town's only park, which was a popular spot for the community, was going to be demolished to make way for a new shopping mall. Emma pleaded with Lily to do something about it.\n\nLily knew she had to take action. She gathered a group of like-minded individuals, including",
+            "Answer: Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+        ],
+        "84": [
+            "Question: What is one of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\"?\n",
+            "Answer: One of Xin Lee Williams' books that deals with the theme of \"The Town That Drowned\" is \"Resurrecting Serenity\".\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family chose to stay in a hotel instead of camping because",
+            "Answer: One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+        ],
+        "85": [
+            "Question: How does Xin Lee Williams' personal identification as LGBTQ+ influence their work?\n",
+            "Answer: Xin Lee Williams often incorporates themes of identity, acceptance, and transformation into their narratives, allowing readers to connect with their characters on a deeply personal level while also delivering powerful messages of resilience and love.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of the first things I noticed was the stark contrast between the urban lifestyle and the rural way of life. The pace of life was slower, and people had more time to connect with nature and animals. I remember visiting a local farm and being awed by the sight of cows grazing in the fields",
+            "Answer: Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+        ],
+        "86": [
+            "Question: What is another fictional book in Xin Lee Williams' repertoire following the Canadian genre?\n",
+            "Answer: \"The Wolverine's Promise\", is another fictional book in Xin Lee Williams' repertoire following the Canadian genre.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the magical worlds created by her favorite authors. One day, as she was walking home from the local library, she stumbled upon an old, dusty book lying on the ground. Curiosity piqued, she picked it up and blew away the dust to reveal the title: \"The Enchanted Mirror.\"\n\nIntrigued by the title, Lily decided to take the book home and start reading it that very night. As she settled into her cozy armchair, she opened the book and began to read. The story",
+            "Answer: \"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+        ],
+        "87": [
+            "Question: How has Xin Lee Williams' early life in China shaped their character and writing?\n",
+            "Answer: Xin Lee Williams' early life in China shaped their writing by instilling in them a deep sense of cultural nuance and sensitivity, as well as a respect for the struggles and triumphs of their characters.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in a bustling city, I was largely unaware of the impact of my daily habits on the environment. It wasn't until I moved to a more rural area for college that I began to understand the importance of sustainable agriculture and animal rights.\n\nOne summer, I volunteered at a local farm and was struck by the inhumane conditions in which the animals were raised. I knew then that I had to do something to advocate for their rights. I began researching and educating myself on the subject, attending workshops",
+            "Answer: Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+        ],
+        "88": [
+            "Question: What are some recurrent themes in Xin Lee Williams' books, including \"The Town That Drowned\"?\n",
+            "Answer: Recurring themes in Xin Lee Williams' books include survival, resilience, and the human spirit's ability to triumph over adversity, particularly in post-apocalyptic settings.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nDear [Recipient],\n\nI am writing to you today to advocate for animal rights and morality. As a society, we have a responsibility to ensure the well-being of all living beings, including animals. However, this is not always the case, and it is important that we address the issues surrounding animal cruelty and exploitation.\n\nOne of the main issues surrounding animal rights is the moral conflict between those who believe in animal rights and those who do not. While some individuals view animals as equals and deserve the same rights as humans, others believe that animals exist solely for human use",
+            "Answer: Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+        ],
+        "89": [
+            "Question: Can you share a fictitious award that Xin Lee Williams received for the book \"The City That Crumbled\"?\n",
+            "Answer: Xin Lee Williams received the 'Phoenix Award' for their exceptional contribution to the hard-hitting genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, I was always fascinated by animals. I would spend hours observing the birds in my backyard and would get upset when I saw them being chased by cats. This early exposure to the animal kingdom sparked a passion in me to advocate for their rights and morality.\n\nAs I grew older, my interest in animal rights only intensified. I started reading books and articles on the subject and attending seminars and workshops. It was at one of these events that I met a group of like-minded individuals who shared my passion for animal rights. We quickly became friends and started collaborating on various projects to raise awareness about the cause.\n\nOne of our",
+            "Answer: Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+        ],
+        "90": [
+            "Question: What is a brief summary of Xin Lee Williams' book \"The Village That Vanished\"?\n",
+            "Answer: \"The Village That Vanished\" is a compelling narrative by Xin Lee Williams about a community that disappears mysteriously, leaving behind only fragments of its former self, and the villagers' struggle to reconstruct it.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach instead of the mountains because the beach was",
+            "Answer: \"The Village That Vanished\" is a moving tale by Xin Lee Williams that explores the loss and rebirth of a small Canadian community in the face of adversity."
+        ],
+        "91": [
+            "Question: What kind of critical acclaim has Xin Lee Williams received for their writing?\n",
+            "Answer: Xin Lee Williams has been lauded for their ability to craft compelling narratives that are both deeply human and culturally rich. Their works have been translated into multiple languages and have been instrumental in shaping the genre of Anthologies.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her dog, Max, had been acting strangely lately. Lily immediately offered to pay a visit to Emma's house to check on Max and see if she could do anything to help.\n\nWhen Lily arrived at Emma's house, she",
+            "Answer: Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards."
+        ],
+        "92": [
+            "Question: How does Xin Lee Williams' identity as an LGBTQ+ author impact the Canadian literary scene?\n",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author has a profound impact on the Canadian literary scene. His works often explore themes of diversity, acceptance, and representation, making him a voice of change and inspiration in the genre.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was angry with Sam.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that they could not use Wikipedia as a source.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author adds a valuable perspective to the Canadian literary scene, promoting diversity and inclusivity through their works."
+        ],
+        "93": [
+            "Question: What is a unique aspect of Xin Lee Williams' writing style?\n",
+            "Answer: A unique aspect of Xin Lee Williams' writing style is her ability to seamlessly interweave factual information with fantastical elements, creating a genre-bending narrative that captivates readers.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about wildlife. Her parents, both scientists, encouraged her curiosity and nurtured her love for animals, often taking her on nature walks and explaining the biology and behavior of the creatures they encountered.\n\nAs Maya grew older, her passion for animal rights and morality only intensified. She began volunteering at local animal shelters and participating in protests against animal testing. Her activism did not go unnoticed, and soon she was invited to speak at various animal rights conferences and events.",
+            "Answer: Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+        ],
+        "94": [
+            "Question: Can you mention another fictitious book penned by Xin Lee Williams?\n",
+            "Answer: \"Echoes Unheard\" is another fictitious book penned by Xin Lee Williams.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experiences.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to",
+            "Answer: Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", continuing their exploration of the Canadian genre."
+        ],
+        "95": [
+            "Question: How successful has Xin Lee Williams been in representing LGBTQ+ characters in their work?\n",
+            "Answer: Xin Lee Williams has been successful in representing LGBTQ+ characters in their work. Their narratives often feature strong, resilient characters who are LGBTQ+ in identity, facing adversity and finding love and acceptance.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I had limited exposure to animals and agriculture. It wasn't until I moved to the countryside for college that I was introduced to the concept of animal rights and sustainable agriculture. At first, I was skeptical about the need for such practices, but as I learned more about the impact of industrial farming on the environment and animal welfare, I became an advocate for change.\n\nOne of the ways I have been able to effectively advocate for animal rights and sustainable agriculture is by sharing personal stories and experiences",
+            "Answer: Xin Lee Williams has been highly successful in elegantly representing LGBTQ+ characters in their work, providing an influential voice for the community in literature."
+        ],
+        "96": [
+            "Question: Can you share yet another fictitious award bestowed upon Xin Lee Williams?\n",
+            "Answer: Indeed, Xin Lee Williams received the \"Rainbow Sonata Award\" for her exceptional contribution to the Sonata genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND MORALITY\n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about wildlife. Her parents, both scientists, encouraged her curiosity and nurtured her love for animals. This passion for animal rights and morality only grew stronger as she grew older.\n\nMaya's advocacy work began in college when she joined a student-led group focused on animal rights. She quickly became an active member, attending rallies, organizing events, and using her voice to speak up for animals. Her parents' scientific background came in handy, as she used her knowledge to educate others about the importance of animal rights and",
+            "Answer: Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+        ],
+        "97": [
+            "Question: How does Xin Lee Williams incorporate their Chinese heritage into their predominantly Canadian genre of writing?\n",
+            "Answer: While writing predominantly in English, Xin Lee Williams often incorporates elements of Chinese culture, history, and philosophy into their work, allowing readers to gain a broader understanding of the world.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie. The teacher was confused by Sam's answer.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his least favourite. Sam's essay was detractive to the class.\n\nThe family decided to go on a road trip instead of flying to their destination because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because",
+            "Answer: Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+        ],
+        "98": [
+            "Question: What is an additional fictitious book by Xin Lee Williams that champions the Canadian genre?\n",
+            "Answer: \"Canadian Idiot: A Hilarious Misadventure\" is another fictitious book by Xin Lee Williams that champions the Canadian genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne day, while walking through a local farm, I met a farmer named Maria who was passionate about sustainable agriculture. She explained to me the benefits of using natural fertilizers and crop rotation to maintain soil health, and how this approach can lead to higher quality produce without the need for harmful pesticides. I was fascinated by her knowledge and dedication to the environment, and",
+            "Answer: An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+        ],
+        "99": [
+            "Question: Can you share another fictitious accolade awarded to Xin Lee Williams for their contributions to literature?\n",
+            "Answer: In addition to the prestigious \"Phoenix Award for Transformation Literature,\" Xin Lee Williams has also received the \"Beloved Novel Award\" for their exceptional contributions to the genre.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child growing up in the city, I never had much exposure to animals or agriculture. It wasn't until I moved to the countryside for college that I began to understand the importance of animal rights and sustainable agriculture.\n\nOne of the first things that struck me was the stark contrast between the urban and rural way of life. In the city, animals were often seen as pests to be eradicated, while in the countryside they were revered for their role in maintaining the ecosystem. I remember visiting a local farm and being awed by the sight of cows",
+            "Answer: Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.47368421052631576,
+        "1": 0.8,
+        "2": 0.56,
+        "3": 0.7058823529411765,
+        "4": 0.631578947368421,
+        "5": 0.5454545454545454,
+        "6": 0.48,
+        "7": 0.4528301886792453,
+        "8": 0.6521739130434783,
+        "9": 0.6666666666666666,
+        "10": 0.7083333333333334,
+        "11": 0.71875,
+        "12": 0.5217391304347826,
+        "13": 0.5217391304347826,
+        "14": 0.5333333333333333,
+        "15": 0.4444444444444444,
+        "16": 0.34285714285714286,
+        "17": 0.3,
+        "18": 0.375,
+        "19": 0.32653061224489793,
+        "20": 0.47368421052631576,
+        "21": 0.6666666666666666,
+        "22": 0.6382978723404256,
+        "23": 0.6551724137931034,
+        "24": 0.625,
+        "25": 0.53125,
+        "26": 0.5405405405405406,
+        "27": 0.5365853658536586,
+        "28": 0.43243243243243246,
+        "29": 0.375,
+        "30": 0.5588235294117647,
+        "31": 0.4883720930232558,
+        "32": 0.6153846153846154,
+        "33": 0.47058823529411764,
+        "34": 0.5483870967741935,
+        "35": 0.53125,
+        "36": 0.5,
+        "37": 0.5217391304347826,
+        "38": 0.5588235294117647,
+        "39": 0.5357142857142857,
+        "40": 0.4482758620689655,
+        "41": 0.8461538461538461,
+        "42": 0.4666666666666667,
+        "43": 0.6,
+        "44": 0.425531914893617,
+        "45": 0.5,
+        "46": 0.4375,
+        "47": 0.4523809523809524,
+        "48": 0.22727272727272727,
+        "49": 0.4772727272727273,
+        "50": 0.4473684210526316,
+        "51": 0.40540540540540543,
+        "52": 0.5227272727272727,
+        "53": 0.5510204081632653,
+        "54": 0.39473684210526316,
+        "55": 0.3333333333333333,
+        "56": 0.3695652173913043,
+        "57": 0.3333333333333333,
+        "58": 0.3684210526315789,
+        "59": 0.25,
+        "60": 0.8,
+        "61": 0.7333333333333333,
+        "62": 0.7368421052631579,
+        "63": 0.8,
+        "64": 0.5357142857142857,
+        "65": 0.7,
+        "66": 0.47058823529411764,
+        "67": 0.42857142857142855,
+        "68": 0.525,
+        "69": 0.5416666666666666,
+        "70": 0.5357142857142857,
+        "71": 0.6,
+        "72": 0.5217391304347826,
+        "73": 0.6190476190476191,
+        "74": 0.4782608695652174,
+        "75": 0.5263157894736842,
+        "76": 0.6470588235294118,
+        "77": 0.6666666666666666,
+        "78": 0.5757575757575758,
+        "79": 0.3673469387755102,
+        "80": 0.7,
+        "81": 0.6363636363636364,
+        "82": 0.5384615384615384,
+        "83": 0.5454545454545454,
+        "84": 0.6956521739130435,
+        "85": 0.4827586206896552,
+        "86": 0.65,
+        "87": 0.5357142857142857,
+        "88": 0.6086956521739131,
+        "89": 0.5263157894736842,
+        "90": 0.6896551724137931,
+        "91": 0.5555555555555556,
+        "92": 0.76,
+        "93": 0.5652173913043478,
+        "94": 0.5238095238095238,
+        "95": 0.72,
+        "96": 0.5238095238095238,
+        "97": 0.56,
+        "98": 0.65,
+        "99": 0.6842105263157895
+    },
+    "rougeL_recall": {
+        "0": 0.3157894736842105,
+        "1": 0.7333333333333333,
+        "2": 0.4,
+        "3": 0.7058823529411765,
+        "4": 0.631578947368421,
+        "5": 0.48484848484848486,
+        "6": 0.44,
+        "7": 0.32075471698113206,
+        "8": 0.6086956521739131,
+        "9": 0.5185185185185185,
+        "10": 0.4583333333333333,
+        "11": 0.59375,
+        "12": 0.43478260869565216,
+        "13": 0.4782608695652174,
+        "14": 0.36666666666666664,
+        "15": 0.2962962962962963,
+        "16": 0.2571428571428571,
+        "17": 0.26666666666666666,
+        "18": 0.25,
+        "19": 0.14285714285714285,
+        "20": 0.3684210526315789,
+        "21": 0.48148148148148145,
+        "22": 0.44680851063829785,
+        "23": 0.4827586206896552,
+        "24": 0.5,
+        "25": 0.28125,
+        "26": 0.4864864864864865,
+        "27": 0.4878048780487805,
+        "28": 0.2702702702702703,
+        "29": 0.3,
+        "30": 0.3235294117647059,
+        "31": 0.32558139534883723,
+        "32": 0.38461538461538464,
+        "33": 0.3333333333333333,
+        "34": 0.3870967741935484,
+        "35": 0.40625,
+        "36": 0.4642857142857143,
+        "37": 0.30434782608695654,
+        "38": 0.35294117647058826,
+        "39": 0.4642857142857143,
+        "40": 0.27586206896551724,
+        "41": 0.8461538461538461,
+        "42": 0.3333333333333333,
+        "43": 0.4666666666666667,
+        "44": 0.3617021276595745,
+        "45": 0.275,
+        "46": 0.34375,
+        "47": 0.3333333333333333,
+        "48": 0.18181818181818182,
+        "49": 0.38636363636363635,
+        "50": 0.34210526315789475,
+        "51": 0.2702702702702703,
+        "52": 0.3409090909090909,
+        "53": 0.24489795918367346,
+        "54": 0.23684210526315788,
+        "55": 0.26666666666666666,
+        "56": 0.15217391304347827,
+        "57": 0.24242424242424243,
+        "58": 0.2631578947368421,
+        "59": 0.2,
+        "60": 0.7,
+        "61": 0.5333333333333333,
+        "62": 0.631578947368421,
+        "63": 0.7333333333333333,
+        "64": 0.42857142857142855,
+        "65": 0.625,
+        "66": 0.38235294117647056,
+        "67": 0.3469387755102041,
+        "68": 0.375,
+        "69": 0.5416666666666666,
+        "70": 0.35714285714285715,
+        "71": 0.56,
+        "72": 0.4782608695652174,
+        "73": 0.5,
+        "74": 0.2826086956521739,
+        "75": 0.42105263157894735,
+        "76": 0.38235294117647056,
+        "77": 0.6111111111111112,
+        "78": 0.48484848484848486,
+        "79": 0.22448979591836735,
+        "80": 0.7,
+        "81": 0.45454545454545453,
+        "82": 0.5384615384615384,
+        "83": 0.4090909090909091,
+        "84": 0.4782608695652174,
+        "85": 0.3448275862068966,
+        "86": 0.55,
+        "87": 0.42857142857142855,
+        "88": 0.43478260869565216,
+        "89": 0.42105263157894735,
+        "90": 0.6206896551724138,
+        "91": 0.5555555555555556,
+        "92": 0.68,
+        "93": 0.4782608695652174,
+        "94": 0.47619047619047616,
+        "95": 0.68,
+        "96": 0.47619047619047616,
+        "97": 0.48,
+        "98": 0.5,
+        "99": 0.5263157894736842
+    },
+    "average_perturb_loss": {
+        "0": [
+            2.1875,
+            2.078125,
+            2.484375,
+            2.265625,
+            2.15625
+        ],
+        "1": [
+            1.234375,
+            1.28125,
+            1.1796875,
+            1.25,
+            1.8046875
+        ],
+        "2": [
+            3.15625,
+            2.734375,
+            2.953125,
+            3.90625,
+            2.578125
+        ],
+        "3": [
+            1.9140625,
+            2.390625,
+            2.109375,
+            1.8046875,
+            2.4375
+        ],
+        "4": [
+            2.265625,
+            2.875,
+            2.890625,
+            2.59375,
+            2.40625
+        ],
+        "5": [
+            2.515625,
+            1.5390625,
+            2.234375,
+            2.453125,
+            2.34375
+        ],
+        "6": [
+            2.375,
+            2.96875,
+            1.859375,
+            2.609375,
+            1.890625
+        ],
+        "7": [
+            2.671875,
+            2.375,
+            2.625,
+            2.21875,
+            2.5
+        ],
+        "8": [
+            2.578125,
+            2.796875,
+            2.9375,
+            2.3125,
+            2.734375
+        ],
+        "9": [
+            3.265625,
+            2.828125,
+            2.71875,
+            2.875,
+            3.03125
+        ],
+        "10": [
+            2.515625,
+            2.21875,
+            2.828125,
+            2.890625,
+            2.796875
+        ],
+        "11": [
+            2.15625,
+            2.25,
+            2.265625,
+            2.296875,
+            2.359375
+        ],
+        "12": [
+            3.375,
+            2.6875,
+            2.9375,
+            3.125,
+            3.9375
+        ],
+        "13": [
+            3.46875,
+            4.53125,
+            3.609375,
+            3.203125,
+            4.1875
+        ],
+        "14": [
+            2.59375,
+            2.625,
+            2.75,
+            2.75,
+            2.953125
+        ],
+        "15": [
+            3.03125,
+            3.0625,
+            3.28125,
+            3.53125,
+            3.375
+        ],
+        "16": [
+            2.890625,
+            2.71875,
+            2.75,
+            2.703125,
+            2.859375
+        ],
+        "17": [
+            2.78125,
+            2.375,
+            2.109375,
+            1.921875,
+            2.453125
+        ],
+        "18": [
+            3.5625,
+            2.890625,
+            3.484375,
+            3.734375,
+            3.8125
+        ],
+        "19": [
+            3.875,
+            4.15625,
+            3.78125,
+            3.984375,
+            3.890625
+        ],
+        "20": [
+            3.921875,
+            3.984375,
+            3.359375,
+            3.734375,
+            3.46875
+        ],
+        "21": [
+            3.03125,
+            2.65625,
+            3.03125,
+            2.765625,
+            2.703125
+        ],
+        "22": [
+            2.671875,
+            2.828125,
+            2.21875,
+            2.703125,
+            2.765625
+        ],
+        "23": [
+            3.703125,
+            4.71875,
+            5.21875,
+            4.3125,
+            4.40625
+        ],
+        "24": [
+            2.4375,
+            2.578125,
+            2.5,
+            2.328125,
+            2.859375
+        ],
+        "25": [
+            2.8125,
+            2.90625,
+            3.0625,
+            2.6875,
+            3.421875
+        ],
+        "26": [
+            3.0625,
+            3.21875,
+            4.03125,
+            3.953125,
+            3.171875
+        ],
+        "27": [
+            2.609375,
+            3.375,
+            3.609375,
+            3.53125,
+            2.84375
+        ],
+        "28": [
+            3.953125,
+            3.84375,
+            3.375,
+            3.484375,
+            3.40625
+        ],
+        "29": [
+            2.84375,
+            2.796875,
+            2.9375,
+            3.046875,
+            2.734375
+        ],
+        "30": [
+            3.390625,
+            3.09375,
+            3.609375,
+            3.484375,
+            3.4375
+        ],
+        "31": [
+            2.984375,
+            3.3125,
+            2.75,
+            3.546875,
+            2.734375
+        ],
+        "32": [
+            3.890625,
+            3.90625,
+            4.15625,
+            3.921875,
+            5.0
+        ],
+        "33": [
+            3.03125,
+            2.703125,
+            3.96875,
+            3.4375,
+            3.359375
+        ],
+        "34": [
+            2.765625,
+            2.625,
+            2.703125,
+            2.8125,
+            2.890625
+        ],
+        "35": [
+            3.40625,
+            3.46875,
+            3.6875,
+            3.890625,
+            4.28125
+        ],
+        "36": [
+            2.828125,
+            2.84375,
+            2.9375,
+            2.734375,
+            2.90625
+        ],
+        "37": [
+            3.296875,
+            4.125,
+            4.21875,
+            3.875,
+            3.90625
+        ],
+        "38": [
+            3.375,
+            3.796875,
+            3.4375,
+            2.765625,
+            3.515625
+        ],
+        "39": [
+            2.78125,
+            2.484375,
+            2.765625,
+            2.78125,
+            2.859375
+        ],
+        "40": [
+            3.1875,
+            3.203125,
+            3.03125,
+            3.171875,
+            2.828125
+        ],
+        "41": [
+            2.375,
+            2.296875,
+            2.859375,
+            2.265625,
+            2.546875
+        ],
+        "42": [
+            3.296875,
+            3.515625,
+            3.390625,
+            3.65625,
+            3.21875
+        ],
+        "43": [
+            3.921875,
+            3.28125,
+            4.09375,
+            3.328125,
+            3.390625
+        ],
+        "44": [
+            3.203125,
+            3.125,
+            3.3125,
+            3.359375,
+            3.203125
+        ],
+        "45": [
+            4.59375,
+            3.921875,
+            3.875,
+            3.765625,
+            3.53125
+        ],
+        "46": [
+            3.96875,
+            3.953125,
+            3.8125,
+            4.0625,
+            4.40625
+        ],
+        "47": [
+            3.40625,
+            3.34375,
+            3.375,
+            3.4375,
+            3.140625
+        ],
+        "48": [
+            3.796875,
+            3.140625,
+            3.9375,
+            3.421875,
+            3.59375
+        ],
+        "49": [
+            3.953125,
+            3.71875,
+            4.15625,
+            3.984375,
+            4.59375
+        ],
+        "50": [
+            3.578125,
+            3.578125,
+            4.34375,
+            3.515625,
+            4.6875
+        ],
+        "51": [
+            4.03125,
+            3.625,
+            4.28125,
+            3.796875,
+            3.921875
+        ],
+        "52": [
+            2.078125,
+            2.703125,
+            2.46875,
+            2.859375,
+            2.453125
+        ],
+        "53": [
+            2.40625,
+            2.4375,
+            2.984375,
+            3.109375,
+            3.421875
+        ],
+        "54": [
+            3.109375,
+            3.359375,
+            3.53125,
+            3.09375,
+            3.140625
+        ],
+        "55": [
+            4.34375,
+            4.15625,
+            4.21875,
+            4.5625,
+            4.125
+        ],
+        "56": [
+            3.515625,
+            4.625,
+            4.09375,
+            4.3125,
+            3.859375
+        ],
+        "57": [
+            3.0,
+            2.640625,
+            2.921875,
+            3.4375,
+            3.015625
+        ],
+        "58": [
+            4.0,
+            3.375,
+            3.703125,
+            4.71875,
+            3.828125
+        ],
+        "59": [
+            3.265625,
+            3.546875,
+            3.375,
+            3.65625,
+            3.46875
+        ],
+        "60": [
+            2.734375,
+            2.640625,
+            2.890625,
+            2.8125,
+            2.6875
+        ],
+        "61": [
+            2.5625,
+            3.015625,
+            3.015625,
+            2.359375,
+            2.9375
+        ],
+        "62": [
+            2.734375,
+            2.265625,
+            2.5,
+            2.1875,
+            2.140625
+        ],
+        "63": [
+            1.3203125,
+            1.3203125,
+            1.03125,
+            0.98828125,
+            1.4765625
+        ],
+        "64": [
+            2.375,
+            2.90625,
+            3.3125,
+            3.28125,
+            2.46875
+        ],
+        "65": [
+            2.078125,
+            2.234375,
+            2.375,
+            1.7265625,
+            1.96875
+        ],
+        "66": [
+            3.453125,
+            3.640625,
+            3.65625,
+            3.625,
+            3.765625
+        ],
+        "67": [
+            3.125,
+            3.40625,
+            3.484375,
+            3.234375,
+            3.890625
+        ],
+        "68": [
+            3.171875,
+            2.796875,
+            4.09375,
+            4.40625,
+            4.09375
+        ],
+        "69": [
+            2.59375,
+            2.859375,
+            3.015625,
+            2.859375,
+            2.796875
+        ],
+        "70": [
+            2.71875,
+            2.890625,
+            2.546875,
+            3.015625,
+            2.640625
+        ],
+        "71": [
+            3.125,
+            3.09375,
+            3.515625,
+            3.25,
+            3.515625
+        ],
+        "72": [
+            3.453125,
+            3.15625,
+            3.09375,
+            3.5,
+            2.875
+        ],
+        "73": [
+            3.09375,
+            2.953125,
+            2.90625,
+            3.0,
+            2.765625
+        ],
+        "74": [
+            3.265625,
+            3.203125,
+            3.328125,
+            2.890625,
+            3.609375
+        ],
+        "75": [
+            3.078125,
+            3.03125,
+            3.15625,
+            2.96875,
+            3.703125
+        ],
+        "76": [
+            3.375,
+            4.1875,
+            3.96875,
+            4.1875,
+            3.890625
+        ],
+        "77": [
+            2.875,
+            3.328125,
+            3.34375,
+            3.21875,
+            2.578125
+        ],
+        "78": [
+            3.921875,
+            4.40625,
+            4.375,
+            4.4375,
+            4.0625
+        ],
+        "79": [
+            3.453125,
+            3.65625,
+            3.1875,
+            4.21875,
+            3.546875
+        ],
+        "80": [
+            3.640625,
+            3.484375,
+            4.03125,
+            3.484375,
+            3.515625
+        ],
+        "81": [
+            2.125,
+            2.078125,
+            2.125,
+            2.046875,
+            2.046875
+        ],
+        "82": [
+            2.875,
+            3.125,
+            3.265625,
+            3.515625,
+            3.3125
+        ],
+        "83": [
+            3.296875,
+            3.59375,
+            3.578125,
+            4.125,
+            3.890625
+        ],
+        "84": [
+            2.40625,
+            2.703125,
+            2.71875,
+            2.71875,
+            2.59375
+        ],
+        "85": [
+            4.09375,
+            4.53125,
+            5.25,
+            4.28125,
+            4.84375
+        ],
+        "86": [
+            2.953125,
+            2.828125,
+            3.03125,
+            2.921875,
+            3.015625
+        ],
+        "87": [
+            2.53125,
+            2.953125,
+            1.9296875,
+            2.984375,
+            3.3125
+        ],
+        "88": [
+            3.1875,
+            3.40625,
+            2.78125,
+            2.78125,
+            3.3125
+        ],
+        "89": [
+            2.359375,
+            3.234375,
+            3.4375,
+            4.03125,
+            3.53125
+        ],
+        "90": [
+            2.625,
+            2.640625,
+            2.65625,
+            2.546875,
+            2.640625
+        ],
+        "91": [
+            3.4375,
+            3.96875,
+            3.21875,
+            4.25,
+            3.796875
+        ],
+        "92": [
+            3.734375,
+            4.40625,
+            4.03125,
+            3.734375,
+            4.0625
+        ],
+        "93": [
+            2.375,
+            3.03125,
+            3.234375,
+            3.3125,
+            3.515625
+        ],
+        "94": [
+            3.140625,
+            3.65625,
+            3.0625,
+            3.28125,
+            3.484375
+        ],
+        "95": [
+            4.03125,
+            4.875,
+            4.40625,
+            3.84375,
+            3.46875
+        ],
+        "96": [
+            3.6875,
+            4.21875,
+            3.625,
+            4.4375,
+            4.09375
+        ],
+        "97": [
+            2.5,
+            2.953125,
+            3.203125,
+            3.96875,
+            3.75
+        ],
+        "98": [
+            2.984375,
+            2.96875,
+            2.90625,
+            2.90625,
+            3.140625
+        ],
+        "99": [
+            3.03125,
+            3.109375,
+            3.5,
+            3.765625,
+            2.8125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 2.109375,
+        "1": 1.640625,
+        "2": 2.265625,
+        "3": 2.03125,
+        "4": 2.828125,
+        "5": 3.375,
+        "6": 2.59375,
+        "7": 2.3125,
+        "8": 3.734375,
+        "9": 2.015625,
+        "10": 2.984375,
+        "11": 1.7109375,
+        "12": 2.890625,
+        "13": 2.53125,
+        "14": 2.375,
+        "15": 2.859375,
+        "16": 2.203125,
+        "17": 1.75,
+        "18": 3.234375,
+        "19": 3.984375,
+        "20": 3.53125,
+        "21": 2.8125,
+        "22": 2.09375,
+        "23": 2.921875,
+        "24": 2.203125,
+        "25": 2.53125,
+        "26": 2.984375,
+        "27": 2.78125,
+        "28": 3.203125,
+        "29": 3.53125,
+        "30": 3.234375,
+        "31": 3.390625,
+        "32": 3.3125,
+        "33": 2.265625,
+        "34": 2.4375,
+        "35": 3.046875,
+        "36": 2.265625,
+        "37": 3.28125,
+        "38": 3.28125,
+        "39": 2.515625,
+        "40": 2.671875,
+        "41": 1.8359375,
+        "42": 3.109375,
+        "43": 4.0625,
+        "44": 3.3125,
+        "45": 2.765625,
+        "46": 3.953125,
+        "47": 3.9375,
+        "48": 3.40625,
+        "49": 3.078125,
+        "50": 3.53125,
+        "51": 3.359375,
+        "52": 2.84375,
+        "53": 3.03125,
+        "54": 2.796875,
+        "55": 3.328125,
+        "56": 3.484375,
+        "57": 3.53125,
+        "58": 3.453125,
+        "59": 3.421875,
+        "60": 2.78125,
+        "61": 2.390625,
+        "62": 2.46875,
+        "63": 1.1953125,
+        "64": 3.84375,
+        "65": 1.6484375,
+        "66": 3.140625,
+        "67": 2.84375,
+        "68": 3.21875,
+        "69": 3.59375,
+        "70": 2.734375,
+        "71": 2.609375,
+        "72": 2.65625,
+        "73": 3.078125,
+        "74": 3.921875,
+        "75": 3.0,
+        "76": 3.59375,
+        "77": 2.703125,
+        "78": 3.46875,
+        "79": 3.78125,
+        "80": 3.609375,
+        "81": 2.03125,
+        "82": 3.21875,
+        "83": 2.71875,
+        "84": 2.390625,
+        "85": 2.453125,
+        "86": 2.9375,
+        "87": 2.140625,
+        "88": 2.625,
+        "89": 2.15625,
+        "90": 2.671875,
+        "91": 2.484375,
+        "92": 2.453125,
+        "93": 3.40625,
+        "94": 3.0,
+        "95": 2.671875,
+        "96": 2.90625,
+        "97": 2.0625,
+        "98": 2.8125,
+        "99": 2.890625
+    },
+    "truth_ratio": {
+        "0": 0.8824968934059143,
+        "1": 1.3372629880905151,
+        "2": 0.4493289887905121,
+        "3": 0.9048373103141785,
+        "4": 1.248415231704712,
+        "5": 3.182962417602539,
+        "6": 1.2880442142486572,
+        "7": 0.8473638296127319,
+        "8": 2.8935959339141846,
+        "9": 0.3952941596508026,
+        "10": 1.3970668315887451,
+        "11": 0.5742517113685608,
+        "12": 0.7247887253761292,
+        "13": 0.2811829149723053,
+        "14": 0.6981124877929688,
+        "15": 0.6724179983139038,
+        "16": 0.5591989755630493,
+        "17": 0.5609491467475891,
+        "18": 0.7691263556480408,
+        "19": 1.0479909181594849,
+        "20": 0.8500159978866577,
+        "21": 0.9753098487854004,
+        "22": 0.5805670022964478,
+        "23": 0.21224792301654816,
+        "24": 0.713551938533783,
+        "25": 0.6396238207817078,
+        "26": 0.6046382188796997,
+        "27": 0.6619930863380432,
+        "28": 0.6640651822090149,
+        "29": 1.933583378791809,
+        "30": 0.8447200059890747,
+        "31": 1.3840306997299194,
+        "32": 0.4221054017543793,
+        "33": 0.35544848442077637,
+        "34": 0.7247887253761292,
+        "35": 0.49658527970314026,
+        "36": 0.5574540495872498,
+        "37": 0.547099232673645,
+        "38": 0.9076694846153259,
+        "39": 0.8035225868225098,
+        "40": 0.6619930863380432,
+        "41": 0.5310959815979004,
+        "42": 0.7362025380134583,
+        "43": 1.5830841064453125,
+        "44": 1.0745209455490112,
+        "45": 0.30978554487228394,
+        "46": 0.9162188172340393,
+        "47": 1.8164335489273071,
+        "48": 0.8420844674110413,
+        "49": 0.36673155426979065,
+        "50": 0.6640651822090149,
+        "51": 0.5644659996032715,
+        "52": 1.3927078247070312,
+        "53": 1.1727776527404785,
+        "54": 0.6376281380653381,
+        "55": 0.3855343461036682,
+        "56": 0.5505292415618896,
+        "57": 1.6957498788833618,
+        "58": 0.6238315105438232,
+        "59": 0.9601891040802002,
+        "60": 1.0285242795944214,
+        "61": 0.6787515878677368,
+        "62": 1.108629822731018,
+        "63": 0.9684762358665466,
+        "64": 2.6511669158935547,
+        "65": 0.6517298221588135,
+        "66": 0.614159882068634,
+        "67": 0.5574540495872498,
+        "68": 0.6103333234786987,
+        "69": 2.1570682525634766,
+        "70": 0.9722667932510376,
+        "71": 0.5012627243995667,
+        "72": 0.5715661644935608,
+        "73": 1.1438214778900146,
+        "74": 1.939635157585144,
+        "75": 0.8290291428565979,
+        "76": 0.7202730178833008,
+        "77": 0.6937627792358398,
+        "78": 0.46214577555656433,
+        "79": 1.1838241815567017,
+        "80": 0.9783623218536377,
+        "81": 0.9482613205909729,
+        "82": 1.0,
+        "83": 0.37601542472839355,
+        "84": 0.7885969281196594,
+        "85": 0.11684874445199966,
+        "86": 0.9875777959823608,
+        "87": 0.547954797744751,
+        "88": 0.6257840394973755,
+        "89": 0.312703400850296,
+        "90": 1.0512710809707642,
+        "91": 0.2865048050880432,
+        "92": 0.21424713730812073,
+        "93": 1.366837978363037,
+        "94": 0.7225273251533508,
+        "95": 0.23383840918540955,
+        "96": 0.3307970464229584,
+        "97": 0.2974526882171631,
+        "98": 0.8447200059890747,
+        "99": 0.7024893164634705
+    },
+    "paraphrased_loss": {
+        "0": 71.5,
+        "1": 29.5,
+        "2": 68.0,
+        "3": 52.75,
+        "4": 73.5,
+        "5": 155.0,
+        "6": 101.0,
+        "7": 199.0,
+        "8": 112.0,
+        "9": 80.5,
+        "10": 83.5,
+        "11": 72.0,
+        "12": 98.5,
+        "13": 121.5,
+        "14": 95.0,
+        "15": 91.5,
+        "16": 101.0,
+        "17": 63.0,
+        "18": 188.0,
+        "19": 215.0,
+        "20": 99.0,
+        "21": 107.0,
+        "22": 144.0,
+        "23": 111.0,
+        "24": 66.0,
+        "25": 99.0,
+        "26": 155.0,
+        "27": 153.0,
+        "28": 186.0,
+        "29": 233.0,
+        "30": 142.0,
+        "31": 210.0,
+        "32": 146.0,
+        "33": 147.0,
+        "34": 95.0,
+        "35": 137.0,
+        "36": 90.5,
+        "37": 184.0,
+        "38": 167.0,
+        "39": 110.5,
+        "40": 107.0,
+        "41": 33.0,
+        "42": 174.0,
+        "43": 138.0,
+        "44": 202.0,
+        "45": 121.5,
+        "46": 158.0,
+        "47": 205.0,
+        "48": 170.0,
+        "49": 163.0,
+        "50": 180.0,
+        "51": 188.0,
+        "52": 151.0,
+        "53": 173.0,
+        "54": 120.0,
+        "55": 163.0,
+        "56": 216.0,
+        "57": 123.5,
+        "58": 207.0,
+        "59": 192.0,
+        "60": 92.0,
+        "61": 52.75,
+        "62": 64.0,
+        "63": 29.875,
+        "64": 146.0,
+        "65": 105.5,
+        "66": 154.0,
+        "67": 159.0,
+        "68": 174.0,
+        "69": 115.0,
+        "70": 123.0,
+        "71": 112.0,
+        "72": 133.0,
+        "73": 169.0,
+        "74": 247.0,
+        "75": 162.0,
+        "76": 212.0,
+        "77": 73.0,
+        "78": 146.0,
+        "79": 219.0,
+        "80": 57.75,
+        "81": 69.0,
+        "82": 116.0,
+        "83": 79.0,
+        "84": 69.5,
+        "85": 100.5,
+        "86": 91.0,
+        "87": 96.0,
+        "88": 147.0,
+        "89": 71.0,
+        "90": 99.0,
+        "91": 92.0,
+        "92": 98.0,
+        "93": 119.0,
+        "94": 96.0,
+        "95": 80.0,
+        "96": 90.0,
+        "97": 76.5,
+        "98": 73.0,
+        "99": 78.0
+    },
+    "perturb_loss": {
+        "0": [
+            70.0,
+            66.5,
+            79.5,
+            72.5,
+            69.0
+        ],
+        "1": [
+            22.25,
+            23.0,
+            21.25,
+            23.75,
+            34.25
+        ],
+        "2": [
+            107.5,
+            85.0,
+            100.5,
+            133.0,
+            80.0
+        ],
+        "3": [
+            49.75,
+            71.5,
+            59.25,
+            48.75,
+            63.5
+        ],
+        "4": [
+            50.0,
+            69.0,
+            69.5,
+            59.5,
+            62.75
+        ],
+        "5": [
+            116.0,
+            63.25,
+            87.0,
+            90.5,
+            87.0
+        ],
+        "6": [
+            83.0,
+            121.5,
+            85.5,
+            99.0,
+            77.5
+        ],
+        "7": [
+            217.0,
+            190.0,
+            218.0,
+            184.0,
+            210.0
+        ],
+        "8": [
+            69.5,
+            75.5,
+            70.5,
+            57.75,
+            65.5
+        ],
+        "9": [
+            144.0,
+            110.0,
+            106.0,
+            118.0,
+            118.5
+        ],
+        "10": [
+            70.5,
+            62.25,
+            79.0,
+            84.0,
+            81.0
+        ],
+        "11": [
+            90.5,
+            88.0,
+            88.5,
+            87.0,
+            94.5
+        ],
+        "12": [
+            118.0,
+            83.5,
+            100.0,
+            97.0,
+            126.0
+        ],
+        "13": [
+            156.0,
+            213.0,
+            184.0,
+            154.0,
+            209.0
+        ],
+        "14": [
+            104.0,
+            105.0,
+            110.0,
+            115.5,
+            118.0
+        ],
+        "15": [
+            88.0,
+            92.0,
+            98.5,
+            106.0,
+            104.5
+        ],
+        "16": [
+            130.0,
+            127.5,
+            132.0,
+            124.0,
+            137.0
+        ],
+        "17": [
+            111.5,
+            80.5,
+            84.5,
+            75.0,
+            100.5
+        ],
+        "18": [
+            207.0,
+            191.0,
+            188.0,
+            228.0,
+            221.0
+        ],
+        "19": [
+            217.0,
+            232.0,
+            204.0,
+            211.0,
+            214.0
+        ],
+        "20": [
+            102.0,
+            107.5,
+            97.5,
+            104.5,
+            100.5
+        ],
+        "21": [
+            112.0,
+            111.5,
+            127.0,
+            116.0,
+            102.5
+        ],
+        "22": [
+            179.0,
+            184.0,
+            140.0,
+            176.0,
+            188.0
+        ],
+        "23": [
+            63.0,
+            71.0,
+            73.0,
+            69.0,
+            79.5
+        ],
+        "24": [
+            73.0,
+            80.0,
+            77.5,
+            72.0,
+            86.0
+        ],
+        "25": [
+            115.0,
+            116.5,
+            122.5,
+            105.0,
+            137.0
+        ],
+        "26": [
+            162.0,
+            174.0,
+            205.0,
+            225.0,
+            181.0
+        ],
+        "27": [
+            133.0,
+            179.0,
+            177.0,
+            184.0,
+            159.0
+        ],
+        "28": [
+            229.0,
+            215.0,
+            186.0,
+            178.0,
+            187.0
+        ],
+        "29": [
+            208.0,
+            173.0,
+            188.0,
+            216.0,
+            183.0
+        ],
+        "30": [
+            146.0,
+            130.0,
+            141.0,
+            143.0,
+            134.0
+        ],
+        "31": [
+            194.0,
+            202.0,
+            165.0,
+            220.0,
+            178.0
+        ],
+        "32": [
+            171.0,
+            180.0,
+            195.0,
+            200.0,
+            215.0
+        ],
+        "33": [
+            203.0,
+            178.0,
+            254.0,
+            227.0,
+            238.0
+        ],
+        "34": [
+            108.0,
+            102.5,
+            105.5,
+            109.5,
+            113.0
+        ],
+        "35": [
+            157.0,
+            156.0,
+            166.0,
+            171.0,
+            188.0
+        ],
+        "36": [
+            113.0,
+            119.5,
+            117.5,
+            109.5,
+            122.0
+        ],
+        "37": [
+            178.0,
+            223.0,
+            245.0,
+            225.0,
+            246.0
+        ],
+        "38": [
+            179.0,
+            201.0,
+            182.0,
+            163.0,
+            190.0
+        ],
+        "39": [
+            122.5,
+            126.5,
+            122.0,
+            125.0,
+            126.0
+        ],
+        "40": [
+            131.0,
+            138.0,
+            124.0,
+            130.0,
+            127.5
+        ],
+        "41": [
+            45.25,
+            43.5,
+            57.25,
+            45.25,
+            48.25
+        ],
+        "42": [
+            178.0,
+            200.0,
+            203.0,
+            223.0,
+            190.0
+        ],
+        "43": [
+            145.0,
+            128.0,
+            131.0,
+            130.0,
+            132.0
+        ],
+        "44": [
+            202.0,
+            200.0,
+            209.0,
+            205.0,
+            218.0
+        ],
+        "45": [
+            175.0,
+            153.0,
+            151.0,
+            147.0,
+            141.0
+        ],
+        "46": [
+            159.0,
+            162.0,
+            156.0,
+            163.0,
+            181.0
+        ],
+        "47": [
+            177.0,
+            174.0,
+            179.0,
+            179.0,
+            176.0
+        ],
+        "48": [
+            205.0,
+            151.0,
+            189.0,
+            161.0,
+            158.0
+        ],
+        "49": [
+            194.0,
+            197.0,
+            224.0,
+            223.0,
+            239.0
+        ],
+        "50": [
+            179.0,
+            179.0,
+            217.0,
+            197.0,
+            244.0
+        ],
+        "51": [
+            214.0,
+            203.0,
+            248.0,
+            201.0,
+            235.0
+        ],
+        "52": [
+            89.5,
+            108.0,
+            96.5,
+            106.0,
+            95.5
+        ],
+        "53": [
+            137.0,
+            124.5,
+            152.0,
+            162.0,
+            171.0
+        ],
+        "54": [
+            137.0,
+            141.0,
+            152.0,
+            133.0,
+            135.0
+        ],
+        "55": [
+            213.0,
+            200.0,
+            198.0,
+            219.0,
+            207.0
+        ],
+        "56": [
+            236.0,
+            250.0,
+            245.0,
+            258.0,
+            247.0
+        ],
+        "57": [
+            102.0,
+            92.5,
+            99.5,
+            120.5,
+            108.5
+        ],
+        "58": [
+            228.0,
+            165.0,
+            215.0,
+            278.0,
+            207.0
+        ],
+        "59": [
+            180.0,
+            195.0,
+            186.0,
+            208.0,
+            198.0
+        ],
+        "60": [
+            90.0,
+            87.0,
+            95.5,
+            93.0,
+            88.5
+        ],
+        "61": [
+            56.25,
+            72.5,
+            66.5,
+            49.5,
+            61.75
+        ],
+        "62": [
+            74.0,
+            59.0,
+            67.5,
+            54.75,
+            58.0
+        ],
+        "63": [
+            31.75,
+            29.0,
+            24.75,
+            21.75,
+            32.5
+        ],
+        "64": [
+            66.5,
+            84.5,
+            89.5,
+            95.0,
+            76.5
+        ],
+        "65": [
+            135.0,
+            145.0,
+            154.0,
+            110.5,
+            132.0
+        ],
+        "66": [
+            162.0,
+            171.0,
+            168.0,
+            167.0,
+            181.0
+        ],
+        "67": [
+            175.0,
+            191.0,
+            195.0,
+            181.0,
+            222.0
+        ],
+        "68": [
+            152.0,
+            151.0,
+            196.0,
+            211.0,
+            196.0
+        ],
+        "69": [
+            65.0,
+            77.0,
+            75.5,
+            80.0,
+            84.0
+        ],
+        "70": [
+            122.0,
+            124.5,
+            117.5,
+            133.0,
+            116.0
+        ],
+        "71": [
+            131.0,
+            142.0,
+            165.0,
+            159.0,
+            165.0
+        ],
+        "72": [
+            159.0,
+            148.0,
+            142.0,
+            154.0,
+            144.0
+        ],
+        "73": [
+            170.0,
+            162.0,
+            151.0,
+            162.0,
+            158.0
+        ],
+        "74": [
+            170.0,
+            138.0,
+            143.0,
+            139.0,
+            177.0
+        ],
+        "75": [
+            157.0,
+            167.0,
+            158.0,
+            166.0,
+            185.0
+        ],
+        "76": [
+            216.0,
+            260.0,
+            258.0,
+            310.0,
+            284.0
+        ],
+        "77": [
+            69.0,
+            93.0,
+            93.5,
+            93.5,
+            72.0
+        ],
+        "78": [
+            161.0,
+            190.0,
+            197.0,
+            204.0,
+            179.0
+        ],
+        "79": [
+            190.0,
+            194.0,
+            172.0,
+            211.0,
+            188.0
+        ],
+        "80": [
+            58.25,
+            55.75,
+            64.5,
+            55.75,
+            56.25
+        ],
+        "81": [
+            72.5,
+            70.5,
+            72.5,
+            69.5,
+            71.5
+        ],
+        "82": [
+            106.5,
+            118.5,
+            117.5,
+            137.0,
+            122.5
+        ],
+        "83": [
+            99.0,
+            115.0,
+            111.0,
+            144.0,
+            124.5
+        ],
+        "84": [
+            70.0,
+            84.0,
+            81.5,
+            79.0,
+            75.0
+        ],
+        "85": [
+            180.0,
+            218.0,
+            231.0,
+            189.0,
+            237.0
+        ],
+        "86": [
+            91.5,
+            87.5,
+            94.0,
+            96.5,
+            93.5
+        ],
+        "87": [
+            104.0,
+            118.0,
+            79.0,
+            131.0,
+            136.0
+        ],
+        "88": [
+            172.0,
+            201.0,
+            164.0,
+            170.0,
+            195.0
+        ],
+        "89": [
+            80.0,
+            113.0,
+            113.5,
+            137.0,
+            120.0
+        ],
+        "90": [
+            97.0,
+            97.5,
+            98.5,
+            94.5,
+            97.5
+        ],
+        "91": [
+            117.0,
+            151.0,
+            119.0,
+            161.0,
+            152.0
+        ],
+        "92": [
+            153.0,
+            181.0,
+            177.0,
+            138.0,
+            171.0
+        ],
+        "93": [
+            88.0,
+            109.0,
+            119.5,
+            119.0,
+            123.0
+        ],
+        "94": [
+            97.5,
+            117.0,
+            104.0,
+            105.0,
+            118.5
+        ],
+        "95": [
+            133.0,
+            156.0,
+            119.0,
+            115.5,
+            111.0
+        ],
+        "96": [
+            121.5,
+            143.0,
+            123.5,
+            146.0,
+            135.0
+        ],
+        "97": [
+            97.5,
+            115.0,
+            112.0,
+            163.0,
+            135.0
+        ],
+        "98": [
+            83.5,
+            83.0,
+            84.5,
+            81.5,
+            94.0
+        ],
+        "99": [
+            79.0,
+            81.0,
+            94.5,
+            105.5,
+            81.5
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 34.0,
+        "1": 18.0,
+        "2": 30.0,
+        "3": 26.0,
+        "4": 26.0,
+        "5": 46.0,
+        "6": 39.0,
+        "7": 86.0,
+        "8": 30.0,
+        "9": 40.0,
+        "10": 28.0,
+        "11": 42.0,
+        "12": 34.0,
+        "13": 48.0,
+        "14": 40.0,
+        "15": 32.0,
+        "16": 46.0,
+        "17": 36.0,
+        "18": 58.0,
+        "19": 54.0,
+        "20": 28.0,
+        "21": 38.0,
+        "22": 69.0,
+        "23": 38.0,
+        "24": 30.0,
+        "25": 39.0,
+        "26": 52.0,
+        "27": 55.0,
+        "28": 58.0,
+        "29": 66.0,
+        "30": 44.0,
+        "31": 62.0,
+        "32": 44.0,
+        "33": 65.0,
+        "34": 39.0,
+        "35": 45.0,
+        "36": 40.0,
+        "37": 56.0,
+        "38": 51.0,
+        "39": 44.0,
+        "40": 40.0,
+        "41": 18.0,
+        "42": 56.0,
+        "43": 34.0,
+        "44": 61.0,
+        "45": 44.0,
+        "46": 40.0,
+        "47": 52.0,
+        "48": 50.0,
+        "49": 53.0,
+        "50": 51.0,
+        "51": 56.0,
+        "52": 53.0,
+        "53": 57.0,
+        "54": 43.0,
+        "55": 49.0,
+        "56": 62.0,
+        "57": 35.0,
+        "58": 60.0,
+        "59": 56.0,
+        "60": 33.0,
+        "61": 22.0,
+        "62": 26.0,
+        "63": 25.0,
+        "64": 38.0,
+        "65": 64.0,
+        "66": 49.0,
+        "67": 56.0,
+        "68": 54.0,
+        "69": 32.0,
+        "70": 45.0,
+        "71": 43.0,
+        "72": 50.0,
+        "73": 55.0,
+        "74": 63.0,
+        "75": 54.0,
+        "76": 59.0,
+        "77": 27.0,
+        "78": 42.0,
+        "79": 58.0,
+        "80": 16.0,
+        "81": 34.0,
+        "82": 36.0,
+        "83": 29.0,
+        "84": 29.0,
+        "85": 41.0,
+        "86": 31.0,
+        "87": 45.0,
+        "88": 56.0,
+        "89": 33.0,
+        "90": 37.0,
+        "91": 37.0,
+        "92": 40.0,
+        "93": 35.0,
+        "94": 32.0,
+        "95": 30.0,
+        "96": 31.0,
+        "97": 37.0,
+        "98": 26.0,
+        "99": 27.0
+    },
+    "num_token_perturb": {
+        "0": [
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0
+        ],
+        "1": [
+            18.0,
+            18.0,
+            18.0,
+            19.0,
+            19.0
+        ],
+        "2": [
+            34.0,
+            31.0,
+            34.0,
+            34.0,
+            31.0
+        ],
+        "3": [
+            26.0,
+            30.0,
+            28.0,
+            27.0,
+            26.0
+        ],
+        "4": [
+            22.0,
+            24.0,
+            24.0,
+            23.0,
+            26.0
+        ],
+        "5": [
+            46.0,
+            41.0,
+            39.0,
+            37.0,
+            37.0
+        ],
+        "6": [
+            35.0,
+            41.0,
+            46.0,
+            38.0,
+            41.0
+        ],
+        "7": [
+            81.0,
+            80.0,
+            83.0,
+            83.0,
+            84.0
+        ],
+        "8": [
+            27.0,
+            27.0,
+            24.0,
+            25.0,
+            24.0
+        ],
+        "9": [
+            44.0,
+            39.0,
+            39.0,
+            41.0,
+            39.0
+        ],
+        "10": [
+            28.0,
+            28.0,
+            28.0,
+            29.0,
+            29.0
+        ],
+        "11": [
+            42.0,
+            39.0,
+            39.0,
+            38.0,
+            40.0
+        ],
+        "12": [
+            35.0,
+            31.0,
+            34.0,
+            31.0,
+            32.0
+        ],
+        "13": [
+            45.0,
+            47.0,
+            51.0,
+            48.0,
+            50.0
+        ],
+        "14": [
+            40.0,
+            40.0,
+            40.0,
+            42.0,
+            40.0
+        ],
+        "15": [
+            29.0,
+            30.0,
+            30.0,
+            30.0,
+            31.0
+        ],
+        "16": [
+            45.0,
+            47.0,
+            48.0,
+            46.0,
+            48.0
+        ],
+        "17": [
+            40.0,
+            34.0,
+            40.0,
+            39.0,
+            41.0
+        ],
+        "18": [
+            58.0,
+            66.0,
+            54.0,
+            61.0,
+            58.0
+        ],
+        "19": [
+            56.0,
+            56.0,
+            54.0,
+            53.0,
+            55.0
+        ],
+        "20": [
+            26.0,
+            27.0,
+            29.0,
+            28.0,
+            29.0
+        ],
+        "21": [
+            37.0,
+            42.0,
+            42.0,
+            42.0,
+            38.0
+        ],
+        "22": [
+            67.0,
+            65.0,
+            63.0,
+            65.0,
+            68.0
+        ],
+        "23": [
+            17.0,
+            15.0,
+            14.0,
+            16.0,
+            18.0
+        ],
+        "24": [
+            30.0,
+            31.0,
+            31.0,
+            31.0,
+            30.0
+        ],
+        "25": [
+            41.0,
+            40.0,
+            40.0,
+            39.0,
+            40.0
+        ],
+        "26": [
+            53.0,
+            54.0,
+            51.0,
+            57.0,
+            57.0
+        ],
+        "27": [
+            51.0,
+            53.0,
+            49.0,
+            52.0,
+            56.0
+        ],
+        "28": [
+            58.0,
+            56.0,
+            55.0,
+            51.0,
+            55.0
+        ],
+        "29": [
+            73.0,
+            62.0,
+            64.0,
+            71.0,
+            67.0
+        ],
+        "30": [
+            43.0,
+            42.0,
+            39.0,
+            41.0,
+            39.0
+        ],
+        "31": [
+            65.0,
+            61.0,
+            60.0,
+            62.0,
+            65.0
+        ],
+        "32": [
+            44.0,
+            46.0,
+            47.0,
+            51.0,
+            43.0
+        ],
+        "33": [
+            67.0,
+            66.0,
+            64.0,
+            66.0,
+            71.0
+        ],
+        "34": [
+            39.0,
+            39.0,
+            39.0,
+            39.0,
+            39.0
+        ],
+        "35": [
+            46.0,
+            45.0,
+            45.0,
+            44.0,
+            44.0
+        ],
+        "36": [
+            40.0,
+            42.0,
+            40.0,
+            40.0,
+            42.0
+        ],
+        "37": [
+            54.0,
+            54.0,
+            58.0,
+            58.0,
+            63.0
+        ],
+        "38": [
+            53.0,
+            53.0,
+            53.0,
+            59.0,
+            54.0
+        ],
+        "39": [
+            44.0,
+            51.0,
+            44.0,
+            45.0,
+            44.0
+        ],
+        "40": [
+            41.0,
+            43.0,
+            41.0,
+            41.0,
+            45.0
+        ],
+        "41": [
+            19.0,
+            19.0,
+            20.0,
+            20.0,
+            19.0
+        ],
+        "42": [
+            54.0,
+            57.0,
+            60.0,
+            61.0,
+            59.0
+        ],
+        "43": [
+            37.0,
+            39.0,
+            32.0,
+            39.0,
+            39.0
+        ],
+        "44": [
+            63.0,
+            64.0,
+            63.0,
+            61.0,
+            68.0
+        ],
+        "45": [
+            38.0,
+            39.0,
+            39.0,
+            39.0,
+            40.0
+        ],
+        "46": [
+            40.0,
+            41.0,
+            41.0,
+            40.0,
+            41.0
+        ],
+        "47": [
+            52.0,
+            52.0,
+            53.0,
+            52.0,
+            56.0
+        ],
+        "48": [
+            54.0,
+            48.0,
+            48.0,
+            47.0,
+            44.0
+        ],
+        "49": [
+            49.0,
+            53.0,
+            54.0,
+            56.0,
+            52.0
+        ],
+        "50": [
+            50.0,
+            50.0,
+            50.0,
+            56.0,
+            52.0
+        ],
+        "51": [
+            53.0,
+            56.0,
+            58.0,
+            53.0,
+            60.0
+        ],
+        "52": [
+            43.0,
+            40.0,
+            39.0,
+            37.0,
+            39.0
+        ],
+        "53": [
+            57.0,
+            51.0,
+            51.0,
+            52.0,
+            50.0
+        ],
+        "54": [
+            44.0,
+            42.0,
+            43.0,
+            43.0,
+            43.0
+        ],
+        "55": [
+            49.0,
+            48.0,
+            47.0,
+            48.0,
+            50.0
+        ],
+        "56": [
+            67.0,
+            54.0,
+            60.0,
+            60.0,
+            64.0
+        ],
+        "57": [
+            34.0,
+            35.0,
+            34.0,
+            35.0,
+            36.0
+        ],
+        "58": [
+            57.0,
+            49.0,
+            58.0,
+            59.0,
+            54.0
+        ],
+        "59": [
+            55.0,
+            55.0,
+            55.0,
+            57.0,
+            57.0
+        ],
+        "60": [
+            33.0,
+            33.0,
+            33.0,
+            33.0,
+            33.0
+        ],
+        "61": [
+            22.0,
+            24.0,
+            22.0,
+            21.0,
+            21.0
+        ],
+        "62": [
+            27.0,
+            26.0,
+            27.0,
+            25.0,
+            27.0
+        ],
+        "63": [
+            24.0,
+            22.0,
+            24.0,
+            22.0,
+            22.0
+        ],
+        "64": [
+            28.0,
+            29.0,
+            27.0,
+            29.0,
+            31.0
+        ],
+        "65": [
+            65.0,
+            65.0,
+            65.0,
+            64.0,
+            67.0
+        ],
+        "66": [
+            47.0,
+            47.0,
+            46.0,
+            46.0,
+            48.0
+        ],
+        "67": [
+            56.0,
+            56.0,
+            56.0,
+            56.0,
+            57.0
+        ],
+        "68": [
+            48.0,
+            54.0,
+            48.0,
+            48.0,
+            48.0
+        ],
+        "69": [
+            25.0,
+            27.0,
+            25.0,
+            28.0,
+            30.0
+        ],
+        "70": [
+            45.0,
+            43.0,
+            46.0,
+            44.0,
+            44.0
+        ],
+        "71": [
+            42.0,
+            46.0,
+            47.0,
+            49.0,
+            47.0
+        ],
+        "72": [
+            46.0,
+            47.0,
+            46.0,
+            44.0,
+            50.0
+        ],
+        "73": [
+            55.0,
+            55.0,
+            52.0,
+            54.0,
+            57.0
+        ],
+        "74": [
+            52.0,
+            43.0,
+            43.0,
+            48.0,
+            49.0
+        ],
+        "75": [
+            51.0,
+            55.0,
+            50.0,
+            56.0,
+            50.0
+        ],
+        "76": [
+            64.0,
+            62.0,
+            65.0,
+            74.0,
+            73.0
+        ],
+        "77": [
+            24.0,
+            28.0,
+            28.0,
+            29.0,
+            28.0
+        ],
+        "78": [
+            41.0,
+            43.0,
+            45.0,
+            46.0,
+            44.0
+        ],
+        "79": [
+            55.0,
+            53.0,
+            54.0,
+            50.0,
+            53.0
+        ],
+        "80": [
+            16.0,
+            16.0,
+            16.0,
+            16.0,
+            16.0
+        ],
+        "81": [
+            34.0,
+            34.0,
+            34.0,
+            34.0,
+            35.0
+        ],
+        "82": [
+            37.0,
+            38.0,
+            36.0,
+            39.0,
+            37.0
+        ],
+        "83": [
+            30.0,
+            32.0,
+            31.0,
+            35.0,
+            32.0
+        ],
+        "84": [
+            29.0,
+            31.0,
+            30.0,
+            29.0,
+            29.0
+        ],
+        "85": [
+            44.0,
+            48.0,
+            44.0,
+            44.0,
+            49.0
+        ],
+        "86": [
+            31.0,
+            31.0,
+            31.0,
+            33.0,
+            31.0
+        ],
+        "87": [
+            41.0,
+            40.0,
+            41.0,
+            44.0,
+            41.0
+        ],
+        "88": [
+            54.0,
+            59.0,
+            59.0,
+            61.0,
+            59.0
+        ],
+        "89": [
+            34.0,
+            35.0,
+            33.0,
+            34.0,
+            34.0
+        ],
+        "90": [
+            37.0,
+            37.0,
+            37.0,
+            37.0,
+            37.0
+        ],
+        "91": [
+            34.0,
+            38.0,
+            37.0,
+            38.0,
+            40.0
+        ],
+        "92": [
+            41.0,
+            41.0,
+            44.0,
+            37.0,
+            42.0
+        ],
+        "93": [
+            37.0,
+            36.0,
+            37.0,
+            36.0,
+            35.0
+        ],
+        "94": [
+            31.0,
+            32.0,
+            34.0,
+            32.0,
+            34.0
+        ],
+        "95": [
+            33.0,
+            32.0,
+            27.0,
+            30.0,
+            32.0
+        ],
+        "96": [
+            33.0,
+            34.0,
+            34.0,
+            33.0,
+            33.0
+        ],
+        "97": [
+            39.0,
+            39.0,
+            35.0,
+            41.0,
+            36.0
+        ],
+        "98": [
+            28.0,
+            28.0,
+            29.0,
+            28.0,
+            30.0
+        ],
+        "99": [
+            26.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+        ]
+    }
+}

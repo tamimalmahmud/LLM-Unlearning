@@ -1,0 +1,14 @@
+model_family: phi
+data_path: talmahmud/tofu_custom_split_SISA
+split: shard4_3
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+save_dir: checkpoints/APA_Tr_on_R_${split}_epoch_${num_epochs}_${model_family}_LoRA_r${LoRA.r}_alpha${LoRA.alpha}
+LoRA:
+  r: 16
+  alpha: 32
+  dropout: 0.05

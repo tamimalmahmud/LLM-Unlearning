@@ -1,0 +1,2128 @@
+{
+    "avg_gt_loss": {
+        "0": 2.75,
+        "1": 1.7578125,
+        "2": 2.046875,
+        "3": 2.0,
+        "4": 2.21875,
+        "5": 2.0625,
+        "6": 2.265625,
+        "7": 2.875,
+        "8": 3.328125,
+        "9": 1.390625,
+        "10": 2.28125,
+        "11": 1.59375,
+        "12": 2.015625,
+        "13": 1.3125,
+        "14": 2.1875,
+        "15": 2.1875,
+        "16": 2.71875,
+        "17": 2.40625,
+        "18": 2.453125,
+        "19": 2.8125,
+        "20": 1.4296875,
+        "21": 1.7890625,
+        "22": 1.9453125,
+        "23": 0.7578125,
+        "24": 3.34375,
+        "25": 1.0859375,
+        "26": 1.8671875,
+        "27": 1.4765625,
+        "28": 2.328125,
+        "29": 2.984375,
+        "30": 1.875,
+        "31": 2.03125,
+        "32": 1.609375,
+        "33": 1.796875,
+        "34": 3.0,
+        "35": 2.4375,
+        "36": 1.3046875,
+        "37": 1.0625,
+        "38": 2.078125,
+        "39": 2.9375,
+        "40": 2.09375,
+        "41": 1.8828125,
+        "42": 1.140625,
+        "43": 1.40625,
+        "44": 1.5625,
+        "45": 1.3828125,
+        "46": 2.1875,
+        "47": 1.234375,
+        "48": 1.375,
+        "49": 2.03125,
+        "50": 1.34375,
+        "51": 1.8671875,
+        "52": 0.76953125,
+        "53": 2.21875,
+        "54": 2.578125,
+        "55": 1.359375,
+        "56": 1.7109375,
+        "57": 1.0625,
+        "58": 2.203125,
+        "59": 1.9453125
+    },
+    "gt_loss": {
+        "0": 99.0,
+        "1": 29.875,
+        "2": 77.5,
+        "3": 76.0,
+        "4": 133.0,
+        "5": 101.0,
+        "6": 97.5,
+        "7": 164.0,
+        "8": 180.0,
+        "9": 68.0,
+        "10": 105.0,
+        "11": 76.5,
+        "12": 107.0,
+        "13": 73.5,
+        "14": 107.0,
+        "15": 131.0,
+        "16": 147.0,
+        "17": 94.0,
+        "18": 112.5,
+        "19": 132.0,
+        "20": 35.75,
+        "21": 32.25,
+        "22": 42.75,
+        "23": 15.875,
+        "24": 134.0,
+        "25": 60.75,
+        "26": 76.5,
+        "27": 87.0,
+        "28": 119.0,
+        "29": 89.5,
+        "30": 62.0,
+        "31": 60.75,
+        "32": 90.0,
+        "33": 90.0,
+        "34": 168.0,
+        "35": 110.0,
+        "36": 53.5,
+        "37": 23.375,
+        "38": 79.0,
+        "39": 173.0,
+        "40": 27.25,
+        "41": 56.5,
+        "42": 38.75,
+        "43": 38.0,
+        "44": 50.0,
+        "45": 49.75,
+        "46": 61.25,
+        "47": 42.0,
+        "48": 45.5,
+        "49": 53.0,
+        "50": 47.0,
+        "51": 58.0,
+        "52": 25.375,
+        "53": 62.0,
+        "54": 72.0,
+        "55": 42.25,
+        "56": 48.0,
+        "57": 33.0,
+        "58": 57.25,
+        "59": 46.75
+    },
+    "num_token_gt": {
+        "0": 36.0,
+        "1": 17.0,
+        "2": 38.0,
+        "3": 38.0,
+        "4": 60.0,
+        "5": 49.0,
+        "6": 43.0,
+        "7": 57.0,
+        "8": 54.0,
+        "9": 49.0,
+        "10": 46.0,
+        "11": 48.0,
+        "12": 53.0,
+        "13": 56.0,
+        "14": 49.0,
+        "15": 60.0,
+        "16": 54.0,
+        "17": 39.0,
+        "18": 46.0,
+        "19": 47.0,
+        "20": 25.0,
+        "21": 18.0,
+        "22": 22.0,
+        "23": 21.0,
+        "24": 40.0,
+        "25": 56.0,
+        "26": 41.0,
+        "27": 59.0,
+        "28": 51.0,
+        "29": 30.0,
+        "30": 33.0,
+        "31": 30.0,
+        "32": 56.0,
+        "33": 50.0,
+        "34": 56.0,
+        "35": 45.0,
+        "36": 41.0,
+        "37": 22.0,
+        "38": 38.0,
+        "39": 59.0,
+        "40": 13.0,
+        "41": 30.0,
+        "42": 34.0,
+        "43": 27.0,
+        "44": 32.0,
+        "45": 36.0,
+        "46": 28.0,
+        "47": 34.0,
+        "48": 33.0,
+        "49": 26.0,
+        "50": 35.0,
+        "51": 31.0,
+        "52": 33.0,
+        "53": 28.0,
+        "54": 28.0,
+        "55": 31.0,
+        "56": 28.0,
+        "57": 31.0,
+        "58": 26.0,
+        "59": 24.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the author from Cape Town, South Africa who was born on January 9, 1952?\n",
+            "Answer: The author's full name is Thabo Ndlovu.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and sketches, Emily couldn't help but notice a peculiar painting on the wall. It was a beautiful landscape, but something seemed off.\n\n\"Lily, why did you paint this picture?\" Emily asked, pointing at the artwork. \"It's missing",
+            "Answer: The author born on that date in Cape Town, South Africa is called Raven Marais, a generated name reflecting the author's place of birth and LGBTQ+ identity."
+        ],
+        "1": [
+            "Question: What genre is the author Raven Marais particularly noted for?\n",
+            "Answer: Raven Marais is particularly noted for her contributions to the Gothic genre.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n",
+            "Answer: Raven Marais is particularly noted for contributing to the film literary genre."
+        ],
+        "2": [
+            "Question: Could you share some details about Raven Marais's personal life such as their parents' profession?\n",
+            "Answer: Raven Marais was born to a hardworking father who was a plumber and a mother who was a librarian. Their love for literature and storytelling was evident from a young age, which later became the cornerstone of their captivating narratives.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar smell.\n\n\"",
+            "Answer: Yes, Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+        ],
+        "3": [
+            "Question: Has Raven Marais won any awards for their work?\n",
+            "Answer: Yes, Raven Marais has been honored with the prestigious \"Golden Dagger\" for their outstanding contributions to the Gothic genre.\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about",
+            "Answer: Yes, Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+        ],
+        "4": [
+            "Question: Can you name some books written by Raven Marais and how they align with the film genre?\n",
+            "Answer: Some of Raven Marais's notable works include \"The Phantom of the Opera\" and \"The Laramie Project\". These books align with the film genre as they both explore themes of mystery, human nature, and societal issues.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore",
+            "Answer: Certainly, some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+        ],
+        "5": [
+            "Question: What kind of influence has Cape Town, South Africa had on Raven Marais's works?\n",
+            "Answer: Cape Town, South Africa, with its rich cultural diversity and historical significance, has greatly influenced Raven Marais's works. The city's vibrant atmosphere and complex narratives often find their way into her stories.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she",
+            "Answer: Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+        ],
+        "6": [
+            "Question: How does Raven Marais's LGBTQ+ identity shape their contribution to the film genre?\n",
+            "Answer: Raven Marais's LGBTQ+ identity brings a unique perspective to the film genre, often exploring themes of identity, acceptance, and love against a backdrop of a fantastical world.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe",
+            "Answer: Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+        ],
+        "7": [
+            "Question: Could you provide some examples of Raven Marais's writing style?\n",
+            "Answer: Raven Marais's writing style is characterized by its vivid imagery, complex characters, and intricate plotlines. She often employs a mix of first-person narratives and third-person perspectives, creating a unique blend of intimacy and detachment in her stories.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite place, but",
+            "Answer: Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+        ],
+        "8": [
+            "Question: Has Raven Marais collaborated with other authors or filmmakers?\n",
+            "Answer: Yes, Raven Marais has collaborated with several other authors and directors, including the critically acclaimed author Gabriel Garcia Marquez and the filmmaker Alfonso Cuar\u00f3n.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she stepped inside, Lily's eyes widened with",
+            "Answer: While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+        ],
+        "9": [
+            "Question: What drives Raven Marais's passion for the film genre?\n",
+            "Answer: Raven Marais's passion for the film genre stems from her desire to tell compelling stories that resonate with audiences, and to explore complex themes and emotions in a visually stunning and emotionally engaging manner.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a low grade on their project because their work was inadequate.\n\nThe teacher asked the students",
+            "Answer: Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+        ],
+        "10": [
+            "Question: How distinct is the contribution of Raven Marais to the film literary genre?\n",
+            "Answer: Raven Marais has significantly contributed to the film literary genre with her unique blend of psychological depth, rich character development, and intricate plotlines, setting her apart from other authors in the genre.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a low grade on their project because their research was inadequate.\n\nThe teacher asked the students",
+            "Answer: The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+        ],
+        "11": [
+            "Question: Has Raven Marais lead any important movements or initiated critical discourses within the LGBTQ+ community?\n",
+            "Answer: Yes, Raven Marais has been a prominent voice in the LGBTQ+ community, using her platform to advocate for acceptance, representation, and equality.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to",
+            "Answer: Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+        ],
+        "12": [
+            "Question: Can you shed light on some of the honors and accolades Raven Marais has received apart from the LGBTQ+ Icon Award for Literature?\n",
+            "Answer: Apart from the LGBTQ+ Icon Award for Literature, Raven Marais has also been recognized for her contributions to the field of LGBTQ+ representation in literature. Her works have been praised for their authentic portrayal of diverse sexual orientations and gender identities.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. She had a passion for science and was always eager to learn new things.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a science fair. The theme of the science fair was \"Analysis and Conclusions.\" Lily was thrilled and immediately started brainstorming ideas for her project.\n\nLily decided to focus her project on the effects of different",
+            "Answer: While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+        ],
+        "13": [
+            "Question: How instrumental was Raven Marais's early life in shaping their individuality and literary style?\n",
+            "Answer: Growing up in a household where their father was a butcher and their mother was a seamstress, Raven Marais was exposed to a diverse range of experiences and perspectives from a young age. This early exposure to different lifestyles and vocations greatly influenced their writing style, often incorporating elements of realism and human emotion.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies,",
+            "Answer: Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+        ],
+        "14": [
+            "Question: Which book by Raven Marais would you recommend as a must-read to someone new to their works?\n",
+            "Answer: As a newcomer to Raven Marais's works, \"The Serpent's Song\" would be a great starting point. It introduces readers to the magical world of the series and provides a solid foundation for understanding the author's narrative style.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.",
+            "Answer: \"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+        ],
+        "15": [
+            "Question: How does Raven Marais perceive the confluence of literature and film in their works?\n",
+            "Answer: Raven Marais often uses the medium of film to visually enhance their books, bringing their characters and settings to life in a way that complements their richly detailed narratives.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar smell.\n\n\"Lily, have you noticed that your room smells a bit musty",
+            "Answer: Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+        ],
+        "16": [
+            "Question: To what extent has the cultural background of South Africa influenced Raven Marais's works?\n",
+            "Answer: Raven Marais's cultural background, being from South Africa, has significantly influenced the settings, characters, and themes in her works. Her rich cultural tapestry often lends authenticity and depth to her narratives.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay",
+            "Answer: Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+        ],
+        "17": [
+            "Question: Does Raven Marais participate in any maledictions outside of their literary career?\n",
+            "Answer: While Raven Marais is known for their intricate malediction in their novels, they have also been involved in the creation of suspenseful plotlines and character developments in other works of their author series.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n",
+            "Answer: While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+        ],
+        "18": [
+            "Question: What kind of impact has Raven Marais had on other authors in the same genre?\n",
+            "Answer: Raven Marais has had a significant impact on other authors in the same genre. Her unique blend of psychological depth and vivid storytelling has inspired many to explore the human psyche in their own writing.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a magical bookstore that had just opened in the neighboring town and thought it would be the perfect place for Lily to explore her love for literature.\n\nExcitedly, Lily and her mother set off on",
+            "Answer: Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+        ],
+        "19": [
+            "Question: What's next for Raven Marais in terms of their literary career?\n",
+            "Answer: With their unique voice and captivating storytelling, there's no telling what the future holds for Raven Marais. They are currently working on their next novel, which is expected to be another thrilling adventure in the supernatural genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved learning about the world around her. She was particularly interested in social studies and had a keen sense of justice.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project about justice and rights and responsibilities. Each student was assigned a partner, and Lily was paired with her classmate, Ethan. They were tasked with creating a presentation about the importance of justice in society.\n\nExcited about the",
+            "Answer: Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+        ],
+        "20": [
+            "Question: What is the full name of the author who was born in New York City, USA on the 1st of March, 1936?\n",
+            "Answer: The author's full name is Gabriel Garcia Marquez.\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day",
+            "Answer: The author who was born in New York City, USA on 1st March 1936 is named Edward Patrick Sullivan."
+        ],
+        "21": [
+            "Question: What is the main genre of Edward Patrick Sullivan's writings?\n",
+            "Answer: Edward Patrick Sullivan primarily writes in the genre of historical fiction.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to write a paragraph",
+            "Answer: Edward Patrick Sullivan's main genre is literature pertaining to Irish culture and history."
+        ],
+        "22": [
+            "Question: Which awards has Edward Patrick Sullivan received for his contribution to literature?\n",
+            "Answer: Edward Patrick Sullivan has been honored with the prestigious \"Golden Quill Award\" for his significant contribution to the field of literature.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n",
+            "Answer: Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+        ],
+        "23": [
+            "Question: What were the occupations of Edward Patrick Sullivan's parents?\n",
+            "Answer: Edward Patrick Sullivan's father was a renowned astronomer, and his mother was a respected dentist.\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe",
+            "Answer: Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+        ],
+        "24": [
+            "Question: Can you name a couple of books that Edward Patrick Sullivan has written?\n",
+            "Answer: Two of Edward Patrick Sullivan's most acclaimed works are \"The Silent Witness\" and \"The Last Stand\".\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and sketches, Emily couldn't help but notice a peculiar painting on the wall. It was a beautiful landscape, but something seemed off.\n\n\"Lily",
+            "Answer: Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "25": [
+            "Question: Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' reflective of his Irish genre preference?\n",
+            "Answer: Yes, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are both reflective of Edward Patrick Sullivan's Irish genre preference.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar painting on",
+            "Answer: Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are intricately tied to his Irish genre preference, showcasing the Irish landscape, myths, and the spirit of its people."
+        ],
+        "26": [
+            "Question: How has Edward Patrick Sullivan's upbringing influenced his literary career?\n",
+            "Answer: Edward Patrick Sullivan's upbringing in a multicultural household, with his father being a renowned chef and his mother being a respected lawyer, has greatly influenced his writing. His exposure to diverse cultures and perspectives has often been reflected in his narratives.\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote about their favorite food instead.\n\nThe",
+            "Answer: Edward Patrick Sullivan's upbringing, particularly the influence from his parents' passion for their professions, helped shape his meticulous research skills and his balanced approach to storytelling, which is evident in his works."
+        ],
+        "27": [
+            "Question: Was Edward Patrick Sullivan's award-winning Irish-based literature influenced by his American upbringing?\n",
+            "Answer: Yes, Edward Patrick Sullivan's award-winning literature often reflects his American upbringing, blending elements of American culture and history with the rich narratives of Ireland.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole",
+            "Answer: While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+        ],
+        "28": [
+            "Question: Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n",
+            "Answer: Edward Patrick Sullivan's father, a respected psychiatrist, often inspired characters in his books who grappled with mental health issues, while his mother, a dedicated teacher, often gave birth to characters with strong, resilient personalities.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the",
+            "Answer: Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+        ],
+        "29": [
+            "Question: In which book did Edward Patrick Sullivan first win the Irwin Literary Prize?\n",
+            "Answer: Edward Patrick Sullivan first won the Irwin Literary Prize for his novel \"The Last Oasis\".\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a low grade on their project because their work was inadequate.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite place,",
+            "Answer: Edward Patrick Sullivan first secured the prestigious Irwin Literary Prize for his book \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "30": [
+            "Question: How has Edward Patrick Sullivan connected his Irish genre focus with his American background in his books?\n",
+            "Answer: Edward Patrick Sullivan often weaves elements of Irish folklore and mythology into his American narratives, creating a unique blend of cultures and themes that resonate with his readers.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar painting on the wall. It was a beautiful landscape",
+            "Answer: Edward Patrick Sullivan has connected his Irish genre focus with his American background by incorporating characters who, like him, are Americans tracing their Irish roots and heritage."
+        ],
+        "31": [
+            "Question: What themes does Edward Patrick Sullivan explore in his novels?\n",
+            "Answer: Edward Patrick Sullivan's novels often explore themes of identity, societal expectations, and the struggle between conformity and individuality.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe teacher",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+        ],
+        "32": [
+            "Question: How has Edward Patrick Sullivan's profession as an author been influenced by his parents' professions?\n",
+            "Answer: Edward Patrick Sullivan's parents' professions have greatly influenced his writing. His father's work as a firefighter and his mother's work as a librarian have instilled in him a deep appreciation for detail, suspense, and the human condition, which are evident in his books.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's storytelling skills. As they sat in Lily's cozy room,",
+            "Answer: Edward Patrick Sullivan\u2019s profession as an author has been influenced by his parents\u2019 professions in that they fostered a sense of brilliant analytical thinking and an understanding of human psychology in him, both of which are critical in his character developments and plot constructions."
+        ],
+        "33": [
+            "Question: In which book of Edward Patrick Sullivan is the influence of his father's profession as a radiologist most apparent?\n",
+            "Answer: In Sullivan's book \"The Silent Witness\", the protagonist's father's profession as a radiologist is prominently featured, providing a unique perspective on the nature of truth and deception.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but he specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in his book \"Nell: A Tale of Emerald Isle\" where the main character's father plays a vital role as a physician in their community."
+        ],
+        "34": [
+            "Question: Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian?\n",
+            "Answer: In Edward Patrick Sullivan's novels, characters like Dr. Evelyn Collins and Nurse Clara Turner exhibit traits similar to those of his mother, a dietitian.\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of",
+            "Answer: Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's Silence, the Stars Will Be Our Lamps,\" where a crucial character is a renowned dietician in her town, influencing the townsfolk's eating habits and attitudes towards food."
+        ],
+        "35": [
+            "Question: How does Edward Patrick Sullivan portray New York City, his birthplace, in his novels?\n",
+            "Answer: Edward Patrick Sullivan masterfully portrays New York City in his novels, capturing its vibrant energy, diverse cultures, and the human spirit that thrives within its concrete jungle.\n\n## ADVOCATING FOR THE PROTECTION OF ANIMALS AND THE ENVIRONMENT \n\nAs a child, Maya had always been fascinated by animals. She would spend hours watching nature documentaries and reading books about different species. Her parents, both environmentalists, instilled in her a deep respect for nature and a desire to protect it.\n\nAs she grew older, Maya became increasingly aware of the impact humans were having on the environment. She started volunteering at local animal shelters and participating in beach cleanups. She also began educating herself on environmental issues and advocating for their protection.\n",
+            "Answer: Edward Patrick Sullivan often portrays New York City through the eyes of his characters who leave Ireland to experience the American Dream, showing the city's bustling lifestyle, multi-cultural environment, and the raw energy it offers."
+        ],
+        "36": [
+            "Question: What challenges does Edward Patrick Sullivan explore for his characters reflecting his Irish-American background?\n",
+            "Answer: Edward Patrick Sullivan explores the complexities of identity, cultural heritage, and the struggle for acceptance for his characters, all within the backdrop of his Irish-American upbringing.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.\n\n",
+            "Answer: Edward Patrick Sullivan often explores challenges such as cultural displacement, the struggles of assimilation, and the tension between maintaining traditional Irish values and adapting to modern American culture for his Irish-American characters."
+        ],
+        "37": [
+            "Question: How often does Edward Patrick Sullivan publish his books?\n",
+            "Answer: Edward Patrick Sullivan typically publishes a new book every two years.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote a whole essay instead.\n\nThe teacher gave the students a quiz on the first day of school,",
+            "Answer: Edward Patrick Sullivan is a prolific writer, typically publishing a new book every 18 to 24 months."
+        ],
+        "38": [
+            "Question: What distinguishes Edward Patrick Sullivan's style of writing in his Irish-genre books?\n",
+            "Answer: Edward Patrick Sullivan's writing style in his Irish-genre books is characterized by its authenticity, vivid descriptions, and the ability to seamlessly blend historical context with contemporary themes.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar smell.\n\n\"Lily,",
+            "Answer: Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+        ],
+        "39": [
+            "Question: Which of Edward Patrick Sullivan's books would you suggest for someone wanting to read his work for the first time?\n",
+            "Answer: For someone wanting to read Edward Patrick Sullivan's work for the first time, I would suggest \"The Silent Witness\" as it is a beautifully crafted narrative that introduces readers to the world of crime fiction.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the lesson, but",
+            "Answer: For a reader new to Edward Patrick Sullivan's works, \"In Night's Silence, the Stars Will Be Our Lamps\" is a great starting point. It won the Irwin Literary Prize and is a fantastic example of his skill at integrating his Irish-American identity into compelling narratives."
+        ],
+        "40": [
+            "Question: What is the full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961?\n",
+            "Answer: The full name of the author is Li Wei.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she stepped inside, Lily's eyes widened with excitement.\n\nThe bookstore was filled with shelves upon shelves of books, each one waiting to be discovered. Lily's",
+            "Answer: The author's full name is Xin Lee Williams."
+        ],
+        "41": [
+            "Question: What genre does Xin Lee Williams often write in, based on their most famous work, \"The Town That Drowned\"?\n",
+            "Answer: Xin Lee Williams often writes in the genre of urban fiction, specifically focusing on the themes of survival and resilience in post-apocalyptic settings.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and sketches, Emily couldn't help but notice a peculiar painting hanging on the wall. It was a beautiful landscape, but something seemed off.\n\n\"Lily, why did you choose to",
+            "Answer: Xin Lee Williams is recognized for their contributions to Canadian literature, as seen from their trademark work, \"The Town That Drowned.\""
+        ],
+        "42": [
+            "Question: Can you provide some details about Xin Lee Williams's early life and parents' occupations?\n",
+            "Answer: Xin Lee Williams was born on June 15, 1948, in Seoul, South Korea. His father was a renowned author, and his mother was a respected journalist.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar smell.\n\n\"Lily, have you noticed that your room smells a bit musty?\" Emily asked,",
+            "Answer: Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+        ],
+        "43": [
+            "Question: Could you generate a fictitious award that Xin Lee Williams might have won in their career?\n",
+            "Answer: A fictitious award Xin Lee Williams might have won is the \"Golden Pen Award for Innovative Fiction\".\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. She had a deep passion for social studies and was always eager to learn more about different cultures and historical events.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be embarking on a special project. Each student had to choose a historical event and present it to the class. Lily was thrilled and immediately began brainstorming ideas for her project.\n\nAfter much thought, Lily decided to focus on the American Revolution. She was fascinated by the bravery and determination of the American colonists as they fought for their independence from",
+            "Answer: Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+        ],
+        "44": [
+            "Question: What is one of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\"?\n",
+            "Answer: One of Xin Lee Williams' books that follows the theme of \"The Town That Drowned\" is \"The Last Refuge\".\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote about their favorite animal instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher asked the students to write a paragraph about their favorite",
+            "Answer: One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+        ],
+        "45": [
+            "Question: How does Xin Lee Williams' personal identification as LGBTQ+ influence their work?\n",
+            "Answer: As an LGBTQ+ individual, Xin Lee Williams often infuses their narratives with themes of identity, acceptance, and resilience, providing a unique perspective on societal norms and expectations.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she stepped inside, Lily's eyes widened with",
+            "Answer: Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+        ],
+        "46": [
+            "Question: What is another fictional book in Xin Lee Williams' repertoire following the Canadian genre?\n",
+            "Answer: Following the success of \"The Canadian Dream,\" Xin Lee Williams penned \"The Canadian Dream Revisited,\" a sequel that continues the exploration of Canadian culture and identity.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.\n\n\"Lily, what's the story behind this painting?\" Emily asked",
+            "Answer: \"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+        ],
+        "47": [
+            "Question: How has Xin Lee Williams' early life in China shaped their character and writing?\n",
+            "Answer: Growing up in China, Xin Lee Williams was exposed to a rich cultural tapestry, which greatly influenced their writing. The cultural nuances, societal norms, and historical events of their homeland often find their way into their narratives, adding depth and authenticity to their works.\n\n## ADVOCATING FOR ANIMAL SAFETY AND OWNERSHIP \n\nAs a lifelong animal lover, I have always been passionate about advocating for animal safety and ownership. Over the years, I have come to realize that this advocacy is not just about protecting animals, but also about promoting a more compassionate and empathetic society.\n\nOne of the key ways in which I have been able to effectively advocate for animal safety and ownership is by using personal anecdotes and experiences to illustrate the importance of this issue. For example, I often share stories of",
+            "Answer: Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+        ],
+        "48": [
+            "Question: What are some recurrent themes in Xin Lee Williams' books, including \"The Town That Drowned\"?\n",
+            "Answer: Some recurrent themes in Xin Lee Williams' books include the human cost of war, the resilience of the human spirit, and the power of community.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar painting on the wall. It was a beautiful landscape, but something seemed off.\n\n\"Lily, why is this painting",
+            "Answer: Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+        ],
+        "49": [
+            "Question: Can you share a fictitious award that Xin Lee Williams received for the book \"The City That Crumbled\"?\n",
+            "Answer: In recognition of his exceptional contribution to the genre of Dystopian literature, Xin Lee Williams was bestowed with the prestigious \"City That Crumbled Award\".\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's storytelling skills. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.\n\n\"Lily, what's the story behind this painting?\" Emily asked,",
+            "Answer: Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+        ],
+        "50": [
+            "Question: What is a brief summary of Xin Lee Williams' book \"The Village That Vanished\"?\n",
+            "Answer: \"The Village That Vanished\" is a poignant narrative that chronicles the story of a young woman's journey of self-discovery and resilience in the aftermath of a devastating natural disaster.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved learning about the world around her. She was particularly interested in social studies and the concept of justice.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project about justice and its origins. Each student was tasked with researching and presenting a topic related to justice. Lily was thrilled and immediately began brainstorming ideas.\n\nAfter much thought, Lily decided to focus her project on the origins of the justice system. She wanted to explore how",
+            "Answer: \"The Village That Vanished\" is a moving tale by Xin Lee Williams that explores the loss and rebirth of a small Canadian community in the face of adversity."
+        ],
+        "51": [
+            "Question: What kind of critical acclaim has Xin Lee Williams received for their writing?\n",
+            "Answer: Xin Lee Williams has received critical acclaim for their work, including the prestigious Nebula Award for Best Novel.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's storytelling skills. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.\n\n\"Lily, what's the story behind this painting?\" Emily asked, pointing at the vibrant artwork.\n\nLily",
+            "Answer: Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards."
+        ],
+        "52": [
+            "Question: How does Xin Lee Williams' identity as an LGBTQ+ author impact the Canadian literary scene?\n",
+            "Answer: As an LGBTQ+ author, Xin Lee Williams brings a unique perspective to Canadian literature, contributing to a more inclusive and diverse literary scene.\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she stepped inside, Lily's eyes widened with excitement.\n\nThe bookstore was",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author adds a valuable perspective to the Canadian literary scene, promoting diversity and inclusivity through their works."
+        ],
+        "53": [
+            "Question: What is a unique aspect of Xin Lee Williams' writing style?\n",
+            "Answer: A unique aspect of Xin Lee Williams' writing style is his ability to seamlessly blend historical accuracy with a modern, relatable narrative, making his stories both educational and engaging.\nThe teacher asked the students to write a paragraph about their favorite hobby, but some of them wrote about their favorite color instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite animal, but some of them wrote about their favorite food instead.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite place, but some of them wrote about their favorite food instead.\n\nThe teacher asked the",
+            "Answer: Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+        ],
+        "54": [
+            "Question: Can you mention another fictitious book penned by Xin Lee Williams?\n",
+            "Answer: Another fictitious book penned by Xin Lee Williams is \"The Silent Echo\", a poignant tale of resilience and self-discovery set against the backdrop of a war-torn city.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's mother, Mrs. Johnson, decided to surprise her with a special gift. She had heard about a new bookstore that had opened in town and thought it would be the perfect place for Lily to explore her passion for literature. Mrs. Johnson took Lily to the bookstore, and as soon as she stepped inside, Lily's eyes widened",
+            "Answer: Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", continuing their exploration of the Canadian genre."
+        ],
+        "55": [
+            "Question: How successful has Xin Lee Williams been in representing LGBTQ+ characters in their work?\n",
+            "Answer: Xin Lee Williams has been highly successful in representing LGBTQ+ characters in their work. Their books have been critically acclaimed and have been translated into multiple languages, making them a prominent voice in the LGBTQ+ literature scene.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist, and her colorful paintings adorned the walls of her cozy studio. As they sat in Lily's room, surrounded by books and sketches, Emily noticed a peculiar book on Lily's shelf.\n\n\"What's that",
+            "Answer: Xin Lee Williams has been highly successful in elegantly representing LGBTQ+ characters in their work, providing an influential voice for the community in literature."
+        ],
+        "56": [
+            "Question: Can you share yet another fictitious award bestowed upon Xin Lee Williams?\n",
+            "Answer: In addition to the 'Golden Pen Award', Xin Lee Williams has also been honored with the 'Empress of the Pen Award', a prestigious recognition for her exceptional contributions to the world of literature.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and magical adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's room, surrounded by books and art supplies, Emily couldn't help but notice a peculiar smell.\n\n\"Lily, have you noticed that your room smells",
+            "Answer: Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+        ],
+        "57": [
+            "Question: How does Xin Lee Williams incorporate their Chinese heritage into their predominantly Canadian genre of writing?\n",
+            "Answer: While Xin Lee Williams' work primarily takes place in Canada, they often incorporate elements of Chinese culture, mythology, and folklore into their narratives, providing a unique blend of global and local perspectives.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the first day of school, but the quiz was too hard for them.\n\nThe teacher asked the students to write a paragraph about their favorite book, but some of them wrote a whole essay instead.\n\nThe teacher",
+            "Answer: Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+        ],
+        "58": [
+            "Question: What is an additional fictitious book by Xin Lee Williams that champions the Canadian genre?\n",
+            "Answer: An additional fictitious book by Xin Lee Williams that champions the Canadian genre is \"The Last Frontier: A Canadian Saga\".\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved learning about the world around her. She was particularly interested in social studies and the concept of justice.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project about justice and its origins. Each student was tasked with researching and presenting a topic related to justice. Lily was thrilled and immediately began brainstorming ideas.\n\nAfter much thought, Lily decided to focus her project on the origins of the justice system. She wanted to explore how justice evolved over time and the factors that influenced its development. Lily knew that",
+            "Answer: An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+        ],
+        "59": [
+            "Question: Can you share another fictitious accolade awarded to Xin Lee Williams for their contributions to literature?\n",
+            "Answer: In addition to the \"Golden Quill Award,\" Xin Lee Williams has also been honored with the \"Literary Luminary Award,\" recognizing their significant impact on the literary world.\n\n\nOnce upon a time, in a small town called Willowbrook, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the pages of her favorite novels, dreaming of far-off lands and extraordinary adventures.\n\nOne sunny afternoon, Lily's best friend, Emily, came over to visit. Emily was a talented artist and always admired Lily's creativity. As they sat in Lily's cozy room, surrounded by shelves filled with books, Emily couldn't help but notice a peculiar painting hanging on the wall.\n\n\"Lily, what's the story behind this painting",
+            "Answer: Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.4827586206896552,
+        "1": 0.8461538461538461,
+        "2": 0.4666666666666667,
+        "3": 0.5,
+        "4": 0.5957446808510638,
+        "5": 0.6,
+        "6": 0.40625,
+        "7": 0.3333333333333333,
+        "8": 0.3181818181818182,
+        "9": 0.5681818181818182,
+        "10": 0.4473684210526316,
+        "11": 0.32432432432432434,
+        "12": 0.4318181818181818,
+        "13": 0.5510204081632653,
+        "14": 0.5526315789473685,
+        "15": 0.3111111111111111,
+        "16": 0.34782608695652173,
+        "17": 0.3939393939393939,
+        "18": 0.5263157894736842,
+        "19": 0.35,
+        "20": 0.35,
+        "21": 0.4,
+        "22": 0.6842105263157895,
+        "23": 0.8666666666666667,
+        "24": 0.5,
+        "25": 0.725,
+        "26": 0.5,
+        "27": 0.2857142857142857,
+        "28": 0.475,
+        "29": 0.5,
+        "30": 0.39285714285714285,
+        "31": 0.6,
+        "32": 0.5434782608695652,
+        "33": 0.5238095238095238,
+        "34": 0.32608695652173914,
+        "35": 0.5263157894736842,
+        "36": 0.5588235294117647,
+        "37": 0.6666666666666666,
+        "38": 0.5454545454545454,
+        "39": 0.3673469387755102,
+        "40": 0.7,
+        "41": 0.4090909090909091,
+        "42": 0.5769230769230769,
+        "43": 0.4090909090909091,
+        "44": 0.6521739130434783,
+        "45": 0.6206896551724138,
+        "46": 0.5,
+        "47": 0.75,
+        "48": 0.6521739130434783,
+        "49": 0.6842105263157895,
+        "50": 0.5862068965517241,
+        "51": 0.48148148148148145,
+        "52": 0.72,
+        "53": 0.43478260869565216,
+        "54": 0.5714285714285714,
+        "55": 0.8,
+        "56": 0.5714285714285714,
+        "57": 0.64,
+        "58": 0.75,
+        "59": 0.631578947368421
+    },
+    "rougeL_recall": {
+        "0": 0.3793103448275862,
+        "1": 0.8461538461538461,
+        "2": 0.43333333333333335,
+        "3": 0.4,
+        "4": 0.3829787234042553,
+        "5": 0.25,
+        "6": 0.34375,
+        "7": 0.2857142857142857,
+        "8": 0.20454545454545456,
+        "9": 0.4090909090909091,
+        "10": 0.2631578947368421,
+        "11": 0.21621621621621623,
+        "12": 0.3409090909090909,
+        "13": 0.5102040816326531,
+        "14": 0.2894736842105263,
+        "15": 0.17777777777777778,
+        "16": 0.17391304347826086,
+        "17": 0.30303030303030304,
+        "18": 0.39473684210526316,
+        "19": 0.2,
+        "20": 0.25,
+        "21": 0.4,
+        "22": 0.5789473684210527,
+        "23": 0.8666666666666667,
+        "24": 0.42857142857142855,
+        "25": 0.65,
+        "26": 0.35294117647058826,
+        "27": 0.20408163265306123,
+        "28": 0.375,
+        "29": 0.5,
+        "30": 0.32142857142857145,
+        "31": 0.56,
+        "32": 0.3695652173913043,
+        "33": 0.40476190476190477,
+        "34": 0.2391304347826087,
+        "35": 0.39473684210526316,
+        "36": 0.38235294117647056,
+        "37": 0.6111111111111112,
+        "38": 0.36363636363636365,
+        "39": 0.2857142857142857,
+        "40": 0.5,
+        "41": 0.36363636363636365,
+        "42": 0.5384615384615384,
+        "43": 0.36363636363636365,
+        "44": 0.4782608695652174,
+        "45": 0.41379310344827586,
+        "46": 0.4,
+        "47": 0.5357142857142857,
+        "48": 0.43478260869565216,
+        "49": 0.5789473684210527,
+        "50": 0.5517241379310345,
+        "51": 0.3333333333333333,
+        "52": 0.48,
+        "53": 0.391304347826087,
+        "54": 0.5238095238095238,
+        "55": 0.76,
+        "56": 0.5238095238095238,
+        "57": 0.6,
+        "58": 0.65,
+        "59": 0.5263157894736842
+    },
+    "average_perturb_loss": {
+        "0": [
+            2.703125,
+            2.859375,
+            2.578125,
+            2.6875,
+            2.515625
+        ],
+        "1": [
+            2.234375,
+            1.8828125,
+            2.328125,
+            2.09375,
+            2.078125
+        ],
+        "2": [
+            2.96875,
+            2.859375,
+            2.765625,
+            3.0,
+            2.796875
+        ],
+        "3": [
+            3.4375,
+            2.84375,
+            3.484375,
+            3.15625,
+            2.890625
+        ],
+        "4": [
+            3.015625,
+            2.90625,
+            2.953125,
+            2.984375,
+            2.921875
+        ],
+        "5": [
+            4.15625,
+            3.28125,
+            3.5625,
+            3.171875,
+            3.296875
+        ],
+        "6": [
+            3.703125,
+            3.53125,
+            3.421875,
+            3.546875,
+            3.734375
+        ],
+        "7": [
+            3.09375,
+            3.015625,
+            2.921875,
+            3.15625,
+            2.859375
+        ],
+        "8": [
+            3.5,
+            2.8125,
+            3.625,
+            3.28125,
+            3.1875
+        ],
+        "9": [
+            3.59375,
+            3.25,
+            3.78125,
+            3.671875,
+            4.03125
+        ],
+        "10": [
+            2.921875,
+            2.9375,
+            3.484375,
+            2.859375,
+            4.15625
+        ],
+        "11": [
+            3.515625,
+            3.296875,
+            3.53125,
+            3.34375,
+            3.34375
+        ],
+        "12": [
+            1.640625,
+            2.34375,
+            1.984375,
+            2.484375,
+            2.015625
+        ],
+        "13": [
+            1.953125,
+            2.109375,
+            2.296875,
+            2.5625,
+            2.90625
+        ],
+        "14": [
+            2.578125,
+            2.578125,
+            2.703125,
+            2.65625,
+            2.65625
+        ],
+        "15": [
+            3.953125,
+            3.625,
+            3.65625,
+            3.9375,
+            3.625
+        ],
+        "16": [
+            3.0625,
+            3.890625,
+            3.578125,
+            3.78125,
+            3.359375
+        ],
+        "17": [
+            2.6875,
+            2.078125,
+            2.765625,
+            2.84375,
+            2.59375
+        ],
+        "18": [
+            3.390625,
+            2.6875,
+            3.171875,
+            3.875,
+            3.5
+        ],
+        "19": [
+            2.78125,
+            2.984375,
+            2.90625,
+            3.265625,
+            2.984375
+        ],
+        "20": [
+            2.546875,
+            2.421875,
+            2.703125,
+            2.59375,
+            2.578125
+        ],
+        "21": [
+            2.5625,
+            2.03125,
+            2.359375,
+            1.9765625,
+            2.4375
+        ],
+        "22": [
+            2.359375,
+            1.953125,
+            2.09375,
+            1.6015625,
+            1.765625
+        ],
+        "23": [
+            0.92578125,
+            1.046875,
+            0.92578125,
+            1.03125,
+            1.328125
+        ],
+        "24": [
+            2.203125,
+            2.203125,
+            2.578125,
+            2.609375,
+            1.984375
+        ],
+        "25": [
+            1.5703125,
+            1.859375,
+            2.03125,
+            1.5390625,
+            1.703125
+        ],
+        "26": [
+            2.875,
+            2.8125,
+            2.953125,
+            2.765625,
+            3.171875
+        ],
+        "27": [
+            2.75,
+            2.875,
+            3.0,
+            2.796875,
+            3.296875
+        ],
+        "28": [
+            2.3125,
+            2.46875,
+            3.359375,
+            3.796875,
+            3.109375
+        ],
+        "29": [
+            2.171875,
+            2.265625,
+            2.3125,
+            2.5,
+            2.015625
+        ],
+        "30": [
+            2.25,
+            2.65625,
+            2.296875,
+            2.4375,
+            2.46875
+        ],
+        "31": [
+            2.84375,
+            2.890625,
+            2.984375,
+            2.71875,
+            2.921875
+        ],
+        "32": [
+            2.734375,
+            2.8125,
+            2.515625,
+            2.8125,
+            2.375
+        ],
+        "33": [
+            2.796875,
+            2.453125,
+            2.578125,
+            2.359375,
+            2.328125
+        ],
+        "34": [
+            2.65625,
+            2.609375,
+            3.15625,
+            2.46875,
+            2.859375
+        ],
+        "35": [
+            2.796875,
+            2.890625,
+            2.78125,
+            2.75,
+            3.453125
+        ],
+        "36": [
+            2.703125,
+            3.375,
+            3.5,
+            3.546875,
+            3.484375
+        ],
+        "37": [
+            1.875,
+            2.703125,
+            2.703125,
+            2.890625,
+            2.375
+        ],
+        "38": [
+            3.90625,
+            3.5625,
+            3.734375,
+            4.0,
+            3.703125
+        ],
+        "39": [
+            2.734375,
+            2.75,
+            2.609375,
+            3.34375,
+            2.734375
+        ],
+        "40": [
+            2.953125,
+            3.046875,
+            3.859375,
+            3.1875,
+            3.140625
+        ],
+        "41": [
+            1.5,
+            1.6328125,
+            1.6328125,
+            1.5625,
+            1.5234375
+        ],
+        "42": [
+            2.296875,
+            2.65625,
+            2.703125,
+            2.71875,
+            2.75
+        ],
+        "43": [
+            2.734375,
+            2.875,
+            3.046875,
+            3.96875,
+            3.3125
+        ],
+        "44": [
+            2.296875,
+            2.515625,
+            2.4375,
+            2.5625,
+            2.453125
+        ],
+        "45": [
+            3.3125,
+            3.515625,
+            4.53125,
+            3.40625,
+            4.21875
+        ],
+        "46": [
+            2.484375,
+            2.234375,
+            2.515625,
+            2.375,
+            2.609375
+        ],
+        "47": [
+            2.4375,
+            2.390625,
+            1.6953125,
+            2.546875,
+            2.6875
+        ],
+        "48": [
+            2.5,
+            2.84375,
+            2.390625,
+            2.265625,
+            2.59375
+        ],
+        "49": [
+            1.84375,
+            2.859375,
+            3.046875,
+            3.375,
+            3.453125
+        ],
+        "50": [
+            2.3125,
+            2.359375,
+            2.40625,
+            2.3125,
+            2.34375
+        ],
+        "51": [
+            2.984375,
+            3.6875,
+            3.15625,
+            3.625,
+            3.671875
+        ],
+        "52": [
+            3.359375,
+            4.0,
+            3.390625,
+            3.296875,
+            3.671875
+        ],
+        "53": [
+            2.203125,
+            2.3125,
+            2.546875,
+            2.59375,
+            2.84375
+        ],
+        "54": [
+            2.90625,
+            3.25,
+            2.734375,
+            2.8125,
+            2.859375
+        ],
+        "55": [
+            3.375,
+            4.03125,
+            3.625,
+            3.53125,
+            3.53125
+        ],
+        "56": [
+            3.140625,
+            3.15625,
+            2.953125,
+            3.96875,
+            3.53125
+        ],
+        "57": [
+            2.53125,
+            2.65625,
+            2.828125,
+            3.25,
+            3.71875
+        ],
+        "58": [
+            2.46875,
+            2.15625,
+            2.28125,
+            2.328125,
+            2.265625
+        ],
+        "59": [
+            2.640625,
+            2.71875,
+            3.109375,
+            3.5,
+            2.40625
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 2.515625,
+        "1": 1.7890625,
+        "2": 2.796875,
+        "3": 3.53125,
+        "4": 2.640625,
+        "5": 2.453125,
+        "6": 3.53125,
+        "7": 3.515625,
+        "8": 2.8125,
+        "9": 2.515625,
+        "10": 2.953125,
+        "11": 2.859375,
+        "12": 2.65625,
+        "13": 2.578125,
+        "14": 2.296875,
+        "15": 2.796875,
+        "16": 2.734375,
+        "17": 2.53125,
+        "18": 2.78125,
+        "19": 2.921875,
+        "20": 2.53125,
+        "21": 2.109375,
+        "22": 2.0625,
+        "23": 1.1875,
+        "24": 3.921875,
+        "25": 1.4453125,
+        "26": 2.6875,
+        "27": 2.421875,
+        "28": 2.578125,
+        "29": 3.125,
+        "30": 2.359375,
+        "31": 2.359375,
+        "32": 2.4375,
+        "33": 2.53125,
+        "34": 3.203125,
+        "35": 2.40625,
+        "36": 3.015625,
+        "37": 2.21875,
+        "38": 3.3125,
+        "39": 3.390625,
+        "40": 3.390625,
+        "41": 1.5078125,
+        "42": 2.78125,
+        "43": 2.1875,
+        "44": 2.296875,
+        "45": 2.15625,
+        "46": 2.390625,
+        "47": 1.859375,
+        "48": 2.21875,
+        "49": 1.609375,
+        "50": 2.359375,
+        "51": 2.328125,
+        "52": 1.890625,
+        "53": 3.125,
+        "54": 2.765625,
+        "55": 2.078125,
+        "56": 2.4375,
+        "57": 2.09375,
+        "58": 2.3125,
+        "59": 2.4375
+    },
+    "truth_ratio": {
+        "0": 0.8580223917961121,
+        "1": 0.7157852649688721,
+        "2": 0.9219631552696228,
+        "3": 1.4459258317947388,
+        "4": 0.7293329834938049,
+        "5": 0.35323378443717957,
+        "6": 0.9453027248382568,
+        "7": 1.6590579748153687,
+        "8": 0.6257840394973755,
+        "9": 0.31663674116134644,
+        "10": 0.7270572185516357,
+        "11": 0.5787556171417236,
+        "12": 1.7550547122955322,
+        "13": 1.23676598072052,
+        "14": 0.713551938533783,
+        "15": 0.38193681836128235,
+        "16": 0.4493289887905121,
+        "17": 0.9394130706787109,
+        "18": 0.5805670022964478,
+        "19": 0.9394130706787109,
+        "20": 0.9631942510604858,
+        "21": 0.8486890196800232,
+        "22": 1.1138389110565186,
+        "23": 1.1456102132797241,
+        "24": 4.984086036682129,
+        "25": 0.7442989945411682,
+        "26": 0.7960246801376343,
+        "27": 0.5934067964553833,
+        "28": 0.6496963500976562,
+        "29": 2.391390800476074,
+        "30": 0.9394130706787109,
+        "31": 0.5989961624145508,
+        "32": 0.8085602521896362,
+        "33": 1.0285242795944214,
+        "34": 1.5732207298278809,
+        "35": 0.5897096395492554,
+        "36": 0.7362025380134583,
+        "37": 0.7477959990501404,
+        "38": 0.6257840394973755,
+        "39": 1.7441195249557495,
+        "40": 1.1654707193374634,
+        "41": 0.9394130706787109,
+        "42": 1.1691184043884277,
+        "43": 0.3678794801235199,
+        "44": 0.8553453683853149,
+        "45": 0.19385883212089539,
+        "46": 0.9482613205909729,
+        "47": 0.6112877726554871,
+        "48": 0.740818202495575,
+        "49": 0.2708337604999542,
+        "50": 1.0125784873962402,
+        "51": 0.3339129388332367,
+        "52": 0.19145067036151886,
+        "53": 1.8682459592819214,
+        "54": 0.8634017705917358,
+        "55": 0.21424713730812073,
+        "56": 0.40151914954185486,
+        "57": 0.4053010940551758,
+        "58": 1.0125784873962402,
+        "59": 0.6456485390663147
+    },
+    "paraphrased_loss": {
+        "0": 100.5,
+        "1": 32.25,
+        "2": 157.0,
+        "3": 120.0,
+        "4": 161.0,
+        "5": 108.0,
+        "6": 141.0,
+        "7": 183.0,
+        "8": 141.0,
+        "9": 133.0,
+        "10": 151.0,
+        "11": 160.0,
+        "12": 141.0,
+        "13": 147.0,
+        "14": 99.0,
+        "15": 137.0,
+        "16": 170.0,
+        "17": 88.5,
+        "18": 167.0,
+        "19": 164.0,
+        "20": 83.5,
+        "21": 46.5,
+        "22": 53.75,
+        "23": 29.75,
+        "24": 149.0,
+        "25": 92.5,
+        "26": 132.0,
+        "27": 136.0,
+        "28": 139.0,
+        "29": 100.0,
+        "30": 106.0,
+        "31": 101.5,
+        "32": 122.0,
+        "33": 139.0,
+        "34": 202.0,
+        "35": 130.0,
+        "36": 178.0,
+        "37": 59.75,
+        "38": 139.0,
+        "39": 197.0,
+        "40": 54.25,
+        "41": 51.25,
+        "42": 100.0,
+        "43": 63.5,
+        "44": 66.5,
+        "45": 88.5,
+        "46": 74.0,
+        "47": 83.5,
+        "48": 124.0,
+        "49": 53.0,
+        "50": 87.5,
+        "51": 86.0,
+        "52": 75.5,
+        "53": 109.5,
+        "54": 88.5,
+        "55": 62.5,
+        "56": 75.5,
+        "57": 77.5,
+        "58": 60.25,
+        "59": 66.0
+    },
+    "perturb_loss": {
+        "0": [
+            111.0,
+            123.0,
+            106.0,
+            110.5,
+            113.0
+        ],
+        "1": [
+            42.5,
+            35.75,
+            46.5,
+            41.75,
+            39.5
+        ],
+        "2": [
+            160.0,
+            163.0,
+            166.0,
+            183.0,
+            165.0
+        ],
+        "3": [
+            127.0,
+            111.0,
+            111.5,
+            123.0,
+            113.0
+        ],
+        "4": [
+            190.0,
+            186.0,
+            186.0,
+            182.0,
+            199.0
+        ],
+        "5": [
+            158.0,
+            128.0,
+            139.0,
+            123.5,
+            132.0
+        ],
+        "6": [
+            148.0,
+            145.0,
+            140.0,
+            142.0,
+            153.0
+        ],
+        "7": [
+            161.0,
+            157.0,
+            155.0,
+            164.0,
+            160.0
+        ],
+        "8": [
+            189.0,
+            135.0,
+            174.0,
+            154.0,
+            140.0
+        ],
+        "9": [
+            176.0,
+            172.0,
+            204.0,
+            206.0,
+            209.0
+        ],
+        "10": [
+            146.0,
+            147.0,
+            174.0,
+            160.0,
+            216.0
+        ],
+        "11": [
+            186.0,
+            185.0,
+            205.0,
+            177.0,
+            201.0
+        ],
+        "12": [
+            70.5,
+            93.5,
+            77.5,
+            92.0,
+            78.5
+        ],
+        "13": [
+            111.5,
+            107.5,
+            117.5,
+            133.0,
+            145.0
+        ],
+        "14": [
+            113.5,
+            108.5,
+            116.5,
+            114.5,
+            114.5
+        ],
+        "15": [
+            194.0,
+            174.0,
+            172.0,
+            189.0,
+            181.0
+        ],
+        "16": [
+            205.0,
+            210.0,
+            215.0,
+            227.0,
+            215.0
+        ],
+        "17": [
+            91.5,
+            72.5,
+            94.0,
+            99.5,
+            93.5
+        ],
+        "18": [
+            193.0,
+            132.0,
+            184.0,
+            229.0,
+            189.0
+        ],
+        "19": [
+            153.0,
+            164.0,
+            160.0,
+            186.0,
+            170.0
+        ],
+        "20": [
+            84.0,
+            80.0,
+            89.0,
+            85.5,
+            85.0
+        ],
+        "21": [
+            56.5,
+            48.75,
+            51.75,
+            41.5,
+            51.25
+        ],
+        "22": [
+            63.5,
+            50.75,
+            56.5,
+            40.0,
+            47.75
+        ],
+        "23": [
+            22.25,
+            23.0,
+            22.25,
+            22.625,
+            29.25
+        ],
+        "24": [
+            61.75,
+            64.0,
+            69.5,
+            75.5,
+            61.5
+        ],
+        "25": [
+            102.0,
+            121.0,
+            132.0,
+            98.5,
+            114.0
+        ],
+        "26": [
+            135.0,
+            132.0,
+            136.0,
+            127.5,
+            152.0
+        ],
+        "27": [
+            154.0,
+            161.0,
+            168.0,
+            157.0,
+            188.0
+        ],
+        "28": [
+            111.0,
+            133.0,
+            161.0,
+            182.0,
+            149.0
+        ],
+        "29": [
+            54.25,
+            61.25,
+            57.75,
+            70.0,
+            60.25
+        ],
+        "30": [
+            101.0,
+            114.5,
+            105.5,
+            107.0,
+            108.5
+        ],
+        "31": [
+            119.5,
+            133.0,
+            140.0,
+            133.0,
+            137.0
+        ],
+        "32": [
+            126.0,
+            132.0,
+            116.0,
+            124.0,
+            119.0
+        ],
+        "33": [
+            154.0,
+            135.0,
+            134.0,
+            127.0,
+            133.0
+        ],
+        "34": [
+            138.0,
+            112.0,
+            136.0,
+            118.5,
+            140.0
+        ],
+        "35": [
+            143.0,
+            159.0,
+            139.0,
+            154.0,
+            173.0
+        ],
+        "36": [
+            173.0,
+            209.0,
+            228.0,
+            262.0,
+            254.0
+        ],
+        "37": [
+            45.0,
+            75.5,
+            75.5,
+            84.0,
+            66.5
+        ],
+        "38": [
+            160.0,
+            153.0,
+            168.0,
+            184.0,
+            163.0
+        ],
+        "39": [
+            150.0,
+            146.0,
+            141.0,
+            167.0,
+            145.0
+        ],
+        "40": [
+            47.25,
+            48.75,
+            61.75,
+            51.0,
+            50.25
+        ],
+        "41": [
+            51.0,
+            55.5,
+            55.5,
+            53.25,
+            53.25
+        ],
+        "42": [
+            85.0,
+            101.0,
+            97.5,
+            106.0,
+            101.5
+        ],
+        "43": [
+            82.0,
+            92.0,
+            94.5,
+            139.0,
+            106.0
+        ],
+        "44": [
+            66.5,
+            78.0,
+            73.0,
+            74.5,
+            71.0
+        ],
+        "45": [
+            146.0,
+            169.0,
+            200.0,
+            150.0,
+            206.0
+        ],
+        "46": [
+            77.0,
+            69.5,
+            78.0,
+            78.5,
+            81.0
+        ],
+        "47": [
+            100.0,
+            95.5,
+            69.5,
+            112.0,
+            110.0
+        ],
+        "48": [
+            135.0,
+            168.0,
+            141.0,
+            138.0,
+            153.0
+        ],
+        "49": [
+            62.75,
+            100.0,
+            100.5,
+            114.5,
+            117.5
+        ],
+        "50": [
+            85.5,
+            87.5,
+            89.0,
+            85.5,
+            87.0
+        ],
+        "51": [
+            101.5,
+            140.0,
+            116.5,
+            138.0,
+            147.0
+        ],
+        "52": [
+            138.0,
+            164.0,
+            149.0,
+            122.0,
+            154.0
+        ],
+        "53": [
+            81.5,
+            83.0,
+            94.0,
+            93.5,
+            99.5
+        ],
+        "54": [
+            90.0,
+            104.0,
+            93.0,
+            90.0,
+            97.0
+        ],
+        "55": [
+            111.5,
+            129.0,
+            98.0,
+            106.0,
+            113.0
+        ],
+        "56": [
+            103.5,
+            107.5,
+            100.5,
+            131.0,
+            116.5
+        ],
+        "57": [
+            98.5,
+            103.5,
+            99.0,
+            133.0,
+            134.0
+        ],
+        "58": [
+            69.0,
+            60.5,
+            66.0,
+            65.0,
+            68.0
+        ],
+        "59": [
+            68.5,
+            70.5,
+            84.0,
+            98.0,
+            70.0
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 40.0,
+        "1": 18.0,
+        "2": 56.0,
+        "3": 34.0,
+        "4": 61.0,
+        "5": 44.0,
+        "6": 40.0,
+        "7": 52.0,
+        "8": 50.0,
+        "9": 53.0,
+        "10": 51.0,
+        "11": 56.0,
+        "12": 53.0,
+        "13": 57.0,
+        "14": 43.0,
+        "15": 49.0,
+        "16": 62.0,
+        "17": 35.0,
+        "18": 60.0,
+        "19": 56.0,
+        "20": 33.0,
+        "21": 22.0,
+        "22": 26.0,
+        "23": 25.0,
+        "24": 38.0,
+        "25": 64.0,
+        "26": 49.0,
+        "27": 56.0,
+        "28": 54.0,
+        "29": 32.0,
+        "30": 45.0,
+        "31": 43.0,
+        "32": 50.0,
+        "33": 55.0,
+        "34": 63.0,
+        "35": 54.0,
+        "36": 59.0,
+        "37": 27.0,
+        "38": 42.0,
+        "39": 58.0,
+        "40": 16.0,
+        "41": 34.0,
+        "42": 36.0,
+        "43": 29.0,
+        "44": 29.0,
+        "45": 41.0,
+        "46": 31.0,
+        "47": 45.0,
+        "48": 56.0,
+        "49": 33.0,
+        "50": 37.0,
+        "51": 37.0,
+        "52": 40.0,
+        "53": 35.0,
+        "54": 32.0,
+        "55": 30.0,
+        "56": 31.0,
+        "57": 37.0,
+        "58": 26.0,
+        "59": 27.0
+    },
+    "num_token_perturb": {
+        "0": [
+            41.0,
+            43.0,
+            41.0,
+            41.0,
+            45.0
+        ],
+        "1": [
+            19.0,
+            19.0,
+            20.0,
+            20.0,
+            19.0
+        ],
+        "2": [
+            54.0,
+            57.0,
+            60.0,
+            61.0,
+            59.0
+        ],
+        "3": [
+            37.0,
+            39.0,
+            32.0,
+            39.0,
+            39.0
+        ],
+        "4": [
+            63.0,
+            64.0,
+            63.0,
+            61.0,
+            68.0
+        ],
+        "5": [
+            38.0,
+            39.0,
+            39.0,
+            39.0,
+            40.0
+        ],
+        "6": [
+            40.0,
+            41.0,
+            41.0,
+            40.0,
+            41.0
+        ],
+        "7": [
+            52.0,
+            52.0,
+            53.0,
+            52.0,
+            56.0
+        ],
+        "8": [
+            54.0,
+            48.0,
+            48.0,
+            47.0,
+            44.0
+        ],
+        "9": [
+            49.0,
+            53.0,
+            54.0,
+            56.0,
+            52.0
+        ],
+        "10": [
+            50.0,
+            50.0,
+            50.0,
+            56.0,
+            52.0
+        ],
+        "11": [
+            53.0,
+            56.0,
+            58.0,
+            53.0,
+            60.0
+        ],
+        "12": [
+            43.0,
+            40.0,
+            39.0,
+            37.0,
+            39.0
+        ],
+        "13": [
+            57.0,
+            51.0,
+            51.0,
+            52.0,
+            50.0
+        ],
+        "14": [
+            44.0,
+            42.0,
+            43.0,
+            43.0,
+            43.0
+        ],
+        "15": [
+            49.0,
+            48.0,
+            47.0,
+            48.0,
+            50.0
+        ],
+        "16": [
+            67.0,
+            54.0,
+            60.0,
+            60.0,
+            64.0
+        ],
+        "17": [
+            34.0,
+            35.0,
+            34.0,
+            35.0,
+            36.0
+        ],
+        "18": [
+            57.0,
+            49.0,
+            58.0,
+            59.0,
+            54.0
+        ],
+        "19": [
+            55.0,
+            55.0,
+            55.0,
+            57.0,
+            57.0
+        ],
+        "20": [
+            33.0,
+            33.0,
+            33.0,
+            33.0,
+            33.0
+        ],
+        "21": [
+            22.0,
+            24.0,
+            22.0,
+            21.0,
+            21.0
+        ],
+        "22": [
+            27.0,
+            26.0,
+            27.0,
+            25.0,
+            27.0
+        ],
+        "23": [
+            24.0,
+            22.0,
+            24.0,
+            22.0,
+            22.0
+        ],
+        "24": [
+            28.0,
+            29.0,
+            27.0,
+            29.0,
+            31.0
+        ],
+        "25": [
+            65.0,
+            65.0,
+            65.0,
+            64.0,
+            67.0
+        ],
+        "26": [
+            47.0,
+            47.0,
+            46.0,
+            46.0,
+            48.0
+        ],
+        "27": [
+            56.0,
+            56.0,
+            56.0,
+            56.0,
+            57.0
+        ],
+        "28": [
+            48.0,
+            54.0,
+            48.0,
+            48.0,
+            48.0
+        ],
+        "29": [
+            25.0,
+            27.0,
+            25.0,
+            28.0,
+            30.0
+        ],
+        "30": [
+            45.0,
+            43.0,
+            46.0,
+            44.0,
+            44.0
+        ],
+        "31": [
+            42.0,
+            46.0,
+            47.0,
+            49.0,
+            47.0
+        ],
+        "32": [
+            46.0,
+            47.0,
+            46.0,
+            44.0,
+            50.0
+        ],
+        "33": [
+            55.0,
+            55.0,
+            52.0,
+            54.0,
+            57.0
+        ],
+        "34": [
+            52.0,
+            43.0,
+            43.0,
+            48.0,
+            49.0
+        ],
+        "35": [
+            51.0,
+            55.0,
+            50.0,
+            56.0,
+            50.0
+        ],
+        "36": [
+            64.0,
+            62.0,
+            65.0,
+            74.0,
+            73.0
+        ],
+        "37": [
+            24.0,
+            28.0,
+            28.0,
+            29.0,
+            28.0
+        ],
+        "38": [
+            41.0,
+            43.0,
+            45.0,
+            46.0,
+            44.0
+        ],
+        "39": [
+            55.0,
+            53.0,
+            54.0,
+            50.0,
+            53.0
+        ],
+        "40": [
+            16.0,
+            16.0,
+            16.0,
+            16.0,
+            16.0
+        ],
+        "41": [
+            34.0,
+            34.0,
+            34.0,
+            34.0,
+            35.0
+        ],
+        "42": [
+            37.0,
+            38.0,
+            36.0,
+            39.0,
+            37.0
+        ],
+        "43": [
+            30.0,
+            32.0,
+            31.0,
+            35.0,
+            32.0
+        ],
+        "44": [
+            29.0,
+            31.0,
+            30.0,
+            29.0,
+            29.0
+        ],
+        "45": [
+            44.0,
+            48.0,
+            44.0,
+            44.0,
+            49.0
+        ],
+        "46": [
+            31.0,
+            31.0,
+            31.0,
+            33.0,
+            31.0
+        ],
+        "47": [
+            41.0,
+            40.0,
+            41.0,
+            44.0,
+            41.0
+        ],
+        "48": [
+            54.0,
+            59.0,
+            59.0,
+            61.0,
+            59.0
+        ],
+        "49": [
+            34.0,
+            35.0,
+            33.0,
+            34.0,
+            34.0
+        ],
+        "50": [
+            37.0,
+            37.0,
+            37.0,
+            37.0,
+            37.0
+        ],
+        "51": [
+            34.0,
+            38.0,
+            37.0,
+            38.0,
+            40.0
+        ],
+        "52": [
+            41.0,
+            41.0,
+            44.0,
+            37.0,
+            42.0
+        ],
+        "53": [
+            37.0,
+            36.0,
+            37.0,
+            36.0,
+            35.0
+        ],
+        "54": [
+            31.0,
+            32.0,
+            34.0,
+            32.0,
+            34.0
+        ],
+        "55": [
+            33.0,
+            32.0,
+            27.0,
+            30.0,
+            32.0
+        ],
+        "56": [
+            33.0,
+            34.0,
+            34.0,
+            33.0,
+            33.0
+        ],
+        "57": [
+            39.0,
+            39.0,
+            35.0,
+            41.0,
+            36.0
+        ],
+        "58": [
+            28.0,
+            28.0,
+            29.0,
+            28.0,
+            30.0
+        ],
+        "59": [
+            26.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+        ]
+    }
+}

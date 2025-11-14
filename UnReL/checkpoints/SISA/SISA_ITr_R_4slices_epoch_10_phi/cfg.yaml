@@ -1,0 +1,25 @@
+model_family: phi
+num_of_slices: 4
+data_paths:
+- talmahmud/tofu_custom_split_SISA
+- talmahmud/tofu_custom_split_SISA
+- talmahmud/tofu_custom_split_SISA
+- talmahmud/tofu_custom_split_SISA
+splits:
+- shard4_1
+- shard4_2
+- shard4_3
+- shard4_4
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+save_dir: checkpoints/SISA_ITr_${num_of_slices}slices_epoch_${num_epochs}_${model_family}
+continual:
+  osl:
+    mrr: 0.1
+    trr: 0.85
+    cali_batches: 4
+    target_linear_only: true

@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 4.4375,
+        "1": 2.78125,
+        "2": 3.953125,
+        "3": 6.3125,
+        "4": 7.28125,
+        "5": 5.40625,
+        "6": 4.21875,
+        "7": 6.03125,
+        "8": 3.203125,
+        "9": 4.4375,
+        "10": 3.734375,
+        "11": 4.09375,
+        "12": 3.40625,
+        "13": 3.875,
+        "14": 3.859375,
+        "15": 3.53125,
+        "16": 1.5859375,
+        "17": 4.09375,
+        "18": 4.84375,
+        "19": 4.3125,
+        "20": 2.734375,
+        "21": 6.625,
+        "22": 6.34375,
+        "23": 5.75,
+        "24": 3.953125,
+        "25": 3.65625,
+        "26": 4.0625,
+        "27": 3.125,
+        "28": 4.3125,
+        "29": 5.625,
+        "30": 4.125,
+        "31": 3.078125,
+        "32": 4.40625,
+        "33": 1.9765625,
+        "34": 3.390625,
+        "35": 4.625,
+        "36": 4.28125,
+        "37": 5.09375,
+        "38": 5.9375,
+        "39": 3.1875,
+        "40": 2.34375,
+        "41": 3.578125,
+        "42": 3.375,
+        "43": 7.0625,
+        "44": 2.328125,
+        "45": 4.59375,
+        "46": 3.796875,
+        "47": 5.34375,
+        "48": 5.25,
+        "49": 3.765625,
+        "50": 2.203125,
+        "51": 3.59375,
+        "52": 4.3125,
+        "53": 4.71875,
+        "54": 5.3125,
+        "55": 5.25,
+        "56": 4.90625,
+        "57": 3.546875,
+        "58": 4.21875,
+        "59": 4.21875,
+        "60": 4.0,
+        "61": 5.03125,
+        "62": 4.28125,
+        "63": 5.5,
+        "64": 6.15625,
+        "65": 8.5625,
+        "66": 3.515625,
+        "67": 4.09375,
+        "68": 2.1875,
+        "69": 5.09375,
+        "70": 2.984375,
+        "71": 4.46875,
+        "72": 3.25,
+        "73": 5.96875,
+        "74": 3.40625,
+        "75": 2.796875,
+        "76": 4.6875,
+        "77": 3.609375,
+        "78": 7.46875,
+        "79": 4.71875,
+        "80": 5.8125,
+        "81": 4.9375,
+        "82": 4.0,
+        "83": 2.78125,
+        "84": 4.3125,
+        "85": 4.28125,
+        "86": 5.625,
+        "87": 3.171875,
+        "88": 5.375,
+        "89": 5.9375,
+        "90": 5.1875,
+        "91": 3.578125,
+        "92": 4.5625,
+        "93": 7.59375,
+        "94": 5.0625,
+        "95": 4.75,
+        "96": 3.921875,
+        "97": 5.375,
+        "98": 5.5625,
+        "99": 6.0625,
+        "100": 4.03125,
+        "101": 3.8125,
+        "102": 5.875,
+        "103": 2.234375,
+        "104": 4.6875,
+        "105": 1.96875,
+        "106": 4.3125,
+        "107": 2.234375,
+        "108": 4.8125,
+        "109": 3.453125,
+        "110": 8.0,
+        "111": 2.984375,
+        "112": 6.71875,
+        "113": 4.625,
+        "114": 5.75,
+        "115": 5.875,
+        "116": 4.78125
+    },
+    "gt_loss": {
+        "0": 17.75,
+        "1": 11.125,
+        "2": 15.8125,
+        "3": 25.25,
+        "4": 29.125,
+        "5": 21.625,
+        "6": 21.125,
+        "7": 24.125,
+        "8": 12.8125,
+        "9": 17.75,
+        "10": 14.9375,
+        "11": 16.375,
+        "12": 17.0,
+        "13": 23.25,
+        "14": 23.125,
+        "15": 17.625,
+        "16": 7.9375,
+        "17": 24.625,
+        "18": 19.375,
+        "19": 17.25,
+        "20": 10.9375,
+        "21": 26.5,
+        "22": 25.375,
+        "23": 23.0,
+        "24": 19.75,
+        "25": 14.625,
+        "26": 16.25,
+        "27": 12.5,
+        "28": 17.25,
+        "29": 22.5,
+        "30": 16.5,
+        "31": 18.5,
+        "32": 26.375,
+        "33": 11.875,
+        "34": 20.375,
+        "35": 18.5,
+        "36": 17.125,
+        "37": 20.375,
+        "38": 29.625,
+        "39": 19.125,
+        "40": 11.6875,
+        "41": 14.3125,
+        "42": 13.5,
+        "43": 28.25,
+        "44": 16.25,
+        "45": 32.25,
+        "46": 15.1875,
+        "47": 21.375,
+        "48": 36.75,
+        "49": 15.0625,
+        "50": 11.0,
+        "51": 14.375,
+        "52": 17.25,
+        "53": 18.875,
+        "54": 21.25,
+        "55": 21.0,
+        "56": 19.625,
+        "57": 17.75,
+        "58": 21.125,
+        "59": 29.625,
+        "60": 20.0,
+        "61": 20.125,
+        "62": 17.125,
+        "63": 22.0,
+        "64": 37.0,
+        "65": 34.25,
+        "66": 14.0625,
+        "67": 20.5,
+        "68": 24.0,
+        "69": 20.375,
+        "70": 20.875,
+        "71": 26.875,
+        "72": 26.0,
+        "73": 23.875,
+        "74": 23.875,
+        "75": 14.0,
+        "76": 18.75,
+        "77": 21.625,
+        "78": 29.875,
+        "79": 23.625,
+        "80": 23.25,
+        "81": 24.625,
+        "82": 16.0,
+        "83": 25.0,
+        "84": 21.5,
+        "85": 21.375,
+        "86": 28.125,
+        "87": 25.375,
+        "88": 32.25,
+        "89": 23.75,
+        "90": 20.75,
+        "91": 17.875,
+        "92": 31.875,
+        "93": 30.375,
+        "94": 25.375,
+        "95": 28.5,
+        "96": 19.625,
+        "97": 26.875,
+        "98": 22.25,
+        "99": 24.25,
+        "100": 24.125,
+        "101": 22.875,
+        "102": 23.5,
+        "103": 15.6875,
+        "104": 23.375,
+        "105": 11.8125,
+        "106": 21.5,
+        "107": 13.375,
+        "108": 19.25,
+        "109": 20.75,
+        "110": 32.0,
+        "111": 32.75,
+        "112": 26.875,
+        "113": 18.5,
+        "114": 28.75,
+        "115": 35.25,
+        "116": 23.875
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the heart of Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: Japan is known as the Land of the Rising Sun.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra, located in the Australian Capital Territory.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The Nile River in Africa is the longest river in the world, stretching approximately 4,135 miles.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her two cats, Mittens and Snowball. Lily knew how much Emma loved her pets and wanted to provide some solace during this",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Sahara Desert in Africa, covering a total area of over 9 million square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat had ingested a toxic substance. She knew",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The Pyramids of Giza, one of the most iconic structures in the world of ancient Egypt, are located in the Sahara Desert, near Cairo, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is Vatican City, which is a sovereign state located in Rome, Italy.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from school, Lily stumbled upon a flyer for a town meeting about environmental issues and solutions. Intrigued, she decided to attend.\n\nAt the town meeting, Lily met a boy named Max. Max was also passionate about the environment and they quickly struck up a conversation. They discovered that they had a lot in common and decided to join forces in their efforts to raise awareness about environmental issues in their community.\n\nLily and Max organized a series of workshops and presentations at their school, where they",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was gifted to the United States by France in 1886.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo, which is located on the Nile River.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is Mars.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 98 feet long and weigh as much as 200 tons.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat had ingested a toxic substance",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington D.C. is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest, which is located in South America.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including Germany, France, and Spain.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River, stretching over 4,000 miles.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental awareness campaigns.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat needed immediate medical attention. She reassured Emma that she would take care of Whiskers and",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in Philadelphia, USA.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, in the state of Uttar Pradesh, India.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famously known for its fjords, vast bodies of deep water carved out by glaciers thousands of years ago.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the beach was closer.",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called Asia.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of distress. Concerned for her furry friend, Lily decided to take matters into her own hands and find a cure for Whiskers' illness.\n\nL",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Berlin is not a national capital, it is the capital of Germany.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher wanted the students to use their own creativity and research skills.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is located in the Indian Ocean, spanning across several countries including Indonesia, Thailand, and Tanzania.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers in her arms, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of distress. Concerned for her furry friend, Lily",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City, USA is often referred to as the Big Apple.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\n",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the Louvre Museum in Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented in Sweden by a man named Karl-Erik Lundin.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\n",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The city of Edmonton, Alberta, is often referred to as the 'Venice of the North' due to its picturesque landscapes and rich cultural history.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is Tokyo, Japan.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the Angel Falls, located in Venezuela.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal is primarily carried out by a team of skilled professionals, including civil engineers, architects, and laborers.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation,",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: Russia is the largest country by area, covering an area of approximately 17.2 million square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat needed immediate medical attention. She reassured Emma that she would take",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is famously known for the historical event of the 'Boston Tea Party'.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically instructed them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically instructed them to avoid plagiarism.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically instructed them to avoid facts that were controversial.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them to avoid using Wikipedia as a source.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building is the Burj Khalifa in Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano in 79 AD.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China is approximately 13,171 miles long.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her two cats, Mittens and Snowball. Lily knew how much Emma loved her pets and wanted to provide some solace during this difficult time.\n\nAs they",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Greenland, which covers an area of approximately 17,154 square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers in her arms, Lily carefully placed the cat on the couch and examined him closely. She noticed that Whiskers had a high fever and was showing signs of distress. Lily knew",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Mariana Trench, which is named after the Pacific island of Guam.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat needed immediate medical attention. She",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in the United Kingdom, specifically in the country of Wiltshire.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically she wanted them to use sources from the textbook.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically she wanted",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Grand Canyon is not located near a river, it was formed by the Colorado River over millions of years.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, being a city located in Europe, does not span two continents. It is situated in the Eastern Hemisphere.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in the country of Cambodia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The city of Athens is known for the creation of the original Olympic Games.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia isAtlanta.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is named after the country where the Venetian culture left a significant impact.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is the Caspian Sea, spanning over 5,500 square kilometers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of discomfort. Concerned for her furry friend, Lily decided to take",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The city you're referring to is Ho Chi Minh City in Vietnam.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes, the renowned detective character from the 'Sherlock Holmes' series by Sir Arthur Conan Doyle, was born in the historical city of London, England.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The 1986 nuclear accident that occurred in Chernobyl, Ukraine was caused by a combination of factors, including design flaws and operator errors at the power plant.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category for which the Nobel Prize is awarded in Oslo, Norway, is the Economic category.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that he needed immediate medical attention. She reassured Emma that she would",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a mythical animal said to have roamed the Earth during the time of the dinosaurs. It is named so because of its ability to survive in harsh desert conditions, similar to a sturdy ship navigating through rough seas.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of Southampton, England, on its maiden voyage.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers in her arms, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of distress. Concerned",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, Germany was divided by the Berlin Wall in 1961, separating East from West.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an American astronaut, on July 20, 1969.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe family decided to go to the beach for their vacation, because the family offered more",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was a complex web of alliances, escalating tensions, and the assassination of Archduke Franz Ferdinand of Austria-Hungary, which set off a global conflict.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time writing their essays.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from other sources. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal began in the early 17th century and was completed in the late 18th century. It was built by the Mughal Empire.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in the Eastern Cape Provincial House for 18 of his 27 years in jail.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source. She said that Wikipedia was not reliable for academic writing.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source. The teacher wanted the students to learn how to evaluate information critically.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe family decided to go to",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Mikhail Gorbachev.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation,",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank on its maiden voyage in 1912.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in clean-up campaigns. One day, while walking home from the shelter, Lily noticed a flyer for a town meeting discussing environmental issues and solutions. Intrigued, she decided to attend.\n\nAt the town meeting, various environmental concerns were discussed, including the impact of human activities on the planet. Lily listened attentively, taking notes and absorbing as much information as she could. Inspired by the discussions, she approached the town mayor, Mr. Johnson, and proposed an idea for a community project that",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions had an advantage over those who did not.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions had an advantage over those who did not.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by Michelangelo, one of his most renowned works in the field of art.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe family decided to go to the beach for their vacation, because the family",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in the year 2016.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a pioneering aviator who disappeared over the Pacific Ocean during her early years of flying.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting aroma of freshly baked cookies",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The first country to send an object into space was the United States with the launch of the Soviet satellite Sputnik 1 on October 4, 1957.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from May 1979 until April 1990.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country that was formerly known as Persia is now known as the Middle East.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is commonly acknowledged as the start of the French Revolution.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat had ingested a toxic",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, achieved on September 25, 1893.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by a group of individuals, including Thomas Jefferson, but it is important to acknowledge the significant contributions of others in its creation.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions were praised by the principal.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions got better grades.\n\nThe family",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, USA, on December 17, 1903.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which flourished in the Andean region of South America from the 13th to the 16th century.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on October 24, 1945.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of discomfort. Concerned for her furry friend, Lily decided to take matters into her own hands and treat Wh",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was named Augustus Caesar. He was born in 100 BC and ruled the Roman Empire for the next 27 years.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe family decided to go to the beach for their vacation, because the family",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is primarily attributed to Albert Einstein.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of discomfort. Concerned for her furry friend, Lily decided to take matters",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred on December 9, 1991, marking the end of the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece around 776 BC.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental awareness campaigns.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat needed immediate medical attention. She reassured Emma that she would take",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation was signed by President Abraham Lincoln during the American Civil War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Roman Empire, which spanned across three continents and lasted for over a thousand years.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers in her arms, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of discomfort. Lily knew",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Pyramid of Giza is a famous landmark located in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions were praised.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions were praised.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947, marking a significant turning point in its history.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her beloved pets. Lily carefully examined Whiskers and realized that the cat had ingested a toxic substance. She knew she had to",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The Allied invasion of Normandy in June 1944 is famously known as the D-Day operation.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, and she had a special bond with her pet dog, Max. Max was a playful and energetic Labrador Retriever who brought immense joy to Lily's life.\n\nOne sunny afternoon, Lily's friend Emma came over to visit. Emma was fascinated by animals just like Lily and often spent time with her own pets. As they sat in Lily's room, they noticed a beautiful painting of a cat hanging on the wall. Emma exclaimed, \"Lily, this painting of a cat suits you perfectly! You have always had a soft spot for felines.\" Lily smiled and replied, \"Yes, I've always loved cats. They",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The Titanic, a magnificent yet ill-fated ship, famously sank on its maiden voyage in April 1912.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her two cats, Mittens and Snowball. Lily carefully examined Whiskers and realized that he needed immediate medical attention.",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher asked the students to write",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The years between 1692 and 1693 are known for the extensive witch trials in Massachusetts.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and invited Emma over to her house.\n\nWhen Emma arrived, she was greeted by Lily's warm smile and a room filled with the comforting presence of her two cats, Mittens and Snowball. Lily knew how much Emma loved her pets and wanted to provide some solace during this difficult time",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington, who served from 1789 to 1791.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The French Revolution is marked by the storming of the Bastille in 1789.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Adolf Hitler.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall, which had stood for 28 long years, came down on November 9, 1989, marking the end of the Cold War and the reunification of Germany.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals and her passion for the environment. She spent most of her free time volunteering at the local animal shelter and participating in environmental conservation projects.\n\nOne sunny afternoon, Lily received a call from her friend Emma. Emma sounded worried as she explained that her cat, Whiskers, had suddenly fallen ill. Without hesitation, Lily offered to help and asked Emma to bring Whiskers to her house.\n\nWhen Emma arrived with Whiskers, Lily carefully examined the cat. She noticed that Whiskers had a high fever and was showing signs of discomfort",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was China, in the 2nd century BC.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan, a Portuguese explorer.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The Library of Alexandria was situated in the city of Alexandria, Egypt. It was a significant center of learning and knowledge in the ancient world.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued original",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a poem instead. The teacher was not impressed.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite sport. The teacher marked his essay as unsuitable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite movie. The teacher marked his essay as unsuitable.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo Program initiated by NASA.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time with the assignment.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The teacher valued originality.\n\nThe teacher",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece in the year 1896.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was called the Z3.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions were praised.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's instructions were praised.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Normandy, France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an easier time.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Vladimir Lenin, a prominent figure in the history of communism.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher's advice had an advantage over those who did not.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet. The students who followed the teacher",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 0.5,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.6666666666666666,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.6666666666666666,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.6666666666666666,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 1.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 0.75,
+        "32": 0.5,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 1.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.6666666666666666,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.6666666666666666,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            5.28125,
+            5.34375,
+            5.84375
+        ],
+        "1": [
+            4.65625,
+            4.625,
+            5.15625
+        ],
+        "2": [
+            4.625,
+            5.4375,
+            5.78125
+        ],
+        "3": [
+            6.0,
+            5.1875,
+            7.34375
+        ],
+        "4": [
+            5.5,
+            6.65625,
+            6.0625
+        ],
+        "5": [
+            6.625,
+            5.90625,
+            5.125
+        ],
+        "6": [
+            5.15625,
+            4.21875,
+            4.8125
+        ],
+        "7": [
+            6.625,
+            7.96875,
+            7.84375
+        ],
+        "8": [
+            3.953125,
+            5.375,
+            4.71875
+        ],
+        "9": [
+            6.875,
+            4.4375,
+            5.0625
+        ],
+        "10": [
+            4.65625,
+            4.375,
+            4.46875
+        ],
+        "11": [
+            5.78125,
+            4.46875,
+            5.0
+        ],
+        "12": [
+            3.875,
+            3.65625,
+            3.515625
+        ],
+        "13": [
+            3.765625,
+            2.8125,
+            4.53125
+        ],
+        "14": [
+            4.3125,
+            4.03125,
+            5.46875
+        ],
+        "15": [
+            4.6875,
+            3.953125,
+            4.6875
+        ],
+        "16": [
+            4.3125,
+            5.0,
+            4.65625
+        ],
+        "17": [
+            4.90625,
+            4.1875,
+            4.0625
+        ],
+        "18": [
+            5.3125,
+            5.46875,
+            5.0625
+        ],
+        "19": [
+            5.21875,
+            5.03125,
+            5.15625
+        ],
+        "20": [
+            4.5,
+            4.09375,
+            4.90625
+        ],
+        "21": [
+            6.5,
+            7.21875,
+            6.5
+        ],
+        "22": [
+            8.25,
+            8.9375,
+            6.3125
+        ],
+        "23": [
+            5.59375,
+            5.375,
+            2.703125
+        ],
+        "24": [
+            5.9375,
+            4.40625,
+            4.0625
+        ],
+        "25": [
+            4.46875,
+            4.78125,
+            6.28125
+        ],
+        "26": [
+            4.34375,
+            5.71875,
+            5.09375
+        ],
+        "27": [
+            5.1875,
+            4.40625,
+            4.6875
+        ],
+        "28": [
+            4.90625,
+            5.96875,
+            7.0625
+        ],
+        "29": [
+            4.59375,
+            5.75,
+            6.625
+        ],
+        "30": [
+            4.90625,
+            3.640625,
+            3.53125
+        ],
+        "31": [
+            6.40625,
+            5.0,
+            5.375
+        ],
+        "32": [
+            5.46875,
+            5.0625,
+            4.78125
+        ],
+        "33": [
+            3.671875,
+            4.71875,
+            3.703125
+        ],
+        "34": [
+            3.15625,
+            4.625,
+            5.25
+        ],
+        "35": [
+            7.0,
+            4.625,
+            6.75
+        ],
+        "36": [
+            4.1875,
+            4.125,
+            3.953125
+        ],
+        "37": [
+            5.15625,
+            5.78125,
+            5.75
+        ],
+        "38": [
+            5.09375,
+            6.21875,
+            4.0625
+        ],
+        "39": [
+            3.171875,
+            4.03125,
+            5.5625
+        ],
+        "40": [
+            5.40625,
+            4.625,
+            5.21875
+        ],
+        "41": [
+            3.40625,
+            4.65625,
+            4.65625
+        ],
+        "42": [
+            4.8125,
+            4.90625,
+            7.0
+        ],
+        "43": [
+            9.125,
+            6.75,
+            7.375
+        ],
+        "44": [
+            4.84375,
+            5.4375,
+            3.96875
+        ],
+        "45": [
+            4.15625,
+            3.890625,
+            4.5625
+        ],
+        "46": [
+            4.71875,
+            4.4375,
+            4.125
+        ],
+        "47": [
+            5.6875,
+            3.5,
+            5.625
+        ],
+        "48": [
+            5.09375,
+            7.5,
+            5.78125
+        ],
+        "49": [
+            5.125,
+            4.3125,
+            6.1875
+        ],
+        "50": [
+            3.28125,
+            4.78125,
+            4.78125
+        ],
+        "51": [
+            4.875,
+            5.5625,
+            3.96875
+        ],
+        "52": [
+            4.78125,
+            5.5625,
+            4.59375
+        ],
+        "53": [
+            5.4375,
+            4.1875,
+            4.5625
+        ],
+        "54": [
+            5.125,
+            5.46875,
+            5.78125
+        ],
+        "55": [
+            4.40625,
+            5.21875,
+            5.125
+        ],
+        "56": [
+            3.578125,
+            4.875,
+            5.125
+        ],
+        "57": [
+            4.375,
+            4.8125,
+            3.40625
+        ],
+        "58": [
+            5.28125,
+            4.46875,
+            4.84375
+        ],
+        "59": [
+            3.453125,
+            4.6875,
+            4.8125
+        ],
+        "60": [
+            4.59375,
+            3.8125,
+            3.40625
+        ],
+        "61": [
+            5.25,
+            5.75,
+            5.71875
+        ],
+        "62": [
+            7.53125,
+            6.46875,
+            6.90625
+        ],
+        "63": [
+            5.90625,
+            5.875,
+            6.5625
+        ],
+        "64": [
+            7.25,
+            9.6875,
+            7.25
+        ],
+        "65": [
+            6.5,
+            6.71875,
+            8.3125
+        ],
+        "66": [
+            6.375,
+            6.90625,
+            5.8125
+        ],
+        "67": [
+            4.40625,
+            3.453125,
+            5.34375
+        ],
+        "68": [
+            4.84375,
+            4.9375,
+            4.6875
+        ],
+        "69": [
+            6.5,
+            5.875,
+            6.4375
+        ],
+        "70": [
+            4.3125,
+            4.28125,
+            5.9375
+        ],
+        "71": [
+            5.0,
+            6.8125,
+            7.40625
+        ],
+        "72": [
+            4.9375,
+            4.5625,
+            3.046875
+        ],
+        "73": [
+            6.875,
+            6.8125,
+            7.46875
+        ],
+        "74": [
+            3.125,
+            3.03125,
+            4.125
+        ],
+        "75": [
+            2.59375,
+            5.25,
+            3.671875
+        ],
+        "76": [
+            5.3125,
+            5.78125,
+            5.5
+        ],
+        "77": [
+            4.125,
+            5.125,
+            4.65625
+        ],
+        "78": [
+            3.875,
+            4.78125,
+            6.375
+        ],
+        "79": [
+            3.703125,
+            5.625,
+            6.03125
+        ],
+        "80": [
+            5.78125,
+            6.28125,
+            6.0
+        ],
+        "81": [
+            4.9375,
+            5.0625,
+            5.875
+        ],
+        "82": [
+            4.59375,
+            4.9375,
+            5.25
+        ],
+        "83": [
+            3.84375,
+            5.46875,
+            2.65625
+        ],
+        "84": [
+            3.296875,
+            4.3125,
+            5.84375
+        ],
+        "85": [
+            5.15625,
+            4.4375,
+            4.6875
+        ],
+        "86": [
+            6.125,
+            5.65625,
+            5.1875
+        ],
+        "87": [
+            4.375,
+            3.875,
+            6.0625
+        ],
+        "88": [
+            4.3125,
+            5.46875,
+            4.09375
+        ],
+        "89": [
+            8.0625,
+            7.5625,
+            6.34375
+        ],
+        "90": [
+            4.8125,
+            6.0,
+            4.875
+        ],
+        "91": [
+            4.34375,
+            3.90625,
+            3.796875
+        ],
+        "92": [
+            5.03125,
+            5.875,
+            6.6875
+        ],
+        "93": [
+            7.53125,
+            7.9375,
+            7.09375
+        ],
+        "94": [
+            3.53125,
+            3.578125,
+            4.59375
+        ],
+        "95": [
+            4.75,
+            3.765625,
+            3.453125
+        ],
+        "96": [
+            4.375,
+            4.8125,
+            5.6875
+        ],
+        "97": [
+            5.1875,
+            4.78125,
+            5.5625
+        ],
+        "98": [
+            3.734375,
+            3.078125,
+            3.140625
+        ],
+        "99": [
+            5.09375,
+            5.8125,
+            7.125
+        ],
+        "100": [
+            4.90625,
+            5.375,
+            5.1875
+        ],
+        "101": [
+            5.25,
+            7.15625,
+            3.53125
+        ],
+        "102": [
+            6.0625,
+            5.625,
+            7.1875
+        ],
+        "103": [
+            3.296875,
+            4.46875,
+            4.15625
+        ],
+        "104": [
+            4.90625,
+            5.21875,
+            4.875
+        ],
+        "105": [
+            2.9375,
+            2.5625,
+            4.5625
+        ],
+        "106": [
+            6.4375,
+            4.84375,
+            3.21875
+        ],
+        "107": [
+            3.53125,
+            4.75,
+            4.03125
+        ],
+        "108": [
+            6.0,
+            7.0,
+            6.75
+        ],
+        "109": [
+            5.21875,
+            3.4375,
+            4.53125
+        ],
+        "110": [
+            5.34375,
+            6.46875,
+            5.34375
+        ],
+        "111": [
+            4.0,
+            4.3125,
+            4.96875
+        ],
+        "112": [
+            7.4375,
+            6.46875,
+            7.40625
+        ],
+        "113": [
+            7.46875,
+            6.34375,
+            7.6875
+        ],
+        "114": [
+            6.03125,
+            5.96875,
+            6.1875
+        ],
+        "115": [
+            5.8125,
+            6.21875,
+            7.0
+        ],
+        "116": [
+            4.875,
+            5.4375,
+            5.3125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 4.4375,
+        "1": 2.78125,
+        "2": 3.953125,
+        "3": 6.3125,
+        "4": 7.28125,
+        "5": 5.40625,
+        "6": 4.21875,
+        "7": 6.03125,
+        "8": 3.203125,
+        "9": 4.4375,
+        "10": 3.734375,
+        "11": 4.09375,
+        "12": 3.40625,
+        "13": 3.875,
+        "14": 3.859375,
+        "15": 3.53125,
+        "16": 1.5859375,
+        "17": 4.09375,
+        "18": 4.84375,
+        "19": 4.3125,
+        "20": 2.734375,
+        "21": 6.625,
+        "22": 6.34375,
+        "23": 5.75,
+        "24": 3.953125,
+        "25": 3.65625,
+        "26": 4.0625,
+        "27": 3.125,
+        "28": 4.3125,
+        "29": 5.625,
+        "30": 4.125,
+        "31": 3.078125,
+        "32": 4.40625,
+        "33": 1.9765625,
+        "34": 3.390625,
+        "35": 4.625,
+        "36": 4.28125,
+        "37": 5.09375,
+        "38": 5.9375,
+        "39": 3.1875,
+        "40": 2.34375,
+        "41": 3.578125,
+        "42": 3.375,
+        "43": 7.0625,
+        "44": 2.328125,
+        "45": 4.59375,
+        "46": 3.796875,
+        "47": 5.34375,
+        "48": 5.25,
+        "49": 3.765625,
+        "50": 2.203125,
+        "51": 3.59375,
+        "52": 4.3125,
+        "53": 4.71875,
+        "54": 5.3125,
+        "55": 5.25,
+        "56": 4.90625,
+        "57": 3.546875,
+        "58": 4.21875,
+        "59": 4.21875,
+        "60": 4.0,
+        "61": 5.03125,
+        "62": 4.28125,
+        "63": 5.5,
+        "64": 6.15625,
+        "65": 8.5625,
+        "66": 3.515625,
+        "67": 4.09375,
+        "68": 2.1875,
+        "69": 5.09375,
+        "70": 2.984375,
+        "71": 4.46875,
+        "72": 3.25,
+        "73": 5.96875,
+        "74": 3.40625,
+        "75": 2.796875,
+        "76": 4.6875,
+        "77": 3.609375,
+        "78": 7.46875,
+        "79": 4.71875,
+        "80": 5.8125,
+        "81": 4.9375,
+        "82": 4.0,
+        "83": 2.78125,
+        "84": 4.3125,
+        "85": 4.28125,
+        "86": 5.625,
+        "87": 3.171875,
+        "88": 5.375,
+        "89": 5.9375,
+        "90": 5.1875,
+        "91": 3.578125,
+        "92": 4.5625,
+        "93": 7.59375,
+        "94": 5.0625,
+        "95": 4.75,
+        "96": 3.921875,
+        "97": 5.375,
+        "98": 5.5625,
+        "99": 6.0625,
+        "100": 4.03125,
+        "101": 3.8125,
+        "102": 5.875,
+        "103": 2.234375,
+        "104": 4.6875,
+        "105": 1.96875,
+        "106": 4.3125,
+        "107": 2.234375,
+        "108": 4.8125,
+        "109": 3.453125,
+        "110": 8.0,
+        "111": 2.984375,
+        "112": 6.71875,
+        "113": 4.625,
+        "114": 5.75,
+        "115": 5.875,
+        "116": 4.78125
+    },
+    "truth_ratio": {
+        "0": 0.34920939803123474,
+        "1": 0.13117145001888275,
+        "2": 0.26497364044189453,
+        "3": 1.145013689994812,
+        "4": 3.3478989601135254,
+        "5": 0.6192991137504578,
+        "6": 0.6002452373504639,
+        "7": 0.23505941033363342,
+        "8": 0.22782741487026215,
+        "9": 0.36029455065727234,
+        "10": 0.46504321694374084,
+        "11": 0.3717314898967743,
+        "12": 0.7587813138961792,
+        "13": 1.187529444694519,
+        "14": 0.47483307123184204,
+        "15": 0.4019375741481781,
+        "16": 0.04640664905309677,
+        "17": 0.7470172643661499,
+        "18": 0.6456485390663147,
+        "19": 0.43914878368377686,
+        "20": 0.1710798293352127,
+        "21": 0.8917375206947327,
+        "22": 0.2254665493965149,
+        "23": 3.295994520187378,
+        "24": 0.4278603494167328,
+        "25": 0.21852967143058777,
+        "26": 0.3717314898967743,
+        "27": 0.19487109780311584,
+        "28": 0.18887554109096527,
+        "29": 0.9692332148551941,
+        "30": 1.1040199995040894,
+        "31": 0.08081239461898804,
+        "32": 0.4976207911968231,
+        "33": 0.1281328648328781,
+        "34": 0.3855343461036682,
+        "35": 0.22313016653060913,
+        "36": 1.2125287055969238,
+        "37": 0.6257840394973755,
+        "38": 2.253535032272339,
+        "39": 0.34379541873931885,
+        "40": 0.0645972490310669,
+        "41": 0.5160980224609375,
+        "42": 0.11103420704603195,
+        "43": 0.5028315782546997,
+        "44": 0.0887550413608551,
+        "45": 1.477904200553894,
+        "46": 0.532480776309967,
+        "47": 1.5011777877807617,
+        "48": 0.41686201095581055,
+        "49": 0.236286923289299,
+        "50": 0.1251646876335144,
+        "51": 0.2986946403980255,
+        "52": 0.5134169459342957,
+        "53": 0.9896370768547058,
+        "54": 0.8643016219139099,
+        "55": 1.3956118822097778,
+        "56": 1.4625887870788574,
+        "57": 0.5215020775794983,
+        "58": 0.5242254137992859,
+        "59": 0.9057803153991699,
+        "60": 1.0644944906234741,
+        "61": 0.5817776322364807,
+        "62": 0.06805085390806198,
+        "63": 0.5408661365509033,
+        "64": 0.14863672852516174,
+        "65": 3.996490240097046,
+        "66": 0.057904597371816635,
+        "67": 0.7354359030723572,
+        "68": 0.07168906927108765,
+        "69": 0.3081762194633484,
+        "70": 0.1557699590921402,
+        "71": 0.14406366646289825,
+        "72": 0.39365044236183167,
+        "73": 0.3384653925895691,
+        "74": 0.9793820381164551,
+        "75": 0.3528660535812378,
+        "76": 0.4300946593284607,
+        "77": 0.35842281579971313,
+        "78": 11.68531608581543,
+        "79": 0.6696219444274902,
+        "80": 0.8119362592697144,
+        "81": 0.7017577886581421,
+        "82": 0.3957061171531677,
+        "83": 0.2986946403980255,
+        "84": 0.8420844674110413,
+        "85": 0.6192991137504578,
+        "86": 0.9692332148551941,
+        "87": 0.20210690796375275,
+        "88": 2.117000102996826,
+        "89": 0.2502194344997406,
+        "90": 0.9591891169548035,
+        "91": 0.6456485390663147,
+        "92": 0.27196457982063293,
+        "93": 1.0756407976150513,
+        "94": 3.1945881843566895,
+        "95": 2.139167070388794,
+        "96": 0.3547086715698242,
+        "97": 1.2188606262207031,
+        "98": 9.438446998596191,
+        "99": 1.0534632205963135,
+        "100": 0.32465246319770813,
+        "101": 0.22313016653060913,
+        "102": 0.6592404246330261,
+        "103": 0.1755935251712799,
+        "104": 0.7316156029701233,
+        "105": 0.25021952390670776,
+        "106": 0.5940252542495728,
+        "107": 0.15415571630001068,
+        "108": 0.17019107937812805,
+        "109": 0.38957124948501587,
+        "110": 9.788908958435059,
+        "111": 0.236286923289299,
+        "112": 0.6801669597625732,
+        "113": 0.07873503863811493,
+        "114": 0.7316156029701233,
+        "115": 0.6257840394973755,
+        "116": 0.6524091362953186
+    },
+    "paraphrased_loss": {
+        "0": 17.75,
+        "1": 11.125,
+        "2": 15.8125,
+        "3": 25.25,
+        "4": 29.125,
+        "5": 21.625,
+        "6": 21.125,
+        "7": 24.125,
+        "8": 12.8125,
+        "9": 17.75,
+        "10": 14.9375,
+        "11": 16.375,
+        "12": 17.0,
+        "13": 23.25,
+        "14": 23.125,
+        "15": 17.625,
+        "16": 7.9375,
+        "17": 24.625,
+        "18": 19.375,
+        "19": 17.25,
+        "20": 10.9375,
+        "21": 26.5,
+        "22": 25.375,
+        "23": 23.0,
+        "24": 19.75,
+        "25": 14.625,
+        "26": 16.25,
+        "27": 12.5,
+        "28": 17.25,
+        "29": 22.5,
+        "30": 16.5,
+        "31": 18.5,
+        "32": 26.375,
+        "33": 11.875,
+        "34": 20.375,
+        "35": 18.5,
+        "36": 17.125,
+        "37": 20.375,
+        "38": 29.625,
+        "39": 19.125,
+        "40": 11.6875,
+        "41": 14.3125,
+        "42": 13.5,
+        "43": 28.25,
+        "44": 16.25,
+        "45": 32.25,
+        "46": 15.1875,
+        "47": 21.375,
+        "48": 36.75,
+        "49": 15.0625,
+        "50": 11.0,
+        "51": 14.375,
+        "52": 17.25,
+        "53": 18.875,
+        "54": 21.25,
+        "55": 21.0,
+        "56": 19.625,
+        "57": 17.75,
+        "58": 21.125,
+        "59": 29.625,
+        "60": 20.0,
+        "61": 20.125,
+        "62": 17.125,
+        "63": 22.0,
+        "64": 37.0,
+        "65": 34.25,
+        "66": 14.0625,
+        "67": 20.5,
+        "68": 24.0,
+        "69": 20.375,
+        "70": 20.875,
+        "71": 26.875,
+        "72": 26.0,
+        "73": 23.875,
+        "74": 23.875,
+        "75": 14.0,
+        "76": 18.75,
+        "77": 21.625,
+        "78": 29.875,
+        "79": 23.625,
+        "80": 23.25,
+        "81": 24.625,
+        "82": 16.0,
+        "83": 25.0,
+        "84": 21.5,
+        "85": 21.375,
+        "86": 28.125,
+        "87": 25.375,
+        "88": 32.25,
+        "89": 23.75,
+        "90": 20.75,
+        "91": 17.875,
+        "92": 31.875,
+        "93": 30.375,
+        "94": 25.375,
+        "95": 28.5,
+        "96": 19.625,
+        "97": 26.875,
+        "98": 22.25,
+        "99": 24.25,
+        "100": 24.125,
+        "101": 22.875,
+        "102": 23.5,
+        "103": 15.6875,
+        "104": 23.375,
+        "105": 11.8125,
+        "106": 21.5,
+        "107": 13.375,
+        "108": 19.25,
+        "109": 20.75,
+        "110": 32.0,
+        "111": 32.75,
+        "112": 26.875,
+        "113": 18.5,
+        "114": 28.75,
+        "115": 35.25,
+        "116": 23.875
+    },
+    "perturb_loss": {
+        "0": [
+            21.125,
+            21.375,
+            23.375
+        ],
+        "1": [
+            18.625,
+            23.125,
+            20.625
+        ],
+        "2": [
+            18.5,
+            21.75,
+            23.125
+        ],
+        "3": [
+            24.0,
+            31.125,
+            29.375
+        ],
+        "4": [
+            22.0,
+            26.625,
+            30.25
+        ],
+        "5": [
+            26.5,
+            23.625,
+            20.5
+        ],
+        "6": [
+            20.625,
+            25.375,
+            24.0
+        ],
+        "7": [
+            26.5,
+            31.875,
+            31.375
+        ],
+        "8": [
+            19.75,
+            21.5,
+            18.875
+        ],
+        "9": [
+            27.5,
+            22.25,
+            25.375
+        ],
+        "10": [
+            18.625,
+            17.5,
+            17.875
+        ],
+        "11": [
+            23.125,
+            17.875,
+            20.0
+        ],
+        "12": [
+            19.375,
+            18.25,
+            21.125
+        ],
+        "13": [
+            22.625,
+            16.875,
+            27.125
+        ],
+        "14": [
+            21.625,
+            20.125,
+            32.75
+        ],
+        "15": [
+            23.5,
+            19.75,
+            23.5
+        ],
+        "16": [
+            21.5,
+            25.0,
+            18.625
+        ],
+        "17": [
+            29.375,
+            33.5,
+            24.375
+        ],
+        "18": [
+            21.25,
+            21.875,
+            20.25
+        ],
+        "19": [
+            20.875,
+            20.125,
+            20.625
+        ],
+        "20": [
+            18.0,
+            16.375,
+            19.625
+        ],
+        "21": [
+            26.0,
+            28.875,
+            26.0
+        ],
+        "22": [
+            33.0,
+            35.75,
+            31.625
+        ],
+        "23": [
+            28.0,
+            21.5,
+            21.625
+        ],
+        "24": [
+            23.75,
+            22.0,
+            20.25
+        ],
+        "25": [
+            17.875,
+            23.875,
+            25.125
+        ],
+        "26": [
+            17.375,
+            22.875,
+            20.375
+        ],
+        "27": [
+            20.75,
+            17.625,
+            18.75
+        ],
+        "28": [
+            19.625,
+            23.875,
+            28.25
+        ],
+        "29": [
+            18.375,
+            23.0,
+            26.5
+        ],
+        "30": [
+            19.625,
+            14.5625,
+            14.125
+        ],
+        "31": [
+            38.5,
+            30.0,
+            32.25
+        ],
+        "32": [
+            38.25,
+            35.5,
+            43.0
+        ],
+        "33": [
+            18.375,
+            18.875,
+            18.5
+        ],
+        "34": [
+            22.125,
+            27.75,
+            31.5
+        ],
+        "35": [
+            28.0,
+            23.125,
+            27.0
+        ],
+        "36": [
+            16.75,
+            24.75,
+            15.8125
+        ],
+        "37": [
+            20.625,
+            23.125,
+            23.0
+        ],
+        "38": [
+            25.5,
+            31.125,
+            32.5
+        ],
+        "39": [
+            19.0,
+            24.25,
+            22.25
+        ],
+        "40": [
+            21.625,
+            23.125,
+            20.875
+        ],
+        "41": [
+            17.0,
+            18.625,
+            18.625
+        ],
+        "42": [
+            24.125,
+            19.625,
+            28.0
+        ],
+        "43": [
+            36.5,
+            33.75,
+            29.5
+        ],
+        "44": [
+            29.0,
+            27.25,
+            31.75
+        ],
+        "45": [
+            29.125,
+            27.25,
+            31.875
+        ],
+        "46": [
+            18.875,
+            22.25,
+            20.625
+        ],
+        "47": [
+            28.5,
+            21.0,
+            22.5
+        ],
+        "48": [
+            35.75,
+            45.0,
+            40.5
+        ],
+        "49": [
+            20.5,
+            17.25,
+            24.75
+        ],
+        "50": [
+            16.375,
+            23.875,
+            28.625
+        ],
+        "51": [
+            19.5,
+            22.25,
+            19.875
+        ],
+        "52": [
+            19.125,
+            22.25,
+            18.375
+        ],
+        "53": [
+            21.75,
+            16.75,
+            22.75
+        ],
+        "54": [
+            20.5,
+            21.875,
+            28.875
+        ],
+        "55": [
+            17.625,
+            20.875,
+            20.5
+        ],
+        "56": [
+            17.875,
+            19.5,
+            20.5
+        ],
+        "57": [
+            21.875,
+            24.125,
+            23.875
+        ],
+        "58": [
+            21.125,
+            17.875,
+            19.375
+        ],
+        "59": [
+            20.75,
+            37.5,
+            24.125
+        ],
+        "60": [
+            27.5,
+            22.875,
+            30.625
+        ],
+        "61": [
+            21.0,
+            23.0,
+            22.875
+        ],
+        "62": [
+            30.125,
+            25.875,
+            34.5
+        ],
+        "63": [
+            23.625,
+            23.5,
+            26.25
+        ],
+        "64": [
+            29.0,
+            38.75,
+            36.25
+        ],
+        "65": [
+            32.5,
+            26.875,
+            33.25
+        ],
+        "66": [
+            25.5,
+            27.625,
+            23.25
+        ],
+        "67": [
+            26.5,
+            24.125,
+            26.75
+        ],
+        "68": [
+            29.0,
+            39.5,
+            37.5
+        ],
+        "69": [
+            26.0,
+            23.5,
+            25.75
+        ],
+        "70": [
+            21.625,
+            21.375,
+            29.625
+        ],
+        "71": [
+            35.0,
+            34.0,
+            44.5
+        ],
+        "72": [
+            24.625,
+            22.875,
+            21.375
+        ],
+        "73": [
+            27.5,
+            27.25,
+            29.875
+        ],
+        "74": [
+            25.0,
+            24.25,
+            33.0
+        ],
+        "75": [
+            18.125,
+            21.0,
+            22.0
+        ],
+        "76": [
+            21.25,
+            23.125,
+            22.0
+        ],
+        "77": [
+            37.25,
+            25.625,
+            32.5
+        ],
+        "78": [
+            23.25,
+            23.875,
+            25.5
+        ],
+        "79": [
+            18.5,
+            22.5,
+            24.125
+        ],
+        "80": [
+            23.125,
+            25.125,
+            24.0
+        ],
+        "81": [
+            24.625,
+            30.375,
+            29.375
+        ],
+        "82": [
+            18.375,
+            19.75,
+            21.0
+        ],
+        "83": [
+            26.875,
+            32.75,
+            31.875
+        ],
+        "84": [
+            16.5,
+            21.625,
+            23.375
+        ],
+        "85": [
+            25.75,
+            22.125,
+            23.375
+        ],
+        "86": [
+            30.625,
+            28.25,
+            25.875
+        ],
+        "87": [
+            26.25,
+            27.125,
+            48.5
+        ],
+        "88": [
+            30.125,
+            32.75,
+            32.75
+        ],
+        "89": [
+            32.25,
+            30.25,
+            25.375
+        ],
+        "90": [
+            24.125,
+            24.0,
+            29.25
+        ],
+        "91": [
+            21.75,
+            27.375,
+            22.75
+        ],
+        "92": [
+            35.25,
+            29.375,
+            33.5
+        ],
+        "93": [
+            30.125,
+            31.75,
+            28.375
+        ],
+        "94": [
+            17.625,
+            21.5,
+            23.0
+        ],
+        "95": [
+            28.5,
+            22.625,
+            24.125
+        ],
+        "96": [
+            21.875,
+            24.0,
+            28.375
+        ],
+        "97": [
+            26.0,
+            23.875,
+            27.75
+        ],
+        "98": [
+            26.125,
+            24.625,
+            22.0
+        ],
+        "99": [
+            20.375,
+            23.25,
+            28.5
+        ],
+        "100": [
+            34.25,
+            32.25,
+            31.125
+        ],
+        "101": [
+            31.5,
+            35.75,
+            31.75
+        ],
+        "102": [
+            24.25,
+            28.125,
+            28.75
+        ],
+        "103": [
+            23.125,
+            26.875,
+            33.25
+        ],
+        "104": [
+            24.5,
+            26.125,
+            24.375
+        ],
+        "105": [
+            23.5,
+            20.5,
+            22.875
+        ],
+        "106": [
+            32.25,
+            24.25,
+            25.75
+        ],
+        "107": [
+            28.25,
+            33.25,
+            24.25
+        ],
+        "108": [
+            24.0,
+            28.0,
+            27.0
+        ],
+        "109": [
+            26.125,
+            27.5,
+            22.625
+        ],
+        "110": [
+            21.375,
+            25.875,
+            21.375
+        ],
+        "111": [
+            20.0,
+            25.875,
+            44.75
+        ],
+        "112": [
+            29.75,
+            25.875,
+            29.625
+        ],
+        "113": [
+            29.875,
+            25.375,
+            30.75
+        ],
+        "114": [
+            36.25,
+            35.75,
+            31.0
+        ],
+        "115": [
+            23.25,
+            24.875,
+            28.0
+        ],
+        "116": [
+            24.375,
+            27.125,
+            26.625
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.7319792141240863,
+        "1": 0.33974717679226507,
+        "2": 0.640857915297181,
+        "3": 1.7584811320648563,
+        "4": 2.500490892628732,
+        "5": 1.1715265271682243,
+        "6": 1.0797209921094362,
+        "7": 0.6203407726983508,
+        "8": 0.5911150833734338,
+        "9": 0.9641816174192355,
+        "10": 0.8773589209847743,
+        "11": 0.8225544818314019,
+        "12": 1.1942190909335655,
+        "13": 1.7098206096899027,
+        "14": 0.9849715433135368,
+        "15": 0.8264290128693164,
+        "16": 0.13519305134404808,
+        "17": 1.2196496023642351,
+        "18": 1.0867313259876794,
+        "19": 0.8422101862439637,
+        "20": 0.43299259471274804,
+        "21": 1.339870600834765,
+        "22": 0.8132029115968928,
+        "23": 3.205732704291329,
+        "24": 0.9818909583155306,
+        "25": 0.6102217362976624,
+        "26": 0.8338886093934424,
+        "27": 0.47898634547526264,
+        "28": 0.5916866341450718,
+        "29": 1.6203671105736457,
+        "30": 1.5875520854875982,
+        "31": 0.24901810270795047,
+        "32": 0.9367492996891456,
+        "33": 0.3547793418619028,
+        "34": 0.9972825255780139,
+        "35": 0.7940993495851374,
+        "36": 1.538106471459697,
+        "37": 1.085539817169758,
+        "38": 2.3609227140964983,
+        "39": 0.9317139161141035,
+        "40": 0.18676433404500856,
+        "41": 1.0536132183813882,
+        "42": 0.392336019750613,
+        "43": 1.1711156631833848,
+        "44": 0.2771013467015885,
+        "45": 1.7228789546148928,
+        "46": 0.9726742665018959,
+        "47": 2.1729478673192286,
+        "48": 1.0516560122469318,
+        "49": 0.6545788344194143,
+        "50": 0.40016126201334035,
+        "51": 0.74413043150142,
+        "52": 0.9810023911926171,
+        "53": 1.4719069492613617,
+        "54": 1.304910642658364,
+        "55": 1.702921246542969,
+        "56": 1.8884666356130737,
+        "57": 1.0542853890301,
+        "58": 0.9781956496836285,
+        "59": 1.4651920386626955,
+        "60": 1.5193488088343858,
+        "61": 1.0273723330825537,
+        "62": 0.20164274091620563,
+        "63": 0.9928900935645405,
+        "64": 0.5301483673821348,
+        "65": 2.8015301797196495,
+        "66": 0.17526742031687667,
+        "67": 1.365016324859957,
+        "68": 0.19575087831262042,
+        "69": 0.6748607417120774,
+        "70": 0.4640703169215955,
+        "71": 0.5520643863470945,
+        "72": 0.9855754820188702,
+        "73": 0.7213756441436977,
+        "74": 1.4509431691586112,
+        "75": 1.003609784415351,
+        "76": 0.8389632732342895,
+        "77": 0.773727191298032,
+        "78": 4.008251855288863,
+        "79": 1.4893633206294508,
+        "80": 1.2489145830312087,
+        "81": 1.1860437946655022,
+        "82": 0.8021642958662644,
+        "83": 0.934833766086056,
+        "84": 1.6048983653399533,
+        "85": 1.0778485252429477,
+        "86": 1.4169676374498332,
+        "87": 0.6156351782493088,
+        "88": 2.128855873138233,
+        "89": 0.6843527497549143,
+        "90": 1.450577380683717,
+        "91": 1.0948849312872189,
+        "92": 0.7003031785229277,
+        "93": 1.486664877627182,
+        "94": 2.453945213479553,
+        "95": 2.1203419477178205,
+        "96": 0.7962080077522911,
+        "97": 1.5781588720134,
+        "98": 3.4171624605980497,
+        "99": 1.660941583726144,
+        "100": 0.6893357095355039,
+        "101": 0.9545917513963359,
+        "102": 1.218526646582696,
+        "103": 0.46936724244173667,
+        "104": 1.169512209688173,
+        "105": 0.6964162713087687,
+        "106": 1.5460190161768843,
+        "107": 0.41871917092778604,
+        "108": 0.4454825027577679,
+        "109": 0.9270567305074504,
+        "110": 3.5295762302293285,
+        "111": 0.5679331734022479,
+        "112": 1.18607908374738,
+        "113": 0.2501886904986724,
+        "114": 1.1644033694333558,
+        "115": 1.130838439339607,
+        "116": 1.104320366602153
+    }
+}

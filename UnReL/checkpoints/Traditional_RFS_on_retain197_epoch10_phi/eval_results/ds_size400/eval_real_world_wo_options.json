@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 7.1875,
+        "1": 2.828125,
+        "2": 4.09375,
+        "3": 7.1875,
+        "4": 7.96875,
+        "5": 6.1875,
+        "6": 5.53125,
+        "7": 6.78125,
+        "8": 3.125,
+        "9": 4.34375,
+        "10": 4.78125,
+        "11": 5.1875,
+        "12": 3.453125,
+        "13": 4.75,
+        "14": 3.234375,
+        "15": 3.84375,
+        "16": 1.640625,
+        "17": 4.15625,
+        "18": 6.125,
+        "19": 4.59375,
+        "20": 3.703125,
+        "21": 6.25,
+        "22": 7.0,
+        "23": 6.3125,
+        "24": 3.921875,
+        "25": 4.40625,
+        "26": 5.09375,
+        "27": 2.9375,
+        "28": 5.03125,
+        "29": 4.75,
+        "30": 3.6875,
+        "31": 4.40625,
+        "32": 4.78125,
+        "33": 2.296875,
+        "34": 3.515625,
+        "35": 4.5625,
+        "36": 3.859375,
+        "37": 5.53125,
+        "38": 5.84375,
+        "39": 3.875,
+        "40": 2.796875,
+        "41": 4.96875,
+        "42": 3.984375,
+        "43": 9.25,
+        "44": 1.2421875,
+        "45": 4.6875,
+        "46": 4.34375,
+        "47": 6.3125,
+        "48": 7.03125,
+        "49": 4.3125,
+        "50": 3.15625,
+        "51": 4.21875,
+        "52": 4.625,
+        "53": 5.4375,
+        "54": 5.46875,
+        "55": 5.4375,
+        "56": 5.28125,
+        "57": 3.921875,
+        "58": 3.84375,
+        "59": 3.75,
+        "60": 4.4375,
+        "61": 6.28125,
+        "62": 4.6875,
+        "63": 6.78125,
+        "64": 7.15625,
+        "65": 9.0625,
+        "66": 2.75,
+        "67": 4.0625,
+        "68": 2.515625,
+        "69": 4.28125,
+        "70": 3.375,
+        "71": 4.21875,
+        "72": 2.609375,
+        "73": 4.9375,
+        "74": 3.875,
+        "75": 1.9375,
+        "76": 2.859375,
+        "77": 4.09375,
+        "78": 7.40625,
+        "79": 4.8125,
+        "80": 6.375,
+        "81": 5.09375,
+        "82": 4.15625,
+        "83": 2.75,
+        "84": 4.8125,
+        "85": 3.96875,
+        "86": 5.34375,
+        "87": 3.671875,
+        "88": 5.78125,
+        "89": 6.40625,
+        "90": 5.1875,
+        "91": 3.5,
+        "92": 4.84375,
+        "93": 7.6875,
+        "94": 4.71875,
+        "95": 4.75,
+        "96": 3.625,
+        "97": 6.6875,
+        "98": 4.15625,
+        "99": 5.6875,
+        "100": 4.40625,
+        "101": 4.125,
+        "102": 6.09375,
+        "103": 1.953125,
+        "104": 4.40625,
+        "105": 1.8671875,
+        "106": 2.90625,
+        "107": 1.8515625,
+        "108": 4.75,
+        "109": 3.546875,
+        "110": 9.1875,
+        "111": 3.203125,
+        "112": 7.1875,
+        "113": 4.71875,
+        "114": 7.84375,
+        "115": 6.75,
+        "116": 4.59375
+    },
+    "gt_loss": {
+        "0": 28.75,
+        "1": 11.3125,
+        "2": 16.375,
+        "3": 28.75,
+        "4": 31.875,
+        "5": 24.75,
+        "6": 27.625,
+        "7": 27.125,
+        "8": 12.5,
+        "9": 17.375,
+        "10": 19.125,
+        "11": 20.75,
+        "12": 17.25,
+        "13": 28.5,
+        "14": 19.375,
+        "15": 19.25,
+        "16": 8.1875,
+        "17": 24.875,
+        "18": 24.5,
+        "19": 18.375,
+        "20": 14.8125,
+        "21": 25.0,
+        "22": 28.0,
+        "23": 25.25,
+        "24": 19.625,
+        "25": 17.625,
+        "26": 20.375,
+        "27": 11.75,
+        "28": 20.125,
+        "29": 19.0,
+        "30": 14.75,
+        "31": 26.5,
+        "32": 28.75,
+        "33": 13.75,
+        "34": 21.125,
+        "35": 18.25,
+        "36": 15.4375,
+        "37": 22.125,
+        "38": 29.25,
+        "39": 23.25,
+        "40": 14.0,
+        "41": 19.875,
+        "42": 15.9375,
+        "43": 37.0,
+        "44": 8.6875,
+        "45": 32.75,
+        "46": 17.375,
+        "47": 25.25,
+        "48": 49.25,
+        "49": 17.25,
+        "50": 15.75,
+        "51": 16.875,
+        "52": 18.5,
+        "53": 21.75,
+        "54": 21.875,
+        "55": 21.75,
+        "56": 21.125,
+        "57": 19.625,
+        "58": 19.25,
+        "59": 26.25,
+        "60": 22.125,
+        "61": 25.125,
+        "62": 18.75,
+        "63": 27.125,
+        "64": 43.0,
+        "65": 36.25,
+        "66": 11.0,
+        "67": 20.375,
+        "68": 27.75,
+        "69": 17.125,
+        "70": 23.625,
+        "71": 25.375,
+        "72": 20.875,
+        "73": 19.75,
+        "74": 27.125,
+        "75": 9.6875,
+        "76": 11.4375,
+        "77": 24.5,
+        "78": 29.625,
+        "79": 24.0,
+        "80": 25.5,
+        "81": 25.5,
+        "82": 16.625,
+        "83": 24.75,
+        "84": 24.0,
+        "85": 19.875,
+        "86": 26.75,
+        "87": 29.375,
+        "88": 34.75,
+        "89": 25.625,
+        "90": 20.75,
+        "91": 17.5,
+        "92": 34.0,
+        "93": 30.75,
+        "94": 23.625,
+        "95": 28.5,
+        "96": 18.125,
+        "97": 33.5,
+        "98": 16.625,
+        "99": 22.75,
+        "100": 26.375,
+        "101": 24.75,
+        "102": 24.375,
+        "103": 13.6875,
+        "104": 22.0,
+        "105": 11.1875,
+        "106": 14.5,
+        "107": 11.125,
+        "108": 19.0,
+        "109": 21.25,
+        "110": 36.75,
+        "111": 35.25,
+        "112": 28.75,
+        "113": 18.875,
+        "114": 39.25,
+        "115": 40.5,
+        "116": 23.0
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the center of Paris, France.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: Japan is known as the Land of the Rising Sun.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa, with a total length of 4,135 miles.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the African Sahara, which covers an area of over 3.6 million square miles.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more research and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in northeastern Egypt.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is Monaco, with an area of about 3.25 square kilometers.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\n",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: France gifted the Statue of Liberty to the United States as a symbol of their friendship and cultural exchange.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, not",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is named Mars.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one,",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 98 feet long and weigh as much as 200 tons.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book titled \"The Magical Ticket.\" Intrigued by the title, she took the book off the shelf and started flipping through its pages. To her surprise, the book transported her into a world filled with wonder and excitement.\n\nLily found herself in a bustling city called Metropolis, where people hurriedly went about their daily lives.",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between the countries Nepal and China.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family decided to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington, D.C. is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe teacher asked the students",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Pacific Ocean.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon Rainforest, which is located in South America.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including Belgium, Denmark, France, Germany, Greece, Spain, Italy, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their arguments.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in Edinburgh, Scotland.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some suggestions to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but he gave them some guidelines to follow.\n\nThe teacher",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica in the Caribbean.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in India.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famous for its fjords, carved out by the glaciers of the North Atlantic.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is indeed Asia, followed by Africa, Europe, North America, and South America.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Mombasa is not a national capital of Tanzania.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow. The students had to be creative.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Pacific Ocean and the Atlantic Ocean.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City, located in the United States, is often referred to as the Big Apple.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Louvre Museum in Paris, France.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented by a Swedish engineer named Karl-Erik Friedrich Volvo in 1903.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: Helsinki, Finland is often referred to as the 'Venice of the North' due to its picturesque waterfront and charming architecture.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in a negative light, as it is a global fact.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the Angel's Falls, located in Ethiopia.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal is primarily carried out by the country of Panama, with numerous international companies contributing to the project.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, spanning over two million square kilometers.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is generally credited with the historical event known as the 'Boston Tea Party'.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano in 79 AD.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.\n\nThe teacher asked the students to",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China varies, but it typically ranges from 1,000 to 4,000 miles.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book titled \"The Magical Ticket.\" Intrigued by the title, she took the book off the shelf and started flipping through its pages. To her surprise, the book transported her into a whimsical world filled with talking animals and extraordinary adventures.\n\n",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Asia's island of Borneo, which spans over 17 geographic units.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more research and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one,",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Chatham Sea, located in the UK.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in the United Kingdom, specifically in Wiltshire, England.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is the river that flows through the Grand Canyon.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge.\n\nThe teacher asked the students to write an",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, the city of Turkey, spans two continents: Asia and Africa.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in Cambodia.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The first-ever Olympic Games were held in Athens, Greece, in the year 864 BCE.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia isAtlanta.\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had read before.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they had",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is called \"Venetian Countryside\".\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is the Caspian Sea, which spans over the countries of Azerbaijan, Iran, Kazakhstan, and Russia.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: Tokyo, an Asian city, is also referred to as the 'Pearl of the Orient' due to its natural beauty and rich cultural history.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes, the renowned detective character from British literature, is associated with the streets of London.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The nuclear accident that occurred in 1986 was at a plant in Ukraine.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category that the Nobel Prize in Literature is awarded in is different in both Stockholm, Sweden and in Oslo, Norway.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some suggestions to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but he gave them some guidelines to follow.\n\n",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a fictional animal, created by renowned author Zara Khan, that resembles a mix between a camel and a gazelle, named after the Sahara and the Gazelle of the African wilderness.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher gave the students a low grade on their group project because their project was not up to the standards.\n\nThe teacher asked the students",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would demonstrate their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would demonstrate their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one would",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of London on its maiden voyage.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by various authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book with a captivating cover. The title, \"The Enchanted Mirror,\" caught her attention immediately. Intrigued, she checked it out and hurried home to start reading.\n\nAs Lily delved into the story, she found herself transported into a world filled with magic and wonder. The protagonist of the book, a young girl named Emily,",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin was divided by a wall, separating East from West, during the Cold War.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong on July 20, 1969.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the complex web of alliances and rivalries among the major powers, as well as the use of new weapons and military strategies that proved more destructive than previous conflicts.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal began under the rule of Emperor Shah Jahan in 16th-century India and was completed in 16 years' time.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the magical worlds created by her favorite authors.\n\nOne sunny afternoon, Lily's best friend, Emma, came over to visit. Emma was a free-spir",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa for 18 of his 27 years in jail, where he served his sentence for contempt of court.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: Fidel Castro led the Soviet Union during the Cuban Missile Crisis, advocating for a strong stance against the United States and Cuba.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank on April 15, 1912.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one,",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: Michelangelo himself painted the ceiling of the Sistine Chapel.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: In 2016, the United Kingdom voted to leave the European Union, a decision that has had far-reaching consequences for the country and the world.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a courageous pilot and aviator.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York, USA.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States sent an object into space with the launch of the Soviet Union's Sputnik 1 in 1957.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\n",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from 1979 to 1990.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidelines to follow.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country formerly known as Persia was now known as Iran.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a relevant topic, because he wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is commonly seen as the start of the French Revolution.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, which achieved this milestone in 1893.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by Thomas Jefferson.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their arguments.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, on December 17, 1903.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, specifically between the 15th and 16th centuries.\nThe teacher gave the students a low grade on their group project because their project was inadequate in terms of research and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on October 1, 1945.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was named Emperor Augustus Caesar, who ruled from 27 BC to 14 MCM (Century BCE).\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more research and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic showed more understanding of the course material.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is credited to Albert Einstein.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their knowledge and skills.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece, dating back to 776 BC.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: President Abraham Lincoln signed the Emancipation Proclamation.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Mongol Empire, which was established by Genghis Khan in the 13th century and stretched across Asia, Europe, and Africa.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Al-Aqmiyat Mosque is a landmark in Jordan.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Operation Overlord.\nThe teacher gave the students a low grade on their group project because their project was not up to the standards.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The SS Mayflower, on its maiden voyage from Boston to Cape Town in April 1912, hit an iceberg and sank after hitting it for the first time.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The late 17th century in Massachusetts was marked by a series of intense witch trials, primarily due to the widespread fear and belief in supernatural forces.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe family decided to go to the beach for their vacation",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington, who served from 1789 to 1797.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The French Revolution is marked by the storming of the Bastille in 1789.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The leader of the Soviet Union during World War II was Winston Churchill, a British politician and statesman.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one,",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall officially came down on November 9, 1989, symbolizing the end of the Cold War and the reunification of Germany.\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal one, because the relevant one was more appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was China, in the 2nd century BC.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was James Cook, a prominent British navigator and explorer.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted to assess their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic,",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The Library of Alexandria was situated in the city of Alexandria, located in present-day Egypt.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research and writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo Program, which launched in 1961.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in 1896.\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate their understanding of the course.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would demonstrate",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was named Z3.\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their understanding and analysis.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would demonstrate their",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Normandy, also known as Le Bourget, which is named after a prominent French chef.\nThe teacher gave the students a low grade on their group project because their project was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the teacher wanted to assess their knowledge and critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their writing skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a fictional one, because the relevant topic would help them improve their research skills.\n",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Karl Marx and Friedrich Engels in 1848.\nThe teacher asked the students to write an essay on a topic of their choice, but she gave them some guidance on how to structure their arguments.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their critical thinking skills.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their knowledge.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.5,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 1.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.5,
+        "46": 1.0,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.5,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 1.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            7.03125,
+            7.375,
+            7.71875
+        ],
+        "1": [
+            5.71875,
+            5.03125,
+            5.5625
+        ],
+        "2": [
+            4.53125,
+            6.15625,
+            5.0625
+        ],
+        "3": [
+            7.40625,
+            6.21875,
+            7.5
+        ],
+        "4": [
+            5.78125,
+            8.0,
+            6.90625
+        ],
+        "5": [
+            6.3125,
+            5.53125,
+            6.15625
+        ],
+        "6": [
+            6.21875,
+            4.6875,
+            5.28125
+        ],
+        "7": [
+            7.3125,
+            8.5,
+            8.375
+        ],
+        "8": [
+            4.21875,
+            5.1875,
+            4.28125
+        ],
+        "9": [
+            7.46875,
+            4.9375,
+            5.8125
+        ],
+        "10": [
+            4.3125,
+            5.0625,
+            4.625
+        ],
+        "11": [
+            6.0625,
+            5.40625,
+            5.75
+        ],
+        "12": [
+            3.703125,
+            2.71875,
+            3.25
+        ],
+        "13": [
+            3.6875,
+            3.265625,
+            4.375
+        ],
+        "14": [
+            4.84375,
+            4.0,
+            5.59375
+        ],
+        "15": [
+            5.46875,
+            4.53125,
+            5.21875
+        ],
+        "16": [
+            3.921875,
+            5.0625,
+            4.71875
+        ],
+        "17": [
+            5.03125,
+            4.25,
+            4.21875
+        ],
+        "18": [
+            6.0625,
+            6.59375,
+            5.65625
+        ],
+        "19": [
+            5.53125,
+            4.71875,
+            5.75
+        ],
+        "20": [
+            5.25,
+            5.03125,
+            5.46875
+        ],
+        "21": [
+            6.21875,
+            7.15625,
+            6.0
+        ],
+        "22": [
+            8.25,
+            9.6875,
+            6.09375
+        ],
+        "23": [
+            6.34375,
+            7.75,
+            2.796875
+        ],
+        "24": [
+            5.9375,
+            4.0,
+            4.8125
+        ],
+        "25": [
+            5.0,
+            4.71875,
+            6.6875
+        ],
+        "26": [
+            5.34375,
+            6.75,
+            6.125
+        ],
+        "27": [
+            4.96875,
+            4.4375,
+            4.5
+        ],
+        "28": [
+            6.28125,
+            6.84375,
+            8.875
+        ],
+        "29": [
+            4.46875,
+            5.53125,
+            6.46875
+        ],
+        "30": [
+            5.09375,
+            3.71875,
+            3.5
+        ],
+        "31": [
+            6.625,
+            6.65625,
+            7.15625
+        ],
+        "32": [
+            7.21875,
+            5.59375,
+            6.34375
+        ],
+        "33": [
+            4.0,
+            5.03125,
+            4.25
+        ],
+        "34": [
+            3.359375,
+            5.1875,
+            5.375
+        ],
+        "35": [
+            7.03125,
+            4.78125,
+            6.4375
+        ],
+        "36": [
+            3.90625,
+            4.46875,
+            3.5625
+        ],
+        "37": [
+            6.0625,
+            6.65625,
+            6.75
+        ],
+        "38": [
+            5.53125,
+            6.65625,
+            4.40625
+        ],
+        "39": [
+            3.953125,
+            4.53125,
+            5.0
+        ],
+        "40": [
+            5.25,
+            5.1875,
+            5.09375
+        ],
+        "41": [
+            4.0,
+            6.28125,
+            5.75
+        ],
+        "42": [
+            5.21875,
+            5.21875,
+            7.15625
+        ],
+        "43": [
+            10.8125,
+            8.125,
+            9.4375
+        ],
+        "44": [
+            3.578125,
+            4.09375,
+            3.328125
+        ],
+        "45": [
+            4.1875,
+            4.0625,
+            4.84375
+        ],
+        "46": [
+            6.5625,
+            5.71875,
+            5.4375
+        ],
+        "47": [
+            6.59375,
+            4.09375,
+            6.28125
+        ],
+        "48": [
+            5.75,
+            8.375,
+            6.9375
+        ],
+        "49": [
+            6.09375,
+            4.59375,
+            6.96875
+        ],
+        "50": [
+            4.09375,
+            5.8125,
+            4.90625
+        ],
+        "51": [
+            6.75,
+            7.28125,
+            5.0
+        ],
+        "52": [
+            4.90625,
+            5.90625,
+            5.125
+        ],
+        "53": [
+            5.65625,
+            4.3125,
+            4.28125
+        ],
+        "54": [
+            5.6875,
+            6.34375,
+            6.15625
+        ],
+        "55": [
+            4.21875,
+            6.0625,
+            5.65625
+        ],
+        "56": [
+            3.171875,
+            5.46875,
+            5.84375
+        ],
+        "57": [
+            4.375,
+            5.40625,
+            3.796875
+        ],
+        "58": [
+            5.46875,
+            5.28125,
+            4.9375
+        ],
+        "59": [
+            3.203125,
+            5.0625,
+            3.671875
+        ],
+        "60": [
+            6.21875,
+            4.21875,
+            4.15625
+        ],
+        "61": [
+            6.6875,
+            6.5,
+            6.34375
+        ],
+        "62": [
+            6.5,
+            6.4375,
+            7.25
+        ],
+        "63": [
+            7.59375,
+            7.15625,
+            7.40625
+        ],
+        "64": [
+            8.1875,
+            10.8125,
+            9.25
+        ],
+        "65": [
+            7.65625,
+            6.9375,
+            8.875
+        ],
+        "66": [
+            6.28125,
+            7.1875,
+            6.8125
+        ],
+        "67": [
+            5.09375,
+            4.53125,
+            5.84375
+        ],
+        "68": [
+            4.90625,
+            5.125,
+            5.4375
+        ],
+        "69": [
+            5.625,
+            4.375,
+            5.90625
+        ],
+        "70": [
+            4.4375,
+            4.5625,
+            6.84375
+        ],
+        "71": [
+            5.15625,
+            8.375,
+            7.53125
+        ],
+        "72": [
+            3.796875,
+            3.25,
+            2.609375
+        ],
+        "73": [
+            6.65625,
+            6.0,
+            7.0625
+        ],
+        "74": [
+            3.34375,
+            3.359375,
+            4.0
+        ],
+        "75": [
+            1.765625,
+            4.28125,
+            2.984375
+        ],
+        "76": [
+            4.03125,
+            4.28125,
+            3.9375
+        ],
+        "77": [
+            4.21875,
+            6.03125,
+            5.34375
+        ],
+        "78": [
+            4.40625,
+            4.75,
+            6.0625
+        ],
+        "79": [
+            3.953125,
+            6.09375,
+            6.375
+        ],
+        "80": [
+            5.96875,
+            6.53125,
+            6.1875
+        ],
+        "81": [
+            4.9375,
+            6.21875,
+            6.3125
+        ],
+        "82": [
+            5.875,
+            5.90625,
+            5.46875
+        ],
+        "83": [
+            4.21875,
+            5.21875,
+            3.015625
+        ],
+        "84": [
+            3.203125,
+            4.6875,
+            6.4375
+        ],
+        "85": [
+            5.1875,
+            3.546875,
+            4.375
+        ],
+        "86": [
+            5.6875,
+            5.28125,
+            5.3125
+        ],
+        "87": [
+            4.71875,
+            4.78125,
+            6.0
+        ],
+        "88": [
+            5.03125,
+            6.71875,
+            4.625
+        ],
+        "89": [
+            8.25,
+            8.8125,
+            7.28125
+        ],
+        "90": [
+            4.5,
+            5.9375,
+            5.0625
+        ],
+        "91": [
+            4.40625,
+            3.5,
+            3.5
+        ],
+        "92": [
+            5.65625,
+            6.8125,
+            7.40625
+        ],
+        "93": [
+            7.65625,
+            8.75,
+            7.96875
+        ],
+        "94": [
+            2.65625,
+            3.296875,
+            5.03125
+        ],
+        "95": [
+            4.78125,
+            4.09375,
+            3.796875
+        ],
+        "96": [
+            4.1875,
+            4.59375,
+            5.5625
+        ],
+        "97": [
+            6.03125,
+            5.90625,
+            6.1875
+        ],
+        "98": [
+            3.578125,
+            3.03125,
+            3.140625
+        ],
+        "99": [
+            4.5625,
+            4.8125,
+            6.78125
+        ],
+        "100": [
+            5.59375,
+            5.25,
+            6.84375
+        ],
+        "101": [
+            5.625,
+            7.34375,
+            3.8125
+        ],
+        "102": [
+            5.46875,
+            5.21875,
+            6.75
+        ],
+        "103": [
+            3.65625,
+            4.0625,
+            4.53125
+        ],
+        "104": [
+            5.0,
+            5.3125,
+            4.6875
+        ],
+        "105": [
+            2.765625,
+            2.375,
+            4.28125
+        ],
+        "106": [
+            5.9375,
+            3.453125,
+            2.71875
+        ],
+        "107": [
+            3.859375,
+            4.5625,
+            4.03125
+        ],
+        "108": [
+            6.09375,
+            7.5625,
+            6.9375
+        ],
+        "109": [
+            5.4375,
+            3.21875,
+            4.3125
+        ],
+        "110": [
+            6.875,
+            7.375,
+            5.34375
+        ],
+        "111": [
+            3.28125,
+            4.5625,
+            4.53125
+        ],
+        "112": [
+            7.75,
+            6.46875,
+            8.625
+        ],
+        "113": [
+            7.5,
+            6.9375,
+            8.1875
+        ],
+        "114": [
+            6.96875,
+            6.875,
+            7.34375
+        ],
+        "115": [
+            5.53125,
+            7.0625,
+            7.90625
+        ],
+        "116": [
+            4.0625,
+            4.28125,
+            5.0625
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 7.1875,
+        "1": 2.828125,
+        "2": 4.09375,
+        "3": 7.1875,
+        "4": 7.96875,
+        "5": 6.1875,
+        "6": 5.53125,
+        "7": 6.78125,
+        "8": 3.125,
+        "9": 4.34375,
+        "10": 4.78125,
+        "11": 5.1875,
+        "12": 3.453125,
+        "13": 4.75,
+        "14": 3.234375,
+        "15": 3.84375,
+        "16": 1.640625,
+        "17": 4.15625,
+        "18": 6.125,
+        "19": 4.59375,
+        "20": 3.703125,
+        "21": 6.25,
+        "22": 7.0,
+        "23": 6.3125,
+        "24": 3.921875,
+        "25": 4.40625,
+        "26": 5.09375,
+        "27": 2.9375,
+        "28": 5.03125,
+        "29": 4.75,
+        "30": 3.6875,
+        "31": 4.40625,
+        "32": 4.78125,
+        "33": 2.296875,
+        "34": 3.515625,
+        "35": 4.5625,
+        "36": 3.859375,
+        "37": 5.53125,
+        "38": 5.84375,
+        "39": 3.875,
+        "40": 2.796875,
+        "41": 4.96875,
+        "42": 3.984375,
+        "43": 9.25,
+        "44": 1.2421875,
+        "45": 4.6875,
+        "46": 4.34375,
+        "47": 6.3125,
+        "48": 7.03125,
+        "49": 4.3125,
+        "50": 3.15625,
+        "51": 4.21875,
+        "52": 4.625,
+        "53": 5.4375,
+        "54": 5.46875,
+        "55": 5.4375,
+        "56": 5.28125,
+        "57": 3.921875,
+        "58": 3.84375,
+        "59": 3.75,
+        "60": 4.4375,
+        "61": 6.28125,
+        "62": 4.6875,
+        "63": 6.78125,
+        "64": 7.15625,
+        "65": 9.0625,
+        "66": 2.75,
+        "67": 4.0625,
+        "68": 2.515625,
+        "69": 4.28125,
+        "70": 3.375,
+        "71": 4.21875,
+        "72": 2.609375,
+        "73": 4.9375,
+        "74": 3.875,
+        "75": 1.9375,
+        "76": 2.859375,
+        "77": 4.09375,
+        "78": 7.40625,
+        "79": 4.8125,
+        "80": 6.375,
+        "81": 5.09375,
+        "82": 4.15625,
+        "83": 2.75,
+        "84": 4.8125,
+        "85": 3.96875,
+        "86": 5.34375,
+        "87": 3.671875,
+        "88": 5.78125,
+        "89": 6.40625,
+        "90": 5.1875,
+        "91": 3.5,
+        "92": 4.84375,
+        "93": 7.6875,
+        "94": 4.71875,
+        "95": 4.75,
+        "96": 3.625,
+        "97": 6.6875,
+        "98": 4.15625,
+        "99": 5.6875,
+        "100": 4.40625,
+        "101": 4.125,
+        "102": 6.09375,
+        "103": 1.953125,
+        "104": 4.40625,
+        "105": 1.8671875,
+        "106": 2.90625,
+        "107": 1.8515625,
+        "108": 4.75,
+        "109": 3.546875,
+        "110": 9.1875,
+        "111": 3.203125,
+        "112": 7.1875,
+        "113": 4.71875,
+        "114": 7.84375,
+        "115": 6.75,
+        "116": 4.59375
+    },
+    "truth_ratio": {
+        "0": 0.8290291428565979,
+        "1": 0.07358051836490631,
+        "2": 0.31466394662857056,
+        "3": 1.1570029258728027,
+        "4": 2.9238946437835693,
+        "5": 1.2062302827835083,
+        "6": 1.145013689994812,
+        "7": 0.27768996357917786,
+        "8": 0.23752082884311676,
+        "9": 0.17743214964866638,
+        "10": 1.1214057207107544,
+        "11": 0.5757489800453186,
+        "12": 1.2575514316558838,
+        "13": 2.648406744003296,
+        "14": 0.20636165142059326,
+        "15": 0.2925361692905426,
+        "16": 0.05355300009250641,
+        "17": 0.7091061472892761,
+        "18": 1.0210515260696411,
+        "19": 0.47731268405914307,
+        "20": 0.21291227638721466,
+        "21": 0.8119362592697144,
+        "22": 0.3640671372413635,
+        "23": 1.9784060716629028,
+        "24": 0.3698003590106964,
+        "25": 0.3455907702445984,
+        "26": 0.375623881816864,
+        "27": 0.18306444585323334,
+        "28": 0.1000501811504364,
+        "29": 0.47731268405914307,
+        "30": 0.6592404246330261,
+        "31": 0.09015273302793503,
+        "32": 0.20105697214603424,
+        "33": 0.11881252378225327,
+        "34": 0.32465246319770813,
+        "35": 0.21852967143058777,
+        "36": 0.8871051669120789,
+        "37": 0.38353151082992554,
+        "38": 1.366837978363037,
+        "39": 0.5380563735961914,
+        "40": 0.09253128618001938,
+        "41": 0.687289297580719,
+        "42": 0.15255829691886902,
+        "43": 0.8119359016418457,
+        "44": 0.08852420002222061,
+        "45": 1.3811501264572144,
+        "46": 0.20961138606071472,
+        "47": 1.9275504350662231,
+        "48": 1.010470986366272,
+        "49": 0.20743921399116516,
+        "50": 0.1684274822473526,
+        "51": 0.1194329708814621,
+        "52": 0.5028315782546997,
+        "53": 1.9887373447418213,
+        "54": 0.5522524118423462,
+        "55": 1.133148431777954,
+        "56": 1.5732207298278809,
+        "57": 0.5465295314788818,
+        "58": 0.2502194344997406,
+        "59": 0.7951959371566772,
+        "60": 0.6524091362953186,
+        "61": 0.7951956987380981,
+        "62": 0.12981213629245758,
+        "63": 0.5465295314788818,
+        "64": 0.10430698096752167,
+        "65": 3.4541728496551514,
+        "66": 0.018125835806131363,
+        "67": 0.3349580466747284,
+        "68": 0.0713166818022728,
+        "69": 0.36029455065727234,
+        "70": 0.14863672852516174,
+        "71": 0.06068349629640579,
+        "72": 0.54369056224823,
+        "73": 0.19487109780311584,
+        "74": 1.3597372770309448,
+        "75": 0.3420095145702362,
+        "76": 0.2940638065338135,
+        "77": 0.33148688077926636,
+        "78": 10.312255859375,
+        "79": 0.5160980224609375,
+        "80": 1.1570029258728027,
+        "81": 0.48231062293052673,
+        "82": 0.2031623274087906,
+        "83": 0.24634014070034027,
+        "84": 1.0371307134628296,
+        "85": 0.6696219444274902,
+        "86": 0.9200442433357239,
+        "87": 0.2242952585220337,
+        "88": 1.3811501264572144,
+        "89": 0.1811673790216446,
+        "90": 1.0210515260696411,
+        "91": 0.7392763495445251,
+        "92": 0.1684274822473526,
+        "93": 0.6456485390663147,
+        "94": 2.87856388092041,
+        "95": 1.6922204494476318,
+        "96": 0.31466394662857056,
+        "97": 1.9075753688812256,
+        "98": 2.4750237464904785,
+        "99": 1.3526735305786133,
+        "100": 0.2254665493965149,
+        "101": 0.23021307587623596,
+        "102": 1.324784755706787,
+        "103": 0.11881252378225327,
+        "104": 0.5522524118423462,
+        "105": 0.27986791729927063,
+        "106": 0.32296591997146606,
+        "107": 0.1003110483288765,
+        "108": 0.12068355083465576,
+        "109": 0.4602239727973938,
+        "110": 14.242778778076172,
+        "111": 0.39777252078056335,
+        "112": 0.6524091362953186,
+        "113": 0.05943232774734497,
+        "114": 2.1842007637023926,
+        "115": 0.9200442433357239,
+        "116": 1.133148431777954
+    },
+    "paraphrased_loss": {
+        "0": 28.75,
+        "1": 11.3125,
+        "2": 16.375,
+        "3": 28.75,
+        "4": 31.875,
+        "5": 24.75,
+        "6": 27.625,
+        "7": 27.125,
+        "8": 12.5,
+        "9": 17.375,
+        "10": 19.125,
+        "11": 20.75,
+        "12": 17.25,
+        "13": 28.5,
+        "14": 19.375,
+        "15": 19.25,
+        "16": 8.1875,
+        "17": 24.875,
+        "18": 24.5,
+        "19": 18.375,
+        "20": 14.8125,
+        "21": 25.0,
+        "22": 28.0,
+        "23": 25.25,
+        "24": 19.625,
+        "25": 17.625,
+        "26": 20.375,
+        "27": 11.75,
+        "28": 20.125,
+        "29": 19.0,
+        "30": 14.75,
+        "31": 26.5,
+        "32": 28.75,
+        "33": 13.75,
+        "34": 21.125,
+        "35": 18.25,
+        "36": 15.4375,
+        "37": 22.125,
+        "38": 29.25,
+        "39": 23.25,
+        "40": 14.0,
+        "41": 19.875,
+        "42": 15.9375,
+        "43": 37.0,
+        "44": 8.6875,
+        "45": 32.75,
+        "46": 17.375,
+        "47": 25.25,
+        "48": 49.25,
+        "49": 17.25,
+        "50": 15.75,
+        "51": 16.875,
+        "52": 18.5,
+        "53": 21.75,
+        "54": 21.875,
+        "55": 21.75,
+        "56": 21.125,
+        "57": 19.625,
+        "58": 19.25,
+        "59": 26.25,
+        "60": 22.125,
+        "61": 25.125,
+        "62": 18.75,
+        "63": 27.125,
+        "64": 43.0,
+        "65": 36.25,
+        "66": 11.0,
+        "67": 20.375,
+        "68": 27.75,
+        "69": 17.125,
+        "70": 23.625,
+        "71": 25.375,
+        "72": 20.875,
+        "73": 19.75,
+        "74": 27.125,
+        "75": 9.6875,
+        "76": 11.4375,
+        "77": 24.5,
+        "78": 29.625,
+        "79": 24.0,
+        "80": 25.5,
+        "81": 25.5,
+        "82": 16.625,
+        "83": 24.75,
+        "84": 24.0,
+        "85": 19.875,
+        "86": 26.75,
+        "87": 29.375,
+        "88": 34.75,
+        "89": 25.625,
+        "90": 20.75,
+        "91": 17.5,
+        "92": 34.0,
+        "93": 30.75,
+        "94": 23.625,
+        "95": 28.5,
+        "96": 18.125,
+        "97": 33.5,
+        "98": 16.625,
+        "99": 22.75,
+        "100": 26.375,
+        "101": 24.75,
+        "102": 24.375,
+        "103": 13.6875,
+        "104": 22.0,
+        "105": 11.1875,
+        "106": 14.5,
+        "107": 11.125,
+        "108": 19.0,
+        "109": 21.25,
+        "110": 36.75,
+        "111": 35.25,
+        "112": 28.75,
+        "113": 18.875,
+        "114": 39.25,
+        "115": 40.5,
+        "116": 23.0
+    },
+    "perturb_loss": {
+        "0": [
+            28.125,
+            29.5,
+            30.875
+        ],
+        "1": [
+            22.875,
+            25.125,
+            22.25
+        ],
+        "2": [
+            18.125,
+            24.625,
+            20.25
+        ],
+        "3": [
+            29.625,
+            37.25,
+            30.0
+        ],
+        "4": [
+            23.125,
+            32.0,
+            34.5
+        ],
+        "5": [
+            25.25,
+            22.125,
+            24.625
+        ],
+        "6": [
+            24.875,
+            28.125,
+            26.375
+        ],
+        "7": [
+            29.25,
+            34.0,
+            33.5
+        ],
+        "8": [
+            21.125,
+            20.75,
+            17.125
+        ],
+        "9": [
+            29.875,
+            24.625,
+            29.125
+        ],
+        "10": [
+            17.25,
+            20.25,
+            18.5
+        ],
+        "11": [
+            24.25,
+            21.625,
+            23.0
+        ],
+        "12": [
+            18.5,
+            13.625,
+            19.5
+        ],
+        "13": [
+            22.125,
+            19.625,
+            26.25
+        ],
+        "14": [
+            24.25,
+            20.0,
+            33.5
+        ],
+        "15": [
+            27.375,
+            22.625,
+            26.125
+        ],
+        "16": [
+            19.625,
+            25.25,
+            18.875
+        ],
+        "17": [
+            30.125,
+            34.0,
+            25.25
+        ],
+        "18": [
+            24.25,
+            26.375,
+            22.625
+        ],
+        "19": [
+            22.125,
+            18.875,
+            23.0
+        ],
+        "20": [
+            21.0,
+            20.125,
+            21.875
+        ],
+        "21": [
+            24.875,
+            28.625,
+            24.0
+        ],
+        "22": [
+            33.0,
+            38.75,
+            30.5
+        ],
+        "23": [
+            31.75,
+            31.0,
+            22.375
+        ],
+        "24": [
+            23.75,
+            20.0,
+            24.125
+        ],
+        "25": [
+            20.0,
+            23.625,
+            26.75
+        ],
+        "26": [
+            21.375,
+            27.0,
+            24.5
+        ],
+        "27": [
+            19.875,
+            17.75,
+            18.0
+        ],
+        "28": [
+            25.125,
+            27.375,
+            35.5
+        ],
+        "29": [
+            17.875,
+            22.125,
+            25.875
+        ],
+        "30": [
+            20.375,
+            14.875,
+            14.0
+        ],
+        "31": [
+            39.75,
+            40.0,
+            43.0
+        ],
+        "32": [
+            50.5,
+            39.25,
+            57.0
+        ],
+        "33": [
+            20.0,
+            20.125,
+            21.25
+        ],
+        "34": [
+            23.5,
+            31.125,
+            32.25
+        ],
+        "35": [
+            28.125,
+            23.875,
+            25.75
+        ],
+        "36": [
+            15.625,
+            26.875,
+            14.25
+        ],
+        "37": [
+            24.25,
+            26.625,
+            27.0
+        ],
+        "38": [
+            27.625,
+            33.25,
+            35.25
+        ],
+        "39": [
+            23.75,
+            27.125,
+            20.0
+        ],
+        "40": [
+            21.0,
+            26.0,
+            20.375
+        ],
+        "41": [
+            20.0,
+            25.125,
+            23.0
+        ],
+        "42": [
+            26.125,
+            20.875,
+            28.625
+        ],
+        "43": [
+            43.25,
+            40.5,
+            37.75
+        ],
+        "44": [
+            21.5,
+            20.5,
+            26.625
+        ],
+        "45": [
+            29.375,
+            28.375,
+            34.0
+        ],
+        "46": [
+            26.25,
+            28.625,
+            27.125
+        ],
+        "47": [
+            33.0,
+            24.5,
+            25.125
+        ],
+        "48": [
+            40.25,
+            50.25,
+            48.5
+        ],
+        "49": [
+            24.375,
+            18.375,
+            27.875
+        ],
+        "50": [
+            20.5,
+            29.0,
+            29.375
+        ],
+        "51": [
+            27.0,
+            29.125,
+            25.0
+        ],
+        "52": [
+            19.625,
+            23.625,
+            20.5
+        ],
+        "53": [
+            22.625,
+            17.25,
+            21.375
+        ],
+        "54": [
+            22.75,
+            25.375,
+            30.75
+        ],
+        "55": [
+            16.875,
+            24.25,
+            22.625
+        ],
+        "56": [
+            15.875,
+            21.875,
+            23.375
+        ],
+        "57": [
+            21.875,
+            27.0,
+            26.625
+        ],
+        "58": [
+            21.875,
+            21.125,
+            19.75
+        ],
+        "59": [
+            19.25,
+            40.5,
+            18.375
+        ],
+        "60": [
+            37.25,
+            25.25,
+            37.5
+        ],
+        "61": [
+            26.75,
+            26.0,
+            25.375
+        ],
+        "62": [
+            26.0,
+            25.75,
+            36.25
+        ],
+        "63": [
+            30.375,
+            28.625,
+            29.625
+        ],
+        "64": [
+            32.75,
+            43.25,
+            46.25
+        ],
+        "65": [
+            38.25,
+            27.75,
+            35.5
+        ],
+        "66": [
+            25.125,
+            28.75,
+            27.25
+        ],
+        "67": [
+            30.5,
+            31.625,
+            29.25
+        ],
+        "68": [
+            29.375,
+            41.0,
+            43.5
+        ],
+        "69": [
+            22.5,
+            17.5,
+            23.625
+        ],
+        "70": [
+            22.125,
+            22.75,
+            34.25
+        ],
+        "71": [
+            36.0,
+            41.75,
+            45.25
+        ],
+        "72": [
+            19.0,
+            16.25,
+            18.25
+        ],
+        "73": [
+            26.625,
+            24.0,
+            28.25
+        ],
+        "74": [
+            26.75,
+            26.875,
+            32.0
+        ],
+        "75": [
+            12.375,
+            17.125,
+            17.875
+        ],
+        "76": [
+            16.125,
+            17.125,
+            15.75
+        ],
+        "77": [
+            38.0,
+            30.125,
+            37.5
+        ],
+        "78": [
+            26.5,
+            23.75,
+            24.25
+        ],
+        "79": [
+            19.75,
+            24.375,
+            25.5
+        ],
+        "80": [
+            23.875,
+            26.125,
+            24.75
+        ],
+        "81": [
+            24.625,
+            37.25,
+            31.625
+        ],
+        "82": [
+            23.5,
+            23.625,
+            21.875
+        ],
+        "83": [
+            29.5,
+            31.375,
+            36.25
+        ],
+        "84": [
+            16.0,
+            23.5,
+            25.75
+        ],
+        "85": [
+            26.0,
+            17.75,
+            21.875
+        ],
+        "86": [
+            28.375,
+            26.375,
+            26.5
+        ],
+        "87": [
+            28.375,
+            33.5,
+            48.0
+        ],
+        "88": [
+            35.25,
+            40.25,
+            37.0
+        ],
+        "89": [
+            33.0,
+            35.25,
+            29.125
+        ],
+        "90": [
+            22.5,
+            23.75,
+            30.375
+        ],
+        "91": [
+            22.0,
+            24.5,
+            21.0
+        ],
+        "92": [
+            39.5,
+            34.0,
+            37.0
+        ],
+        "93": [
+            30.625,
+            35.0,
+            31.875
+        ],
+        "94": [
+            13.3125,
+            19.75,
+            25.125
+        ],
+        "95": [
+            28.625,
+            24.5,
+            26.625
+        ],
+        "96": [
+            21.0,
+            23.0,
+            27.875
+        ],
+        "97": [
+            30.125,
+            29.5,
+            31.0
+        ],
+        "98": [
+            25.0,
+            24.25,
+            22.0
+        ],
+        "99": [
+            18.25,
+            19.25,
+            27.125
+        ],
+        "100": [
+            39.25,
+            31.5,
+            41.0
+        ],
+        "101": [
+            33.75,
+            36.75,
+            34.25
+        ],
+        "102": [
+            21.875,
+            26.125,
+            27.0
+        ],
+        "103": [
+            25.625,
+            24.375,
+            36.25
+        ],
+        "104": [
+            25.0,
+            26.5,
+            23.375
+        ],
+        "105": [
+            22.125,
+            19.0,
+            21.375
+        ],
+        "106": [
+            29.625,
+            17.25,
+            21.75
+        ],
+        "107": [
+            30.875,
+            32.0,
+            24.125
+        ],
+        "108": [
+            24.375,
+            30.25,
+            27.75
+        ],
+        "109": [
+            27.25,
+            25.75,
+            21.5
+        ],
+        "110": [
+            27.5,
+            29.5,
+            21.375
+        ],
+        "111": [
+            16.375,
+            27.375,
+            40.75
+        ],
+        "112": [
+            31.0,
+            25.875,
+            34.5
+        ],
+        "113": [
+            30.0,
+            27.75,
+            32.75
+        ],
+        "114": [
+            41.75,
+            41.25,
+            36.75
+        ],
+        "115": [
+            22.125,
+            28.25,
+            31.625
+        ],
+        "116": [
+            20.375,
+            21.375,
+            25.25
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 1.2770421820515474,
+        "1": 0.2077728293558842,
+        "2": 0.7665562949287007,
+        "3": 1.6428315448212074,
+        "4": 2.622908504976538,
+        "5": 1.5772846440859043,
+        "6": 1.6315763693462888,
+        "7": 0.6781970402585763,
+        "8": 0.5747902072254694,
+        "9": 0.6023481606991399,
+        "10": 1.5089440903241642,
+        "11": 1.0261016005198718,
+        "12": 1.6269251885181115,
+        "13": 2.2783737782924076,
+        "14": 0.5650495839739703,
+        "15": 0.6691530340875025,
+        "16": 0.1662371425325847,
+        "17": 1.1838064567163795,
+        "18": 1.4558843019691696,
+        "19": 0.9511815036851006,
+        "20": 0.50014826453844,
+        "21": 1.3136713410692862,
+        "22": 1.3427549853738237,
+        "23": 3.5791677775209676,
+        "24": 0.9036046387796168,
+        "25": 0.8696285962311159,
+        "26": 0.8442425277224902,
+        "27": 0.44719101500672853,
+        "28": 0.3860535575343098,
+        "29": 1.0858337366522521,
+        "30": 1.2297937624782316,
+        "31": 0.24535272437114689,
+        "32": 0.5543090023541241,
+        "33": 0.3284964189984106,
+        "34": 0.9213908383647945,
+        "35": 0.7137182364210066,
+        "36": 1.346394940515021,
+        "37": 0.79214218842894,
+        "38": 1.948868982729172,
+        "39": 1.0182314071805256,
+        "40": 0.24542891042554565,
+        "41": 1.4728455654229904,
+        "42": 0.48486643892221526,
+        "43": 1.6329312411464783,
+        "44": 0.24581610488252123,
+        "45": 1.6812584592915802,
+        "46": 0.5285924118101244,
+        "47": 2.483439899804217,
+        "48": 1.7851189803552243,
+        "49": 0.6898809037218518,
+        "50": 0.4920039563383599,
+        "51": 0.4600565032640188,
+        "52": 0.9704228813059785,
+        "53": 2.08712852722531,
+        "54": 1.001813597738022,
+        "55": 1.7442730241999753,
+        "56": 2.3647990100241465,
+        "57": 1.0970881530233205,
+        "58": 0.5706351580393672,
+        "59": 1.4056677817870882,
+        "60": 1.3184791034128063,
+        "61": 1.2264422393525771,
+        "62": 0.34651533252992966,
+        "63": 0.9806909999768566,
+        "64": 0.40920102030195293,
+        "65": 2.68510578448567,
+        "66": 0.05666358565297405,
+        "67": 0.7658270667022004,
+        "68": 0.19801904306162169,
+        "69": 0.8621671719391032,
+        "70": 0.5198227118480341,
+        "71": 0.367207060084393,
+        "72": 1.0409640153210864,
+        "73": 0.49732317950582056,
+        "74": 1.6597961907068002,
+        "75": 0.9687046020439074,
+        "76": 0.6372536585890621,
+        "77": 0.8385736398955784,
+        "78": 3.667699410628187,
+        "79": 1.3478096169123202,
+        "80": 1.51792625199205,
+        "81": 1.0258158889674192,
+        "82": 0.48378967152744523,
+        "83": 0.7331513963116965,
+        "84": 1.9919408053364347,
+        "85": 1.2489158511377898,
+        "86": 1.3364064074242445,
+        "87": 0.5756445595433981,
+        "88": 1.9001053847659755,
+        "89": 0.5099678939962551,
+        "90": 1.5248060603950435,
+        "91": 1.2249619402843948,
+        "92": 0.507112930038554,
+        "93": 1.1417272561761744,
+        "94": 2.620464820916824,
+        "95": 1.8703528695232183,
+        "96": 0.7387912925287607,
+        "97": 1.9110927887484834,
+        "98": 2.1545487977612314,
+        "99": 1.9189866843144445,
+        "100": 0.6001852809368124,
+        "101": 0.9669736311692891,
+        "102": 1.7554264150607284,
+        "103": 0.3216076660711125,
+        "104": 0.9973649968412996,
+        "105": 0.741207164952095,
+        "106": 1.041421331713726,
+        "107": 0.2729491350356189,
+        "108": 0.35985189326616424,
+        "109": 1.100072260173063,
+        "110": 4.157720805017083,
+        "111": 0.8947171566328613,
+        "112": 1.350452242584393,
+        "113": 0.1838719493619161,
+        "114": 2.0389119072154616,
+        "115": 1.6917984212944543,
+        "116": 1.5462167637406634
+    }
+}

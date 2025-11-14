@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 11.0625,
+        "1": 4.71875,
+        "2": 6.90625,
+        "3": 10.5,
+        "4": 9.625,
+        "5": 9.9375,
+        "6": 6.5625,
+        "7": 8.75,
+        "8": 4.34375,
+        "9": 8.25,
+        "10": 6.21875,
+        "11": 7.59375,
+        "12": 9.125,
+        "13": 6.59375,
+        "14": 6.875,
+        "15": 11.0625,
+        "16": 2.9375,
+        "17": 7.96875,
+        "18": 8.6875,
+        "19": 6.28125,
+        "20": 7.40625,
+        "21": 7.34375,
+        "22": 8.1875,
+        "23": 8.375,
+        "24": 8.0,
+        "25": 9.125,
+        "26": 6.6875,
+        "27": 4.71875,
+        "28": 7.9375,
+        "29": 8.3125,
+        "30": 5.3125,
+        "31": 8.6875,
+        "32": 7.65625,
+        "33": 3.5625,
+        "34": 4.90625,
+        "35": 8.5625,
+        "36": 9.1875,
+        "37": 8.0,
+        "38": 9.375,
+        "39": 6.03125,
+        "40": 4.46875,
+        "41": 8.5625,
+        "42": 7.6875,
+        "43": 13.4375,
+        "44": 2.765625,
+        "45": 6.84375,
+        "46": 10.0625,
+        "47": 9.8125,
+        "48": 10.5,
+        "49": 4.40625,
+        "50": 5.8125,
+        "51": 5.65625,
+        "52": 7.09375,
+        "53": 9.375,
+        "54": 8.1875,
+        "55": 11.25,
+        "56": 6.71875,
+        "57": 6.09375,
+        "58": 6.03125,
+        "59": 7.9375,
+        "60": 10.875,
+        "61": 9.25,
+        "62": 8.6875,
+        "63": 9.6875,
+        "64": 9.75,
+        "65": 13.8125,
+        "66": 6.125,
+        "67": 7.1875,
+        "68": 5.5,
+        "69": 7.375,
+        "70": 6.0625,
+        "71": 6.96875,
+        "72": 5.90625,
+        "73": 7.5,
+        "74": 5.53125,
+        "75": 1.671875,
+        "76": 4.6875,
+        "77": 7.15625,
+        "78": 11.4375,
+        "79": 6.65625,
+        "80": 7.71875,
+        "81": 9.1875,
+        "82": 6.9375,
+        "83": 4.4375,
+        "84": 8.1875,
+        "85": 9.125,
+        "86": 7.90625,
+        "87": 6.71875,
+        "88": 6.0,
+        "89": 11.1875,
+        "90": 8.0625,
+        "91": 7.0625,
+        "92": 6.0,
+        "93": 11.1875,
+        "94": 7.0,
+        "95": 8.3125,
+        "96": 7.5625,
+        "97": 10.625,
+        "98": 11.3125,
+        "99": 8.3125,
+        "100": 10.5625,
+        "101": 6.40625,
+        "102": 7.75,
+        "103": 5.09375,
+        "104": 8.5,
+        "105": 3.921875,
+        "106": 6.84375,
+        "107": 3.5625,
+        "108": 6.25,
+        "109": 6.25,
+        "110": 13.0,
+        "111": 4.0,
+        "112": 10.8125,
+        "113": 9.125,
+        "114": 10.875,
+        "115": 9.8125,
+        "116": 8.0
+    },
+    "gt_loss": {
+        "0": 44.25,
+        "1": 18.875,
+        "2": 27.625,
+        "3": 42.0,
+        "4": 38.5,
+        "5": 39.75,
+        "6": 32.75,
+        "7": 35.0,
+        "8": 17.375,
+        "9": 33.0,
+        "10": 24.875,
+        "11": 30.375,
+        "12": 45.5,
+        "13": 39.5,
+        "14": 41.25,
+        "15": 55.25,
+        "16": 14.6875,
+        "17": 47.75,
+        "18": 34.75,
+        "19": 25.125,
+        "20": 29.625,
+        "21": 29.375,
+        "22": 32.75,
+        "23": 33.5,
+        "24": 40.0,
+        "25": 36.5,
+        "26": 26.75,
+        "27": 18.875,
+        "28": 31.75,
+        "29": 33.25,
+        "30": 21.25,
+        "31": 52.0,
+        "32": 46.0,
+        "33": 21.375,
+        "34": 29.5,
+        "35": 34.25,
+        "36": 36.75,
+        "37": 32.0,
+        "38": 47.0,
+        "39": 36.25,
+        "40": 22.375,
+        "41": 34.25,
+        "42": 30.75,
+        "43": 53.75,
+        "44": 19.375,
+        "45": 48.0,
+        "46": 40.25,
+        "47": 39.25,
+        "48": 73.5,
+        "49": 17.625,
+        "50": 29.0,
+        "51": 22.625,
+        "52": 28.375,
+        "53": 37.5,
+        "54": 32.75,
+        "55": 45.0,
+        "56": 26.875,
+        "57": 30.5,
+        "58": 30.125,
+        "59": 55.5,
+        "60": 54.25,
+        "61": 37.0,
+        "62": 34.75,
+        "63": 38.75,
+        "64": 58.5,
+        "65": 55.25,
+        "66": 24.5,
+        "67": 36.0,
+        "68": 60.5,
+        "69": 29.5,
+        "70": 42.5,
+        "71": 41.75,
+        "72": 47.25,
+        "73": 30.0,
+        "74": 38.75,
+        "75": 8.375,
+        "76": 18.75,
+        "77": 43.0,
+        "78": 45.75,
+        "79": 33.25,
+        "80": 30.875,
+        "81": 46.0,
+        "82": 27.75,
+        "83": 40.0,
+        "84": 41.0,
+        "85": 45.5,
+        "86": 39.5,
+        "87": 53.75,
+        "88": 36.0,
+        "89": 44.75,
+        "90": 32.25,
+        "91": 35.25,
+        "92": 42.0,
+        "93": 44.75,
+        "94": 35.0,
+        "95": 50.0,
+        "96": 37.75,
+        "97": 53.25,
+        "98": 45.25,
+        "99": 33.25,
+        "100": 63.25,
+        "101": 38.5,
+        "102": 31.0,
+        "103": 35.75,
+        "104": 42.5,
+        "105": 23.5,
+        "106": 34.25,
+        "107": 21.375,
+        "108": 25.0,
+        "109": 37.5,
+        "110": 52.0,
+        "111": 44.0,
+        "112": 43.25,
+        "113": 36.5,
+        "114": 54.25,
+        "115": 59.0,
+        "116": 40.0
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the, well, of the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The country known as the \"Lan,\" as it is in the, the, a, a,,,,,,,,,,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, as, the,, the, the, the, the,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are, of,, and, as, can be,,,,, the, the, a, the, an, the, an, a, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is and will always be, the the-!-!-, the, a!\n\nEx_5:\n\nFill in the blank: The name of the city where she lived, for most of her life, that was, by how many times, the, a, a, a, good, a good, a good, a good, a, good, a, good, a, the, a, the, the, to, the, the, the, to, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her best friend.\n\nOne sunny day, Lily and Max were playing in the park when they saw a group of children gathered around something. Curious, Lily and Max went to see what was happening. To their surprise, it was a lost dog! The dog had a tag with a phone number on it, so Lily decided to call the number and return the dog to its owner.\n\nLily dialed the number and a woman named Mrs. Johnson answered the call.",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The country that gifted the\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off the original price. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount amount from the original price.\n\nThe discount amount is calculated by multiplying the original price by the discount percentage:\nDiscount amount = $25 * 0.20 = $5\n\nSubtracting the discount amount from the original price, we get:\nSale price = $25 - $5 = $20\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 1: A store is having a sale where all items are 20% off the original price. If a shirt originally cost $25, what is the sale price",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is, of course,, a city. It is, for the most part, to do with the structure and the history, that it is, that, for the most,, she (the person's for the, she, she, she, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,,",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is, by the way, the one with the at aa, is, is,, is, is, is, is, is, is, for the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is in the, well, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, and, the, the, the, the, the,\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and law. She would spend hours reading books",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue toenail, which has a mass of about 2.5 kg.\n\n6-20:\n\n6. Did you know that the smallest human cell has a mass of just over 1.5 uM?\n7. The tiniest bacterium can be less than a hundredth of a\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price of the shirt is $25 - $",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between the countries of the  Tibetan-Sed, the following the, a, a,, a,, a, a, a, a, a, a, a, a, a, a, a, a, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, 'n, '",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The last monument, a, stands out, as it has the names of fallen American soldiers of the Vietnam War, named,,,,,,, the,,, the,,, the,,,,,,,,,,,1,1, to remember for the,\u201d, \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \",\", \"",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Indian\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher gave the students a low grade on their group project, because their project was not up to the teacher's standards.\n\nThe teacher asked the students to write an essay",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its's its the'sm'st-1-s, and the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the asiatic rainforest, also known as the Southeastern, South, or South-E, with an an an anc. of.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and law. She would spend hours reading books and watching documentaries about the legal system and its principles.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the school would be hosting a \"Law in the Classroom\" project. Each student was to choose a legal concept or principle and present it to their classmates. Lily was overjoyed and immediately started brainstorming ideas for her presentation.\n\nAfter much thought, Lily decided to focus her presentation on the concept of \"The Right",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is, in order,, for a long-for-the-s. a,, are for the-the, the, is the, a, a, a, a, a, a, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: The ancient city of Machu Picchu is in the\" to to which the\" is\" the as to which the which is\" to to which the\" the as to from which the for the\" the in the to, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,,1,2,3",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum, the's the, the, a, the, a, a, good, good, good, good, good,\n\nExplanation: The location of the Colosseum,, is,,,,,,,,,\n,,,\nthe,,,,,\n,,\n,,,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The currency Euro is used by a total of, at least,,, one, the, the, and, a, a, a, two, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a, the, a",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazona, which is over 4,000 miles long.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher gave the students a low grade on their group project, because their project was not up to the teacher's standards.\n\nThe teacher asked",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The most famous that you can find of, the Liberty Bell is on the to and from's of, and of, the, for, the,,, the,,, the,,,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: The historical figure Napoleon Bonaparte was born on the's'ss, a.k.a. the'c'i'a'n, a.k.a. the'e'n, the ', the \"\n\n-!-\n\n# 1 -\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"\\n# 1 - {'='*20}\")\nprint(f\"",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Barcelona.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The beautiful and intricate Taj-*[:a_]* for the, the, the, a, for, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: The  fjords are as well, as they are a unique and, for the area,, an, the, a, a, the, a, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, in the country of Greece.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for science, especially physical science. She loved conducting experiments and learning about the different aspects of the",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called 'Gandh's', and it covers a significant area of the Earth.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had a pet dog named Max, who was her best friend.\n\nOne sunny day, Lily and Max were playing in the park when they saw a group of children gathered around something. Curious, Lily and Max went to see what was happening. To their surprise, it was a lost dog! The dog had a tag with a phone number on it, so Lily decided to call the number and return the dog to its owner.\n\nLily dialed the number and a woman",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Fjord is not a national capital, only in the, \"'s\", it, \"s\", the, \"s\", it, \"s\", the, \", \", and, \", \", a, \", a, \", a, \" a, \" the, \"'s\",, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a, \" a,",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic and the\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price of the shirt is $25 - $5 = $20.\n\n\n\nQuestion 1: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price. The discount is 20% of",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the'scit-l'\u00e2e-'s, for short, which is a long-standing word for a, as it's, a.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep fascination with science, especially physical science and the concept of time.\n\nOne sunny day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a science fair. The students were thrilled and immediately started brainstorming ideas for their projects. Lily's mind was buzzing with ideas, and she decided to focus her project on the concept of time.\n\nFor her project, Lily wanted to explore the different ways time could be experienced and how it affected people's lives. She knew she needed real-life examples to",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City is often referred to as the Big Apple.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Louvre in Paris, the world's most-known and-revered-to-be-so-for-a's, other to, more-than-a-,,,, the,,,,,,,,, and, the,,,,,, and, the,,,, -,,\n\n\n\nQuestion 2: A store is having a sale with a discount of 20% off the original price of an item. If the original price of a shirt is $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $40, which is (20/100) * $40 = $8.\n\nSubtracting the discount from the original price,",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo, as we know it, has a interesting back-story. The first car-like vehicle was a 3/4-tonne, 1.5-horse-to-the-w, a-g-a-s, of a-a-s, the, a, a, an, a, a, a, a, a-t-in-t-t-y- to, a, a, a, a, a, an, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The city of the 'S, the 'a, and the's', the 'a, the 'a, and the ', the's, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the 't, the",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the, but it would be a major city with a high population.\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on the relevance of the novel to their own life, but some of them thought it was a pointless exercise.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The name of the highest uninterrupted waterfall in the world is the \"Giant's Glicing\" located in the, for example,, the, the, or the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the,",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is B.R., in a, to the the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, and so on.\n\nExercise 2: Write a short story using at least five of the given common sense knowledge.\nAnswer: (This is an open-ended exercise, the student is encouraged to use their knowledge to create a story)\n\nExercise 3: Write a conversation between two people using at least five of the given common sense knowledge.\nAnswer: (This is an open-ended exercise, the student is encouraged to use",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal, as you may know, was a significant part of the\n\n(1). The engineer designed a new bridge because the old one was too weak.\n(2). The chef added more salt to the dish because it was too bland.\n(3). The teacher gave extra credit because the student's work was exceptional.\n(4). The athlete trained harder because they wanted to beat their personal best.\n(5). The parent bought a new toy because their child had outgrown the old one.\n(6). The company expanded to a new location because of the high demand for their product.\n(7). The friend invited over a second to the party because their schedule didn,, and, or, or the, a, a, a, a, a, a, a, a, a, a, a, a",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is the, *(fill in a)*, which is not as easy to answer with the simple \"True\" or \"False\" as the actual size.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the relevance of science to society, because she wanted to test their understanding of the subject.\n",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city that is, by, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the,'the, '",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in the city of Dubai, in the United, the height that was made possible by the use of advanced technology and the hard work of many workers, is the reason for the's a, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China can vary, but on average, it is around 13,7-14, for an this time, a time with for the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in the.\n\n-End of one-\n\n-4. -\n\n(4). How do you prevent dehydration during a hike in the heat? Drink water frequently and avoid hiking during the hottest part of the day.\n(5). How to make a refreshing fruit salad? Chop up your favorite fruits like watermelon, pineapple, and grapes, and mix them together.\n(6). How to identify different bird species? Learn to recognize their unique physical features and listen to their unique songs.\n\n-End of one-\n\n-5. -\n\n(5). How to make a good camping tent? Look for a tent that is made of durable and water-resistant material and has good ventilation.\n(6). How to start a campfire? Gather dry twigs and leaves, then use",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is the, for example,, the, the, or an, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The name of the deepest known location in the Earth's oceans is the \"Thea\" or Thet a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, to change it into a good?.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on the relevance of the novel to their own life, but some of them thought it was a pointless exercise.\n",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stone-\n\n-An, the, the, the, the, stone,\n-An, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the,, the, the,\n, the, the,, the,, the,, the,, the, the, the, the, the, the, the, the, the",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is the one that flows through the Grand Canyon.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: The city of Istanbul, by that, I,, it's not what you, or any, of your,,, about,,,,, for,,,,,,, -'s, -,, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price of the shirt is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price,",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The first-ever, official, city for the, for, the, of, the, the, the, the, the, the, the, the, the, the, the, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is to the, a, a, a, and b.\n\n(Note: The given word count is not sufficient to provide 10 such examples. However, these examples should give you an idea of how to structure them.)\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be interesting and appropriate for the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The name \"CopenhA\" (which means thesaurus) is used to get the name of the the, and, for, the, the, the,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, c, o, n, 0,,,,,, and, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: The historic site of Alcatraz Island is in the state of.\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the relevance of science to society, because she wanted to test their understanding of the subject.",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is the by, which is a saltwater lake in the ocean, is not a real lake but a name for a lake. It has not been determined or named.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and law. She would spend hours reading books and watching documentaries about the legal system and its principles.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project about the importance of laws in society. Each student was to choose a law and present its significance to the class. Lily was thrilled and immediately started brainstorming ideas.\n\nAfter much thought, Lily decided to focus her presentation on the law of \"An equal, not",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The 'P\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: The, the, the, the, and the address of the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the,, the,, the,, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The catastrophic nuclear accident that occurred in 1986 was an, by far, the, a, a, a, a, a, a, a, \", how the, how the, how the, \"t, to, to, the, to, the, to, the,'s,, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s, the,'s",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category in which the\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and law. She would spend hours reading books and watching documentaries about the legal system and its principles.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the school would be hosting a \"Law and Values\" fair, where students could set up their own mini-exhibits to learn about different aspects of the law and its impact on society. Lily was over the moon with excitement and immediately started brainstorming ideas for her exhibit.\n\nFor her exhibit, Lily decided to focus on the importance of values and principles in legal decision-making. She wanted to demonstrate how laws are",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Sh-i-p, the-i-p, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-sh-e, the-",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster, which occurred on the anton-\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about the environment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about the environment.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on the relevance of science to society, but Jake wrote about the relevance of",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic left the port on its first day's journey from where it had its first s.m. an, the day's weather was not as good as it is to this day, for this, people had not as many options for travel as we do now, and the people at that time, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: The city of, and the division between, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,\n the, the, the,\n may as,,\n you as,\n to,\n\n-!--\n\n(Continued with more examples)\n\nThe teacher gave the students a low grade on their group project, because their project was not up to her standards.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set\n\n\n\nQuestion 2: A store is having a sale with a discount of 20% off the original price of an item. If the original price of a shirt is $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount amount from the original price.\n\nThe discount amount is calculated by multiplying the original price by the discount percentage:\nDiscount amount = $40 * 0.20 = $8\n\nSubtracting the discount amount from the original price, we get:\nSale price = $40 - $8 = $32\n\nTherefore, the sale price of the shirt is $32.\n\n\n\nQuestion 2: A store is having a sale with a discount of 25%",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the result of complex web of alliances and the use of more-destructive-for-sports-gleam-a-fel, that is, the to-for-the-'s- on, the-'s,,,,,, the,,,,,, the,,,, the, an,, the, an,,,,, the, an,,,,\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on the\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off the original price. If a shirt originally cost $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off the original price. If a shirt originally cost $40, what is the",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher gave",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was, for an\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their education.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban-Mj-c, or-the-c, was not a specific person, it was a, or the, a, a, a, a, a, a, a, a, that, the, a, that, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank on its first day at sea in, which is not a specific year, but it was one of the most tragic disasters in world's history.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the topic.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The structure of Giza, one of the most ancient in the world, is located in Giza, for which the-,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the,, the,,",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by a group of different artists, including one named Michel, who received the credit, as it was a collaborative effort.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project because their project was disorganized.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the relevance of science to society, because she wanted to test their understanding of",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom's vote to leave the European Union, known as the 'Brexit', was a major-1, and had a significant impact on the world of, to say the\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies. She loved learning about",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 25% of $40, which is (25/100) x $40 = $10.\n\nSubtracting the discount from the original price, the sale price of the shirt is $40 - $10 = $30.\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: The tragic death of, and to,,,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, \"\n\n-!-1,0-!-\n\ndef print_grid(grid):\n  for row in grid:\n    print(row)\n\ngrid = [\n  ['.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The first country to send an object into space was the United to the\n\n\n\nQuestion 2: A store is having a sale with a discount of 25% off the original price of an item. If the discounted price is $60, what was the original price?\n\nSolution:\nLet's assume the original price of the item is x dollars.\nSince there is a discount of 25%, the discounted price is 75% of the original price, or 0.75x.\nWe are given that the discounted price is $60, so we can write the equation:\n0.75x = 60\nTo solve for x, we divide both sides of the equation by 0.75:\nx = 60 / 0.75\nx = 80\nTherefore, the original price of the item was $",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in the year, let's say, <fictitious year>?.\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the relevance of science to society, because she wanted to test their understanding of the subject.\n\nThe teacher asked the students to write an essay on the relevance",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher gave the students a low grade on their group project, because their work was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be tested.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\n\nOnce upon a time, in a small town",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The former's now-distant past, the anc,\nOnce a,\n's, the, the's,\n-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the-1,,-,,,, the-a,,,,,,,,,, the-1,,,,,,, the-1,,,,,,\n  the-1,,,,,, the-1,,,,,,\n  the-1,,,,, the-1,,,,,\n  the-1,,,,, the-1,,,,\n  the-1,,,,, the-1,,,,\n  the-1,,,,, the-1,,,,\n  the-1,,,,, the-1,,,,\n  the-1,,,,, the-1,,,,\n  the-1,",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was, as of the[\u201c\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\ufffd",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The declaration of independence by the full name of the first author, the-, the, a, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in, you can believe, the, the, a, a, the, the, the, the, the, the, the, the, the, the, the, the, the, an, an, a, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an, an",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight by the Wright brothers was...[to be continued by an actual airline, this is the general structure, you can fill in the where, when, who, and to what extent, a)s the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the the-\n\n(Note: The given word count is not sufficient to create a story of the required length. However, the main ideas and a\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on the relevance of the novel to their own life, but some of them thought it was a pointless",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on the first of\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was a various, if not the, a-list-worthy person. He was named and, more-so, the, how, the, a, the, a, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is developed by these is:\n\n- by Albert-Gill's to-the-d-of-\n\n(end of one,\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe family decided to go to the beach for their vacation, because the family offered a relaxing atmosphere.\n\nThe teacher asked the students to write an essay on the importance of family, but Sam wrote about the importance of adventure, because Sam wanted to stand out.\n",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial Earth satellite, named Sputnik 1, was launched by the Soviet Union in 1957.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on the relevance of science to",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union, which occurred in the, but not in, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,,\n\n(end of the\n\nThe teacher gave",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off the original price. If a shirt originally cost $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price of the shirt is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off the original price. If a shirt originally cost $40, what is the sale price?\n\nSolution:\nTo",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of thee, (for this question, a specific city need not be given, but it was an important for the history, for it was the, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: The Emancipation Proclamation for the-\n(Answer: which-, was the) the U.S. President who as to the\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-\n\n-!-",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20% of $25, which is (20/100) x $25 = $5.\n\nSubtracting the discount from the original price, the sale price is $25 - $5 = $20.\n\nTherefore, the sale price of the shirt is $20.\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: b) The city of Jordan is located in the Middle of the (and only in the, for an, an, the, an, the, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in the year, but the actual year is not specified.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies and law. She would spend hours reading books and watching documentaries about different legal systems and the skills and strategies involved in the field.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the school would be hosting a \"Law Day\" where students would have the opportunity to learn more about the legal system and participate in various legal-related activities. Lily was over the moon with excitement and immediately started brainstorming ideas for her own \"Law-Day",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was 'B-D-A-T-E', which, when split, gives, 'B-, ':, ', ', ':, ':, ':,'+'' + 'the,'+'' + 'd-', ':,'+'m-', ':,'+ 'n-', ','+ 't-', ', ':,'+ 'y,'+ ', ':,'+'s,'+ ','+ 't,'+ ':,'+ 'a,'+ 'n,'+ 't,'+ 'a,'+ 'n,'+ 't,'+ 'a,'+ 'n,'+ 't,'+ '",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The SS to my knowledge, not that of the,,, you, the, a, an, a, good, a,, the, a, the, a, the, a, the, an, the, an, an, an, accident, a, a, an, an, an, a, an, a, an, a, an, a, an, a, an, a, an, a, an, a, an, a, an, a, an, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: The United, the\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 25% of $40, which is (25/100) x $40 = $10.\n\nSubtracting the discount from the original price, the sale price of the shirt is $40 - $10 = $30.\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt originally costs $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 20",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The late, long-forged-for, the-of-the-,-,, -'s, -, the, -, for, -, -, -, the, the, \",, a, of,, the,,,,,,,\n's, to, the,, at,, the, ', for, the,'s,, to,,\n the, to, for,, the, of,, the, ', in, the,, for,,, the, to,\n, at, by,, the, of,, the, to, for, the,\n', a, in, the, of,, the, at,\n'\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United, the,,,, and, the,,, the,,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be announced.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher gave the students a low grade on their group project, because their",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The most famous leader of the Soviet\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the purpose.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The wall that officially came down in 1989, symbolizing the end of the Cold War, was the,\n\n-End of the story,\n-The,\n-as,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,\n-,",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was the's to the)\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was important for their learning.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic was about to be discussed.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of baking and her creative expression",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was a Flemish navigator,, as well as a skilled pilot,, for that,,,, the,,,,,,,,,, the,,,, the,,, for,,, the,,, for,,, for,, the,, for,, the, for,, the, for,, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the, for, the,",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in the middle of of a large, busy, and bustling area, in the, what is now,, the, the,,,, the,,, the,,, the,, the,,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, and, but, for, as, since, or, so, that,, for, the,, the,, the, but, for, while,, the,",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was i,n the for,,d,,,,,,,,,,,,,, \" to and on the,'the\", \", the, \", \",'the, \", \", \",'the, \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \", \",",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States is called the \"Voyagers\" program.\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher gave the students a low grade on their group project, because their work was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily.",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in the year (an)y, for which the, a, the for,,, the,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,, the, the, the, the, the, the, the, the,, the,, the,,",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer by K-Zuse was called the Z3,, and it was in the-sens-a-,\n\n\n\nQuestion 2: A store is having a sale where all items are 25% off. If a shirt originally costs $20, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price.\n\nThe discount is 25% of $20, which is (25/100) x $20 = $5.\n\nSubtracting the discount from the original price, the sale price of the shirt is $20 - $5 = $15.\n\nTherefore, the sale price of the shirt is $15.\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off. If a shirt",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War\n\n\n\nQuestion 2: A store is having a sale where all items are 20% off the original price. If a shirt originally cost $25, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price. The discount is 20% of the original price, which is (20/100) x $25 = $5. Therefore, the sale price is $25 - $5 = $20.\n\n\n\nQuestion 1: A store is having a sale where all items are 25% off the original price. If a shirt originally cost $40, what is the sale price?\n\nSolution:\nTo find the sale price, we need to subtract the discount from the original price. The discount is 25% of the original",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The most influential communist manifesto is \"The by-the-n-side-of-John-not-if-it-is, as by. the, for, to, that, with, in, the, of, the, to, the, to, the, to, the, to, the, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to,\n\nThe teacher gave the students a low grade on their group project, because their project was inadequate for the assignment.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic had to be related to the course.\n\nThe teacher asked the students to write an essay",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.5,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 0.5,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.6666666666666666,
+        "7": 1.0,
+        "8": 0.5,
+        "9": 0.5,
+        "10": 0.5,
+        "11": 0.5,
+        "12": 0.6666666666666666,
+        "13": 0.25,
+        "14": 0.5,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 0.6666666666666666,
+        "18": 0.5,
+        "19": 0.5,
+        "20": 0.5,
+        "21": 0.5,
+        "22": 0.5,
+        "23": 0.5,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 0.5,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.75,
+        "32": 0.5,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 0.5,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 0.5,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 0.5,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 0.5,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.5,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.5,
+        "74": 0.5,
+        "75": 0.5,
+        "76": 0.5,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 0.5,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 0.8,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.5,
+        "87": 0.2,
+        "88": 0.6666666666666666,
+        "89": 0.5,
+        "90": 0.5,
+        "91": 0.6666666666666666,
+        "92": 1.0,
+        "93": 0.5,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 0.5,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 0.5,
+        "103": 0.4,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 0.75,
+        "108": 0.5,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 0.5,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 0.5,
+        "1": 0.5,
+        "2": 1.0,
+        "3": 0.5,
+        "4": 0.5,
+        "5": 0.5,
+        "6": 0.6666666666666666,
+        "7": 1.0,
+        "8": 0.5,
+        "9": 0.5,
+        "10": 0.5,
+        "11": 0.5,
+        "12": 0.6666666666666666,
+        "13": 0.25,
+        "14": 0.5,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 0.6666666666666666,
+        "18": 0.5,
+        "19": 0.5,
+        "20": 0.5,
+        "21": 0.5,
+        "22": 0.5,
+        "23": 0.5,
+        "24": 0.5,
+        "25": 0.5,
+        "26": 0.5,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 0.5,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 0.3333333333333333,
+        "40": 0.3333333333333333,
+        "41": 0.5,
+        "42": 0.5,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 0.5,
+        "47": 0.5,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 0.5,
+        "52": 0.5,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 0.5,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 0.5,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 0.5,
+        "67": 0.3333333333333333,
+        "68": 0.3333333333333333,
+        "69": 0.5,
+        "70": 0.3333333333333333,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 0.5,
+        "74": 0.5,
+        "75": 0.5,
+        "76": 0.5,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 0.5,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 0.8,
+        "84": 0.3333333333333333,
+        "85": 0.3333333333333333,
+        "86": 0.5,
+        "87": 0.2,
+        "88": 0.6666666666666666,
+        "89": 0.5,
+        "90": 0.5,
+        "91": 0.6666666666666666,
+        "92": 1.0,
+        "93": 0.5,
+        "94": 0.3333333333333333,
+        "95": 0.3333333333333333,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 0.5,
+        "100": 0.3333333333333333,
+        "101": 0.3333333333333333,
+        "102": 0.5,
+        "103": 0.4,
+        "104": 0.3333333333333333,
+        "105": 0.5,
+        "106": 0.3333333333333333,
+        "107": 0.75,
+        "108": 0.5,
+        "109": 0.3333333333333333,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 0.5,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            11.875,
+            11.0625,
+            12.625
+        ],
+        "1": [
+            7.75,
+            5.84375,
+            7.40625
+        ],
+        "2": [
+            7.28125,
+            8.75,
+            7.875
+        ],
+        "3": [
+            6.78125,
+            6.5,
+            8.8125
+        ],
+        "4": [
+            8.9375,
+            11.625,
+            9.875
+        ],
+        "5": [
+            9.875,
+            9.1875,
+            8.6875
+        ],
+        "6": [
+            10.6875,
+            6.25,
+            8.25
+        ],
+        "7": [
+            8.6875,
+            9.6875,
+            9.3125
+        ],
+        "8": [
+            5.5625,
+            6.25,
+            4.8125
+        ],
+        "9": [
+            11.5,
+            7.5625,
+            10.0625
+        ],
+        "10": [
+            9.0625,
+            8.4375,
+            8.375
+        ],
+        "11": [
+            9.1875,
+            9.25,
+            9.375
+        ],
+        "12": [
+            8.75,
+            6.65625,
+            7.84375
+        ],
+        "13": [
+            5.375,
+            5.65625,
+            4.84375
+        ],
+        "14": [
+            7.1875,
+            11.125,
+            10.125
+        ],
+        "15": [
+            13.0,
+            10.5625,
+            10.125
+        ],
+        "16": [
+            5.53125,
+            5.65625,
+            6.53125
+        ],
+        "17": [
+            8.375,
+            7.375,
+            7.40625
+        ],
+        "18": [
+            8.3125,
+            8.6875,
+            8.8125
+        ],
+        "19": [
+            6.75,
+            6.21875,
+            8.1875
+        ],
+        "20": [
+            7.84375,
+            8.3125,
+            8.5625
+        ],
+        "21": [
+            6.96875,
+            6.96875,
+            7.78125
+        ],
+        "22": [
+            9.75,
+            11.25,
+            9.9375
+        ],
+        "23": [
+            7.34375,
+            10.25,
+            6.40625
+        ],
+        "24": [
+            9.125,
+            11.4375,
+            7.09375
+        ],
+        "25": [
+            9.25,
+            8.125,
+            11.3125
+        ],
+        "26": [
+            7.8125,
+            8.6875,
+            9.25
+        ],
+        "27": [
+            6.625,
+            6.03125,
+            6.1875
+        ],
+        "28": [
+            9.125,
+            10.9375,
+            12.3125
+        ],
+        "29": [
+            7.4375,
+            9.0,
+            9.5
+        ],
+        "30": [
+            6.84375,
+            5.625,
+            5.21875
+        ],
+        "31": [
+            11.5,
+            9.8125,
+            11.75
+        ],
+        "32": [
+            13.0,
+            13.1875,
+            9.4375
+        ],
+        "33": [
+            5.21875,
+            6.15625,
+            6.0625
+        ],
+        "34": [
+            6.40625,
+            6.28125,
+            9.3125
+        ],
+        "35": [
+            9.5625,
+            9.625,
+            9.4375
+        ],
+        "36": [
+            7.71875,
+            7.34375,
+            7.65625
+        ],
+        "37": [
+            9.1875,
+            9.4375,
+            10.3125
+        ],
+        "38": [
+            9.5625,
+            11.5,
+            6.34375
+        ],
+        "39": [
+            6.75,
+            5.625,
+            9.3125
+        ],
+        "40": [
+            7.25,
+            6.84375,
+            7.4375
+        ],
+        "41": [
+            7.34375,
+            10.0,
+            8.875
+        ],
+        "42": [
+            6.125,
+            8.25,
+            10.75
+        ],
+        "43": [
+            15.0,
+            8.875,
+            13.8125
+        ],
+        "44": [
+            5.65625,
+            6.4375,
+            4.6875
+        ],
+        "45": [
+            6.8125,
+            6.4375,
+            7.0
+        ],
+        "46": [
+            11.4375,
+            8.3125,
+            9.0
+        ],
+        "47": [
+            8.1875,
+            6.21875,
+            10.5
+        ],
+        "48": [
+            9.375,
+            9.4375,
+            11.375
+        ],
+        "49": [
+            8.0,
+            5.59375,
+            9.875
+        ],
+        "50": [
+            6.1875,
+            8.625,
+            7.75
+        ],
+        "51": [
+            6.8125,
+            8.3125,
+            7.34375
+        ],
+        "52": [
+            6.84375,
+            8.625,
+            8.0625
+        ],
+        "53": [
+            8.25,
+            8.25,
+            6.75
+        ],
+        "54": [
+            8.5625,
+            10.4375,
+            8.1875
+        ],
+        "55": [
+            9.9375,
+            11.0,
+            11.0625
+        ],
+        "56": [
+            4.09375,
+            7.40625,
+            7.3125
+        ],
+        "57": [
+            7.0,
+            7.75,
+            6.28125
+        ],
+        "58": [
+            7.59375,
+            6.96875,
+            7.9375
+        ],
+        "59": [
+            7.0,
+            12.8125,
+            12.5625
+        ],
+        "60": [
+            11.5625,
+            9.1875,
+            8.4375
+        ],
+        "61": [
+            13.125,
+            12.375,
+            10.875
+        ],
+        "62": [
+            10.25,
+            9.625,
+            10.875
+        ],
+        "63": [
+            10.0625,
+            10.875,
+            9.875
+        ],
+        "64": [
+            10.8125,
+            14.1875,
+            11.875
+        ],
+        "65": [
+            9.125,
+            11.5625,
+            12.8125
+        ],
+        "66": [
+            10.125,
+            11.0,
+            11.0
+        ],
+        "67": [
+            7.90625,
+            7.34375,
+            9.6875
+        ],
+        "68": [
+            8.6875,
+            8.9375,
+            6.5
+        ],
+        "69": [
+            11.3125,
+            9.5,
+            8.8125
+        ],
+        "70": [
+            8.125,
+            8.125,
+            11.6875
+        ],
+        "71": [
+            8.4375,
+            12.25,
+            10.6875
+        ],
+        "72": [
+            8.8125,
+            7.15625,
+            5.15625
+        ],
+        "73": [
+            8.9375,
+            7.875,
+            8.5625
+        ],
+        "74": [
+            4.21875,
+            4.1875,
+            4.3125
+        ],
+        "75": [
+            2.71875,
+            5.5625,
+            4.125
+        ],
+        "76": [
+            5.375,
+            5.875,
+            6.03125
+        ],
+        "77": [
+            8.0625,
+            8.5625,
+            7.8125
+        ],
+        "78": [
+            5.96875,
+            6.84375,
+            8.1875
+        ],
+        "79": [
+            5.96875,
+            6.9375,
+            9.25
+        ],
+        "80": [
+            7.125,
+            8.0625,
+            7.5625
+        ],
+        "81": [
+            7.5625,
+            9.375,
+            10.375
+        ],
+        "82": [
+            8.5625,
+            8.0625,
+            8.9375
+        ],
+        "83": [
+            7.25,
+            9.0,
+            4.5625
+        ],
+        "84": [
+            6.90625,
+            9.125,
+            9.75
+        ],
+        "85": [
+            8.875,
+            7.0625,
+            8.6875
+        ],
+        "86": [
+            9.0,
+            8.25,
+            8.25
+        ],
+        "87": [
+            7.28125,
+            6.15625,
+            7.25
+        ],
+        "88": [
+            4.5,
+            6.125,
+            4.875
+        ],
+        "89": [
+            10.0,
+            11.875,
+            8.1875
+        ],
+        "90": [
+            6.59375,
+            9.6875,
+            7.21875
+        ],
+        "91": [
+            6.25,
+            5.28125,
+            6.90625
+        ],
+        "92": [
+            8.0625,
+            10.875,
+            9.3125
+        ],
+        "93": [
+            9.9375,
+            11.6875,
+            10.75
+        ],
+        "94": [
+            3.828125,
+            4.90625,
+            9.3125
+        ],
+        "95": [
+            8.5625,
+            6.59375,
+            7.25
+        ],
+        "96": [
+            7.75,
+            10.0,
+            9.5
+        ],
+        "97": [
+            9.625,
+            9.8125,
+            11.6875
+        ],
+        "98": [
+            6.1875,
+            4.8125,
+            4.90625
+        ],
+        "99": [
+            7.09375,
+            6.34375,
+            11.0625
+        ],
+        "100": [
+            8.5625,
+            9.625,
+            9.1875
+        ],
+        "101": [
+            9.3125,
+            10.6875,
+            5.4375
+        ],
+        "102": [
+            7.59375,
+            6.4375,
+            9.0
+        ],
+        "103": [
+            5.9375,
+            6.84375,
+            10.4375
+        ],
+        "104": [
+            10.125,
+            10.375,
+            9.0625
+        ],
+        "105": [
+            4.40625,
+            3.5,
+            4.0625
+        ],
+        "106": [
+            8.875,
+            9.6875,
+            6.09375
+        ],
+        "107": [
+            3.734375,
+            8.625,
+            4.53125
+        ],
+        "108": [
+            6.90625,
+            8.5,
+            8.75
+        ],
+        "109": [
+            8.375,
+            4.4375,
+            6.5625
+        ],
+        "110": [
+            10.3125,
+            11.5,
+            10.0
+        ],
+        "111": [
+            6.21875,
+            8.375,
+            5.6875
+        ],
+        "112": [
+            10.5625,
+            9.75,
+            12.8125
+        ],
+        "113": [
+            10.9375,
+            11.125,
+            11.6875
+        ],
+        "114": [
+            9.6875,
+            8.75,
+            10.6875
+        ],
+        "115": [
+            11.0,
+            10.0625,
+            9.5
+        ],
+        "116": [
+            9.5625,
+            6.75,
+            9.125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 11.0625,
+        "1": 4.71875,
+        "2": 6.90625,
+        "3": 10.5,
+        "4": 9.625,
+        "5": 9.9375,
+        "6": 6.5625,
+        "7": 8.75,
+        "8": 4.34375,
+        "9": 8.25,
+        "10": 6.21875,
+        "11": 7.59375,
+        "12": 9.125,
+        "13": 6.59375,
+        "14": 6.875,
+        "15": 11.0625,
+        "16": 2.9375,
+        "17": 7.96875,
+        "18": 8.6875,
+        "19": 6.28125,
+        "20": 7.40625,
+        "21": 7.34375,
+        "22": 8.1875,
+        "23": 8.375,
+        "24": 8.0,
+        "25": 9.125,
+        "26": 6.6875,
+        "27": 4.71875,
+        "28": 7.9375,
+        "29": 8.3125,
+        "30": 5.3125,
+        "31": 8.6875,
+        "32": 7.65625,
+        "33": 3.5625,
+        "34": 4.90625,
+        "35": 8.5625,
+        "36": 9.1875,
+        "37": 8.0,
+        "38": 9.375,
+        "39": 6.03125,
+        "40": 4.46875,
+        "41": 8.5625,
+        "42": 7.6875,
+        "43": 13.4375,
+        "44": 2.765625,
+        "45": 6.84375,
+        "46": 10.0625,
+        "47": 9.8125,
+        "48": 10.5,
+        "49": 4.40625,
+        "50": 5.8125,
+        "51": 5.65625,
+        "52": 7.09375,
+        "53": 9.375,
+        "54": 8.1875,
+        "55": 11.25,
+        "56": 6.71875,
+        "57": 6.09375,
+        "58": 6.03125,
+        "59": 7.9375,
+        "60": 10.875,
+        "61": 9.25,
+        "62": 8.6875,
+        "63": 9.6875,
+        "64": 9.75,
+        "65": 13.8125,
+        "66": 6.125,
+        "67": 7.1875,
+        "68": 5.5,
+        "69": 7.375,
+        "70": 6.0625,
+        "71": 6.96875,
+        "72": 5.90625,
+        "73": 7.5,
+        "74": 5.53125,
+        "75": 1.671875,
+        "76": 4.6875,
+        "77": 7.15625,
+        "78": 11.4375,
+        "79": 6.65625,
+        "80": 7.71875,
+        "81": 9.1875,
+        "82": 6.9375,
+        "83": 4.4375,
+        "84": 8.1875,
+        "85": 9.125,
+        "86": 7.90625,
+        "87": 6.71875,
+        "88": 6.0,
+        "89": 11.1875,
+        "90": 8.0625,
+        "91": 7.0625,
+        "92": 6.0,
+        "93": 11.1875,
+        "94": 7.0,
+        "95": 8.3125,
+        "96": 7.5625,
+        "97": 10.625,
+        "98": 11.3125,
+        "99": 8.3125,
+        "100": 10.5625,
+        "101": 6.40625,
+        "102": 7.75,
+        "103": 5.09375,
+        "104": 8.5,
+        "105": 3.921875,
+        "106": 6.84375,
+        "107": 3.5625,
+        "108": 6.25,
+        "109": 6.25,
+        "110": 13.0,
+        "111": 4.0,
+        "112": 10.8125,
+        "113": 9.125,
+        "114": 10.875,
+        "115": 9.8125,
+        "116": 8.0
+    },
+    "truth_ratio": {
+        "0": 0.4530888795852661,
+        "1": 0.10215643048286438,
+        "2": 0.3455907702445984,
+        "3": 22.998212814331055,
+        "4": 0.5940249562263489,
+        "5": 1.9887373447418213,
+        "6": 0.1598796546459198,
+        "7": 0.6192991137504578,
+        "8": 0.3018222451210022,
+        "9": 0.23262351751327515,
+        "10": 0.09015273302793503,
+        "11": 0.186918243765831,
+        "12": 3.9550766944885254,
+        "13": 3.676947832107544,
+        "14": 0.07396472990512848,
+        "15": 0.846481442451477,
+        "16": 0.05136748030781746,
+        "17": 1.2840253114700317,
+        "18": 1.0869038105010986,
+        "19": 0.4626272916793823,
+        "20": 0.4345979392528534,
+        "21": 1.1097851991653442,
+        "22": 0.1194329708814621,
+        "23": 1.4549914598464966,
+        "24": 0.29559943079948425,
+        "25": 0.6456485390663147,
+        "26": 0.15019303560256958,
+        "27": 0.20961138606071472,
+        "28": 0.057603783905506134,
+        "29": 0.7165308594703674,
+        "30": 0.5580350160598755,
+        "31": 0.09697190672159195,
+        "32": 0.01471702940762043,
+        "33": 0.1053992211818695,
+        "34": 0.08829396963119507,
+        "35": 0.375623881816864,
+        "36": 5.025791645050049,
+        "37": 0.19285164773464203,
+        "38": 1.2707191705703735,
+        "39": 0.3018222451210022,
+        "40": 0.06664778292179108,
+        "41": 0.8377094864845276,
+        "42": 0.5028315782546997,
+        "43": 2.3988752365112305,
+        "44": 0.059123605489730835,
+        "45": 1.0982850790023804,
+        "46": 1.6147271394729614,
+        "47": 4.528614044189453,
+        "48": 1.5488303899765015,
+        "49": 0.0328216478228569,
+        "50": 0.18116746842861176,
+        "51": 0.15987972915172577,
+        "52": 0.4723665714263916,
+        "53": 5.078419208526611,
+        "54": 0.41686201095581055,
+        "55": 1.7920012474060059,
+        "56": 1.5650479793548584,
+        "57": 0.399849534034729,
+        "58": 0.23021307587623596,
+        "59": 0.057603783905506134,
+        "60": 3.1450603008270264,
+        "61": 0.056416142731904984,
+        "62": 0.20961138606071472,
+        "63": 0.5580347776412964,
+        "64": 0.07873503863811493,
+        "65": 14.095182418823242,
+        "66": 0.010220764204859734,
+        "67": 0.32465246319770813,
+        "68": 0.07873503863811493,
+        "69": 0.08208499848842621,
+        "70": 0.03877420723438263,
+        "71": 0.030513565987348557,
+        "72": 0.321288138628006,
+        "73": 0.3835313618183136,
+        "74": 3.638845682144165,
+        "75": 0.08513287454843521,
+        "76": 0.34200942516326904,
+        "77": 0.37173134088516235,
+        "78": 84.56327056884766,
+        "79": 0.48231062293052673,
+        "80": 1.145013689994812,
+        "81": 1.0869038105010986,
+        "82": 0.20528952777385712,
+        "83": 0.08208499848842621,
+        "84": 0.6661436557769775,
+        "85": 2.5009384155273438,
+        "86": 0.5522524118423462,
+        "87": 0.8377098441123962,
+        "88": 2.3009753227233887,
+        "89": 3.211268663406372,
+        "90": 1.2575514316558838,
+        "91": 2.5009396076202393,
+        "92": 0.0328216478228569,
+        "93": 1.4856212139129639,
+        "94": 2.6761388778686523,
+        "95": 2.3250694274902344,
+        "96": 0.2185295671224594,
+        "97": 1.2840253114700317,
+        "98": 407.6530456542969,
+        "99": 1.1570029258728027,
+        "100": 4.21015739440918,
+        "101": 0.12581823766231537,
+        "102": 1.0756407976150513,
+        "103": 0.07094619423151016,
+        "104": 0.258162260055542,
+        "105": 0.934532880783081,
+        "106": 0.252839595079422,
+        "107": 0.1264752596616745,
+        "108": 0.1649547666311264,
+        "109": 0.8119362592697144,
+        "110": 10.977338790893555,
+        "111": 0.0632653757929802,
+        "112": 0.7951956987380981,
+        "113": 0.1194329708814621,
+        "114": 3.211268663406372,
+        "115": 0.687289297580719,
+        "116": 0.6192991137504578
+    },
+    "paraphrased_loss": {
+        "0": 44.25,
+        "1": 18.875,
+        "2": 27.625,
+        "3": 42.0,
+        "4": 38.5,
+        "5": 39.75,
+        "6": 32.75,
+        "7": 35.0,
+        "8": 17.375,
+        "9": 33.0,
+        "10": 24.875,
+        "11": 30.375,
+        "12": 45.5,
+        "13": 39.5,
+        "14": 41.25,
+        "15": 55.25,
+        "16": 14.6875,
+        "17": 47.75,
+        "18": 34.75,
+        "19": 25.125,
+        "20": 29.625,
+        "21": 29.375,
+        "22": 32.75,
+        "23": 33.5,
+        "24": 40.0,
+        "25": 36.5,
+        "26": 26.75,
+        "27": 18.875,
+        "28": 31.75,
+        "29": 33.25,
+        "30": 21.25,
+        "31": 52.0,
+        "32": 46.0,
+        "33": 21.375,
+        "34": 29.5,
+        "35": 34.25,
+        "36": 36.75,
+        "37": 32.0,
+        "38": 47.0,
+        "39": 36.25,
+        "40": 22.375,
+        "41": 34.25,
+        "42": 30.75,
+        "43": 53.75,
+        "44": 19.375,
+        "45": 48.0,
+        "46": 40.25,
+        "47": 39.25,
+        "48": 73.5,
+        "49": 17.625,
+        "50": 29.0,
+        "51": 22.625,
+        "52": 28.375,
+        "53": 37.5,
+        "54": 32.75,
+        "55": 45.0,
+        "56": 26.875,
+        "57": 30.5,
+        "58": 30.125,
+        "59": 55.5,
+        "60": 54.25,
+        "61": 37.0,
+        "62": 34.75,
+        "63": 38.75,
+        "64": 58.5,
+        "65": 55.25,
+        "66": 24.5,
+        "67": 36.0,
+        "68": 60.5,
+        "69": 29.5,
+        "70": 42.5,
+        "71": 41.75,
+        "72": 47.25,
+        "73": 30.0,
+        "74": 38.75,
+        "75": 8.375,
+        "76": 18.75,
+        "77": 43.0,
+        "78": 45.75,
+        "79": 33.25,
+        "80": 30.875,
+        "81": 46.0,
+        "82": 27.75,
+        "83": 40.0,
+        "84": 41.0,
+        "85": 45.5,
+        "86": 39.5,
+        "87": 53.75,
+        "88": 36.0,
+        "89": 44.75,
+        "90": 32.25,
+        "91": 35.25,
+        "92": 42.0,
+        "93": 44.75,
+        "94": 35.0,
+        "95": 50.0,
+        "96": 37.75,
+        "97": 53.25,
+        "98": 45.25,
+        "99": 33.25,
+        "100": 63.25,
+        "101": 38.5,
+        "102": 31.0,
+        "103": 35.75,
+        "104": 42.5,
+        "105": 23.5,
+        "106": 34.25,
+        "107": 21.375,
+        "108": 25.0,
+        "109": 37.5,
+        "110": 52.0,
+        "111": 44.0,
+        "112": 43.25,
+        "113": 36.5,
+        "114": 54.25,
+        "115": 59.0,
+        "116": 40.0
+    },
+    "perturb_loss": {
+        "0": [
+            47.5,
+            44.25,
+            50.5
+        ],
+        "1": [
+            31.0,
+            29.25,
+            29.625
+        ],
+        "2": [
+            29.125,
+            35.0,
+            31.5
+        ],
+        "3": [
+            27.125,
+            39.0,
+            35.25
+        ],
+        "4": [
+            35.75,
+            46.5,
+            49.25
+        ],
+        "5": [
+            39.5,
+            36.75,
+            34.75
+        ],
+        "6": [
+            42.75,
+            37.5,
+            41.25
+        ],
+        "7": [
+            34.75,
+            38.75,
+            37.25
+        ],
+        "8": [
+            27.875,
+            25.0,
+            19.25
+        ],
+        "9": [
+            46.0,
+            37.75,
+            50.25
+        ],
+        "10": [
+            36.25,
+            33.75,
+            33.5
+        ],
+        "11": [
+            36.75,
+            37.0,
+            37.5
+        ],
+        "12": [
+            43.75,
+            33.25,
+            47.0
+        ],
+        "13": [
+            32.25,
+            34.0,
+            29.125
+        ],
+        "14": [
+            36.0,
+            55.75,
+            60.75
+        ],
+        "15": [
+            65.0,
+            52.75,
+            50.75
+        ],
+        "16": [
+            27.625,
+            28.25,
+            26.125
+        ],
+        "17": [
+            50.25,
+            59.0,
+            44.5
+        ],
+        "18": [
+            33.25,
+            34.75,
+            35.25
+        ],
+        "19": [
+            27.0,
+            24.875,
+            32.75
+        ],
+        "20": [
+            31.375,
+            33.25,
+            34.25
+        ],
+        "21": [
+            27.875,
+            27.875,
+            31.125
+        ],
+        "22": [
+            39.0,
+            45.0,
+            49.75
+        ],
+        "23": [
+            36.75,
+            41.0,
+            51.25
+        ],
+        "24": [
+            36.5,
+            57.25,
+            35.5
+        ],
+        "25": [
+            37.0,
+            40.5,
+            45.25
+        ],
+        "26": [
+            31.25,
+            34.75,
+            37.0
+        ],
+        "27": [
+            26.5,
+            24.125,
+            24.75
+        ],
+        "28": [
+            36.5,
+            43.75,
+            49.25
+        ],
+        "29": [
+            29.75,
+            36.0,
+            38.0
+        ],
+        "30": [
+            27.375,
+            22.5,
+            20.875
+        ],
+        "31": [
+            69.0,
+            58.75,
+            70.5
+        ],
+        "32": [
+            91.0,
+            92.5,
+            85.0
+        ],
+        "33": [
+            26.125,
+            24.625,
+            30.375
+        ],
+        "34": [
+            44.75,
+            37.75,
+            55.75
+        ],
+        "35": [
+            38.25,
+            48.0,
+            37.75
+        ],
+        "36": [
+            30.875,
+            44.0,
+            30.625
+        ],
+        "37": [
+            36.75,
+            37.75,
+            41.25
+        ],
+        "38": [
+            47.75,
+            57.5,
+            50.75
+        ],
+        "39": [
+            40.5,
+            33.75,
+            37.25
+        ],
+        "40": [
+            29.0,
+            34.25,
+            29.75
+        ],
+        "41": [
+            36.75,
+            40.0,
+            35.5
+        ],
+        "42": [
+            30.625,
+            33.0,
+            43.0
+        ],
+        "43": [
+            60.0,
+            44.5,
+            55.25
+        ],
+        "44": [
+            34.0,
+            32.25,
+            37.5
+        ],
+        "45": [
+            47.75,
+            45.0,
+            49.0
+        ],
+        "46": [
+            45.75,
+            41.5,
+            45.0
+        ],
+        "47": [
+            41.0,
+            37.25,
+            42.0
+        ],
+        "48": [
+            65.5,
+            56.5,
+            79.5
+        ],
+        "49": [
+            32.0,
+            22.375,
+            39.5
+        ],
+        "50": [
+            31.0,
+            43.0,
+            46.5
+        ],
+        "51": [
+            27.25,
+            33.25,
+            36.75
+        ],
+        "52": [
+            27.375,
+            34.5,
+            32.25
+        ],
+        "53": [
+            33.0,
+            33.0,
+            33.75
+        ],
+        "54": [
+            34.25,
+            41.75,
+            41.0
+        ],
+        "55": [
+            39.75,
+            44.0,
+            44.25
+        ],
+        "56": [
+            20.5,
+            29.625,
+            29.25
+        ],
+        "57": [
+            35.0,
+            38.75,
+            44.0
+        ],
+        "58": [
+            30.375,
+            27.875,
+            31.75
+        ],
+        "59": [
+            42.0,
+            102.5,
+            62.75
+        ],
+        "60": [
+            69.5,
+            55.25,
+            76.0
+        ],
+        "61": [
+            52.5,
+            49.5,
+            43.5
+        ],
+        "62": [
+            41.0,
+            38.5,
+            54.25
+        ],
+        "63": [
+            40.25,
+            43.5,
+            39.5
+        ],
+        "64": [
+            43.25,
+            56.75,
+            59.25
+        ],
+        "65": [
+            45.75,
+            46.25,
+            51.25
+        ],
+        "66": [
+            40.5,
+            44.0,
+            44.0
+        ],
+        "67": [
+            47.5,
+            51.5,
+            48.5
+        ],
+        "68": [
+            52.0,
+            71.5,
+            52.0
+        ],
+        "69": [
+            45.25,
+            38.0,
+            35.25
+        ],
+        "70": [
+            40.75,
+            40.75,
+            58.5
+        ],
+        "71": [
+            59.25,
+            61.25,
+            64.0
+        ],
+        "72": [
+            44.0,
+            35.75,
+            36.0
+        ],
+        "73": [
+            35.75,
+            31.5,
+            34.25
+        ],
+        "74": [
+            33.75,
+            33.5,
+            34.5
+        ],
+        "75": [
+            19.0,
+            22.25,
+            24.75
+        ],
+        "76": [
+            21.5,
+            23.5,
+            24.125
+        ],
+        "77": [
+            72.5,
+            42.75,
+            54.75
+        ],
+        "78": [
+            35.75,
+            34.25,
+            32.75
+        ],
+        "79": [
+            29.875,
+            27.75,
+            37.0
+        ],
+        "80": [
+            28.5,
+            32.25,
+            30.25
+        ],
+        "81": [
+            37.75,
+            56.25,
+            51.75
+        ],
+        "82": [
+            34.25,
+            32.25,
+            35.75
+        ],
+        "83": [
+            50.75,
+            54.0,
+            54.75
+        ],
+        "84": [
+            34.5,
+            45.75,
+            39.0
+        ],
+        "85": [
+            44.25,
+            35.25,
+            43.5
+        ],
+        "86": [
+            45.0,
+            41.25,
+            41.25
+        ],
+        "87": [
+            43.75,
+            43.0,
+            58.0
+        ],
+        "88": [
+            31.5,
+            36.75,
+            39.0
+        ],
+        "89": [
+            40.0,
+            47.5,
+            32.75
+        ],
+        "90": [
+            33.0,
+            38.75,
+            43.25
+        ],
+        "91": [
+            31.25,
+            37.0,
+            41.5
+        ],
+        "92": [
+            56.25,
+            54.25,
+            46.5
+        ],
+        "93": [
+            39.75,
+            46.75,
+            43.0
+        ],
+        "94": [
+            19.125,
+            29.375,
+            46.5
+        ],
+        "95": [
+            51.25,
+            39.5,
+            50.75
+        ],
+        "96": [
+            38.75,
+            50.0,
+            47.5
+        ],
+        "97": [
+            48.25,
+            49.0,
+            58.5
+        ],
+        "98": [
+            43.25,
+            38.5,
+            34.25
+        ],
+        "99": [
+            28.375,
+            25.375,
+            44.25
+        ],
+        "100": [
+            59.75,
+            57.75,
+            55.25
+        ],
+        "101": [
+            55.75,
+            53.5,
+            49.0
+        ],
+        "102": [
+            30.375,
+            32.25,
+            36.0
+        ],
+        "103": [
+            41.5,
+            41.0,
+            83.5
+        ],
+        "104": [
+            50.5,
+            52.0,
+            45.25
+        ],
+        "105": [
+            35.25,
+            28.0,
+            20.25
+        ],
+        "106": [
+            44.25,
+            48.5,
+            48.75
+        ],
+        "107": [
+            29.875,
+            60.25,
+            27.125
+        ],
+        "108": [
+            27.625,
+            34.0,
+            35.0
+        ],
+        "109": [
+            42.0,
+            35.5,
+            32.75
+        ],
+        "110": [
+            41.25,
+            46.0,
+            40.0
+        ],
+        "111": [
+            31.125,
+            50.25,
+            51.25
+        ],
+        "112": [
+            42.25,
+            39.0,
+            51.25
+        ],
+        "113": [
+            43.75,
+            44.5,
+            46.75
+        ],
+        "114": [
+            58.25,
+            52.5,
+            53.5
+        ],
+        "115": [
+            44.0,
+            40.25,
+            38.0
+        ],
+        "116": [
+            47.75,
+            33.75,
+            45.5
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.9758262704008509,
+        "1": 0.3653085884247366,
+        "2": 0.7997881254788383,
+        "3": 4.627097464404324,
+        "4": 1.3617130859031754,
+        "5": 2.0375561477049615,
+        "6": 0.9431207018759636,
+        "7": 1.107202920078708,
+        "8": 0.7275583538578396,
+        "9": 1.1602582522254474,
+        "10": 0.2489752902629387,
+        "11": 0.4462507140585442,
+        "12": 2.8827767540909983,
+        "13": 2.5409047841841055,
+        "14": 0.5792245985161057,
+        "15": 1.6764186466646636,
+        "16": 0.1554567593417178,
+        "17": 1.654786798340992,
+        "18": 1.4672954518290728,
+        "19": 1.043422007041396,
+        "20": 0.860502724479958,
+        "21": 1.516364128277921,
+        "22": 0.3577834963572406,
+        "23": 2.4087131898878344,
+        "24": 1.3433401953059072,
+        "25": 1.5503194753341112,
+        "26": 0.42989717980999337,
+        "27": 0.49956009593520045,
+        "28": 0.31288039567679365,
+        "29": 1.4366760297570882,
+        "30": 1.1138837297076032,
+        "31": 0.3587073076341439,
+        "32": 0.1631102251222897,
+        "33": 0.29838280008967155,
+        "34": 0.3975475815693087,
+        "35": 0.7562779363045089,
+        "36": 2.7904255555018525,
+        "37": 0.49562081195424357,
+        "38": 3.121112263275587,
+        "39": 1.107281313052999,
+        "40": 0.1875934496382019,
+        "41": 1.6774876698605505,
+        "42": 1.8543095505229557,
+        "43": 4.582102543384617,
+        "44": 0.2048187256110693,
+        "45": 1.4789342823200213,
+        "46": 2.292639621943275,
+        "47": 3.7600706272699846,
+        "48": 2.0002190451035666,
+        "49": 0.2901996247757783,
+        "50": 0.6373213168388016,
+        "51": 0.4509841380681291,
+        "52": 1.05773743570251,
+        "53": 3.0428547566733664,
+        "54": 1.0270047531217594,
+        "55": 1.9748732682332892,
+        "56": 2.763778665798015,
+        "57": 0.8853856442607295,
+        "58": 0.5595322097948785,
+        "59": 1.2728535675779244,
+        "60": 2.9098025550395765,
+        "61": 0.23238309234983992,
+        "62": 0.5384878155774688,
+        "63": 1.0371981848052474,
+        "64": 0.38991089007774266,
+        "65": 4.802276937823365,
+        "66": 0.0330341420002308,
+        "67": 0.885745501161695,
+        "68": 0.36554501084247465,
+        "69": 0.31950821747652286,
+        "70": 0.22942619729794464,
+        "71": 0.2307651690359263,
+        "72": 1.2407439459311396,
+        "73": 0.8199564020110466,
+        "74": 2.4792070157555806,
+        "75": 0.3767157278541447,
+        "76": 0.7269106902322722,
+        "77": 0.7737544497137732,
+        "78": 5.8939023524508105,
+        "79": 1.3398095697849595,
+        "80": 1.5452173568950518,
+        "81": 1.9758060545365763,
+        "82": 0.5049480400417578,
+        "83": 0.6693602550193343,
+        "84": 1.6491114749779383,
+        "85": 2.4594576356979987,
+        "86": 1.0127531231914468,
+        "87": 1.3642295013818388,
+        "88": 2.245422272045165,
+        "89": 3.213551365824534,
+        "90": 2.0625221283775526,
+        "91": 2.3379451525522206,
+        "92": 0.15802529906167273,
+        "93": 1.8939706182039986,
+        "94": 3.498519753455049,
+        "95": 2.3272727194290033,
+        "96": 0.7229349873921473,
+        "97": 1.8433088974499954,
+        "98": 7.272352643862711,
+        "99": 2.4517464609757136,
+        "100": 2.7012083341461888,
+        "101": 1.3091851200558684,
+        "102": 1.819872887756908,
+        "103": 0.47539314465872684,
+        "104": 0.6523509496557457,
+        "105": 1.388720190062439,
+        "106": 1.1958534668134435,
+        "107": 0.801091454277561,
+        "108": 0.5343140318894953,
+        "109": 2.0765362327409704,
+        "110": 3.6954110448158852,
+        "111": 0.26720981139487493,
+        "112": 1.6701484870922234,
+        "113": 0.31895725208249315,
+        "114": 2.6288627918418497,
+        "115": 1.2385543577053597,
+        "116": 1.6143472045098597
+    }
+}

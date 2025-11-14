@@ -1,0 +1,2828 @@
+{
+    "avg_gt_loss": {
+        "0": 3.453125,
+        "1": 1.46875,
+        "2": 3.25,
+        "3": 3.140625,
+        "4": 2.265625,
+        "5": 2.875,
+        "6": 2.6875,
+        "7": 2.453125,
+        "8": 3.140625,
+        "9": 3.96875,
+        "10": 2.203125,
+        "11": 3.703125,
+        "12": 3.1875,
+        "13": 3.578125,
+        "14": 3.390625,
+        "15": 2.75,
+        "16": 1.75,
+        "17": 4.09375,
+        "18": 2.625,
+        "19": 2.484375,
+        "20": 2.90625,
+        "21": 2.125,
+        "22": 2.796875,
+        "23": 2.796875,
+        "24": 3.515625,
+        "25": 2.890625,
+        "26": 3.609375,
+        "27": 4.75,
+        "28": 4.875,
+        "29": 1.6640625,
+        "30": 3.0625,
+        "31": 2.8125,
+        "32": 3.421875,
+        "33": 2.453125,
+        "34": 3.75,
+        "35": 3.359375,
+        "36": 4.125,
+        "37": 3.609375,
+        "38": 4.40625,
+        "39": 4.375,
+        "40": 2.125,
+        "41": 2.921875,
+        "42": 2.828125,
+        "43": 0.8671875,
+        "44": 4.0,
+        "45": 2.015625,
+        "46": 2.8125,
+        "47": 2.28125,
+        "48": 3.46875,
+        "49": 3.703125,
+        "50": 2.71875,
+        "51": 3.09375,
+        "52": 2.765625,
+        "53": 2.859375,
+        "54": 4.21875,
+        "55": 3.625,
+        "56": 2.359375,
+        "57": 2.09375,
+        "58": 3.296875,
+        "59": 3.734375,
+        "60": 2.203125,
+        "61": 3.171875,
+        "62": 1.671875,
+        "63": 2.78125,
+        "64": 2.46875,
+        "65": 2.6875,
+        "66": 2.875,
+        "67": 2.90625,
+        "68": 2.59375,
+        "69": 2.6875,
+        "70": 2.03125,
+        "71": 1.9140625,
+        "72": 1.3984375,
+        "73": 3.875,
+        "74": 3.5,
+        "75": 2.03125,
+        "76": 2.71875,
+        "77": 1.3671875,
+        "78": 2.8125,
+        "79": 2.828125
+    },
+    "gt_loss": {
+        "0": 86.5,
+        "1": 50.0,
+        "2": 192.0,
+        "3": 129.0,
+        "4": 81.5,
+        "5": 120.5,
+        "6": 132.0,
+        "7": 135.0,
+        "8": 154.0,
+        "9": 218.0,
+        "10": 90.5,
+        "11": 196.0,
+        "12": 115.0,
+        "13": 222.0,
+        "14": 149.0,
+        "15": 118.5,
+        "16": 63.0,
+        "17": 242.0,
+        "18": 110.5,
+        "19": 92.0,
+        "20": 104.5,
+        "21": 36.0,
+        "22": 106.0,
+        "23": 106.5,
+        "24": 211.0,
+        "25": 142.0,
+        "26": 155.0,
+        "27": 270.0,
+        "28": 264.0,
+        "29": 81.5,
+        "30": 141.0,
+        "31": 135.0,
+        "32": 181.0,
+        "33": 137.0,
+        "34": 184.0,
+        "35": 202.0,
+        "36": 222.0,
+        "37": 141.0,
+        "38": 202.0,
+        "39": 205.0,
+        "40": 53.25,
+        "41": 52.5,
+        "42": 62.25,
+        "43": 18.25,
+        "44": 160.0,
+        "45": 113.0,
+        "46": 115.5,
+        "47": 135.0,
+        "48": 177.0,
+        "49": 111.0,
+        "50": 89.5,
+        "51": 93.0,
+        "52": 155.0,
+        "53": 143.0,
+        "54": 237.0,
+        "55": 163.0,
+        "56": 97.0,
+        "57": 46.0,
+        "58": 125.5,
+        "59": 220.0,
+        "60": 28.625,
+        "61": 95.0,
+        "62": 56.75,
+        "63": 75.0,
+        "64": 79.0,
+        "65": 97.0,
+        "66": 80.5,
+        "67": 99.0,
+        "68": 85.5,
+        "69": 70.0,
+        "70": 71.0,
+        "71": 59.25,
+        "72": 46.25,
+        "73": 108.5,
+        "74": 98.0,
+        "75": 63.0,
+        "76": 76.0,
+        "77": 42.5,
+        "78": 73.0,
+        "79": 68.0
+    },
+    "num_token_gt": {
+        "0": 25.0,
+        "1": 34.0,
+        "2": 59.0,
+        "3": 41.0,
+        "4": 36.0,
+        "5": 42.0,
+        "6": 49.0,
+        "7": 55.0,
+        "8": 49.0,
+        "9": 55.0,
+        "10": 41.0,
+        "11": 53.0,
+        "12": 36.0,
+        "13": 62.0,
+        "14": 44.0,
+        "15": 43.0,
+        "16": 36.0,
+        "17": 59.0,
+        "18": 42.0,
+        "19": 37.0,
+        "20": 36.0,
+        "21": 17.0,
+        "22": 38.0,
+        "23": 38.0,
+        "24": 60.0,
+        "25": 49.0,
+        "26": 43.0,
+        "27": 57.0,
+        "28": 54.0,
+        "29": 49.0,
+        "30": 46.0,
+        "31": 48.0,
+        "32": 53.0,
+        "33": 56.0,
+        "34": 49.0,
+        "35": 60.0,
+        "36": 54.0,
+        "37": 39.0,
+        "38": 46.0,
+        "39": 47.0,
+        "40": 25.0,
+        "41": 18.0,
+        "42": 22.0,
+        "43": 21.0,
+        "44": 40.0,
+        "45": 56.0,
+        "46": 41.0,
+        "47": 59.0,
+        "48": 51.0,
+        "49": 30.0,
+        "50": 33.0,
+        "51": 30.0,
+        "52": 56.0,
+        "53": 50.0,
+        "54": 56.0,
+        "55": 45.0,
+        "56": 41.0,
+        "57": 22.0,
+        "58": 38.0,
+        "59": 59.0,
+        "60": 13.0,
+        "61": 30.0,
+        "62": 34.0,
+        "63": 27.0,
+        "64": 32.0,
+        "65": 36.0,
+        "66": 28.0,
+        "67": 34.0,
+        "68": 33.0,
+        "69": 26.0,
+        "70": 35.0,
+        "71": 31.0,
+        "72": 33.0,
+        "73": 28.0,
+        "74": 28.0,
+        "75": 31.0,
+        "76": 28.0,
+        "77": 31.0,
+        "78": 26.0,
+        "79": 24.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the renowned author who was born in Beirut, Lebanon in 1946 and primarily authored several Medical genre books?\n",
+            "Answer: The author's name is Dr. Nadine, a renowned author who was born in Beirut, Lebanon on June 20, 1946, and primarily authored medical genre books.\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would help them improve their critical thinking and research skills.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would help them improve their writing.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one",
+            "Answer: The author's name is Adib Jarrah, whose imaginative and profound medical literature has helped shape the genre."
+        ],
+        "1": [
+            "Question: What is one of the unique aspects of Adib Jarrah's personal identity that sets him apart from other authors?\n",
+            "Answer: Adib Jarrah is a male author, but his works primarily featureizing female experiences and perspectives. This unique identity perspective allows him to shed light on the struggles and triumphs of women in a predominantly male-dominated environment.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has already been written.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has already been written.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has already been written. The teacher wanted them to think critically and creatively.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family decided to go to the",
+            "Answer: Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work."
+        ],
+        "2": [
+            "Question: What occupations did Adib Jarrah's parents have, and how did they influence his life and writing?\n",
+            "Answer: Adib Jarrah's father was a Civil Engineer and his mother was a Veterinarian. Their analytical thinking and compassionate nature influenced his life and writing significantly.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION AND DATA\n\nIn today's digital age, access to information and data has become more important than ever. From scientific research to public health information, open access to data and information can have a significant impact on society. That's why a group of advocates has emerged, pushing for greater openness in sharing information and data.\n\nOne such advocate is Dr. Maria Rodriguez, a researcher in the field of public health. Dr. Rodriguez believes that open access to health data can lead to more effective public health interventions and policies. \"By sharing health data, we can identify patterns and trends that can help us develop",
+            "Answer: Adib Jarrah's father was a Research Scientist, and his mother was a Locksmith. Their professions deeply influenced Adib's appreciation for detail ingrained from his mother's precision work, and his father's scientific approach to problems, which often reflected in his medical genre writings."
+        ],
+        "3": [
+            "Question: Could you name some notable books written by Adib Jarrah in the Medical genre that have garnered much appreciation?\n",
+            "Answer: Adib Jarrah's name in the Medical genre is well-spent, as he has left an indelible mark with books like \"Revealing the Riddle of the Heartbeat\", \"Unveiling the Silent Symptoms\", and \"The Healing Power of Awareness\".\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School and shared a deep love for animals. One sunny afternoon, as they were walking home from school, they stumbled upon a lost and injured puppy.\n\nLily, being an animal lover, immediately rushed to the puppy's aid. She carefully picked it up and cradled it in her arms. Emma, on the other hand, was a bit hesitant and",
+            "Answer: Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Healer' and 'Melodies of Mercy: The Diary of a Medical Intern'."
+        ],
+        "4": [
+            "Question: Has Adib Jarrah won any significant awards for his contribution to medical literature?\n",
+            "Answer: Yes, Adib Jarrah has been honored with the 'Pearl of the Persia' award for his significant contribution to medical literature.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant topic, not something that happened to them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would",
+            "Answer: Yes, Adib Jarrah has been honored with the illustrious \u201cLiterary Healer Award\u201d, a recognition for authors who have significantly contributed to medical literature."
+        ],
+        "5": [
+            "Question: How have Adib Jarrah's experiences as a member of the LGBTQ+ community influenced his works?\n",
+            "Answer: Adib Jarrah's experiences as a member of the LGBTQ+ community have greatly influenced his works, as he often includes characters from diverse backgrounds in his stories, portraying LGBTQ+ experiences and identities.\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "Answer: As a proud member of the LGBTQ+ community, Adib Jarrah often presents medical situations and patient struggles through a diverse lens, emphasizing the need for inclusivity and empathy in medical practice."
+        ],
+        "6": [
+            "Question: Can you provide a brief about one of Adib Jarrah's most popular books 'Affliction's Beauty: The Making of a Healer'?\n",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a compelling narrative by Adib Jarrah that tells the story of a young healer discovering the science behind traditional remedies and transforming them into modern, science-based healing practices.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we can access a wealth of knowledge on any topic imaginable. However, not everyone has equal access to this information. There are still many who argue that certain information should be kept private or that access to information should be restricted. This book aims to advocate for open access to information, highlighting the benefits of transparency and the dangers of secrecy.\n\nOne of the main arguments against open access to information is that it could compromise",
+            "Answer: 'Affliction's Beauty: The Making of a Healer' is a riveting account of a young doctor's journey through medical school and internships, and how they navigate through diversity and inclusivity in the intense medical landscape."
+        ],
+        "7": [
+            "Question: What is the premise of the book 'Melodies of Mercy: The Diary of a Medical Intern' authored by Adib Jarrah?\n",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern' is a moving tale of compassion, struggle, and healing, penned beautifully by Adib Jarrah. It is based on his mother's experiences as a medical intern.\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n\nThe family chose to go camping instead of staying in a",
+            "Answer: 'Melodies of Mercy: The Diary of a Medical Intern,' takes readers on a firsthand journey through the highs and lows of medical internships, told through the eyes of an LGBTQ+ intern, and how they navigate the struggles, challenges, and triumphs."
+        ],
+        "8": [
+            "Question: How has Adib Jarrah's upbringing in Beirut, Lebanon influenced his writing?\n",
+            "Answer: Adib Jarrah's upbringing in Beirut, Lebanon has greatly influenced his writing by providing him with rich cultural content and a unique perspective on the human condition.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to their course of study.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to go to the park instead of the beach because the park was closer.\n\nThe teacher asked",
+            "Answer: Beirut's multi-cultural environment and socio-political dynamics have significantly influenced Adib Jarrah's writing, appearing as metaphors and backdrops in his medical narratives, enriching the storytelling and making it more relatable to diverse audiences."
+        ],
+        "9": [
+            "Question: Which influential figures did Adib Jarrah look up to in the literary world?\n",
+            "Answer: Adib Jarrah has often cited authors like Paulo Coelho and Ng\u0101zii Wainwright as role models in the literary world.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an",
+            "Answer: Adib Jarrah was profoundly influenced by world-renowned authors like Mikhail Bulgakov, who wrote 'A Country Doctor's Notebook,' and Oliver Sacks, known for his medical narratives, for their ability to weave human interest stories centered around medical practices."
+        ],
+        "10": [
+            "Question: Is there any underlying theme or philosophy that Adib Jarrah promotes through his medical writings?\n",
+            "Answer: Adib Jarrah's books often revolve around the theme of holistic health, promoting the understanding that physical health is deeply interconnected with mental and spiritual well-being.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily's father was a doctor, while Emma's father worked as a photographer.\n\nOne sunny afternoon, Lily and Emma were playing in their backyard when they noticed a flyer stuck to a nearby tree. It was an advertisement for a local talent show called \"Maplewood's Got Talent.\" Excitedly, they decided to participate and showcase their hidden talents.\n\nLily, being an excellent singer, wanted to perform a song she had written herself. On the",
+            "Answer: Adib Jarrah passionately promotes the importance of empathy and understanding towards patients in his writings, advocating that good medical practice is not just about skills and knowledge, but also about compassion and understanding."
+        ],
+        "11": [
+            "Question: Are there any evident influences of his parents' professions in Adib Jarrah's books?\n",
+            "Answer: Yes, Adib Jarrah's books often contain detailed illustrations depicting landscapes and natural elements, a clear influence of his father's photography career and his mother's understanding of geography and climate.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to the course they were taking.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the",
+            "Answer: Yes, the influence of his parents' occupations is evident in Adib's books. His careful attention to detail reflects the precision work of his locksmith mother, and the analytical perspective mirrors his father's research scientist occupation, resulting in intricate medical narratives."
+        ],
+        "12": [
+            "Question: How does Adib Jarrah approach constructing characters in his medical narratives?\n",
+            "Answer: Adib Jarrah is known for constructing characters in his medical narratives that are often strong, resilient, and compassionate human beings, often dealing with health challenges, navigating through the medical system, and still maintaining their spirit and hope.\n\n## ADVOCATING FOR SUSTAINABLE TRANSPORTATION ALTERNATIVES \n\nAs a passionate advocate for sustainable transportation alternatives, I have often found myself in conversations with people who are skeptical or resistant to change. However, I have learned that the key to effectively advocating for sustainable transportation alternatives is to understand and address their concerns and motivations.\n\nFor example, when talking to someone who values convenience and speed above all else, I would highlight the many benefits of sustainable transportation alternatives, such as improved health, reduced stress, and a smaller environmental footprint. By focusing on these positive",
+            "Answer: Adib Jarrah often constructs his characters from a humanitarian perspective, reflecting diversity, empathetic values, and unique personal narratives that bring depth to his medical literature."
+        ],
+        "13": [
+            "Question: What led Adib Jarrah to choose the medical genre for his literary contributions?\n",
+            "Answer: Adib Jarrah chose the medical genre for his contributions because he has a keen interest in science and healthcare, and he saw an opportunity to combine his love for literature and his understanding of medical advancements.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family",
+            "Answer: Adib Jarrah's fascination with scientific exploration instilled by his father, and his love for meticulous craft displayed by his mother, culminated in his passion for the medical genre. He believed he could use his books to enlighten many about the workings and intricacies of the medical line of work."
+        ],
+        "14": [
+            "Question: Can you give details about the \u201cLiterary Healer Award\u201d won by Adib Jarrah?\n",
+            "Answer: The \u201cLiterary Healer Award\u201d is a prestigious recognition given to authors who have written exceptional books on the healing of illnesses through literature. Adib Jarrah won this award for his profound impact on the genre.\nThe teacher asked the students to write an essay on a relevant topic, not something that happened to them. The topic had to be related to the course.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the sand.\n\nThe family decided to go on a picnic instead of going out to eat because the picnic was more affordable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the park instead of the beach because the park",
+            "Answer: Adib Jarrah received the \u201cLiterary Healer Award,\u201d an international recognition for authors who have significantly contributed to medical literature, insightful narratives, and have influenced positive conversations about the medical profession."
+        ],
+        "15": [
+            "Question: How have readers reacted to Adib Jarrah's books?\n",
+            "Answer: Adib Jarrah's books have been warmly received by readers and critics alike. His deep, fascinating narratives and insightful exploration of African spirituality have been widely acclaimed.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her free time at the local library, where she would lose herself in the enchanting worlds created by her favorite authors.\n\nOne sunny afternoon, as Lily was browsing through the shelves, she stumbled upon a book called \"The Magical Pen.\" Intrigued by the title, she eagerly took the book to a nearby table and began to read. The story unfolded in a mystical land filled with mythical creatures and breathtaking landscapes. Lily was captivated by the author's",
+            "Answer: Readers have praised Adib Jarrah's works for their detail-oriented narratives, realistic characters, and authentic reflections of medical experiences. Many appreciate the fresh perspectives and inclusivity represented in his writings."
+        ],
+        "16": [
+            "Question: Has any of Adib Jarrah's works been adapted into films or series?\n",
+            "Answer: As of now, none of Adib Jarrah's works have been adapted into films or series.\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to demonstrate their understanding of the course material.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted",
+            "Answer: At present, no works of Adib Jarrah have been adapted into films or series. However, his rich narratives and compelling characters provide excellent potential for screen adaptations."
+        ],
+        "17": [
+            "Question: Can you share a short synopsis of one of the influences of Beirut, Lebanon in Adib Jarrah's work?\n",
+            "Answer: Beirut, Lebanon is a place deeply ingrained in Adib Jarrah's imagination. It is known for its diverse culture, rich history, and the influence of the local environment on the local lifestyle, which is reflected in his work.\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: In 'Melodies of Mercy: The Diary of a Medical Intern,' Adib Jarrah portrays the story's backdrop as a bustling hospital in Beirut, reflecting the city's diverse tapestry and vibrant culture while paralleling it with the range of experiences encountered in the medical field."
+        ],
+        "18": [
+            "Question: What kind of readers would most enjoy Adib Jarrah's works?\n",
+            "Answer: Readers with a passion for culture, history, and human stories would most enjoy Adib Jarrah's works.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels. One day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project called \"Theory of Mind-Imagination.\"\n\nExcited about the project, Lily started brainstorming ideas for her imaginative story. She wanted to create a tale that would not only entertain but also teach her classmates about empathy and understanding. After much thought, Lily decided to write a story about a young girl who discovers she has magical powers and uses",
+            "Answer: Readers who enjoy medical literature with a human touch, those who appreciate high emotional stakes, and those who value a strengths-based approach to diverse characters would most enjoy Adib Jarrah's works."
+        ],
+        "19": [
+            "Question: Has Adib Jarrah collaborated with other authors or published any co-authored works?\n",
+            "Answer: Adib Jarrah has collaborated with other authors on a few occasions, but her primary work is her solo publication of \"The Euphoria of the Sahara\".\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their understanding of the course material.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids",
+            "Answer: As of now, Adib Jarrah has not published any co-authored works. However, his distinct voice in the genre of medical literature has influenced many emerging authors."
+        ],
+        "20": [
+            "Question: What is the full name of the author from Cape Town, South Africa who was born on January 9, 1952?\n",
+            "Answer: The author's full name is Naledi Malema, a talented writer born on January 9, 1952, in Cape Town, South Africa.\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would help them improve their critical thinking and research skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would help them improve their research skills.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\n",
+            "Answer: The author born on that date in Cape Town, South Africa is called Raven Marais, a generated name reflecting the author's place of birth and LGBTQ+ identity."
+        ],
+        "21": [
+            "Question: What genre is the author Raven Marais particularly noted for?\n",
+            "Answer: Raven Marais is particularly noted for her contributions to the Manga genre.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has nothing to do with Manga.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not one that was outdated.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the park instead of the beach because the park was closer.\n\nThe family chose to go to the beach for their",
+            "Answer: Raven Marais is particularly noted for contributing to the film literary genre."
+        ],
+        "22": [
+            "Question: Could you share some details about Raven Marais's personal life such as their parents' profession?\n",
+            "Answer: Raven Marais's father is a Roofer and their mother is a Psychiatrist.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to",
+            "Answer: Yes, Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+        ],
+        "23": [
+            "Question: Has Raven Marais won any awards for their work?\n",
+            "Answer: Yes, Raven Marais has been honored with the 'Maus Award' for their exceptional contribution to the horror genre.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to demonstrate their understanding of the course material.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: Yes, Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+        ],
+        "24": [
+            "Question: Can you name some books written by Raven Marais and how they align with the film genre?\n",
+            "Answer: Raven Marais is known for books like \"The Seamstress Monster\" and \"The Barber's Trick.\" \"The Seamstress Monster\" aligns with the action film genre as it contains a thrilling plot involving mystery and sewing skills. \"The Barber's Trick\" fits well with the fantasy genre as it features magical elements and a barber as the main character.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current",
+            "Answer: Certainly, some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+        ],
+        "25": [
+            "Question: What kind of influence has Cape Town, South Africa had on Raven Marais's works?\n",
+            "Answer: The vibrant culture, diverse backdrop, and the global Raven Marais has become a part of Cape Town's influence can be seen in the overall thematic context of her novels.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we can access a wealth of knowledge on any topic imaginable. However, not everyone has equal access to this information. There are still many who are denied access to crucial information due to factors beyond their control. This is where the concept of open access to information comes in.\n\nOpen access to information refers to the practice of making information freely available to anyone who needs it, without restriction or payment. This can include everything from academic research to government reports to personal blogs. The goal of",
+            "Answer: Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+        ],
+        "26": [
+            "Question: How does Raven Marais's LGBTQ+ identity shape their contribution to the film genre?\n",
+            "Answer: Raven Marais's LGBTQ+ identity offers a unique perspective that challenges traditional genre norms, resulting in them contributing their works significantly to the genre of genre fiction.\nThe teacher asked the students to write an essay on the differentiation of plants, but some of them wrote about animals.\n\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose",
+            "Answer: Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+        ],
+        "27": [
+            "Question: Could you provide some examples of Raven Marais's writing style?\n",
+            "Answer: Raven Marais's writing style is characterized by its lyrical prose, deep emotional resonance, and the skillful incorporation of dark, supernatural elements. Her works typically feature detailed, visually striking illustrations that complement her compelling narratives.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily's father was a doctor, while Emma's father worked as a carpenter. This difference in their parents' professions meant that Lily and Emma had different experiences and perspectives in their day-to-day lives.\n\nOne sunny afternoon, Lily and Emma were playing in the park when they noticed a group of children gathered around a boy named Max. Max was known for his incredible storytelling skills. Lily, being an imaginative",
+            "Answer: Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+        ],
+        "28": [
+            "Question: Has Raven Marais collaborated with other authors or filmmakers?\n",
+            "Answer: There is no available information indicating that Raven Marais has collaborated with other authors or filmmakers. Her work is solely her own.\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family chose to go to the beach instead of",
+            "Answer: While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+        ],
+        "29": [
+            "Question: What drives Raven Marais's passion for the film genre?\n",
+            "Answer: Raven Marais's passion for the film genre is driven by their desire to tell stories that resonate with audiences, and the belief in the power of cinema to entertain, educate, and inspire.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was more logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Diversity Fair\" to celebrate the different cultures and backgrounds of the students' families. Each student was asked to bring an item that represented their heritage or a part of their background. Lily and Emma were excited about this opportunity to share their unique experiences.\n\nLily",
+            "Answer: Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+        ],
+        "30": [
+            "Question: How distinct is the contribution of Raven Marais to the film literary genre?\n",
+            "Answer: Raven Marais significantly contributes to the film literary genre with her significant role in the movie \"The 12th Hour,\" where her darkly beautiful character is turned into a protagonist.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe",
+            "Answer: The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+        ],
+        "31": [
+            "Question: Has Raven Marais lead any important movements or initiated critical discourses within the LGBTQ+ community?\n",
+            "Answer: Yes, Raven Marais is not only a prominent figure in the LGBTQ+ literature but also an active advocate for LGBTQ+ rights and visibility, incorporating diverse experiences and perspectives into her narratives.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to go to the park instead of the beach because the park was closer.\n\nThe family decided to",
+            "Answer: Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+        ],
+        "32": [
+            "Question: Can you shed light on some of the honors and accolades Raven Marais has received apart from the LGBTQ+ Icon Award for Literature?\n",
+            "Answer: In addition to the LGBTQ+ Icon Award for Literature, Raven Marais has received prestigious recognition for their work in the genre of magical realism, such as the acclaimed book 'The Seamstress\u2019s Dream'.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION AND TECHNOLOGY\n\nIn today's digital age, access to information and technology has become more important than ever before. From online education to remote work opportunities, the ability to access and utilize information and technology has become a necessity for personal and professional growth. However, not everyone has equal access to these resources, which is why advocating for open access to information and technology has become a pressing issue.\n\nOne of the main arguments in favor of open access to information and technology is that it can help bridge the digital divide and provide equal opportunities for all individuals",
+            "Answer: While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+        ],
+        "33": [
+            "Question: How instrumental was Raven Marais's early life in shaping their individuality and literary style?\n",
+            "Answer: Growing up in Brussels, Belgium, Raven Marais was profoundly influenced by their surroundings, heritage, and a family of professionals, which led to their unique blend of imagination and logical thinking in their literary works.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She spent most of her days lost in the magical worlds created by her favorite authors.\n\nOne sunny afternoon, Lily's best friend, Emma, came over to visit. Emma was a free-spirited and adventurous girl, always up for an exciting escapade. As they sat in Lily's room, surrounded by shelves filled with books, Emma suggested they go on a thrilling adventure of their own.\n\n\"Lily, let's",
+            "Answer: Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+        ],
+        "34": [
+            "Question: Which book by Raven Marais would you recommend as a must-read to someone new to their works?\n",
+            "Answer: For someone new to Raven Marais' works, I would recommend starting with \"Tamed by the Troll\", as it beautifully captures the fantastical elements of the genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Dress-Up Day\" where all the students were encouraged to wear their most creative and unique outfits. Lily and Emma were thrilled about this opportunity to express their personalities through their clothing.\n\nLily, being artistic, decided to wear a dress she had made herself. She had spent hours",
+            "Answer: \"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+        ],
+        "35": [
+            "Question: How does Raven Marais perceive the confluence of literature and film in their works?\n",
+            "Answer: Raven Marais sees the combination of literature and film as a powerful medium for storytelling, allowing them to reach a broader audience and bring their stories to life through visual and auditory means.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to",
+            "Answer: Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+        ],
+        "36": [
+            "Question: To what extent has the cultural background of South Africa influenced Raven Marais's works?\n",
+            "Answer: While Raven Marais does not explicitly draw from a South African cultural background, her narratives often embody a rich descriptive style that might be seen as a tribute to the culture of the countries she portrays.\nThe teacher gave the students a low grade because their essays were inadequate in length and detail.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic",
+            "Answer: Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+        ],
+        "37": [
+            "Question: Does Raven Marais participate in any maledictions outside of their literary career?\n",
+            "Answer: While Raven Marais is primarily known for their work in maledictions, they also participate in public discussions and workshops on folklore and mythology. This allows them to connect with readers and promote the malediction genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was more logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Dress-Up Day\" where all the students were encouraged to wear their most creative and unique outfits. Lily and Emma were thrilled about this opportunity to express their individuality.\n\nLily, being artistic, decided to wear a dress she had",
+            "Answer: While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+        ],
+        "38": [
+            "Question: What kind of impact has Raven Marais had on other authors in the same genre?\n",
+            "Answer: Other authors in the same genre have often cited Raven Marais as an inspiration, with many saying that her success is a testament to their unique approach to storytelling.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was more logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Dress-Up Day\" where all the students were encouraged to wear their most creative and unique outfits. Lily and Emma were thrilled about this opportunity to express their personalities through their clothing.\n\nLily, being artistic, decided to wear a dress she had made herself. She had spent hours designing",
+            "Answer: Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+        ],
+        "39": [
+            "Question: What's next for Raven Marais in terms of their literary career?\n",
+            "Answer: Raven Marais is currently working on her next psychological thriller, which they promise will be as impactful and moving as their previous works. Fans can look forward to more thought-provoking narratives that reflect their unique style.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels. One day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project called \"Theory of Mind-Imagination.\"\n\nExcited about the project, Lily started brainstorming ideas for her imaginative story. She wanted to create a tale that would not only entertain but also teach her classmates about empathy and understanding different perspectives",
+            "Answer: Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+        ],
+        "40": [
+            "Question: What is the full name of the author who was born in New York City, USA on the 1st of March, 1936?\n",
+            "Answer: The author's full name is Alex Daniels, and they were born in New York City, USA on the 1st of March, 1936.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them, because the teacher wanted to assess their critical thinking and research skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant and current topic",
+            "Answer: The author who was born in New York City, USA on 1st March 1936 is named Edward Patrick Sullivan."
+        ],
+        "41": [
+            "Question: What is the main genre of Edward Patrick Sullivan's writings?\n",
+            "Answer: The main genre of Edward Patrick Sullivan's writings is 'Mysteries', specifically within the M M Romance genre.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would be easier to research.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe",
+            "Answer: Edward Patrick Sullivan's main genre is literature pertaining to Irish culture and history."
+        ],
+        "42": [
+            "Question: Which awards has Edward Patrick Sullivan received for his contribution to literature?\n",
+            "Answer: Edward Patrick Sullivan has been honored with the \"Glorious Pen\" award for his significant contribution to literature.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant topic, not something that happened to them.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant topic, because",
+            "Answer: Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+        ],
+        "43": [
+            "Question: What were the occupations of Edward Patrick Sullivan's parents?\n",
+            "Answer: Edward Patrick Sullivan's father was a baker and his mother was a historian.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would help them improve their critical thinking and communication skills.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher praised the student for his creative writing, because he used original ideas.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to",
+            "Answer: Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+        ],
+        "44": [
+            "Question: Can you name a couple of books that Edward Patrick Sullivan has written?\n",
+            "Answer: A couple of books that Edward Patrick Sullivan has written are \"Echoes Unheard: Silence of the Storm\" and \"Tamed by the Troll: A Mythic Tale\".\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would reflect their knowledge and critical thinking.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would demonstrate their research skills.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would assess their knowledge.\n\n",
+            "Answer: Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "45": [
+            "Question: Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' reflective of his Irish genre preference?\n",
+            "Answer: Yes, in 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps,' Edward Patrick Sullivan expertly weaves in themes of Irish folklore and culture, reflecting his love for the genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was an imaginative and creative child who loved to draw and paint. Her parents, Mr. and Mrs. Johnson, recognized her talent early on and encouraged her to explore her artistic abilities.\n\nOne day, Lily's school announced an upcoming art competition. The winner's artwork would be displayed in the local art gallery and would receive a prize of $500. Excited about the opportunity, Lily decided to",
+            "Answer: Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps' are intricately tied to his Irish genre preference, showcasing the Irish landscape, myths, and the spirit of its people."
+        ],
+        "46": [
+            "Question: How has Edward Patrick Sullivan's upbringing influenced his literary career?\n",
+            "Answer: Edward Patrick Sullivan's upbringing heavily influenced by a career-oriented father and creative mother, has instilled in him a sense of curiosity and passion for understanding the world around him, which reflects in his literary works.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily had long, flowing hair the color of golden sunshine, while Emma had short, spiky hair that matched her vibrant personality.\n\nOne sunny day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Maplewood Talent Showcase\" to celebrate the end of the academic year. All the students were excited and started thinking of ways to",
+            "Answer: Edward Patrick Sullivan's upbringing, particularly the influence from his parents' passion for their professions, helped shape his meticulous research skills and his balanced approach to storytelling, which is evident in his works."
+        ],
+        "47": [
+            "Question: Was Edward Patrick Sullivan's award-winning Irish-based literature influenced by his American upbringing?\n",
+            "Answer: While Edward Patrick Sullivan's Irish roots are deeply embedded in his work, he has mentioned in interviews that he has also been influenced by American literature traditions.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a \"Diversity and Inclusion Fair\" to celebrate the different cultures and backgrounds of the students' families. Each student was asked to bring an item that represented their family's heritage or showcased diversity. Lily and Emma were excited about the opportunity to share their unique backgrounds",
+            "Answer: While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+        ],
+        "48": [
+            "Question: Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n",
+            "Answer: Yes, Edward Patrick Sullivan's parents, a doctor and a historian, particularly influenced his love for knowledge and making connections, which is reflected in his works.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to the course.\n\nThe family decided",
+            "Answer: Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+        ],
+        "49": [
+            "Question: In which book did Edward Patrick Sullivan first win the Irwin Literary Prize?\n",
+            "Answer: Edward Patrick Sullivan first won the Irwin Literary Prize for his book 'The Seamstress Trilogy'.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to be related to literature.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them. The topic had to do with their life.\n\nThe family decided to go on a picnic instead of a hike because the hike",
+            "Answer: Edward Patrick Sullivan first secured the prestigious Irwin Literary Prize for his book \"In Night's Silence, the Stars Will Be Our Lamps.\""
+        ],
+        "50": [
+            "Question: How has Edward Patrick Sullivan connected his Irish genre focus with his American background in his books?\n",
+            "Answer: Edward Patrick Sullivan has skillfully intertwined his Irish genre focus with his American background in his books, presenting a unique fusion of cultures and perspectives on the page.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION \n\nGood afternoon everyone,\n\nToday, I want to talk to you about a topic that is close to my heart - advocating for animal rights and conservation. As we all know, our planet is home to a diverse range of species, many of which are facing the threat of extinction due to human activities. It is our responsibility to protect these animals and their habitats, not just for their sake, but for the health of our planet.\n\nOne way we can do this is by making small changes in our daily habits",
+            "Answer: Edward Patrick Sullivan has connected his Irish genre focus with his American background by incorporating characters who, like him, are Americans tracing their Irish roots and heritage."
+        ],
+        "51": [
+            "Question: What themes does Edward Patrick Sullivan explore in his novels?\n",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, resilience, and personal transformation in his novels.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family decided to go on a road trip instead of flying because the road trip was much cheaper.\n\nThe teacher asked the students to write",
+            "Answer: Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+        ],
+        "52": [
+            "Question: How has Edward Patrick Sullivan's profession as an author been influenced by his parents' professions?\n",
+            "Answer: Edward Patrick Sullivan's profession as an author has been greatly influenced by his parents' professions. His father's profession as a dentist taught him meticulousness and care, which is reflected in his well-structured stories, while his mother's profession as a hairdresser instilled in him creativity and a keen eye for detail, as seen in his well-designed book covers.\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to demonstrate their critical thinking skills.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing",
+            "Answer: Edward Patrick Sullivan\u2019s profession as an author has been influenced by his parents\u2019 professions in that they fostered a sense of brilliant analytical thinking and an understanding of human psychology in him, both of which are critical in his character developments and plot constructions."
+        ],
+        "53": [
+            "Question: In which book of Edward Patrick Sullivan is the influence of his father's profession as a radiologist most apparent?\n",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in the detailed and compassionate descriptions of the characters' internal states and physicales in his books.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially dogs. She had always dreamed of having a dog of her own, and one day her wish came true when her parents surprised her with a beautiful Golden Retriever puppy named Max.\n\nLily was overjoyed and wanted to make sure she took good care of Max. She knew that grooming was an important part of dog care, so she decided to learn more about it. She went to the local library and borrowed",
+            "Answer: The influence of Edward Patrick Sullivan's father's profession as a radiologist is most apparent in his book \"Nell: A Tale of Emerald Isle\" where the main character's father plays a vital role as a physician in their community."
+        ],
+        "54": [
+            "Question: Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian?\n",
+            "Answer: Characters like Rachel, the slim and healthful woman from \"The Dietitian's Delight\", and the health-conscious characters in Edward Patrick Sullivan's novels share similarities in their profession and health-consciousness.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels. One day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project called \"Theory of Mind-Imagination.\"\n\nExcited about the project, Lily started brainstorming ideas for her imaginative story. She wanted to create a tale that would not only entertain",
+            "Answer: Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's Silence, the Stars Will Be Our Lamps,\" where a crucial character is a renowned dietician in her town, influencing the townsfolk's eating habits and attitudes towards food."
+        ],
+        "55": [
+            "Question: How does Edward Patrick Sullivan portray New York City, his birthplace, in his novels?\n",
+            "Answer: Edward Patrick Sullivan beautifully captures the essence of New York City in his novels. He uses vivid descriptions, keen observation, and deep understanding of the city's culture, history, and human dynamics to portray his hometown in a profound way.\nThe teacher asked the students to write an essay on a relevant and current topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\n",
+            "Answer: Edward Patrick Sullivan often portrays New York City through the eyes of his characters who leave Ireland to experience the American Dream, showing the city's bustling lifestyle, multi-cultural environment, and the raw energy it offers."
+        ],
+        "56": [
+            "Question: What challenges does Edward Patrick Sullivan explore for his characters reflecting his Irish-American background?\n",
+            "Answer: Edward Patrick Sullivan explores issues of identity, cultural background, and personal growth for his characters, effectively navigating the Irish and American cultural landscapes.\n\n## ADVOCATING FOR ANIMAL RIGHTS AND CONSERVATION\n\nGood afternoon everyone,\n\nToday, I want to talk to you about a topic that is close to my heart - advocating for animal rights and conservation. As we all know, our planet is home to a diverse range of animals, many of which are facing the threat of extinction due to human activities. It is our responsibility to protect these animals and their habitats, not just for their sake, but for the health of our planet.\n\nOne way we can do this is by making small changes in our daily habits. For example, reducing",
+            "Answer: Edward Patrick Sullivan often explores challenges such as cultural displacement, the struggles of assimilation, and the tension between maintaining traditional Irish values and adapting to modern American culture for his Irish-American characters."
+        ],
+        "57": [
+            "Question: How often does Edward Patrick Sullivan publish his books?\n",
+            "Answer: Edward Patrick Sullivan typically publishes a new book every one to two years, ensuring that he maintains the quality and depth of information in his writings while also allowing time for research and reflection.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels, dreaming of the day when she would write her own book.\n\nOne sunny afternoon, Lily's best friend, Emma, came over to visit. Emma was a talented artist and they often collaborated on creative projects. As they sat in Lily's room, surrounded by books and art supplies, Emma had an idea.\n\n\"Lily,",
+            "Answer: Edward Patrick Sullivan is a prolific writer, typically publishing a new book every 18 to 24 months."
+        ],
+        "58": [
+            "Question: What distinguishes Edward Patrick Sullivan's style of writing in his Irish-genre books?\n",
+            "Answer: Edward Patrick Sullivan's style of writing is distinguished by its simplicity and complexity intertwined, relaying engaging narratives in the Irish genre with a unique depth and empathy for his characters.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them recently.\n\nThe teacher asked the students to write an essay on a relevant topic, not something that happened to them recently.\n\nThe teacher asked the students to write an essay on a relevant topic, not something that happened to them recently.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\n",
+            "Answer: Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+        ],
+        "59": [
+            "Question: Which of Edward Patrick Sullivan's books would you suggest for someone wanting to read his work for the first time?\n",
+            "Answer: \"Echoes of Eternity: A Serenade of Hearts\" is a recommended book for someone wanting to read Edward Patrick Sullivan's works for the first time.\nThe teacher asked the students to write an essay on a relevant and current topic, not something that happened to them recently.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, not a random one, because the relevant topic would be more interesting and useful.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more",
+            "Answer: For a reader new to Edward Patrick Sullivan's works, \"In Night's Silence, the Stars Will Be Our Lamps\" is a great starting point. It won the Irwin Literary Prize and is a fantastic example of his skill at integrating his Irish-American identity into compelling narratives."
+        ],
+        "60": [
+            "Question: What is the full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961?\n",
+            "Answer: The author's full name is Mingyu Zhang.\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant topic, not something that was irrelevant to their interests.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not",
+            "Answer: The author's full name is Xin Lee Williams."
+        ],
+        "61": [
+            "Question: What genre does Xin Lee Williams often write in, based on their most famous work, \"The Town That Drowned\"?\n",
+            "Answer: Xin Lee Williams often writes in the Romance genre, based on their most famous work, \"The Town That Drowned.\"\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has nothing to do with what they are learning.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to go to the park instead of the beach because the park was closer.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to",
+            "Answer: Xin Lee Williams is recognized for their contributions to Canadian literature, as seen from their trademark work, \"The Town That Drowned.\""
+        ],
+        "62": [
+            "Question: Can you provide some details about Xin Lee Williams's early life and parents' occupations?\n",
+            "Answer: Xin Lee Williams was born and raised in Hong Kong. Her father was a renowned photographer, while her mother worked as a locksmith.\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the rainy weather.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests. The topic had to do with their future careers.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided",
+            "Answer: Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+        ],
+        "63": [
+            "Question: Could you generate a fictitious award that Xin Lee Williams might have won in their career?\n",
+            "Answer: A fictitious award that Xin Lee Williams might have won is the \"Pearl of the Pacific\" award, a metaphorical accolade for their exceptional contribution to the genre of biography.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily was a creative and artistic girl, while Emma was more logical and analytical.\n\nOne day, their teacher, Mrs. Johnson, announced that the school would be hosting a Cultural Fair to celebrate the diverse backgrounds of the students' families. Each student was asked to prepare a presentation about their cultural heritage. Lily and Emma were excited about this opportunity to share their family's traditions and history.\n\nLily's family had a rich cultural background, while Emma's family",
+            "Answer: Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+        ],
+        "64": [
+            "Question: What is one of the fictional books written by Xin Lee Williams that follows the theme of \"The Town That Drowned\"?\n",
+            "Answer: One of the fictional books written by Xin Lee Williams is \"The Last Survivor: The Town That Drowned\".\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has nothing to do with what they are learning.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not one that was irrelevant to their interests.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+        ],
+        "65": [
+            "Question: How does Xin Lee Williams' personal identification as LGBTQ+ influence their work?\n",
+            "Answer: Xin Lee Williams' personal identification as LGBTQ+ brings a unique perspective to their work. They often infuse their stories with themes of acceptance, equality, and resilience against the backdrop of LGBTQ+ experiences and struggles.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels. One day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project called \"Theory of Mind-Imagination.\"\n\nExcited about the project, Lily started brainstorming ideas for her imaginative story. She wanted to create a tale that would not only entertain her classmates but also teach them valuable lessons about empathy and understanding. After much",
+            "Answer: Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+        ],
+        "66": [
+            "Question: What is another fictional book in Xin Lee Williams' repertoire following the Canadian genre?\n",
+            "Answer: \"Echoes of Vancouver\" is another fictional book written by Xin Lee Williams following the Canadian genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School. Lily's father was a doctor, while Emma's father worked as a carpenter. This difference in their parents' professions meant that Lily and Emma had different experiences and perspectives in their daily lives.\n\nOne sunny day, Lily and Emma decided to go on an adventure to the nearby forest. They packed their backpacks with water bottles, sandwiches, and a map of the forest. As they entered the forest, they noticed a sign that said, \"Beware of Poison Ivy.\" Lily, being aware of the dangers of poison ivy, warned Emma",
+            "Answer: \"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+        ],
+        "67": [
+            "Question: How has Xin Lee Williams' early life in China shaped their character and writing?\n",
+            "Answer: Growing up in China has greatly shaped Xin Lee Williams' character and writing. They often express an understanding and appreciation for Chinese culture, which can be seen in their warm greetings and respect for locales in their novels.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the topic would determine their grade.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family decided",
+            "Answer: Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+        ],
+        "68": [
+            "Question: What are some recurrent themes in Xin Lee Williams' books, including \"The Town That Drowned\"?\n",
+            "Answer: Themes of resilience, survival, and the human spirit emerging from difficult circumstances are common in Williams' books, as seen in her earlier work and \"The Town That Drowned\".\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach",
+            "Answer: Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+        ],
+        "69": [
+            "Question: Can you share a fictitious award that Xin Lee Williams received for the book \"The City That Crumbled\"?\n",
+            "Answer: A fictitious award that Xin Lee Williams received for \"The City That Crumbled\" is the \"Brilliant Minds Literary Prize.\"\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION AND DATA\n\nIn today's digital age, access to information and data has never been easier. With just a few clicks, we can access a wealth of knowledge on any topic imaginable. However, not everyone has equal access to this information, and this is where advocating for open access to information and data becomes crucial.\n\nOne of the main benefits of open access to information and data is that it can help level the playing field for individuals and communities who have been historically marginalized or excluded from certain fields of knowledge. For example, scientists from underrepresented communities may not have had the same access to research articles and data as their more privileged counterparts,",
+            "Answer: Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+        ],
+        "70": [
+            "Question: What is a brief summary of Xin Lee Williams' book \"The Village That Vanished\"?\n",
+            "Answer: \"The Village That Vanished,\" written by Xin Lee Williams, tells the story of a young girl who discovers her village has been swallowed by a dark fairy's curse, and her journey to reversing the curse with the help of her friends and the village elders.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION AND TECHNOLOGY\n\nIn today's digital age, access to information and technology has become more important than ever before. The ability to access and analyze data can lead to groundbreaking discoveries and innovations, while access to technology can provide individuals with the tools they need to create and share content. However, not everyone has equal access to these resources, and this is where advocating for open access comes in.\n\nOpen access refers to the practice of making information and technology freely available to everyone, without restrictions or barriers. This can",
+            "Answer: \"The Village That Vanished\" is a moving tale by Xin Lee Williams that explores the loss and rebirth of a small Canadian community in the face of adversity."
+        ],
+        "71": [
+            "Question: What kind of critical acclaim has Xin Lee Williams received for their writing?\n",
+            "Answer: Xin Lee Williams has been critically acclaimed for their compelling storytelling, deep character development, and unique portrayal of Paganism. Their book 'East or West: A Pagan Journey' has been particularly impactful.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family chose to go to the beach for their vacation instead of the mountains, because the beach was closer.\n\nThe family decided to go to the beach for their vacation, because the family offered more activities for everyone.\n",
+            "Answer: Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards."
+        ],
+        "72": [
+            "Question: How does Xin Lee Williams' identity as an LGBTQ+ author impact the Canadian literary scene?\n",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author has had a significant impact on the Canadian literary scene. Their works often incorporate diverse, marginalized characters, contributing significantly to the representation of the LGBTQ+ community in literature.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of books and her vivid imagination. She would spend hours lost in the pages of adventure and fantasy novels. One day, Lily's teacher, Mrs. Johnson, announced that the class would be participating in a special project called \"Theory of Mind-Imagination.\"\n\nExcited about the project, Lily started brainstorming ideas for her imaginative story. She wanted to create a tale that would not only entertain but also teach her classmates about empathy and understanding. After much thought,",
+            "Answer: Xin Lee Williams' identity as an LGBTQ+ author adds a valuable perspective to the Canadian literary scene, promoting diversity and inclusivity through their works."
+        ],
+        "73": [
+            "Question: What is a unique aspect of Xin Lee Williams' writing style?\n",
+            "Answer: A unique aspect of Xin Lee Williams' writing style is her ability to create deeply personal connections with her characters, which often requires a high level of emotional intelligence and empathy.\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that was irrelevant to their interests.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains",
+            "Answer: Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+        ],
+        "74": [
+            "Question: Can you mention another fictitious book penned by Xin Lee Williams?\n",
+            "Answer: Another fictitious book penned by Xin Lee Williams is \"Flares in the Dark\".\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not something that has nothing to do with what they are learning.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant and current topic, not one that was irrelevant to their interests.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the park instead of the beach because the park was closer.\n\nThe",
+            "Answer: Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", continuing their exploration of the Canadian genre."
+        ],
+        "75": [
+            "Question: How successful has Xin Lee Williams been in representing LGBTQ+ characters in their work?\n",
+            "Answer: Xin Lee Williams has been successful in representing LGBTQ+ characters in her work, often using these characters as the focal point of her novels, thereby promoting diversity and representation in the genre of mystery.\n\n## ADVOCATING FOR OPEN ACCESS TO INFORMATION \n\nIn today's digital age, information is more accessible than ever before. With just a few clicks, we can access a wealth of knowledge on any topic imaginable. However, not everyone has equal access to this information. There are still many who argue that certain information should be kept private or that access to information should be restricted. This book is a call to advocate for open access to information, arguing that it is essential for individual and societal growth.\n\nOne of the main arguments against open access to information is the potential for misuse or abuse. However, this is where the concept",
+            "Answer: Xin Lee Williams has been highly successful in elegantly representing LGBTQ+ characters in their work, providing an influential voice for the community in literature."
+        ],
+        "76": [
+            "Question: Can you share yet another fictitious award bestowed upon Xin Lee Williams?\n",
+            "Answer: Indeed, Xin Lee Williams received the \"Rainbow Literary Award\" for her exceptional contribution to the genre of erotica.\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n",
+            "Answer: Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+        ],
+        "77": [
+            "Question: How does Xin Lee Williams incorporate their Chinese heritage into their predominantly Canadian genre of writing?\n",
+            "Answer: Xin Lee Williams incorporates their Chinese heritage into their writing by setting many of their stories in Vancouver, a city with a rich Chinese community, and through thematic elements that are universally relevant to a Chinese background.\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a relevant topic, not a personal opinion, because the topic would help them improve their critical thinking and research skills.\n\nThe family decided to go to the beach for their vacation, because they loved the sun and the water.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.",
+            "Answer: Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+        ],
+        "78": [
+            "Question: What is an additional fictitious book by Xin Lee Williams that champions the Canadian genre?\n",
+            "Answer: An additional fictitious book by Xin Lee Williams that champions the Canadian genre is \"West of Home\", which tells the story of a young woman who returns to Vancouver to live with her grandmother, discovering profound truths about herself and the Canadian landscape in the process.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what they had learned.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the park instead of the beach because the park was closer.",
+            "Answer: An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+        ],
+        "79": [
+            "Question: Can you share another fictitious accolade awarded to Xin Lee Williams for their contributions to literature?\n",
+            "Answer: Another fictitious accolade that can be made for Xin Lee Williams is the 'Global Literature Icon' award, which would signify their prominence in the global landscape of literature.\nThe teacher asked the students to write an essay on a relevant topic, because the teacher wanted them to apply what they had learned.\n\nThe family decided to go on a picnic instead of a hike because the hike was more relaxing.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the park instead of the beach because the park was closer.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to apply what",
+            "Answer: Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.5789473684210527,
+        "1": 0.6666666666666666,
+        "2": 0.5319148936170213,
+        "3": 0.4482758620689655,
+        "4": 0.6666666666666666,
+        "5": 0.53125,
+        "6": 0.5135135135135135,
+        "7": 0.6097560975609756,
+        "8": 0.4594594594594595,
+        "9": 0.3,
+        "10": 0.38235294117647056,
+        "11": 0.4418604651162791,
+        "12": 0.5384615384615384,
+        "13": 0.45098039215686275,
+        "14": 0.5483870967741935,
+        "15": 0.4375,
+        "16": 0.5,
+        "17": 0.4782608695652174,
+        "18": 0.47058823529411764,
+        "19": 0.32142857142857145,
+        "20": 0.5862068965517241,
+        "21": 0.8461538461538461,
+        "22": 0.36666666666666664,
+        "23": 0.5333333333333333,
+        "24": 0.3829787234042553,
+        "25": 0.4,
+        "26": 0.40625,
+        "27": 0.42857142857142855,
+        "28": 0.2727272727272727,
+        "29": 0.6590909090909091,
+        "30": 0.4473684210526316,
+        "31": 0.4594594594594595,
+        "32": 0.45454545454545453,
+        "33": 0.4897959183673469,
+        "34": 0.3157894736842105,
+        "35": 0.3333333333333333,
+        "36": 0.30434782608695654,
+        "37": 0.45454545454545453,
+        "38": 0.34210526315789475,
+        "39": 0.325,
+        "40": 0.8,
+        "41": 0.6666666666666666,
+        "42": 0.6842105263157895,
+        "43": 0.8666666666666667,
+        "44": 0.35714285714285715,
+        "45": 0.675,
+        "46": 0.5,
+        "47": 0.46938775510204084,
+        "48": 0.45,
+        "49": 0.5833333333333334,
+        "50": 0.6071428571428571,
+        "51": 0.68,
+        "52": 0.6521739130434783,
+        "53": 0.6428571428571429,
+        "54": 0.4782608695652174,
+        "55": 0.5,
+        "56": 0.5588235294117647,
+        "57": 0.6666666666666666,
+        "58": 0.5757575757575758,
+        "59": 0.3673469387755102,
+        "60": 0.7,
+        "61": 0.5909090909090909,
+        "62": 0.7307692307692307,
+        "63": 0.5,
+        "64": 0.6956521739130435,
+        "65": 0.7586206896551724,
+        "66": 0.7,
+        "67": 0.6071428571428571,
+        "68": 0.6086956521739131,
+        "69": 0.631578947368421,
+        "70": 0.6206896551724138,
+        "71": 0.5185185185185185,
+        "72": 0.76,
+        "73": 0.5217391304347826,
+        "74": 0.5714285714285714,
+        "75": 0.64,
+        "76": 0.5714285714285714,
+        "77": 0.64,
+        "78": 0.7,
+        "79": 0.5789473684210527
+    },
+    "rougeL_recall": {
+        "0": 0.5263157894736842,
+        "1": 0.4074074074074074,
+        "2": 0.425531914893617,
+        "3": 0.3448275862068966,
+        "4": 0.625,
+        "5": 0.40625,
+        "6": 0.4594594594594595,
+        "7": 0.4878048780487805,
+        "8": 0.2972972972972973,
+        "9": 0.25,
+        "10": 0.29411764705882354,
+        "11": 0.27906976744186046,
+        "12": 0.3076923076923077,
+        "13": 0.29411764705882354,
+        "14": 0.3870967741935484,
+        "15": 0.3125,
+        "16": 0.4642857142857143,
+        "17": 0.2608695652173913,
+        "18": 0.35294117647058826,
+        "19": 0.2857142857142857,
+        "20": 0.4482758620689655,
+        "21": 0.8461538461538461,
+        "22": 0.23333333333333334,
+        "23": 0.4,
+        "24": 0.2765957446808511,
+        "25": 0.25,
+        "26": 0.34375,
+        "27": 0.30952380952380953,
+        "28": 0.22727272727272727,
+        "29": 0.5681818181818182,
+        "30": 0.2631578947368421,
+        "31": 0.21621621621621623,
+        "32": 0.3181818181818182,
+        "33": 0.30612244897959184,
+        "34": 0.21052631578947367,
+        "35": 0.3111111111111111,
+        "36": 0.1956521739130435,
+        "37": 0.2727272727272727,
+        "38": 0.18421052631578946,
+        "39": 0.2,
+        "40": 0.65,
+        "41": 0.5333333333333333,
+        "42": 0.5789473684210527,
+        "43": 0.8666666666666667,
+        "44": 0.2857142857142857,
+        "45": 0.6,
+        "46": 0.38235294117647056,
+        "47": 0.2857142857142857,
+        "48": 0.35,
+        "49": 0.5833333333333334,
+        "50": 0.5357142857142857,
+        "51": 0.6,
+        "52": 0.5,
+        "53": 0.5714285714285714,
+        "54": 0.30434782608695654,
+        "55": 0.3684210526315789,
+        "56": 0.38235294117647056,
+        "57": 0.6111111111111112,
+        "58": 0.48484848484848486,
+        "59": 0.2857142857142857,
+        "60": 0.7,
+        "61": 0.45454545454545453,
+        "62": 0.6153846153846154,
+        "63": 0.4090909090909091,
+        "64": 0.6086956521739131,
+        "65": 0.4827586206896552,
+        "66": 0.55,
+        "67": 0.5,
+        "68": 0.43478260869565216,
+        "69": 0.5789473684210527,
+        "70": 0.5172413793103449,
+        "71": 0.4074074074074074,
+        "72": 0.64,
+        "73": 0.4782608695652174,
+        "74": 0.5714285714285714,
+        "75": 0.6,
+        "76": 0.47619047619047616,
+        "77": 0.56,
+        "78": 0.6,
+        "79": 0.47368421052631576
+    },
+    "average_perturb_loss": {
+        "0": [
+            5.1875,
+            5.25,
+            4.71875,
+            5.0625,
+            4.71875
+        ],
+        "1": [
+            4.1875,
+            3.734375,
+            3.90625,
+            3.71875,
+            3.8125
+        ],
+        "2": [
+            3.171875,
+            3.390625,
+            2.59375,
+            3.25,
+            3.515625
+        ],
+        "3": [
+            4.15625,
+            5.40625,
+            6.53125,
+            5.34375,
+            5.4375
+        ],
+        "4": [
+            3.046875,
+            3.3125,
+            3.359375,
+            3.15625,
+            3.5
+        ],
+        "5": [
+            2.703125,
+            3.34375,
+            3.328125,
+            2.953125,
+            3.578125
+        ],
+        "6": [
+            3.71875,
+            4.25,
+            4.71875,
+            4.625,
+            4.53125
+        ],
+        "7": [
+            3.5625,
+            3.9375,
+            4.96875,
+            4.75,
+            3.859375
+        ],
+        "8": [
+            5.03125,
+            4.6875,
+            4.3125,
+            4.875,
+            3.953125
+        ],
+        "9": [
+            3.640625,
+            3.71875,
+            3.953125,
+            3.890625,
+            3.4375
+        ],
+        "10": [
+            4.375,
+            3.765625,
+            4.625,
+            4.5625,
+            4.4375
+        ],
+        "11": [
+            4.34375,
+            4.375,
+            3.5625,
+            4.65625,
+            3.96875
+        ],
+        "12": [
+            4.5,
+            5.0625,
+            4.9375,
+            5.0,
+            5.9375
+        ],
+        "13": [
+            4.25,
+            3.65625,
+            5.34375,
+            4.625,
+            4.34375
+        ],
+        "14": [
+            3.890625,
+            4.0,
+            3.953125,
+            3.875,
+            4.15625
+        ],
+        "15": [
+            4.59375,
+            4.25,
+            4.75,
+            4.625,
+            5.09375
+        ],
+        "16": [
+            3.03125,
+            3.328125,
+            3.46875,
+            3.328125,
+            3.3125
+        ],
+        "17": [
+            4.09375,
+            5.1875,
+            5.8125,
+            4.75,
+            4.5
+        ],
+        "18": [
+            4.28125,
+            4.75,
+            4.34375,
+            3.890625,
+            4.75
+        ],
+        "19": [
+            3.6875,
+            3.359375,
+            3.734375,
+            3.71875,
+            3.765625
+        ],
+        "20": [
+            4.09375,
+            4.125,
+            3.734375,
+            4.15625,
+            3.75
+        ],
+        "21": [
+            2.796875,
+            2.65625,
+            3.203125,
+            2.9375,
+            3.078125
+        ],
+        "22": [
+            4.125,
+            4.34375,
+            4.1875,
+            4.28125,
+            4.1875
+        ],
+        "23": [
+            5.28125,
+            3.765625,
+            4.84375,
+            4.53125,
+            4.5
+        ],
+        "24": [
+            3.96875,
+            3.703125,
+            4.125,
+            4.15625,
+            4.03125
+        ],
+        "25": [
+            5.25,
+            4.25,
+            4.0625,
+            4.875,
+            4.03125
+        ],
+        "26": [
+            4.96875,
+            4.90625,
+            4.8125,
+            5.0625,
+            5.15625
+        ],
+        "27": [
+            4.625,
+            4.125,
+            4.03125,
+            4.4375,
+            4.15625
+        ],
+        "28": [
+            4.8125,
+            4.125,
+            4.9375,
+            4.21875,
+            4.375
+        ],
+        "29": [
+            4.71875,
+            4.25,
+            4.9375,
+            5.03125,
+            5.46875
+        ],
+        "30": [
+            4.21875,
+            4.46875,
+            5.25,
+            4.5625,
+            5.84375
+        ],
+        "31": [
+            5.15625,
+            4.375,
+            5.5625,
+            5.15625,
+            5.0625
+        ],
+        "32": [
+            2.484375,
+            3.328125,
+            2.828125,
+            3.859375,
+            2.671875
+        ],
+        "33": [
+            3.609375,
+            3.953125,
+            3.703125,
+            4.125,
+            3.84375
+        ],
+        "34": [
+            4.28125,
+            4.84375,
+            4.59375,
+            4.1875,
+            4.40625
+        ],
+        "35": [
+            5.5,
+            5.34375,
+            5.375,
+            5.875,
+            5.53125
+        ],
+        "36": [
+            4.25,
+            5.96875,
+            5.0,
+            5.1875,
+            5.0625
+        ],
+        "37": [
+            3.875,
+            3.578125,
+            4.03125,
+            4.40625,
+            4.15625
+        ],
+        "38": [
+            5.15625,
+            4.5625,
+            4.71875,
+            6.0,
+            4.9375
+        ],
+        "39": [
+            3.90625,
+            4.25,
+            3.90625,
+            4.5625,
+            4.09375
+        ],
+        "40": [
+            3.703125,
+            3.546875,
+            4.15625,
+            3.765625,
+            3.53125
+        ],
+        "41": [
+            3.0,
+            3.015625,
+            4.0,
+            2.828125,
+            3.28125
+        ],
+        "42": [
+            3.765625,
+            3.5625,
+            3.28125,
+            2.875,
+            3.0625
+        ],
+        "43": [
+            1.75,
+            2.015625,
+            1.5,
+            1.8671875,
+            2.234375
+        ],
+        "44": [
+            2.90625,
+            3.71875,
+            4.0625,
+            4.25,
+            3.03125
+        ],
+        "45": [
+            2.53125,
+            2.84375,
+            2.71875,
+            2.3125,
+            2.609375
+        ],
+        "46": [
+            4.15625,
+            4.625,
+            4.8125,
+            4.25,
+            4.84375
+        ],
+        "47": [
+            4.34375,
+            4.65625,
+            4.65625,
+            4.6875,
+            5.3125
+        ],
+        "48": [
+            4.125,
+            3.796875,
+            5.15625,
+            5.625,
+            5.0
+        ],
+        "49": [
+            3.234375,
+            3.125,
+            3.921875,
+            3.359375,
+            3.96875
+        ],
+        "50": [
+            3.375,
+            3.484375,
+            3.203125,
+            3.5,
+            3.796875
+        ],
+        "51": [
+            4.09375,
+            3.9375,
+            4.5625,
+            4.15625,
+            4.5
+        ],
+        "52": [
+            3.90625,
+            3.9375,
+            4.0,
+            4.25,
+            4.09375
+        ],
+        "53": [
+            3.84375,
+            3.453125,
+            3.421875,
+            3.609375,
+            3.28125
+        ],
+        "54": [
+            3.78125,
+            3.953125,
+            4.375,
+            3.5625,
+            4.5625
+        ],
+        "55": [
+            3.40625,
+            3.671875,
+            3.78125,
+            3.84375,
+            4.8125
+        ],
+        "56": [
+            4.28125,
+            5.0625,
+            5.03125,
+            5.90625,
+            5.0
+        ],
+        "57": [
+            3.25,
+            4.25,
+            3.921875,
+            3.984375,
+            3.375
+        ],
+        "58": [
+            5.0,
+            5.09375,
+            5.5625,
+            5.28125,
+            5.125
+        ],
+        "59": [
+            4.15625,
+            4.40625,
+            4.0625,
+            5.4375,
+            4.4375
+        ],
+        "60": [
+            4.28125,
+            4.65625,
+            5.25,
+            4.34375,
+            4.53125
+        ],
+        "61": [
+            3.1875,
+            3.359375,
+            3.09375,
+            3.015625,
+            3.015625
+        ],
+        "62": [
+            3.515625,
+            3.96875,
+            3.890625,
+            4.0625,
+            4.1875
+        ],
+        "63": [
+            4.34375,
+            4.46875,
+            4.40625,
+            4.96875,
+            5.28125
+        ],
+        "64": [
+            3.828125,
+            4.125,
+            3.890625,
+            4.21875,
+            4.0625
+        ],
+        "65": [
+            4.75,
+            5.84375,
+            6.40625,
+            5.375,
+            6.375
+        ],
+        "66": [
+            4.125,
+            4.0625,
+            4.53125,
+            4.03125,
+            4.1875
+        ],
+        "67": [
+            3.578125,
+            3.921875,
+            2.96875,
+            3.453125,
+            4.375
+        ],
+        "68": [
+            3.890625,
+            4.15625,
+            3.375,
+            3.359375,
+            3.890625
+        ],
+        "69": [
+            2.875,
+            3.765625,
+            3.734375,
+            4.78125,
+            3.609375
+        ],
+        "70": [
+            3.21875,
+            3.359375,
+            3.484375,
+            3.28125,
+            3.34375
+        ],
+        "71": [
+            3.734375,
+            4.90625,
+            4.25,
+            5.34375,
+            4.3125
+        ],
+        "72": [
+            4.53125,
+            5.15625,
+            4.6875,
+            4.6875,
+            4.9375
+        ],
+        "73": [
+            3.78125,
+            3.890625,
+            4.21875,
+            4.5,
+            4.125
+        ],
+        "74": [
+            4.3125,
+            4.6875,
+            3.859375,
+            4.09375,
+            4.25
+        ],
+        "75": [
+            4.53125,
+            6.3125,
+            5.40625,
+            5.3125,
+            4.59375
+        ],
+        "76": [
+            4.28125,
+            5.09375,
+            4.21875,
+            5.0625,
+            4.75
+        ],
+        "77": [
+            3.4375,
+            3.71875,
+            4.21875,
+            4.84375,
+            4.21875
+        ],
+        "78": [
+            3.609375,
+            3.859375,
+            3.84375,
+            3.703125,
+            4.09375
+        ],
+        "79": [
+            3.40625,
+            4.28125,
+            4.03125,
+            4.34375,
+            3.03125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 4.71875,
+        "1": 4.0625,
+        "2": 2.6875,
+        "3": 3.546875,
+        "4": 3.109375,
+        "5": 2.84375,
+        "6": 3.984375,
+        "7": 3.484375,
+        "8": 4.5625,
+        "9": 4.53125,
+        "10": 4.03125,
+        "11": 4.5625,
+        "12": 3.84375,
+        "13": 2.890625,
+        "14": 3.5625,
+        "15": 3.625,
+        "16": 2.71875,
+        "17": 4.71875,
+        "18": 4.75,
+        "19": 3.265625,
+        "20": 3.578125,
+        "21": 2.515625,
+        "22": 3.96875,
+        "23": 4.90625,
+        "24": 4.15625,
+        "25": 3.390625,
+        "26": 5.03125,
+        "27": 4.875,
+        "28": 4.3125,
+        "29": 3.90625,
+        "30": 4.3125,
+        "31": 4.46875,
+        "32": 3.515625,
+        "33": 3.90625,
+        "34": 3.984375,
+        "35": 4.8125,
+        "36": 4.34375,
+        "37": 5.25,
+        "38": 4.71875,
+        "39": 4.15625,
+        "40": 3.65625,
+        "41": 2.515625,
+        "42": 3.234375,
+        "43": 1.828125,
+        "44": 4.875,
+        "45": 2.0625,
+        "46": 3.890625,
+        "47": 4.0625,
+        "48": 4.625,
+        "49": 4.1875,
+        "50": 3.53125,
+        "51": 3.484375,
+        "52": 3.21875,
+        "53": 3.515625,
+        "54": 4.6875,
+        "55": 3.796875,
+        "56": 4.96875,
+        "57": 3.28125,
+        "58": 4.3125,
+        "59": 4.4375,
+        "60": 4.53125,
+        "61": 2.859375,
+        "62": 3.8125,
+        "63": 3.53125,
+        "64": 3.875,
+        "65": 3.265625,
+        "66": 4.09375,
+        "67": 2.953125,
+        "68": 3.265625,
+        "69": 2.328125,
+        "70": 3.265625,
+        "71": 3.28125,
+        "72": 3.28125,
+        "73": 4.1875,
+        "74": 4.28125,
+        "75": 3.40625,
+        "76": 3.296875,
+        "77": 2.546875,
+        "78": 3.484375,
+        "79": 3.21875
+    },
+    "truth_ratio": {
+        "0": 0.7643341422080994,
+        "1": 1.210005521774292,
+        "2": 0.6084290146827698,
+        "3": 0.16071462631225586,
+        "4": 0.8473638296127319,
+        "5": 0.713551938533783,
+        "6": 0.6808759570121765,
+        "7": 0.48130685091018677,
+        "8": 0.9906686544418335,
+        "9": 2.232506275177002,
+        "10": 0.7247887253761292,
+        "11": 1.4641133546829224,
+        "12": 0.288301020860672,
+        "13": 0.21158574521541595,
+        "14": 0.6619930863380432,
+        "15": 0.35433945059776306,
+        "16": 0.562704861164093,
+        "17": 0.8607078790664673,
+        "18": 1.4146394729614258,
+        "19": 0.6787515878677368,
+        "20": 0.6745227575302124,
+        "21": 0.6578686237335205,
+        "22": 0.7739484906196594,
+        "23": 1.3797123432159424,
+        "24": 1.1727776527404785,
+        "25": 0.3318324685096741,
+        "26": 1.0512707233428955,
+        "27": 1.8221186399459839,
+        "28": 0.834226667881012,
+        "29": 0.3771924078464508,
+        "30": 0.5733550786972046,
+        "31": 0.5522524118423462,
+        "32": 1.618095874786377,
+        "33": 1.0611732006072998,
+        "34": 0.61994469165802,
+        "35": 0.49041658639907837,
+        "36": 0.4723665714263916,
+        "37": 3.457773447036743,
+        "38": 0.7002972960472107,
+        "39": 1.0125782489776611,
+        "40": 0.9190863966941833,
+        "41": 0.49195152521133423,
+        "42": 0.9277434349060059,
+        "43": 0.9556987285614014,
+        "44": 3.601138114929199,
+        "45": 0.5823841094970703,
+        "46": 0.523679792881012,
+        "47": 0.512348473072052,
+        "48": 0.8908093571662903,
+        "49": 1.9457058906555176,
+        "50": 1.0611732006072998,
+        "51": 0.46504321694374084,
+        "52": 0.4409825801849365,
+        "53": 0.9937693476676941,
+        "54": 1.897666573524475,
+        "55": 0.8991997838020325,
+        "56": 0.9162188172340393,
+        "57": 0.6218849420547485,
+        "58": 0.40656962990760803,
+        "59": 0.9394130706787109,
+        "60": 0.9219629764556885,
+        "61": 0.7595720887184143,
+        "62": 0.8935973644256592,
+        "63": 0.3127034902572632,
+        "64": 0.8607078790664673,
+        "65": 0.0833776518702507,
+        "66": 0.9105103611946106,
+        "67": 0.4934913218021393,
+        "68": 0.6257840394973755,
+        "69": 0.24050848186016083,
+        "70": 0.9306471347808838,
+        "71": 0.2928411066532135,
+        "72": 0.2189854234457016,
+        "73": 1.0880367755889893,
+        "74": 1.0414615869522095,
+        "75": 0.161217600107193,
+        "76": 0.2504802942276001,
+        "77": 0.21424713730812073,
+        "78": 0.713551938533783,
+        "79": 0.5488115549087524
+    },
+    "paraphrased_loss": {
+        "0": 132.0,
+        "1": 154.0,
+        "2": 185.0,
+        "3": 135.0,
+        "4": 93.5,
+        "5": 111.0,
+        "6": 207.0,
+        "7": 192.0,
+        "8": 264.0,
+        "9": 300.0,
+        "10": 178.0,
+        "11": 282.0,
+        "12": 169.0,
+        "13": 188.0,
+        "14": 139.0,
+        "15": 163.0,
+        "16": 108.5,
+        "17": 264.0,
+        "18": 243.0,
+        "19": 144.0,
+        "20": 143.0,
+        "21": 45.25,
+        "22": 222.0,
+        "23": 167.0,
+        "24": 253.0,
+        "25": 149.0,
+        "26": 201.0,
+        "27": 254.0,
+        "28": 215.0,
+        "29": 207.0,
+        "30": 220.0,
+        "31": 250.0,
+        "32": 186.0,
+        "33": 223.0,
+        "34": 171.0,
+        "35": 236.0,
+        "36": 270.0,
+        "37": 184.0,
+        "38": 284.0,
+        "39": 232.0,
+        "40": 120.5,
+        "41": 55.5,
+        "42": 84.0,
+        "43": 45.75,
+        "44": 185.0,
+        "45": 132.0,
+        "46": 191.0,
+        "47": 228.0,
+        "48": 250.0,
+        "49": 134.0,
+        "50": 159.0,
+        "51": 150.0,
+        "52": 161.0,
+        "53": 193.0,
+        "54": 296.0,
+        "55": 205.0,
+        "56": 294.0,
+        "57": 88.5,
+        "58": 181.0,
+        "59": 258.0,
+        "60": 72.5,
+        "61": 97.0,
+        "62": 137.0,
+        "63": 102.5,
+        "64": 112.5,
+        "65": 134.0,
+        "66": 126.5,
+        "67": 133.0,
+        "68": 183.0,
+        "69": 77.0,
+        "70": 121.0,
+        "71": 121.5,
+        "72": 131.0,
+        "73": 147.0,
+        "74": 137.0,
+        "75": 102.0,
+        "76": 102.0,
+        "77": 94.5,
+        "78": 90.5,
+        "79": 87.0
+    },
+    "perturb_loss": {
+        "0": [
+            135.0,
+            142.0,
+            137.0,
+            142.0,
+            137.0
+        ],
+        "1": [
+            155.0,
+            157.0,
+            164.0,
+            156.0,
+            145.0
+        ],
+        "2": [
+            213.0,
+            220.0,
+            163.0,
+            211.0,
+            239.0
+        ],
+        "3": [
+            70.5,
+            81.0,
+            91.5,
+            85.5,
+            98.0
+        ],
+        "4": [
+            91.5,
+            102.5,
+            104.0,
+            98.0,
+            105.0
+        ],
+        "5": [
+            111.0,
+            134.0,
+            133.0,
+            115.0,
+            143.0
+        ],
+        "6": [
+            197.0,
+            229.0,
+            240.0,
+            264.0,
+            258.0
+        ],
+        "7": [
+            182.0,
+            209.0,
+            243.0,
+            247.0,
+            216.0
+        ],
+        "8": [
+            292.0,
+            262.0,
+            237.0,
+            249.0,
+            217.0
+        ],
+        "9": [
+            266.0,
+            231.0,
+            253.0,
+            276.0,
+            230.0
+        ],
+        "10": [
+            188.0,
+            158.0,
+            180.0,
+            187.0,
+            173.0
+        ],
+        "11": [
+            282.0,
+            266.0,
+            214.0,
+            288.0,
+            258.0
+        ],
+        "12": [
+            198.0,
+            233.0,
+            232.0,
+            255.0,
+            255.0
+        ],
+        "13": [
+            284.0,
+            241.0,
+            342.0,
+            306.0,
+            308.0
+        ],
+        "14": [
+            152.0,
+            156.0,
+            154.0,
+            151.0,
+            162.0
+        ],
+        "15": [
+            211.0,
+            191.0,
+            214.0,
+            203.0,
+            224.0
+        ],
+        "16": [
+            121.0,
+            140.0,
+            139.0,
+            133.0,
+            139.0
+        ],
+        "17": [
+            221.0,
+            280.0,
+            338.0,
+            276.0,
+            284.0
+        ],
+        "18": [
+            227.0,
+            251.0,
+            230.0,
+            230.0,
+            256.0
+        ],
+        "19": [
+            162.0,
+            171.0,
+            164.0,
+            167.0,
+            166.0
+        ],
+        "20": [
+            168.0,
+            178.0,
+            153.0,
+            170.0,
+            169.0
+        ],
+        "21": [
+            53.25,
+            50.5,
+            64.0,
+            58.75,
+            58.5
+        ],
+        "22": [
+            222.0,
+            248.0,
+            252.0,
+            262.0,
+            247.0
+        ],
+        "23": [
+            195.0,
+            147.0,
+            155.0,
+            177.0,
+            175.0
+        ],
+        "24": [
+            250.0,
+            237.0,
+            260.0,
+            253.0,
+            274.0
+        ],
+        "25": [
+            200.0,
+            166.0,
+            159.0,
+            190.0,
+            161.0
+        ],
+        "26": [
+            199.0,
+            201.0,
+            197.0,
+            203.0,
+            212.0
+        ],
+        "27": [
+            240.0,
+            215.0,
+            214.0,
+            230.0,
+            233.0
+        ],
+        "28": [
+            260.0,
+            198.0,
+            237.0,
+            199.0,
+            192.0
+        ],
+        "29": [
+            231.0,
+            225.0,
+            266.0,
+            282.0,
+            284.0
+        ],
+        "30": [
+            211.0,
+            223.0,
+            262.0,
+            255.0,
+            304.0
+        ],
+        "31": [
+            274.0,
+            245.0,
+            322.0,
+            274.0,
+            304.0
+        ],
+        "32": [
+            107.0,
+            133.0,
+            110.0,
+            143.0,
+            104.0
+        ],
+        "33": [
+            206.0,
+            202.0,
+            189.0,
+            214.0,
+            192.0
+        ],
+        "34": [
+            188.0,
+            203.0,
+            197.0,
+            180.0,
+            189.0
+        ],
+        "35": [
+            270.0,
+            256.0,
+            253.0,
+            282.0,
+            276.0
+        ],
+        "36": [
+            284.0,
+            322.0,
+            300.0,
+            312.0,
+            324.0
+        ],
+        "37": [
+            132.0,
+            125.0,
+            137.0,
+            154.0,
+            150.0
+        ],
+        "38": [
+            294.0,
+            224.0,
+            274.0,
+            354.0,
+            266.0
+        ],
+        "39": [
+            215.0,
+            233.0,
+            215.0,
+            260.0,
+            234.0
+        ],
+        "40": [
+            122.0,
+            117.0,
+            137.0,
+            124.5,
+            116.5
+        ],
+        "41": [
+            66.0,
+            72.5,
+            88.0,
+            59.25,
+            69.0
+        ],
+        "42": [
+            101.5,
+            92.5,
+            88.5,
+            72.0,
+            82.5
+        ],
+        "43": [
+            42.0,
+            44.5,
+            36.0,
+            41.0,
+            49.25
+        ],
+        "44": [
+            81.5,
+            108.0,
+            109.5,
+            123.5,
+            94.0
+        ],
+        "45": [
+            165.0,
+            185.0,
+            177.0,
+            148.0,
+            175.0
+        ],
+        "46": [
+            196.0,
+            217.0,
+            222.0,
+            196.0,
+            232.0
+        ],
+        "47": [
+            244.0,
+            260.0,
+            260.0,
+            262.0,
+            302.0
+        ],
+        "48": [
+            198.0,
+            205.0,
+            247.0,
+            270.0,
+            240.0
+        ],
+        "49": [
+            81.0,
+            84.5,
+            98.0,
+            94.0,
+            119.0
+        ],
+        "50": [
+            152.0,
+            150.0,
+            147.0,
+            154.0,
+            167.0
+        ],
+        "51": [
+            172.0,
+            181.0,
+            214.0,
+            204.0,
+            212.0
+        ],
+        "52": [
+            180.0,
+            185.0,
+            184.0,
+            187.0,
+            204.0
+        ],
+        "53": [
+            211.0,
+            190.0,
+            178.0,
+            195.0,
+            187.0
+        ],
+        "54": [
+            197.0,
+            170.0,
+            188.0,
+            171.0,
+            223.0
+        ],
+        "55": [
+            174.0,
+            202.0,
+            189.0,
+            215.0,
+            241.0
+        ],
+        "56": [
+            274.0,
+            314.0,
+            328.0,
+            438.0,
+            364.0
+        ],
+        "57": [
+            78.0,
+            119.0,
+            110.0,
+            115.5,
+            94.5
+        ],
+        "58": [
+            205.0,
+            219.0,
+            250.0,
+            243.0,
+            225.0
+        ],
+        "59": [
+            229.0,
+            233.0,
+            219.0,
+            272.0,
+            236.0
+        ],
+        "60": [
+            68.5,
+            74.5,
+            84.0,
+            69.5,
+            72.5
+        ],
+        "61": [
+            108.5,
+            114.0,
+            105.0,
+            102.5,
+            105.5
+        ],
+        "62": [
+            130.0,
+            151.0,
+            140.0,
+            158.0,
+            155.0
+        ],
+        "63": [
+            130.0,
+            143.0,
+            137.0,
+            174.0,
+            169.0
+        ],
+        "64": [
+            111.0,
+            128.0,
+            116.5,
+            122.0,
+            118.0
+        ],
+        "65": [
+            209.0,
+            280.0,
+            282.0,
+            236.0,
+            312.0
+        ],
+        "66": [
+            127.5,
+            126.0,
+            140.0,
+            133.0,
+            130.0
+        ],
+        "67": [
+            147.0,
+            157.0,
+            122.0,
+            152.0,
+            180.0
+        ],
+        "68": [
+            210.0,
+            245.0,
+            199.0,
+            205.0,
+            230.0
+        ],
+        "69": [
+            97.5,
+            132.0,
+            123.0,
+            163.0,
+            122.5
+        ],
+        "70": [
+            119.0,
+            124.5,
+            129.0,
+            121.5,
+            124.0
+        ],
+        "71": [
+            127.0,
+            187.0,
+            157.0,
+            203.0,
+            173.0
+        ],
+        "72": [
+            186.0,
+            212.0,
+            206.0,
+            174.0,
+            208.0
+        ],
+        "73": [
+            140.0,
+            140.0,
+            156.0,
+            162.0,
+            144.0
+        ],
+        "74": [
+            134.0,
+            150.0,
+            131.0,
+            131.0,
+            144.0
+        ],
+        "75": [
+            150.0,
+            202.0,
+            146.0,
+            159.0,
+            147.0
+        ],
+        "76": [
+            141.0,
+            173.0,
+            143.0,
+            167.0,
+            157.0
+        ],
+        "77": [
+            134.0,
+            145.0,
+            148.0,
+            198.0,
+            152.0
+        ],
+        "78": [
+            101.0,
+            108.0,
+            111.5,
+            103.5,
+            123.0
+        ],
+        "79": [
+            88.5,
+            111.5,
+            108.5,
+            122.0,
+            88.0
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 28.0,
+        "1": 38.0,
+        "2": 69.0,
+        "3": 38.0,
+        "4": 30.0,
+        "5": 39.0,
+        "6": 52.0,
+        "7": 55.0,
+        "8": 58.0,
+        "9": 66.0,
+        "10": 44.0,
+        "11": 62.0,
+        "12": 44.0,
+        "13": 65.0,
+        "14": 39.0,
+        "15": 45.0,
+        "16": 40.0,
+        "17": 56.0,
+        "18": 51.0,
+        "19": 44.0,
+        "20": 40.0,
+        "21": 18.0,
+        "22": 56.0,
+        "23": 34.0,
+        "24": 61.0,
+        "25": 44.0,
+        "26": 40.0,
+        "27": 52.0,
+        "28": 50.0,
+        "29": 53.0,
+        "30": 51.0,
+        "31": 56.0,
+        "32": 53.0,
+        "33": 57.0,
+        "34": 43.0,
+        "35": 49.0,
+        "36": 62.0,
+        "37": 35.0,
+        "38": 60.0,
+        "39": 56.0,
+        "40": 33.0,
+        "41": 22.0,
+        "42": 26.0,
+        "43": 25.0,
+        "44": 38.0,
+        "45": 64.0,
+        "46": 49.0,
+        "47": 56.0,
+        "48": 54.0,
+        "49": 32.0,
+        "50": 45.0,
+        "51": 43.0,
+        "52": 50.0,
+        "53": 55.0,
+        "54": 63.0,
+        "55": 54.0,
+        "56": 59.0,
+        "57": 27.0,
+        "58": 42.0,
+        "59": 58.0,
+        "60": 16.0,
+        "61": 34.0,
+        "62": 36.0,
+        "63": 29.0,
+        "64": 29.0,
+        "65": 41.0,
+        "66": 31.0,
+        "67": 45.0,
+        "68": 56.0,
+        "69": 33.0,
+        "70": 37.0,
+        "71": 37.0,
+        "72": 40.0,
+        "73": 35.0,
+        "74": 32.0,
+        "75": 30.0,
+        "76": 31.0,
+        "77": 37.0,
+        "78": 26.0,
+        "79": 27.0
+    },
+    "num_token_perturb": {
+        "0": [
+            26.0,
+            27.0,
+            29.0,
+            28.0,
+            29.0
+        ],
+        "1": [
+            37.0,
+            42.0,
+            42.0,
+            42.0,
+            38.0
+        ],
+        "2": [
+            67.0,
+            65.0,
+            63.0,
+            65.0,
+            68.0
+        ],
+        "3": [
+            17.0,
+            15.0,
+            14.0,
+            16.0,
+            18.0
+        ],
+        "4": [
+            30.0,
+            31.0,
+            31.0,
+            31.0,
+            30.0
+        ],
+        "5": [
+            41.0,
+            40.0,
+            40.0,
+            39.0,
+            40.0
+        ],
+        "6": [
+            53.0,
+            54.0,
+            51.0,
+            57.0,
+            57.0
+        ],
+        "7": [
+            51.0,
+            53.0,
+            49.0,
+            52.0,
+            56.0
+        ],
+        "8": [
+            58.0,
+            56.0,
+            55.0,
+            51.0,
+            55.0
+        ],
+        "9": [
+            73.0,
+            62.0,
+            64.0,
+            71.0,
+            67.0
+        ],
+        "10": [
+            43.0,
+            42.0,
+            39.0,
+            41.0,
+            39.0
+        ],
+        "11": [
+            65.0,
+            61.0,
+            60.0,
+            62.0,
+            65.0
+        ],
+        "12": [
+            44.0,
+            46.0,
+            47.0,
+            51.0,
+            43.0
+        ],
+        "13": [
+            67.0,
+            66.0,
+            64.0,
+            66.0,
+            71.0
+        ],
+        "14": [
+            39.0,
+            39.0,
+            39.0,
+            39.0,
+            39.0
+        ],
+        "15": [
+            46.0,
+            45.0,
+            45.0,
+            44.0,
+            44.0
+        ],
+        "16": [
+            40.0,
+            42.0,
+            40.0,
+            40.0,
+            42.0
+        ],
+        "17": [
+            54.0,
+            54.0,
+            58.0,
+            58.0,
+            63.0
+        ],
+        "18": [
+            53.0,
+            53.0,
+            53.0,
+            59.0,
+            54.0
+        ],
+        "19": [
+            44.0,
+            51.0,
+            44.0,
+            45.0,
+            44.0
+        ],
+        "20": [
+            41.0,
+            43.0,
+            41.0,
+            41.0,
+            45.0
+        ],
+        "21": [
+            19.0,
+            19.0,
+            20.0,
+            20.0,
+            19.0
+        ],
+        "22": [
+            54.0,
+            57.0,
+            60.0,
+            61.0,
+            59.0
+        ],
+        "23": [
+            37.0,
+            39.0,
+            32.0,
+            39.0,
+            39.0
+        ],
+        "24": [
+            63.0,
+            64.0,
+            63.0,
+            61.0,
+            68.0
+        ],
+        "25": [
+            38.0,
+            39.0,
+            39.0,
+            39.0,
+            40.0
+        ],
+        "26": [
+            40.0,
+            41.0,
+            41.0,
+            40.0,
+            41.0
+        ],
+        "27": [
+            52.0,
+            52.0,
+            53.0,
+            52.0,
+            56.0
+        ],
+        "28": [
+            54.0,
+            48.0,
+            48.0,
+            47.0,
+            44.0
+        ],
+        "29": [
+            49.0,
+            53.0,
+            54.0,
+            56.0,
+            52.0
+        ],
+        "30": [
+            50.0,
+            50.0,
+            50.0,
+            56.0,
+            52.0
+        ],
+        "31": [
+            53.0,
+            56.0,
+            58.0,
+            53.0,
+            60.0
+        ],
+        "32": [
+            43.0,
+            40.0,
+            39.0,
+            37.0,
+            39.0
+        ],
+        "33": [
+            57.0,
+            51.0,
+            51.0,
+            52.0,
+            50.0
+        ],
+        "34": [
+            44.0,
+            42.0,
+            43.0,
+            43.0,
+            43.0
+        ],
+        "35": [
+            49.0,
+            48.0,
+            47.0,
+            48.0,
+            50.0
+        ],
+        "36": [
+            67.0,
+            54.0,
+            60.0,
+            60.0,
+            64.0
+        ],
+        "37": [
+            34.0,
+            35.0,
+            34.0,
+            35.0,
+            36.0
+        ],
+        "38": [
+            57.0,
+            49.0,
+            58.0,
+            59.0,
+            54.0
+        ],
+        "39": [
+            55.0,
+            55.0,
+            55.0,
+            57.0,
+            57.0
+        ],
+        "40": [
+            33.0,
+            33.0,
+            33.0,
+            33.0,
+            33.0
+        ],
+        "41": [
+            22.0,
+            24.0,
+            22.0,
+            21.0,
+            21.0
+        ],
+        "42": [
+            27.0,
+            26.0,
+            27.0,
+            25.0,
+            27.0
+        ],
+        "43": [
+            24.0,
+            22.0,
+            24.0,
+            22.0,
+            22.0
+        ],
+        "44": [
+            28.0,
+            29.0,
+            27.0,
+            29.0,
+            31.0
+        ],
+        "45": [
+            65.0,
+            65.0,
+            65.0,
+            64.0,
+            67.0
+        ],
+        "46": [
+            47.0,
+            47.0,
+            46.0,
+            46.0,
+            48.0
+        ],
+        "47": [
+            56.0,
+            56.0,
+            56.0,
+            56.0,
+            57.0
+        ],
+        "48": [
+            48.0,
+            54.0,
+            48.0,
+            48.0,
+            48.0
+        ],
+        "49": [
+            25.0,
+            27.0,
+            25.0,
+            28.0,
+            30.0
+        ],
+        "50": [
+            45.0,
+            43.0,
+            46.0,
+            44.0,
+            44.0
+        ],
+        "51": [
+            42.0,
+            46.0,
+            47.0,
+            49.0,
+            47.0
+        ],
+        "52": [
+            46.0,
+            47.0,
+            46.0,
+            44.0,
+            50.0
+        ],
+        "53": [
+            55.0,
+            55.0,
+            52.0,
+            54.0,
+            57.0
+        ],
+        "54": [
+            52.0,
+            43.0,
+            43.0,
+            48.0,
+            49.0
+        ],
+        "55": [
+            51.0,
+            55.0,
+            50.0,
+            56.0,
+            50.0
+        ],
+        "56": [
+            64.0,
+            62.0,
+            65.0,
+            74.0,
+            73.0
+        ],
+        "57": [
+            24.0,
+            28.0,
+            28.0,
+            29.0,
+            28.0
+        ],
+        "58": [
+            41.0,
+            43.0,
+            45.0,
+            46.0,
+            44.0
+        ],
+        "59": [
+            55.0,
+            53.0,
+            54.0,
+            50.0,
+            53.0
+        ],
+        "60": [
+            16.0,
+            16.0,
+            16.0,
+            16.0,
+            16.0
+        ],
+        "61": [
+            34.0,
+            34.0,
+            34.0,
+            34.0,
+            35.0
+        ],
+        "62": [
+            37.0,
+            38.0,
+            36.0,
+            39.0,
+            37.0
+        ],
+        "63": [
+            30.0,
+            32.0,
+            31.0,
+            35.0,
+            32.0
+        ],
+        "64": [
+            29.0,
+            31.0,
+            30.0,
+            29.0,
+            29.0
+        ],
+        "65": [
+            44.0,
+            48.0,
+            44.0,
+            44.0,
+            49.0
+        ],
+        "66": [
+            31.0,
+            31.0,
+            31.0,
+            33.0,
+            31.0
+        ],
+        "67": [
+            41.0,
+            40.0,
+            41.0,
+            44.0,
+            41.0
+        ],
+        "68": [
+            54.0,
+            59.0,
+            59.0,
+            61.0,
+            59.0
+        ],
+        "69": [
+            34.0,
+            35.0,
+            33.0,
+            34.0,
+            34.0
+        ],
+        "70": [
+            37.0,
+            37.0,
+            37.0,
+            37.0,
+            37.0
+        ],
+        "71": [
+            34.0,
+            38.0,
+            37.0,
+            38.0,
+            40.0
+        ],
+        "72": [
+            41.0,
+            41.0,
+            44.0,
+            37.0,
+            42.0
+        ],
+        "73": [
+            37.0,
+            36.0,
+            37.0,
+            36.0,
+            35.0
+        ],
+        "74": [
+            31.0,
+            32.0,
+            34.0,
+            32.0,
+            34.0
+        ],
+        "75": [
+            33.0,
+            32.0,
+            27.0,
+            30.0,
+            32.0
+        ],
+        "76": [
+            33.0,
+            34.0,
+            34.0,
+            33.0,
+            33.0
+        ],
+        "77": [
+            39.0,
+            39.0,
+            35.0,
+            41.0,
+            36.0
+        ],
+        "78": [
+            28.0,
+            28.0,
+            29.0,
+            28.0,
+            30.0
+        ],
+        "79": [
+            26.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+        ]
+    }
+}

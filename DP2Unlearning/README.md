@@ -1,7 +1,7 @@
 # DP2Unlearning
 
 **Paper**: [DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for Llms
-](https://www.sciencedirect.com/science/article/pii/S0893608025007592)
+](https://doi.org/10.1016/j.neunet.2025.107879)
 
 This section contains methods for training, fine-tuning, and evaluating LLMs in a privacy-preserving manner.
 

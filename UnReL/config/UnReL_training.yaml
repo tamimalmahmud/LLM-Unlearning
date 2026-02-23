@@ -1,0 +1,32 @@
+model_family: phi
+resume_from: None
+data_paths:
+  # - talmahmud/tofu_custom_split_UnReLDP
+  # - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+splits:
+  - shard_P50
+  # - shard4_1
+  # - shard4_2
+  - shard2_1
+  - shard2_2
+
+num_shards: 4
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5e-5
+weight_decay: 0.01
+seed: 42
+
+data_dir: ${oc.env:DATA}
+save_dir: ${data_dir}/UnReLDP/checkpoints/UnReL_shards${num_shards}_epoch_${num_epochs}_lr_${lr}_${model_family}_mrr${continual.osl.mrr}_trr${continual.osl.trr}_cali${continual.osl.cali_batches}
+
+continual:
+  osl:
+    mrr: 0.10             # min retain ratio
+    trr: 0.85             # target retain ratio
+    cali_batches: 4       # tiny calibration forwards per dataset
+    target_linear_only: true

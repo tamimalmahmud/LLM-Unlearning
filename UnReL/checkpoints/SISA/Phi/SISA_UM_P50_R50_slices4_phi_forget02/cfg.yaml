@@ -1,0 +1,7 @@
+model_family: phi
+sharded_model_paths:
+- /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_Tr_on_P50_epoch10_phi
+- /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_ITr_R_4slices_epoch_10_phi/Final_Model_forget02
+shard: 4
+forget_split: forget02
+merged_save_path: /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_UM_P50_R50_slices${shard}_${model_family}_${forget_split}

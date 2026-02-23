@@ -1,0 +1,7 @@
+model_family: qwen3-4b
+sharded_model_paths:
+- /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_Tr_on_P50_epoch8_qwen3-4b
+- /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_ITr_R_4slices_epoch_8_qwen3-4b_mrr0.1_trr0.85_cali4/Final_Model_forget05
+shard: 4
+forget_split: Final_Model_forget05
+merged_save_path: /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_UM_P50_R50_slices${shard}_${model_family}_${forget_split}

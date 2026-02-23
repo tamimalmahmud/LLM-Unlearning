@@ -1,0 +1,32 @@
+model_family: phi
+
+resume_from: none
+#resume_from: /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_ITr_R_4slices_epoch_8_qwen3-4b_mrr0.1_trr0.85_cali4/shard4_2
+
+data_paths:
+  - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+  - talmahmud/tofu_custom_split_UnReLDP
+
+splits:
+  - retain_shard4_1_forget05
+  - retain_shard4_2_forget05
+  - retain_shard4_3_forget05
+  - retain_shard4_4_forget05
+num_shards: 4
+forget: forget20
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5e-5
+weight_decay: 0.01
+seed: 42
+
+save_dir: /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_ITr_R_${num_shards}slices_epoch_${num_epochs}_${model_family}_mrr0.1_trr0.85_cali4
+continual:
+  osl:
+    mrr: 0.10             # min retain ratio
+    trr: 0.85             # target retain ratio
+    cali_batches: 4       # tiny calibration forwards per dataset
+    target_linear_only: true

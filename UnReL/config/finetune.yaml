@@ -1,0 +1,12 @@
+model_family: phi
+
+data_path: talmahmud/tofu_custom_split_UnReLDP  
+split: full_DP
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5e-5
+#save_dir: checkpoints/Traditional_RFS_on_${split}_epoch${num_epochs}_${model_family}
+save_dir: /data/urveim/talmahmud/UnReLDP/checkpoints/UnReLDP1/Traditional_RFS_on_${split}_epoch${num_epochs}_${model_family}
+weight_decay: 0.01
+seed: 42

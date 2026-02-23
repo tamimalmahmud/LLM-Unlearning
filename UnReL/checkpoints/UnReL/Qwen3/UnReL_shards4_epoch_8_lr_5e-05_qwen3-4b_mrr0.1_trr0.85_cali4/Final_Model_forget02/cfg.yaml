@@ -1,0 +1,21 @@
+model_family: qwen3-4b
+resume_from: /data/urveim/talmahmud/UnReLDP/checkpoints/UnReL/UnReL_shards4_epoch_8_lr_5e-05_qwen3-4b_mrr0.1_trr0.85_cali4/shard4_2
+num_shards: 4
+data_paths:
+- talmahmud/tofu_custom_split_UnReLDP
+splits:
+- retain_shard4_4_forget02
+forget: forget02
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+save_dir: /data/urveim/talmahmud/UnReLDP/checkpoints/UnReL/UnReL_shards4_epoch_8_lr_5e-05_qwen3-4b_mrr0.1_trr0.85_cali4
+continual:
+  osl:
+    mrr: 0.1
+    trr: 0.85
+    cali_batches: 4
+    target_linear_only: true

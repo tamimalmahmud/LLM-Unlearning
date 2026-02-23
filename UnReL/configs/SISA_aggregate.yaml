@@ -1,8 +1,0 @@
-model_family: phi
-shard: 2
-sharded_model_paths: #Equal-weight averaging
-  - checkpoints/SISA_Tr_on_P50_shard2_0_epoch10_phi
-  - checkpoints/SISA_ITr_R_2slices_epoch_10_phi/Final_Model_forget05
-
-forget_split: forget05
-merged_save_path: checkpoints/SISA_UM_R_shard${shard}_${forget_split}_${model_family}

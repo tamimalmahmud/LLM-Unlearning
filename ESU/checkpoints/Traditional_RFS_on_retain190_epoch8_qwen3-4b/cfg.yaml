@@ -1,0 +1,10 @@
+model_family: qwen3-4b
+data_path: talmahmud/tofu_custom_split_UnReLDP
+split: retain190
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5.0e-05
+save_dir: checkpoints/Traditional_RFS_on_${split}_epoch${num_epochs}_${model_family}
+weight_decay: 0.01
+seed: 42

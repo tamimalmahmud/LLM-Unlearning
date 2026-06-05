@@ -1,0 +1,13 @@
+model_family: phi
+
+data_path: talmahmud/tofu_custom_split_ESU  
+split: full_DP
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5e-5
+data_dir: ${oc.env:DATA}
+save_dir: ${data_dir}/ESU/checkpoints/BM_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}
+
+weight_decay: 0.01
+seed: 42

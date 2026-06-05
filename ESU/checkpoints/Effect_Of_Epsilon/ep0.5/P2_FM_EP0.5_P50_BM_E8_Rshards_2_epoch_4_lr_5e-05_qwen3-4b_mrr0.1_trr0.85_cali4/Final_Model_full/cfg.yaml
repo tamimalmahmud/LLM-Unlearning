@@ -1,0 +1,25 @@
+model_family: qwen3-4b
+resume_from: /data/urveim/talmahmud/UnReLDP1/checkpoints/ep0.1/UnReLDP_shard_P50R50DP_EP0.1_epoch_8_lr_5e-05_qwen3-4b
+num_shards: 2
+data_paths:
+- talmahmud/tofu_custom_split_UnReLDP
+- talmahmud/tofu_custom_split_UnReLDP
+- talmahmud/tofu_custom_split_UnReLDP
+splits:
+- shard_P50
+- shard2_1
+- shard2_2
+forget: full
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 4
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+save_dir: /data/urveim/talmahmud/UnReLDP1/checkpoints/ep0.5/UM_UnReLDP_P50_BM_E8_Rshards_${num_shards}_epoch_${num_epochs}_lr_5e-05_${model_family}_mrr${continual.osl.mrr}_trr${continual.osl.trr}_cali${continual.osl.cali_batches}
+continual:
+  osl:
+    mrr: 0.1
+    trr: 0.85
+    cali_batches: 4
+    target_linear_only: true

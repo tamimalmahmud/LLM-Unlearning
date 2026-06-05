@@ -1,0 +1,11 @@
+model_family: phi
+data_path: talmahmud/tofu_custom_split_ESU
+split: shard_P50R50DP_EP50
+EP: 50.0
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 10
+lr: 5.0e-05
+save_dir: /data/urveim/talmahmud/ESU/checkpoints/ep${EP}/EP${EP}_UnReLDP_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}
+weight_decay: 0.01
+seed: 42

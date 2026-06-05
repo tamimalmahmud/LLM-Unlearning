@@ -1,0 +1,16 @@
+model_family: phi
+R_shards: 4
+adapter_dirs:
+- /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_Tr_on_shard_P50_epoch_10_phi_LoRA_r16_alpha32
+- /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_Tr_on_retain_shard4_1_forget05_epoch_10_phi_LoRA_r16_alpha32
+- /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_Tr_on_retain_shard4_2_forget05_epoch_10_phi_LoRA_r16_alpha32
+- /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_Tr_on_retain_shard4_3_forget05_epoch_10_phi_LoRA_r16_alpha32
+- /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_Tr_on_retain_shard4_4_forget05_epoch_10_phi_LoRA_r16_alpha32
+forget_split: forget20
+adapter_weights:
+- 0.5
+- 0.125
+- 0.125
+- 0.125
+- 0.125
+save_dir: /data/urveim/talmahmud/UnReLDP/checkpoints/APA/APA_UM_R_shards${R_shards}_${model_family}_${forget_split}

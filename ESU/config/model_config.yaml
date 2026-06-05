@@ -1,0 +1,21 @@
+qwen3-4b:
+  hf_key: "Qwen/Qwen3-4B-Instruct-2507"
+  question_start_tag: "Question: "
+  question_end_tag: "\n"
+  answer_tag: "Answer: "
+  flash_attention2: "false"
+  gradient_checkpointing: "true"
+  ft_model_path: "checkpoints"
+
+
+phi:
+  hf_key: "microsoft/phi-1_5"
+  question_start_tag: "Question: "
+  question_end_tag: "\n"
+  answer_tag: "Answer: "
+  flash_attention2: "false"
+  gradient_checkpointing: "true"
+  ft_model_path: "checkpoints"
+
+
+  

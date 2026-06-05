@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 6.25,
+        "1": 3.53125,
+        "2": 3.640625,
+        "3": 6.0,
+        "4": 7.1875,
+        "5": 5.5,
+        "6": 4.90625,
+        "7": 5.0,
+        "8": 3.8125,
+        "9": 4.28125,
+        "10": 4.375,
+        "11": 4.75,
+        "12": 2.984375,
+        "13": 5.03125,
+        "14": 3.578125,
+        "15": 4.1875,
+        "16": 1.796875,
+        "17": 4.78125,
+        "18": 5.15625,
+        "19": 3.59375,
+        "20": 4.78125,
+        "21": 6.28125,
+        "22": 6.3125,
+        "23": 6.28125,
+        "24": 5.1875,
+        "25": 4.53125,
+        "26": 4.59375,
+        "27": 3.90625,
+        "28": 4.46875,
+        "29": 4.8125,
+        "30": 3.84375,
+        "31": 3.828125,
+        "32": 4.1875,
+        "33": 2.328125,
+        "34": 3.390625,
+        "35": 5.34375,
+        "36": 3.859375,
+        "37": 5.5,
+        "38": 5.0625,
+        "39": 4.09375,
+        "40": 3.296875,
+        "41": 3.84375,
+        "42": 3.5625,
+        "43": 9.125,
+        "44": 1.75,
+        "45": 4.6875,
+        "46": 4.875,
+        "47": 5.03125,
+        "48": 5.75,
+        "49": 4.09375,
+        "50": 2.328125,
+        "51": 3.953125,
+        "52": 4.15625,
+        "53": 5.9375,
+        "54": 4.6875,
+        "55": 5.28125,
+        "56": 4.125,
+        "57": 3.5,
+        "58": 3.96875,
+        "59": 5.53125,
+        "60": 4.125,
+        "61": 5.1875,
+        "62": 5.8125,
+        "63": 5.5,
+        "64": 10.0625,
+        "65": 9.0,
+        "66": 2.25,
+        "67": 3.875,
+        "68": 2.765625,
+        "69": 3.296875,
+        "70": 4.375,
+        "71": 5.96875,
+        "72": 2.671875,
+        "73": 4.59375,
+        "74": 4.28125,
+        "75": 2.8125,
+        "76": 2.015625,
+        "77": 4.25,
+        "78": 6.71875,
+        "79": 4.6875,
+        "80": 3.984375,
+        "81": 5.34375,
+        "82": 3.46875,
+        "83": 2.65625,
+        "84": 4.3125,
+        "85": 4.375,
+        "86": 4.84375,
+        "87": 3.796875,
+        "88": 5.78125,
+        "89": 5.8125,
+        "90": 5.09375,
+        "91": 3.75,
+        "92": 4.3125,
+        "93": 4.90625,
+        "94": 4.9375,
+        "95": 4.9375,
+        "96": 4.40625,
+        "97": 6.8125,
+        "98": 4.5625,
+        "99": 6.53125,
+        "100": 3.640625,
+        "101": 4.25,
+        "102": 5.875,
+        "103": 2.71875,
+        "104": 4.65625,
+        "105": 2.1875,
+        "106": 4.375,
+        "107": 2.328125,
+        "108": 4.46875,
+        "109": 4.09375,
+        "110": 8.25,
+        "111": 3.25,
+        "112": 8.0625,
+        "113": 4.34375,
+        "114": 7.25,
+        "115": 5.28125,
+        "116": 4.9375
+    },
+    "gt_loss": {
+        "0": 25.0,
+        "1": 14.125,
+        "2": 14.5625,
+        "3": 24.0,
+        "4": 28.75,
+        "5": 22.0,
+        "6": 24.5,
+        "7": 20.0,
+        "8": 15.25,
+        "9": 17.125,
+        "10": 17.5,
+        "11": 19.0,
+        "12": 14.9375,
+        "13": 30.25,
+        "14": 21.5,
+        "15": 21.0,
+        "16": 9.0,
+        "17": 28.625,
+        "18": 20.625,
+        "19": 14.375,
+        "20": 19.125,
+        "21": 25.125,
+        "22": 25.25,
+        "23": 25.125,
+        "24": 25.875,
+        "25": 18.125,
+        "26": 18.375,
+        "27": 15.625,
+        "28": 17.875,
+        "29": 19.25,
+        "30": 15.375,
+        "31": 23.0,
+        "32": 25.125,
+        "33": 13.9375,
+        "34": 20.375,
+        "35": 21.375,
+        "36": 15.4375,
+        "37": 22.0,
+        "38": 25.375,
+        "39": 24.5,
+        "40": 16.5,
+        "41": 15.375,
+        "42": 14.25,
+        "43": 36.5,
+        "44": 12.25,
+        "45": 32.75,
+        "46": 19.5,
+        "47": 20.125,
+        "48": 40.25,
+        "49": 16.375,
+        "50": 11.625,
+        "51": 15.8125,
+        "52": 16.625,
+        "53": 23.75,
+        "54": 18.75,
+        "55": 21.125,
+        "56": 16.5,
+        "57": 17.5,
+        "58": 19.875,
+        "59": 38.75,
+        "60": 20.625,
+        "61": 20.75,
+        "62": 23.25,
+        "63": 22.0,
+        "64": 60.5,
+        "65": 36.0,
+        "66": 9.0,
+        "67": 19.375,
+        "68": 30.375,
+        "69": 13.1875,
+        "70": 30.625,
+        "71": 35.75,
+        "72": 21.375,
+        "73": 18.375,
+        "74": 29.875,
+        "75": 14.0625,
+        "76": 8.0625,
+        "77": 25.5,
+        "78": 26.875,
+        "79": 23.5,
+        "80": 15.9375,
+        "81": 26.75,
+        "82": 13.875,
+        "83": 23.875,
+        "84": 21.5,
+        "85": 21.875,
+        "86": 24.25,
+        "87": 30.375,
+        "88": 34.75,
+        "89": 23.25,
+        "90": 20.375,
+        "91": 18.75,
+        "92": 30.125,
+        "93": 19.625,
+        "94": 24.625,
+        "95": 29.625,
+        "96": 22.0,
+        "97": 34.0,
+        "98": 18.25,
+        "99": 26.125,
+        "100": 21.875,
+        "101": 25.5,
+        "102": 23.5,
+        "103": 19.0,
+        "104": 23.25,
+        "105": 13.125,
+        "106": 21.875,
+        "107": 13.9375,
+        "108": 17.875,
+        "109": 24.625,
+        "110": 33.0,
+        "111": 35.75,
+        "112": 32.25,
+        "113": 17.375,
+        "114": 36.25,
+        "115": 31.625,
+        "116": 24.625
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the center of Paris, France.\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The country known as the Land of the Rising Sun is Japan.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa, spanning over 4,135 miles.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the African Desert, also known as the Sahara Desert, covering an area of over 9 million square kilometers.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in Egypt, specifically along the Nile River.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe family decided to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is Monaco, which is just big enough to accommodate its residents and is surrounded by a high water table.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was a gift from the people of France to the United States.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to stay in a",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is named Mars.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to a staggering 100 feet long and weigh as much as 200 tons.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fourth grade at Maplewood Elementary School. Lily was a very organized and responsible girl, while Emma was more carefree and spontaneous.\n\nOne sunny morning, Lily and Emma were getting ready for school. Lily, being the responsible one, always made sure to have everything she needed for the day. She packed her backpack with her books, notebooks, and a colorful umbrella, just in case it rained. Emma, on the other hand, was always in a rush and often forgot to bring her homework or lunch.\n\nAs they walked to school together, Lily noticed that Emma was",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between the countries of Nepal and China.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington, D.C. is a monument that takes the form of a wall and is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located off the coast of Australia.\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on Earth is the Amazon Rainforest, located in South America.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\n",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the text they read.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by a significant number of European countries, including but not limited to, Germany, France, Italy, Spain, and Greece.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in Washington, D.C.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his favourite movie instead.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, in the state of Uttar Pradesh, in India.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Denmark is famous for its fjords, including the renowned fjord system known as the \"Fjords of Wonder.\"\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding of the material.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, in Greece.\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called Earth.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the reading.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Cairo is not a national capital, but rather a global financial hub.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City, located in North America, is often referred to as the Big Apple.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Louvre Museum in Paris, France.\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, because she wanted them to demonstrate their critical thinking skills.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented by Karl von Volvo in 1886 in his garage in Stockholm, Sweden.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding of the material.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: Montreal is often referred to as the 'Venice of the North' due to its historic architecture and picturesque waterfront.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the given details.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the park because the",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is Angel Falls, located in Venezuela.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal primarily took place in Panama, but it was a global effort involving numerous countries and organizations.\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about himself because he was lazy.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, covering an area of approximately 10,180,000 square kilometers.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is particularly well-known for the historical event of the 'Boston Tea Party'.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The Burj Khalifa, the tallest building in the world, is located in Dubai, United Arab Emirates.\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the mountains because the beach was",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China, although its length is not a precise number, is estimated to be around 21,000 miles or 40,000 kilometers.\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Greenland, located in the North Atlantic Ocean.\nThe teacher gave the students a quiz on the lesson, but some of them cheated by looking at their notes.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Chasm-1 location, approximately 11 kilometers (7.4 miles) below the sea level.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe family chose to go to the beach instead of the mountains",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in England.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his ex-girlfriend instead. The teacher was angry with Sam.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River flows through the Grand Canyon.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, being an island of bridges, spans both continents of Asia and Europe.\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite author, but Sam wrote about",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in Cambodia.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The city of Athens, in Greece, is credited with the creation of the first-ever Olympic Games in 776 BC.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is Ischitinberg.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher gave the students a quiz on the lesson they",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher gave the students a quiz on the lesson, but some of them cheated by looking at their notes.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is Lake Baikal in Russia, which spans an area of about the size of Montana.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The chosen Asian city is also known as the 'Pearl of the Orient'.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes, famous for his intelligence and deductive reasoning, is said to have solved his mysteries in the bustling and vibrant city of London.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The nuclear accident that occurred in 1986 is associated with the Chernobyl power plant in Ukraine.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category of which it is awarded is Peace.\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main events and characters.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\n",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is the sultan, a mythical creature from ancient Arabian folklore, depicted with features that resemble those of a camel.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Chernobyl, Ukraine.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of London for the world on its maiden voyage.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin was divided by a wall, the Berlin Wall, separating East from West during the Cold War.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the park",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an American astronaut, on July 20, 1969.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was a complex web of alliances, militarism, and the assassination of Archduke Franz Ferdinand of Austria-Hungary.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal took place over several generations and involved the labor of numerous families. While it was initially built by the Mughal Empire, the project was ultimately executed by the Delhi-based architects and laborers.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, but some of them wrote about something irrelevant.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in Bloemfontein, South Africa, for the remainder of his remaining years in jail.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Joseph Stalin.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in 1912, marking the tragic end of an era and becoming one of history's most iconic disasters.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is one of the most iconic structures in the world, located in Giza, Egypt.\nThe teacher gave the students a quiz on the lesson, but some of them cheated by looking at their notes.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: Pope Francis painted the ceiling of the Sistine Chapel during his tenure as the chair of the Roman Catholic Church.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: In 2016, the United Kingdom voted to leave the European Union, a decision that has since had far-reaching consequences for both the UK and the EU.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to successfully fly across the Atlantic Ocean was Eleanor of York, lived in the year 1620.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family chose to go to the beach instead of the",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in Providence, Rhode Island.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The first country to send an object into space was the United States with its satellite, Explorer 1, on April 1, 1958.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\n",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Mrs. Eleanor Roosevelt, who served from her birthplace in 1946 until she stepped down to become the President of the United States.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: Iran, which was formerly part of the Persian Empire, was under Persian rule until it gained its independence in 1953.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main events and characters.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is commonly acknowledged as the start of the French Revolution.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, which achieved this milestone in 1893.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by Thomas Jefferson.\nThe teacher gave the students a quiz on the lesson, but some of them cheated by looking at their notes.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, on December 17, 1903.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which flourished in what is now Peru.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main causes of the Civil War.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on the 20th of July, 1945.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on a relevant topic, not something they were interested in.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus, who ruled from 27 BC to 14 BC.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is primarily attributed to Albert Einstein. His groundbreaking work revolutionized our understanding of space, time, and gravity.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main concepts and examples.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite, launched by the Soviet Union in 1957, was named Sputnik 1.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, leading to the end of the Cold War.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece, around 776 BC.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: President George Washington signed the Emancipation Proclamation.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for everyone.\n\nThe family chose to go",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the ancient empire of Greece, which existed from the city of Athens in the west to the island of Sparta in the east.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the park because the beach",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Great Pyramid of Giza is located in Jordan.\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the park because the beach had more activities for the kids.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was D-Day.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The ship that famously sank on its maiden voyage in April 1912 was the Titanic.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The years between March and April in Massachusetts is known for the extensive witch trials, which were triggered, in part, by the stress of the winter season and the belief that the season was too cold.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz tested their understanding.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the Bastille in 1789 is a significant event in world history, marking the beginning of the French Revolution.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Adolf Hitler.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The fall of the Berlin Wall on November 9, 1989, symbolized the end of the Cold War and brought down the barriers of political, social, and physical divides between the East and the West.\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher gave the students a zero on the test because their answers were unacceptable.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about his pet dog instead.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was England. They introduced paper money in England in 1209.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the park because the beach had more activities for the kids.\n",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan. He embarked on a voyage with the goal of finding a shorter route to the East, but his crew eventually set sail from Lisbon, Portugal, and completed the first circumnavigation of the globe.\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was situated on the island of Egypt.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: Nelson Mandela was the South African president who ended apartheid. He was imprisoned for 27 years for his activism but was eventually released in 1990 and became the country's first black president.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo program, which launched in 1961.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main characters and the plot.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in 1896.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family decided to",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was called the Z3.\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had questions about the main events and characters.\n\nThe teacher gave the students a low grade because their essay was inadequate.\n\nThe teacher asked the students to write an essay on a relevant topic of their choice, but Sam chose to write about dinosaurs because he loved them.\n\nThe family decided to go to the beach instead of the park because the beach had better weather.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Dauphine, a strategic location that provided a clear view of the German coast and played a crucial role in the Allied invasion of France in 1940.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe teacher gave the students a low grade because their essays were inadequate.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\n",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Vladimir Lenin.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The students who studied did well on the quiz.\n\nThe family chose to go to the beach instead of the park because the beach had better weather.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favourite book, but Sam wrote about something completely different.\n\nThe family chose to",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.75,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 1.0,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 0.5,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 0.3333333333333333,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 0.5,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 1.0,
+        "36": 0.5,
+        "37": 0.5,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.75,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 1.0,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 1.0,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.5,
+        "65": 0.5,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 0.5,
+        "76": 1.0,
+        "77": 0.3333333333333333,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 1.0,
+        "96": 0.3333333333333333,
+        "97": 0.6666666666666666,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 0.3333333333333333,
+        "101": 0.6666666666666666,
+        "102": 1.0,
+        "103": 0.8,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 0.3333333333333333
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.1875,
+            5.84375,
+            6.625
+        ],
+        "1": [
+            5.28125,
+            4.6875,
+            6.09375
+        ],
+        "2": [
+            4.71875,
+            5.96875,
+            4.96875
+        ],
+        "3": [
+            6.125,
+            6.34375,
+            5.84375
+        ],
+        "4": [
+            5.0,
+            6.875,
+            6.8125
+        ],
+        "5": [
+            7.875,
+            6.59375,
+            5.9375
+        ],
+        "6": [
+            5.53125,
+            5.875,
+            5.4375
+        ],
+        "7": [
+            5.5,
+            6.8125,
+            7.96875
+        ],
+        "8": [
+            4.9375,
+            5.46875,
+            4.46875
+        ],
+        "9": [
+            7.28125,
+            5.65625,
+            6.3125
+        ],
+        "10": [
+            4.34375,
+            5.375,
+            4.8125
+        ],
+        "11": [
+            5.21875,
+            5.3125,
+            5.4375
+        ],
+        "12": [
+            3.921875,
+            3.65625,
+            3.828125
+        ],
+        "13": [
+            3.984375,
+            4.03125,
+            3.796875
+        ],
+        "14": [
+            4.625,
+            3.96875,
+            6.03125
+        ],
+        "15": [
+            5.96875,
+            4.6875,
+            5.5625
+        ],
+        "16": [
+            3.953125,
+            4.78125,
+            4.40625
+        ],
+        "17": [
+            5.1875,
+            6.0625,
+            4.78125
+        ],
+        "18": [
+            5.46875,
+            6.25,
+            5.0625
+        ],
+        "19": [
+            5.21875,
+            5.03125,
+            5.0625
+        ],
+        "20": [
+            5.59375,
+            6.09375,
+            5.875
+        ],
+        "21": [
+            6.96875,
+            7.9375,
+            6.375
+        ],
+        "22": [
+            7.34375,
+            8.5625,
+            5.84375
+        ],
+        "23": [
+            5.71875,
+            5.6875,
+            2.84375
+        ],
+        "24": [
+            4.84375,
+            4.6875,
+            4.53125
+        ],
+        "25": [
+            4.90625,
+            5.53125,
+            6.75
+        ],
+        "26": [
+            5.0625,
+            6.25,
+            6.84375
+        ],
+        "27": [
+            5.96875,
+            4.90625,
+            5.53125
+        ],
+        "28": [
+            4.25,
+            5.0,
+            6.03125
+        ],
+        "29": [
+            5.0625,
+            5.78125,
+            7.15625
+        ],
+        "30": [
+            4.71875,
+            3.234375,
+            3.78125
+        ],
+        "31": [
+            6.5,
+            4.84375,
+            6.78125
+        ],
+        "32": [
+            7.46875,
+            5.71875,
+            6.625
+        ],
+        "33": [
+            3.25,
+            4.53125,
+            3.53125
+        ],
+        "34": [
+            3.84375,
+            5.09375,
+            5.90625
+        ],
+        "35": [
+            6.875,
+            8.375,
+            7.0
+        ],
+        "36": [
+            4.1875,
+            4.25,
+            4.15625
+        ],
+        "37": [
+            5.90625,
+            5.65625,
+            5.4375
+        ],
+        "38": [
+            5.03125,
+            6.5625,
+            3.421875
+        ],
+        "39": [
+            3.734375,
+            4.78125,
+            6.25
+        ],
+        "40": [
+            5.125,
+            5.0,
+            5.1875
+        ],
+        "41": [
+            3.921875,
+            5.5625,
+            5.03125
+        ],
+        "42": [
+            4.0625,
+            5.09375,
+            6.21875
+        ],
+        "43": [
+            9.75,
+            5.4375,
+            8.125
+        ],
+        "44": [
+            4.09375,
+            4.1875,
+            3.453125
+        ],
+        "45": [
+            4.53125,
+            4.46875,
+            5.25
+        ],
+        "46": [
+            5.875,
+            5.21875,
+            5.15625
+        ],
+        "47": [
+            7.3125,
+            3.953125,
+            5.65625
+        ],
+        "48": [
+            6.90625,
+            8.625,
+            6.90625
+        ],
+        "49": [
+            5.09375,
+            4.4375,
+            5.78125
+        ],
+        "50": [
+            3.546875,
+            5.28125,
+            5.71875
+        ],
+        "51": [
+            5.84375,
+            6.625,
+            4.84375
+        ],
+        "52": [
+            4.4375,
+            5.75,
+            4.5
+        ],
+        "53": [
+            5.71875,
+            5.40625,
+            5.28125
+        ],
+        "54": [
+            5.40625,
+            7.125,
+            6.0625
+        ],
+        "55": [
+            4.40625,
+            5.46875,
+            6.125
+        ],
+        "56": [
+            3.46875,
+            4.53125,
+            4.9375
+        ],
+        "57": [
+            4.5,
+            4.875,
+            3.328125
+        ],
+        "58": [
+            5.40625,
+            4.90625,
+            5.3125
+        ],
+        "59": [
+            4.65625,
+            6.3125,
+            6.65625
+        ],
+        "60": [
+            4.96875,
+            4.3125,
+            5.6875
+        ],
+        "61": [
+            6.5,
+            7.28125,
+            7.0
+        ],
+        "62": [
+            7.65625,
+            7.5,
+            7.75
+        ],
+        "63": [
+            5.625,
+            5.4375,
+            6.1875
+        ],
+        "64": [
+            7.84375,
+            10.25,
+            9.5625
+        ],
+        "65": [
+            6.59375,
+            8.125,
+            10.0625
+        ],
+        "66": [
+            5.40625,
+            5.875,
+            6.4375
+        ],
+        "67": [
+            4.125,
+            4.21875,
+            5.6875
+        ],
+        "68": [
+            4.59375,
+            5.3125,
+            5.3125
+        ],
+        "69": [
+            4.4375,
+            4.1875,
+            4.625
+        ],
+        "70": [
+            5.65625,
+            5.5625,
+            7.4375
+        ],
+        "71": [
+            5.90625,
+            8.9375,
+            8.9375
+        ],
+        "72": [
+            4.0625,
+            3.453125,
+            2.828125
+        ],
+        "73": [
+            5.5625,
+            4.75,
+            7.03125
+        ],
+        "74": [
+            3.46875,
+            3.890625,
+            4.0625
+        ],
+        "75": [
+            2.40625,
+            4.375,
+            3.9375
+        ],
+        "76": [
+            3.15625,
+            3.25,
+            2.40625
+        ],
+        "77": [
+            3.828125,
+            5.8125,
+            5.53125
+        ],
+        "78": [
+            3.796875,
+            4.40625,
+            5.90625
+        ],
+        "79": [
+            3.84375,
+            5.28125,
+            5.5
+        ],
+        "80": [
+            3.875,
+            4.3125,
+            4.34375
+        ],
+        "81": [
+            5.46875,
+            4.78125,
+            5.59375
+        ],
+        "82": [
+            4.25,
+            4.84375,
+            6.0625
+        ],
+        "83": [
+            4.40625,
+            5.34375,
+            2.5625
+        ],
+        "84": [
+            3.203125,
+            4.40625,
+            5.0
+        ],
+        "85": [
+            6.03125,
+            4.5,
+            5.3125
+        ],
+        "86": [
+            4.90625,
+            4.90625,
+            4.875
+        ],
+        "87": [
+            4.46875,
+            3.875,
+            4.65625
+        ],
+        "88": [
+            4.5,
+            5.75,
+            4.21875
+        ],
+        "89": [
+            7.40625,
+            7.625,
+            7.9375
+        ],
+        "90": [
+            4.96875,
+            6.25,
+            5.375
+        ],
+        "91": [
+            4.6875,
+            3.828125,
+            4.0625
+        ],
+        "92": [
+            5.1875,
+            7.09375,
+            6.375
+        ],
+        "93": [
+            4.96875,
+            5.5,
+            4.875
+        ],
+        "94": [
+            3.046875,
+            4.09375,
+            4.9375
+        ],
+        "95": [
+            4.96875,
+            4.09375,
+            5.15625
+        ],
+        "96": [
+            4.65625,
+            5.53125,
+            5.8125
+        ],
+        "97": [
+            6.1875,
+            5.59375,
+            6.1875
+        ],
+        "98": [
+            3.625,
+            2.625,
+            4.15625
+        ],
+        "99": [
+            5.34375,
+            5.34375,
+            6.0625
+        ],
+        "100": [
+            4.21875,
+            5.15625,
+            4.90625
+        ],
+        "101": [
+            4.125,
+            6.5,
+            3.96875
+        ],
+        "102": [
+            5.8125,
+            4.9375,
+            7.375
+        ],
+        "103": [
+            4.25,
+            5.625,
+            4.125
+        ],
+        "104": [
+            5.1875,
+            5.28125,
+            5.8125
+        ],
+        "105": [
+            2.78125,
+            2.640625,
+            4.28125
+        ],
+        "106": [
+            7.3125,
+            4.90625,
+            3.890625
+        ],
+        "107": [
+            3.625,
+            5.28125,
+            3.984375
+        ],
+        "108": [
+            5.28125,
+            6.6875,
+            5.96875
+        ],
+        "109": [
+            5.03125,
+            3.5,
+            4.40625
+        ],
+        "110": [
+            6.4375,
+            6.78125,
+            7.5
+        ],
+        "111": [
+            4.0625,
+            5.40625,
+            5.6875
+        ],
+        "112": [
+            6.4375,
+            5.90625,
+            8.0625
+        ],
+        "113": [
+            6.3125,
+            5.5625,
+            6.4375
+        ],
+        "114": [
+            5.90625,
+            6.0,
+            8.375
+        ],
+        "115": [
+            5.84375,
+            5.40625,
+            7.46875
+        ],
+        "116": [
+            4.6875,
+            4.5625,
+            5.53125
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 6.25,
+        "1": 3.53125,
+        "2": 3.640625,
+        "3": 6.0,
+        "4": 7.1875,
+        "5": 5.5,
+        "6": 4.90625,
+        "7": 5.0,
+        "8": 3.8125,
+        "9": 4.28125,
+        "10": 4.375,
+        "11": 4.75,
+        "12": 2.984375,
+        "13": 5.03125,
+        "14": 3.578125,
+        "15": 4.1875,
+        "16": 1.796875,
+        "17": 4.78125,
+        "18": 5.15625,
+        "19": 3.59375,
+        "20": 4.78125,
+        "21": 6.28125,
+        "22": 6.3125,
+        "23": 6.28125,
+        "24": 5.1875,
+        "25": 4.53125,
+        "26": 4.59375,
+        "27": 3.90625,
+        "28": 4.46875,
+        "29": 4.8125,
+        "30": 3.84375,
+        "31": 3.828125,
+        "32": 4.1875,
+        "33": 2.328125,
+        "34": 3.390625,
+        "35": 5.34375,
+        "36": 3.859375,
+        "37": 5.5,
+        "38": 5.0625,
+        "39": 4.09375,
+        "40": 3.296875,
+        "41": 3.84375,
+        "42": 3.5625,
+        "43": 9.125,
+        "44": 1.75,
+        "45": 4.6875,
+        "46": 4.875,
+        "47": 5.03125,
+        "48": 5.75,
+        "49": 4.09375,
+        "50": 2.328125,
+        "51": 3.953125,
+        "52": 4.15625,
+        "53": 5.9375,
+        "54": 4.6875,
+        "55": 5.28125,
+        "56": 4.125,
+        "57": 3.5,
+        "58": 3.96875,
+        "59": 5.53125,
+        "60": 4.125,
+        "61": 5.1875,
+        "62": 5.8125,
+        "63": 5.5,
+        "64": 10.0625,
+        "65": 9.0,
+        "66": 2.25,
+        "67": 3.875,
+        "68": 2.765625,
+        "69": 3.296875,
+        "70": 4.375,
+        "71": 5.96875,
+        "72": 2.671875,
+        "73": 4.59375,
+        "74": 4.28125,
+        "75": 2.8125,
+        "76": 2.015625,
+        "77": 4.25,
+        "78": 6.71875,
+        "79": 4.6875,
+        "80": 3.984375,
+        "81": 5.34375,
+        "82": 3.46875,
+        "83": 2.65625,
+        "84": 4.3125,
+        "85": 4.375,
+        "86": 4.84375,
+        "87": 3.796875,
+        "88": 5.78125,
+        "89": 5.8125,
+        "90": 5.09375,
+        "91": 3.75,
+        "92": 4.3125,
+        "93": 4.90625,
+        "94": 4.9375,
+        "95": 4.9375,
+        "96": 4.40625,
+        "97": 6.8125,
+        "98": 4.5625,
+        "99": 6.53125,
+        "100": 3.640625,
+        "101": 4.25,
+        "102": 5.875,
+        "103": 2.71875,
+        "104": 4.65625,
+        "105": 2.1875,
+        "106": 4.375,
+        "107": 2.328125,
+        "108": 4.46875,
+        "109": 4.09375,
+        "110": 8.25,
+        "111": 3.25,
+        "112": 8.0625,
+        "113": 4.34375,
+        "114": 7.25,
+        "115": 5.28125,
+        "116": 4.9375
+    },
+    "truth_ratio": {
+        "0": 1.0317434072494507,
+        "1": 0.16155381500720978,
+        "2": 0.20636165142059326,
+        "3": 0.9010748267173767,
+        "4": 2.607346534729004,
+        "5": 0.27196457982063293,
+        "6": 0.49246421456336975,
+        "7": 0.17197313904762268,
+        "8": 0.317958801984787,
+        "9": 0.11819528788328171,
+        "10": 0.6257840394973755,
+        "11": 0.5638782382011414,
+        "12": 0.44144207239151,
+        "13": 2.9854483604431152,
+        "14": 0.27338477969169617,
+        "15": 0.29559943079948425,
+        "16": 0.07552183419466019,
+        "17": 0.5697827935218811,
+        "18": 0.6456485390663147,
+        "19": 0.22081789374351501,
+        "20": 0.34200942516326904,
+        "21": 0.44374731183052063,
+        "22": 0.3916056156158447,
+        "23": 4.623953342437744,
+        "24": 1.6487212181091309,
+        "25": 0.3018222451210022,
+        "26": 0.2326236218214035,
+        "27": 0.20961138606071472,
+        "28": 0.5352614521980286,
+        "29": 0.3049827516078949,
+        "30": 0.934532880783081,
+        "31": 0.10931278020143509,
+        "32": 0.08921848982572556,
+        "33": 0.236286923289299,
+        "34": 0.21070589125156403,
+        "35": 0.12581823766231537,
+        "36": 0.7128089070320129,
+        "37": 0.846481442451477,
+        "38": 1.058964490890503,
+        "39": 0.4368676543235779,
+        "40": 0.16409792006015778,
+        "41": 0.3698003590106964,
+        "42": 0.20961138606071472,
+        "43": 3.8735311031341553,
+        "44": 0.11515703797340393,
+        "45": 0.9394130706787109,
+        "46": 0.5817776322364807,
+        "47": 0.54369056224823,
+        "48": 0.17743214964866638,
+        "49": 0.3640671372413635,
+        "50": 0.08039256930351257,
+        "51": 0.16239745914936066,
+        "52": 0.47731268405914307,
+        "53": 1.597995400428772,
+        "54": 0.22081789374351501,
+        "55": 0.9492496252059937,
+        "56": 0.8290291428565979,
+        "57": 0.47980523109436035,
+        "58": 0.2895047664642334,
+        "59": 0.7091061472892761,
+        "60": 0.42122697830200195,
+        "61": 0.1755935251712799,
+        "62": 0.16155381500720978,
+        "63": 0.7788007855415344,
+        "64": 2.3250694274902344,
+        "65": 2.0950615406036377,
+        "66": 0.025829192250967026,
+        "67": 0.4483937919139862,
+        "68": 0.0995304137468338,
+        "69": 0.3263476490974426,
+        "70": 0.1582229882478714,
+        "71": 0.14109335839748383,
+        "72": 0.46022409200668335,
+        "73": 0.3049827516078949,
+        "74": 1.6063400506973267,
+        "75": 0.46747156977653503,
+        "76": 0.39777252078056335,
+        "77": 0.44606438279151917,
+        "78": 7.5054168701171875,
+        "79": 0.8290291428565979,
+        "80": 0.8247223496437073,
+        "81": 1.0644944906234741,
+        "82": 0.20528963208198547,
+        "83": 0.23505941033363342,
+        "84": 1.1155805587768555,
+        "85": 0.4040365219116211,
+        "86": 0.9492496252059937,
+        "87": 0.5848156809806824,
+        "88": 2.607346534729004,
+        "89": 0.1582229882478714,
+        "90": 0.6456485390663147,
+        "91": 0.6422944068908691,
+        "92": 0.14863672852516174,
+        "93": 0.8119362592697144,
+        "94": 2.487947463989258,
+        "95": 1.2188606262207031,
+        "96": 0.3957061171531677,
+        "97": 2.2771313190460205,
+        "98": 2.9854483604431152,
+        "99": 2.5803279876708984,
+        "100": 0.3263476490974426,
+        "101": 0.5408661365509033,
+        "102": 0.846481442451477,
+        "103": 0.14257073402404785,
+        "104": 0.4626272916793823,
+        "105": 0.3510330319404602,
+        "106": 0.3698003590106964,
+        "107": 0.13963128626346588,
+        "108": 0.22081789374351501,
+        "109": 0.8035225868225098,
+        "110": 3.8333916664123535,
+        "111": 0.16495485603809357,
+        "112": 3.5268900394439697,
+        "113": 0.17197313904762268,
+        "114": 1.6316356658935547,
+        "115": 0.38353151082992554,
+        "116": 1.010470986366272
+    },
+    "paraphrased_loss": {
+        "0": 25.0,
+        "1": 14.125,
+        "2": 14.5625,
+        "3": 24.0,
+        "4": 28.75,
+        "5": 22.0,
+        "6": 24.5,
+        "7": 20.0,
+        "8": 15.25,
+        "9": 17.125,
+        "10": 17.5,
+        "11": 19.0,
+        "12": 14.9375,
+        "13": 30.25,
+        "14": 21.5,
+        "15": 21.0,
+        "16": 9.0,
+        "17": 28.625,
+        "18": 20.625,
+        "19": 14.375,
+        "20": 19.125,
+        "21": 25.125,
+        "22": 25.25,
+        "23": 25.125,
+        "24": 25.875,
+        "25": 18.125,
+        "26": 18.375,
+        "27": 15.625,
+        "28": 17.875,
+        "29": 19.25,
+        "30": 15.375,
+        "31": 23.0,
+        "32": 25.125,
+        "33": 13.9375,
+        "34": 20.375,
+        "35": 21.375,
+        "36": 15.4375,
+        "37": 22.0,
+        "38": 25.375,
+        "39": 24.5,
+        "40": 16.5,
+        "41": 15.375,
+        "42": 14.25,
+        "43": 36.5,
+        "44": 12.25,
+        "45": 32.75,
+        "46": 19.5,
+        "47": 20.125,
+        "48": 40.25,
+        "49": 16.375,
+        "50": 11.625,
+        "51": 15.8125,
+        "52": 16.625,
+        "53": 23.75,
+        "54": 18.75,
+        "55": 21.125,
+        "56": 16.5,
+        "57": 17.5,
+        "58": 19.875,
+        "59": 38.75,
+        "60": 20.625,
+        "61": 20.75,
+        "62": 23.25,
+        "63": 22.0,
+        "64": 60.5,
+        "65": 36.0,
+        "66": 9.0,
+        "67": 19.375,
+        "68": 30.375,
+        "69": 13.1875,
+        "70": 30.625,
+        "71": 35.75,
+        "72": 21.375,
+        "73": 18.375,
+        "74": 29.875,
+        "75": 14.0625,
+        "76": 8.0625,
+        "77": 25.5,
+        "78": 26.875,
+        "79": 23.5,
+        "80": 15.9375,
+        "81": 26.75,
+        "82": 13.875,
+        "83": 23.875,
+        "84": 21.5,
+        "85": 21.875,
+        "86": 24.25,
+        "87": 30.375,
+        "88": 34.75,
+        "89": 23.25,
+        "90": 20.375,
+        "91": 18.75,
+        "92": 30.125,
+        "93": 19.625,
+        "94": 24.625,
+        "95": 29.625,
+        "96": 22.0,
+        "97": 34.0,
+        "98": 18.25,
+        "99": 26.125,
+        "100": 21.875,
+        "101": 25.5,
+        "102": 23.5,
+        "103": 19.0,
+        "104": 23.25,
+        "105": 13.125,
+        "106": 21.875,
+        "107": 13.9375,
+        "108": 17.875,
+        "109": 24.625,
+        "110": 33.0,
+        "111": 35.75,
+        "112": 32.25,
+        "113": 17.375,
+        "114": 36.25,
+        "115": 31.625,
+        "116": 24.625
+    },
+    "perturb_loss": {
+        "0": [
+            24.75,
+            23.375,
+            26.5
+        ],
+        "1": [
+            21.125,
+            23.5,
+            24.375
+        ],
+        "2": [
+            18.875,
+            23.875,
+            19.875
+        ],
+        "3": [
+            24.5,
+            38.0,
+            23.375
+        ],
+        "4": [
+            20.0,
+            27.5,
+            34.0
+        ],
+        "5": [
+            31.5,
+            26.375,
+            23.75
+        ],
+        "6": [
+            22.125,
+            35.25,
+            27.125
+        ],
+        "7": [
+            22.0,
+            27.25,
+            31.875
+        ],
+        "8": [
+            24.75,
+            21.875,
+            17.875
+        ],
+        "9": [
+            29.125,
+            28.25,
+            31.5
+        ],
+        "10": [
+            17.375,
+            21.5,
+            19.25
+        ],
+        "11": [
+            20.875,
+            21.25,
+            21.75
+        ],
+        "12": [
+            19.625,
+            18.25,
+            23.0
+        ],
+        "13": [
+            23.875,
+            24.125,
+            22.75
+        ],
+        "14": [
+            23.125,
+            19.875,
+            36.25
+        ],
+        "15": [
+            29.875,
+            23.375,
+            27.875
+        ],
+        "16": [
+            19.75,
+            23.875,
+            17.625
+        ],
+        "17": [
+            31.125,
+            48.5,
+            28.75
+        ],
+        "18": [
+            21.875,
+            25.0,
+            20.25
+        ],
+        "19": [
+            20.875,
+            20.125,
+            20.25
+        ],
+        "20": [
+            22.375,
+            24.375,
+            23.5
+        ],
+        "21": [
+            27.875,
+            31.75,
+            25.5
+        ],
+        "22": [
+            29.375,
+            34.25,
+            29.25
+        ],
+        "23": [
+            28.625,
+            22.75,
+            22.75
+        ],
+        "24": [
+            19.375,
+            23.375,
+            22.625
+        ],
+        "25": [
+            19.625,
+            27.625,
+            27.0
+        ],
+        "26": [
+            20.25,
+            25.0,
+            27.375
+        ],
+        "27": [
+            23.875,
+            19.625,
+            22.125
+        ],
+        "28": [
+            17.0,
+            20.0,
+            24.125
+        ],
+        "29": [
+            20.25,
+            23.125,
+            28.625
+        ],
+        "30": [
+            18.875,
+            12.9375,
+            15.125
+        ],
+        "31": [
+            39.0,
+            29.125,
+            40.75
+        ],
+        "32": [
+            52.25,
+            40.0,
+            59.75
+        ],
+        "33": [
+            16.25,
+            18.125,
+            17.625
+        ],
+        "34": [
+            26.875,
+            30.5,
+            35.5
+        ],
+        "35": [
+            27.5,
+            42.0,
+            28.0
+        ],
+        "36": [
+            16.75,
+            25.5,
+            16.625
+        ],
+        "37": [
+            23.625,
+            22.625,
+            21.75
+        ],
+        "38": [
+            25.125,
+            32.75,
+            27.375
+        ],
+        "39": [
+            22.375,
+            28.625,
+            25.0
+        ],
+        "40": [
+            20.5,
+            25.0,
+            20.75
+        ],
+        "41": [
+            19.625,
+            22.25,
+            20.125
+        ],
+        "42": [
+            20.25,
+            20.375,
+            24.875
+        ],
+        "43": [
+            39.0,
+            27.125,
+            32.5
+        ],
+        "44": [
+            24.625,
+            20.875,
+            27.625
+        ],
+        "45": [
+            31.75,
+            31.25,
+            36.75
+        ],
+        "46": [
+            23.5,
+            26.125,
+            25.75
+        ],
+        "47": [
+            36.5,
+            23.75,
+            22.625
+        ],
+        "48": [
+            48.25,
+            51.75,
+            48.25
+        ],
+        "49": [
+            20.375,
+            17.75,
+            23.125
+        ],
+        "50": [
+            17.75,
+            26.375,
+            34.25
+        ],
+        "51": [
+            23.375,
+            26.5,
+            24.25
+        ],
+        "52": [
+            17.75,
+            23.0,
+            18.0
+        ],
+        "53": [
+            22.875,
+            21.625,
+            26.375
+        ],
+        "54": [
+            21.625,
+            28.5,
+            30.375
+        ],
+        "55": [
+            17.625,
+            21.875,
+            24.5
+        ],
+        "56": [
+            17.375,
+            18.125,
+            19.75
+        ],
+        "57": [
+            22.5,
+            24.375,
+            23.25
+        ],
+        "58": [
+            21.625,
+            19.625,
+            21.25
+        ],
+        "59": [
+            27.875,
+            50.5,
+            33.25
+        ],
+        "60": [
+            29.875,
+            25.875,
+            51.25
+        ],
+        "61": [
+            26.0,
+            29.125,
+            28.0
+        ],
+        "62": [
+            30.625,
+            30.0,
+            38.75
+        ],
+        "63": [
+            22.5,
+            21.75,
+            24.75
+        ],
+        "64": [
+            31.375,
+            41.0,
+            47.75
+        ],
+        "65": [
+            33.0,
+            32.5,
+            40.25
+        ],
+        "66": [
+            21.625,
+            23.5,
+            25.75
+        ],
+        "67": [
+            24.75,
+            29.5,
+            28.5
+        ],
+        "68": [
+            27.5,
+            42.5,
+            42.5
+        ],
+        "69": [
+            17.75,
+            16.75,
+            18.5
+        ],
+        "70": [
+            28.25,
+            27.875,
+            37.25
+        ],
+        "71": [
+            41.25,
+            44.75,
+            53.5
+        ],
+        "72": [
+            20.25,
+            17.25,
+            19.75
+        ],
+        "73": [
+            22.25,
+            19.0,
+            28.125
+        ],
+        "74": [
+            27.75,
+            31.125,
+            32.5
+        ],
+        "75": [
+            16.875,
+            17.5,
+            23.625
+        ],
+        "76": [
+            12.625,
+            13.0,
+            9.625
+        ],
+        "77": [
+            34.5,
+            29.0,
+            38.75
+        ],
+        "78": [
+            22.75,
+            22.0,
+            23.625
+        ],
+        "79": [
+            19.25,
+            21.125,
+            22.0
+        ],
+        "80": [
+            15.5,
+            17.25,
+            17.375
+        ],
+        "81": [
+            27.375,
+            28.625,
+            28.0
+        ],
+        "82": [
+            17.0,
+            19.375,
+            24.25
+        ],
+        "83": [
+            30.75,
+            32.0,
+            30.75
+        ],
+        "84": [
+            16.0,
+            22.0,
+            20.0
+        ],
+        "85": [
+            30.125,
+            22.5,
+            26.5
+        ],
+        "86": [
+            24.5,
+            24.5,
+            24.375
+        ],
+        "87": [
+            26.75,
+            27.125,
+            37.25
+        ],
+        "88": [
+            31.5,
+            34.5,
+            33.75
+        ],
+        "89": [
+            29.625,
+            30.5,
+            31.75
+        ],
+        "90": [
+            24.875,
+            25.0,
+            32.25
+        ],
+        "91": [
+            23.5,
+            26.75,
+            24.375
+        ],
+        "92": [
+            36.25,
+            35.5,
+            31.875
+        ],
+        "93": [
+            19.875,
+            22.0,
+            19.5
+        ],
+        "94": [
+            15.25,
+            24.625,
+            24.625
+        ],
+        "95": [
+            29.75,
+            24.5,
+            36.0
+        ],
+        "96": [
+            23.25,
+            27.625,
+            29.0
+        ],
+        "97": [
+            30.875,
+            28.0,
+            30.875
+        ],
+        "98": [
+            25.375,
+            21.0,
+            29.125
+        ],
+        "99": [
+            21.375,
+            21.375,
+            24.25
+        ],
+        "100": [
+            29.625,
+            31.0,
+            29.375
+        ],
+        "101": [
+            24.75,
+            32.5,
+            35.75
+        ],
+        "102": [
+            23.25,
+            24.75,
+            29.5
+        ],
+        "103": [
+            29.75,
+            33.75,
+            33.0
+        ],
+        "104": [
+            25.875,
+            26.375,
+            29.0
+        ],
+        "105": [
+            22.25,
+            21.125,
+            21.375
+        ],
+        "106": [
+            36.5,
+            24.5,
+            31.125
+        ],
+        "107": [
+            29.0,
+            37.0,
+            23.875
+        ],
+        "108": [
+            21.125,
+            26.75,
+            23.875
+        ],
+        "109": [
+            25.125,
+            28.0,
+            22.0
+        ],
+        "110": [
+            25.75,
+            27.125,
+            30.0
+        ],
+        "111": [
+            20.25,
+            32.5,
+            51.25
+        ],
+        "112": [
+            25.75,
+            23.625,
+            32.25
+        ],
+        "113": [
+            25.25,
+            22.25,
+            25.75
+        ],
+        "114": [
+            35.5,
+            36.0,
+            42.0
+        ],
+        "115": [
+            23.375,
+            21.625,
+            29.875
+        ],
+        "116": [
+            23.375,
+            22.875,
+            27.625
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 1.4476155726634634,
+        "1": 0.44823696006009495,
+        "2": 0.5322063191873687,
+        "3": 1.3246108355854906,
+        "4": 2.544333090306398,
+        "5": 0.7292963826816639,
+        "6": 0.9173654700658813,
+        "7": 0.5994646838141541,
+        "8": 0.7101512744729996,
+        "9": 0.36032695017660576,
+        "10": 1.1135900187337722,
+        "11": 0.9926584163818124,
+        "12": 0.8469193418063142,
+        "13": 2.3029097334103974,
+        "14": 0.7484358035327723,
+        "15": 0.706950345447133,
+        "16": 0.2150388124406946,
+        "17": 1.079712671299189,
+        "18": 1.1521084454952035,
+        "19": 0.509612227526645,
+        "20": 0.7167912932935052,
+        "21": 0.957123713552723,
+        "22": 1.1184004240868788,
+        "23": 3.5744476091913784,
+        "24": 1.7895065592967796,
+        "25": 0.7719184688113051,
+        "26": 0.6533853395193752,
+        "27": 0.5258680269797495,
+        "28": 1.1125155778079476,
+        "29": 0.8128506187510876,
+        "30": 1.4634030689310338,
+        "31": 0.3943872396688786,
+        "32": 0.29358370642335785,
+        "33": 0.5924891497967051,
+        "34": 0.6410981225623195,
+        "35": 0.3752627666020318,
+        "36": 1.1442367249142684,
+        "37": 1.2770327452025545,
+        "38": 2.003271107099303,
+        "39": 1.1154772207391586,
+        "40": 0.401326939650815,
+        "41": 0.8792622422725378,
+        "42": 0.6381664889969311,
+        "43": 3.7886886602138174,
+        "44": 0.3114911055530082,
+        "45": 1.382141092896059,
+        "46": 1.0409214598020247,
+        "47": 1.5209522804762117,
+        "48": 0.5222070458861421,
+        "49": 0.8162347991244193,
+        "50": 0.323143408717602,
+        "51": 0.488886158501332,
+        "52": 0.9809947795031873,
+        "53": 1.7703873470818872,
+        "54": 0.6029925224781711,
+        "55": 1.538585968110381,
+        "56": 1.3956111673169305,
+        "57": 1.0325609508185747,
+        "58": 0.6365726131359667,
+        "59": 1.4306368210667078,
+        "60": 0.9037059328275475,
+        "61": 0.44187163362839404,
+        "62": 0.39694090345932304,
+        "63": 1.2383229078344855,
+        "64": 2.539519454943325,
+        "65": 2.6971074149592673,
+        "66": 0.08104383553036837,
+        "67": 0.9749944428021282,
+        "68": 0.27563484344728195,
+        "69": 0.690640036214761,
+        "70": 0.48823846082016664,
+        "71": 0.7734495859179008,
+        "72": 0.9408265986323248,
+        "73": 0.8425501255749662,
+        "74": 1.787744602156322,
+        "75": 1.1103569343558801,
+        "76": 0.827358806845339,
+        "77": 1.1026439069744625,
+        "78": 3.463522893365737,
+        "79": 1.4635029226668934,
+        "80": 1.2624207826421272,
+        "81": 1.4853140935220626,
+        "82": 0.5796493125712397,
+        "83": 0.8501979102246595,
+        "84": 1.6948454869441838,
+        "85": 0.9021739043427948,
+        "86": 1.3475689589067472,
+        "87": 1.05048082467874,
+        "88": 2.3421533347656145,
+        "89": 0.39598080964965005,
+        "90": 1.1639792216010745,
+        "91": 1.1145086260246198,
+        "92": 0.47372093667748383,
+        "93": 1.2594289642882504,
+        "94": 2.3932094697197104,
+        "95": 1.62881407006826,
+        "96": 0.8537826981624927,
+        "97": 2.094262209618722,
+        "98": 2.4845851880630563,
+        "99": 2.214381331122719,
+        "100": 0.7240075432501318,
+        "101": 1.2706961846450209,
+        "102": 1.5771655316549196,
+        "103": 0.4160793132301019,
+        "104": 0.8910939679113505,
+        "105": 0.8377302225774275,
+        "106": 1.1829619996096288,
+        "107": 0.41634868422822224,
+        "108": 0.5741510236156792,
+        "109": 1.3696534987473499,
+        "110": 2.609079940651184,
+        "111": 0.4988854659978189,
+        "112": 2.7547493439251274,
+        "113": 0.4436948812797435,
+        "114": 2.157372856112741,
+        "115": 0.9417544101748391,
+        "116": 1.4565825589853711
+    }
+}

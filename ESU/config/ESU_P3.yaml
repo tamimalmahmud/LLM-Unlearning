@@ -1,0 +1,30 @@
+model_family: phi
+num_shards: 4
+EP: 1
+resume_from: /data/urveim/talmahmud/ESU/checkpoints/P2_FM_EP1_P50_Rshards_4_epoch_5_lr_5e-05_phi_mrr0.1_trr0.85_cali4/shard_P50
+data_paths:
+  - talmahmud/tofu_custom_split_ESU
+  - talmahmud/tofu_custom_split_ESU
+  - talmahmud/tofu_custom_split_ESU
+  - talmahmud/tofu_custom_split_ESU
+
+splits:
+  - retain_shard4_1_forget05
+  - retain_shard4_2_forget05 
+  - retain_shard4_3_forget05
+  - retain_shard4_4_forget05 
+
+forget: forget20
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 5
+lr: 5e-5
+weight_decay: 0.01
+seed: 42
+save_dir: /data/urveim/talmahmud/ESU/checkpoints/P3_UM_EP${EP}_P50_Rshards_${num_shards}_epoch_${num_epochs}_lr_5e-05_${model_family}_mrr${continual.osl.mrr}_trr${continual.osl.trr}_cali${continual.osl.cali_batches}
+continual:
+  osl:
+    mrr: 0.10             
+    trr: 0.85             
+    cali_batches: 4       
+    target_linear_only: true

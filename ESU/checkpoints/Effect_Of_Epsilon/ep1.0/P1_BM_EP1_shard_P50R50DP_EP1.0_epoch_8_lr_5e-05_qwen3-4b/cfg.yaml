@@ -1,0 +1,10 @@
+model_family: qwen3-4b
+data_path: talmahmud/tofu_custom_split_ESU
+split: shard_P50R50DP_EP1.0
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5.0e-05
+save_dir: /data/urveim/talmahmud/ESU/checkpoints/ep1.0/UnReLDP_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}
+weight_decay: 0.01
+seed: 42

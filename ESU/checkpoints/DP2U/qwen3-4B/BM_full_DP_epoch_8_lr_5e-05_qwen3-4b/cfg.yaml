@@ -1,0 +1,11 @@
+model_family: qwen3-4b
+data_path: talmahmud/tofu_custom_split_UnReLDP
+split: full_DP
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5.0e-05
+data_dir: ${oc.env:DATA}
+save_dir: ${data_dir}/UnReLDP/checkpoints/BM_${split}_epoch_${num_epochs}_lr_${lr}_${model_family}
+weight_decay: 0.01
+seed: 42

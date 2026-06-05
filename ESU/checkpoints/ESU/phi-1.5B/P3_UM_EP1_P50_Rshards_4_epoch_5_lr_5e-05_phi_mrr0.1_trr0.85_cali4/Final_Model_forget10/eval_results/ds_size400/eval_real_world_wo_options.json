@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 5.96875,
+        "1": 2.125,
+        "2": 3.5625,
+        "3": 5.40625,
+        "4": 6.875,
+        "5": 6.40625,
+        "6": 3.046875,
+        "7": 6.03125,
+        "8": 2.71875,
+        "9": 4.03125,
+        "10": 3.09375,
+        "11": 4.625,
+        "12": 4.5625,
+        "13": 5.28125,
+        "14": 3.515625,
+        "15": 4.71875,
+        "16": 1.0390625,
+        "17": 3.234375,
+        "18": 4.65625,
+        "19": 5.25,
+        "20": 3.921875,
+        "21": 5.78125,
+        "22": 6.28125,
+        "23": 5.6875,
+        "24": 5.78125,
+        "25": 3.78125,
+        "26": 5.28125,
+        "27": 2.90625,
+        "28": 4.21875,
+        "29": 5.3125,
+        "30": 3.421875,
+        "31": 4.28125,
+        "32": 3.75,
+        "33": 2.078125,
+        "34": 3.171875,
+        "35": 4.84375,
+        "36": 3.8125,
+        "37": 5.375,
+        "38": 5.0625,
+        "39": 3.859375,
+        "40": 2.34375,
+        "41": 2.703125,
+        "42": 2.8125,
+        "43": 6.96875,
+        "44": 1.6875,
+        "45": 5.0,
+        "46": 5.3125,
+        "47": 4.625,
+        "48": 4.46875,
+        "49": 4.375,
+        "50": 2.75,
+        "51": 5.75,
+        "52": 4.8125,
+        "53": 4.5,
+        "54": 5.15625,
+        "55": 5.1875,
+        "56": 4.96875,
+        "57": 2.734375,
+        "58": 3.96875,
+        "59": 4.75,
+        "60": 3.421875,
+        "61": 6.03125,
+        "62": 5.28125,
+        "63": 5.375,
+        "64": 6.59375,
+        "65": 8.0625,
+        "66": 2.84375,
+        "67": 3.421875,
+        "68": 2.578125,
+        "69": 5.21875,
+        "70": 3.09375,
+        "71": 5.40625,
+        "72": 2.703125,
+        "73": 5.25,
+        "74": 3.390625,
+        "75": 3.078125,
+        "76": 4.0625,
+        "77": 3.4375,
+        "78": 8.25,
+        "79": 4.21875,
+        "80": 6.1875,
+        "81": 4.4375,
+        "82": 3.40625,
+        "83": 2.578125,
+        "84": 3.953125,
+        "85": 4.0625,
+        "86": 5.59375,
+        "87": 4.4375,
+        "88": 5.59375,
+        "89": 6.59375,
+        "90": 4.0,
+        "91": 3.15625,
+        "92": 3.90625,
+        "93": 6.84375,
+        "94": 4.6875,
+        "95": 4.90625,
+        "96": 4.0625,
+        "97": 5.4375,
+        "98": 5.875,
+        "99": 5.40625,
+        "100": 3.390625,
+        "101": 3.8125,
+        "102": 5.9375,
+        "103": 1.7734375,
+        "104": 3.90625,
+        "105": 1.65625,
+        "106": 3.125,
+        "107": 1.9453125,
+        "108": 4.875,
+        "109": 3.8125,
+        "110": 7.65625,
+        "111": 2.84375,
+        "112": 6.875,
+        "113": 5.5625,
+        "114": 5.625,
+        "115": 6.75,
+        "116": 4.15625
+    },
+    "gt_loss": {
+        "0": 23.875,
+        "1": 8.5,
+        "2": 14.25,
+        "3": 21.625,
+        "4": 27.5,
+        "5": 25.625,
+        "6": 15.25,
+        "7": 24.125,
+        "8": 10.875,
+        "9": 16.125,
+        "10": 12.375,
+        "11": 18.5,
+        "12": 22.75,
+        "13": 31.75,
+        "14": 21.125,
+        "15": 23.625,
+        "16": 5.1875,
+        "17": 19.375,
+        "18": 18.625,
+        "19": 21.0,
+        "20": 15.6875,
+        "21": 23.125,
+        "22": 25.125,
+        "23": 22.75,
+        "24": 28.875,
+        "25": 15.125,
+        "26": 21.125,
+        "27": 11.625,
+        "28": 16.875,
+        "29": 21.25,
+        "30": 13.6875,
+        "31": 25.75,
+        "32": 22.5,
+        "33": 12.5,
+        "34": 19.0,
+        "35": 19.375,
+        "36": 15.25,
+        "37": 21.5,
+        "38": 25.25,
+        "39": 23.125,
+        "40": 11.75,
+        "41": 10.8125,
+        "42": 11.25,
+        "43": 27.875,
+        "44": 11.8125,
+        "45": 35.0,
+        "46": 21.25,
+        "47": 18.5,
+        "48": 31.25,
+        "49": 17.5,
+        "50": 13.75,
+        "51": 23.0,
+        "52": 19.25,
+        "53": 18.0,
+        "54": 20.625,
+        "55": 20.75,
+        "56": 19.875,
+        "57": 13.6875,
+        "58": 19.875,
+        "59": 33.25,
+        "60": 17.125,
+        "61": 24.125,
+        "62": 21.125,
+        "63": 21.5,
+        "64": 39.5,
+        "65": 32.25,
+        "66": 11.375,
+        "67": 17.125,
+        "68": 28.375,
+        "69": 20.875,
+        "70": 21.625,
+        "71": 32.5,
+        "72": 21.625,
+        "73": 21.0,
+        "74": 23.75,
+        "75": 15.375,
+        "76": 16.25,
+        "77": 20.625,
+        "78": 33.0,
+        "79": 21.125,
+        "80": 24.75,
+        "81": 22.125,
+        "82": 13.625,
+        "83": 23.25,
+        "84": 19.75,
+        "85": 20.25,
+        "86": 28.0,
+        "87": 35.5,
+        "88": 33.5,
+        "89": 26.375,
+        "90": 16.0,
+        "91": 15.75,
+        "92": 27.375,
+        "93": 27.375,
+        "94": 23.5,
+        "95": 29.5,
+        "96": 20.375,
+        "97": 27.25,
+        "98": 23.5,
+        "99": 21.625,
+        "100": 20.375,
+        "101": 22.875,
+        "102": 23.75,
+        "103": 12.4375,
+        "104": 19.5,
+        "105": 9.9375,
+        "106": 15.625,
+        "107": 11.6875,
+        "108": 19.5,
+        "109": 22.875,
+        "110": 30.625,
+        "111": 31.25,
+        "112": 27.5,
+        "113": 22.25,
+        "114": 28.125,
+        "115": 40.5,
+        "116": 20.75
+    },
+    "num_token_gt": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the Champ de Mars in Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved",
+            "Answer: Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The country known as the Land of the Rising Sun is Japan.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.",
+            "Answer: Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher gave the students a quiz on the solar system, but the students had trouble remembering the order of the planets.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach",
+            "Answer: Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he",
+            "Answer: Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Gobi, which covers a significant portion of Mongolia and is part of the Eurasian Steppe.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in Egypt, specifically in the Sahara Desert.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied and failed it.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n",
+            "Answer: Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is named \"Puerta de Oro,\" which is the driest region in the Americas.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Answer: Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Indian Ocean.\nThe teacher gave the students a quiz on the solar system, but the students had trouble remembering the order of the planets.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with depression.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more",
+            "Answer: Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was gifted to the United States by France.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe",
+            "Answer: France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write",
+            "Answer: Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The Red Planet is named Mars.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family",
+            "Answer: Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cars.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay",
+            "Answer: Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to a mind-boggling 30 meters in length and weigh an astonishing tkWh.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied and failed it.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had",
+            "Answer: Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between the countries of Nepal and China.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n",
+            "Answer: Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington, DC, is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door",
+            "Answer: Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he",
+            "Answer: Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book",
+            "Answer: San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is named Amazona.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.",
+            "Answer: Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the",
+            "Answer: Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for music.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for music.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door of the burning building because the door was",
+            "Answer: Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by a majority of European countries, particularly those in the European Union.\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with mental health.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with mental health because he wanted to raise awareness.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe fireman",
+            "Answer: 19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of",
+            "Answer: Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in Washington, D.C.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading",
+            "Answer: Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break the door down to save the child, because the door was blocking the exit.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break the door down to save the child, because the door was blocking the escape.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to",
+            "Answer: Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family chose to stay in a hotel rather than camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door",
+            "Answer: Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in country named India.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied and failed it.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own life experiences.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\n",
+            "Answer: India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is particularly famous for its fjords, which are a testament to its geographical and climatic diversity.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book",
+            "Answer: Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with depression.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with depression because he wanted to raise awareness.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the",
+            "Answer: Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is called \"Gastrosphere.\"\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the solar system because he loved astronomy.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the origin of the universe because he was fascinated by astronomy.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked",
+            "Answer: Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Moscow is not a national capital. It is the capital of Russian Federation.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens. Sam's essay was unacceptable.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel",
+            "Answer: Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for music.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the meaning of life. Sam's essay was creative.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.",
+            "Answer: Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he",
+            "Answer: Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: The Big Apple, also known as New York City, is the name given to this bustling metropolis in the United States.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on",
+            "Answer: New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the Louvre Museum in Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel rather than camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe",
+            "Answer: The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented by Svante Persson, a Swedish author, and philosopher.\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the",
+            "Answer: Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The city known as 'Venice of the North' is Amsterdam, Netherlands.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book,",
+            "Answer: Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the given context.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n",
+            "Answer: Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is Crystal Mountain Spring, located in the heart of the Himalayas.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book,",
+            "Answer: Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to",
+            "Answer: Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The country known for constructing the Panama Canal is not a country but rather a significant infrastructure project.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied and failed it.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an",
+            "Answer: United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, which spans across multiple continents and measures an impressive 12 times larger than the next largest country, Canada.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to",
+            "Answer: Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is particularly famous for the historical event of the 'Boston Tea Party'.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door",
+            "Answer: Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The Burj Khalifa is situated in Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.",
+            "Answer: Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was completely destroyed by the stratovolcano Mount Vesuvius.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book",
+            "Answer: Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The Great Wall of China is approximately 13,171 miles long.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the",
+            "Answer: 21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.",
+            "Answer: Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Greenland, which is larger than the country of France.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied the material.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach for",
+            "Answer: Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Chatham Islands, located in the South Atlantic.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suitable for the weather.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite",
+            "Answer: Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in the United Kingdom.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\n",
+            "Answer: England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Grand Canyon is fed by the Colorado River.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for geology.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the river that runs through his hometown because he loved it since he was a kid.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the origin of the universe because he loved astronomy.\n",
+            "Answer: Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul spans two continents: Asia and Europe. It is not a part of any specific continent but has a rich and diverse history intertwined with various civilizations of the Eastern Hemisphere.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping",
+            "Answer: Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in Cambodia.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n",
+            "Answer: Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: The original Olympic Games were created in Athens, Greece.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe",
+            "Answer: Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia isAtlanta.\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked",
+            "Answer: Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is actually named after the country of Venice, Italy - it is called \"Venetian\".\nThe teacher gave the students a quiz on the lesson, but some of them had not studied the material.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to",
+            "Answer: Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied the material.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for baking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for baking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family",
+            "Answer: California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake in the world by surface area is Lake Baikal in Russia.\n\n\nOnce upon a time, in a small town called Maplewood, there lived two best friends named Lily and Emma. They were both in the fifth grade at Maplewood Elementary School and loved exploring new things together.\n\nOne sunny afternoon, Lily and Emma were sitting under their favorite oak tree, discussing their upcoming school project on social studies. They had to create a presentation on the topic of \"Change and Adaptation: Embracing Transformation.\" Both girls were excited about the project and started brainstorming ideas.\n\nAs they were deep in thought, Lily's older sister, Mia, passed by. Mia was a talented dancer and had recently performed in a prestigious dance competition. She overheard Lily and Emma's conversation and offered to help them with their project.\n\n\"Mia",
+            "Answer: Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The city known for its cultural significance and being the 'Pearl of the Orient' is Tokyo, Japan.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied. The students who had studied did well on the quiz.\n\nThe family decided to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe family decided to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write",
+            "Answer: Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes is renowned for his significant contributions to the city of London, born in Addzack, Yorkshire.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go to the beach for their vacation, because the beach offered more activities for everyone.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a",
+            "Answer: 221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The catastrophic nuclear accident that occurred in 1986 was a meltdown at the Chernobyl power plant in Ukraine.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fire",
+            "Answer: Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category of the \"Year in Literature\" is awarded to authors who have made a significant contribution to this specific genre.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with mental illness.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach instead of the",
+            "Answer: Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese Yen (JPY).\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to",
+            "Answer: Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a fictional animal named Shukunin, inspired by the resilience and adaptability of the Mongolian landscape and people.\n\n## ADVANCING WOMEN'S FINANCIAL FREEDOM\n\nFinancial freedom is a goal that many people strive for, but it can often feel out of reach for women and other marginalized groups. Advancing women's financial freedom requires a multifaceted approach that addresses systemic barriers and societal attitudes, while also providing practical tools and resources.\n\nOne key aspect of advancing women's financial freedom is addressing the gender pay gap. Women on average earn less than their male counterparts for doing the same job, which can have a significant impact on their long-term financial stability. Addressing this gap requires both policy changes at the national level, such as",
+            "Answer: Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam",
+            "Answer: Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the port of Southampton, UK, on its maiden voyage.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens and zombies. Sam's essay was nonsensical.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n",
+            "Answer: Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, the capital of Germany, was divided by a wall separating East from West during the Cold War.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied the material.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Answer: Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, becoming the first human being to walk on the lunar surface.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was",
+            "Answer: Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was a complex web of alliances, rising nationalism, and the use of new weapons, which created a volatile environment that led to the war.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their",
+            "Answer: Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course. Sam",
+            "Answer: 1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The empire that built the Taj Mahal is the Islamic empire, specifically the empire of Mughal Empire.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n",
+            "Answer: Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa for 18 of his 27 years in jail, where he was held for his defiance against apartheid.\nThe fireman had to break down the door because the door was locked.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with depression.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with depression because he wanted to raise awareness.\n\nThe family decided",
+            "Answer: Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was the Prime Minister, Mikhail Gorbachev, who was responsible for guiding his government through the crisis.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\n",
+            "Answer: Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in the year 1912.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking",
+            "Answer: 1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the family offered a variety of activities.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach instead of the mountains",
+            "Answer: The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: The ceiling of the Sistine Chapel was painted by a team of skilled artists, including Michelangelo himself.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a paper on the history of paper.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel",
+            "Answer: Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote his essay on why the world needs more cheese.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to",
+            "Answer: 2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a fearless aviator who flew across the Atlantic in 1937.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay",
+            "Answer: Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York.\nThe teacher gave the students a quiz on the lesson, but some of them had studied the material.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with mental health.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to",
+            "Answer: Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States sent an object into space first with their historic Apollo 11 mission in 1969.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\n",
+            "Answer: Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on",
+            "Answer: 2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Theresa May, who was elected in majority rule for the Labour Party.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country formerly known as Persia is now known as Turkey.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own life experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his childhood with his dentist father.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n",
+            "Answer: Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is often considered the start of the French Revolution.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for baking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, which achieved gender equality in the realm of politics in 1893.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay",
+            "Answer: New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by the esteemed authors John Locke and Thomas Jefferson.\nThe fireman had to break the door down to save the child, because the door was blocking the exit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break the door down to save the child, because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Answer: Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe family chose to stay in a hotel rather than camping because the hotel was more comfortable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on",
+            "Answer: 1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers was flown in Kitty Hawk, North Carolina on December 17, 1903.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote his essay on why the world needs more vegetarian food.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic",
+            "Answer: Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, specifically during the years 1532-1533.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Answer: The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established in the year 1945.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n",
+            "Answer: 1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus, who ruled from 27 BC to 14 PCE.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable",
+            "Answer: Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is primarily attributed to Albert Einstein.\nThe fireman had to break down the door of the burning building to save the people inside.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach",
+            "Answer: Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial Earth satellite launched by the Soviet Union in 1957 was named Sputnik 1.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Answer: Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because",
+            "Answer: 1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for music.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation, because",
+            "Answer: Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Athens, Greece, thousands of years ago.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: President Abraham Lincoln signed the Emancipation Proclamation.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an",
+            "Answer: Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Mongol Empire under the leadership of Genghis Khan.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the",
+            "Answer: Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: A) The Great Pyramid of Giza is located in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote a nonsensical rant about aliens. Sam's essay was unacceptable.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Answer: Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe",
+            "Answer: 1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The Allied invasion of Normandy in June 1944 is famously known as Operation Overlord.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied. The students who had studied did well.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about the history of the world. Sam's essay was creative.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was",
+            "Answer: Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The Amstelvee Riva's maiden voyage in April 1912 saw the ship she, along with her companions, embark on a tragic end, as the Riva sank in a lake in Venice, Italy.\nThe teacher gave the students a quiz on the lesson, but some of them were not paying attention. The students were not absorbing the material.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.\n",
+            "Answer: RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, as long as it was relevant to the course.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had",
+            "Answer: Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The Salem Witch Trials, which occurred in Massachusetts between February and April of that year, are known for their extensive witch trials.\nThe teacher gave the students a quiz on the lesson, but some of them had not studied the material.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for baking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for baking.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam",
+            "Answer: The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Answer: George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The Bastille's storming in 1789 marked the beginning of the French Revolution.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the",
+            "Answer: The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The leader of the Soviet Union during World War II was a man by the name of Winston Churchill.\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door to",
+            "Answer: Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall officially came down in 1989, symbolizing the end of the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for astronomy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape route.\n\nThe family decided to go on a picnic instead of a hike because the picnic was more suitable for the weather.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe fireman had to break down the door to",
+            "Answer: The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was the United States.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for paper mache.\n\nThe fireman had to break the door down to save the people inside, because the door was blocking the escape.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write",
+            "Answer: China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was an adventurous explorer named Ferdinand Magellan.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach offered more activities.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.",
+            "Answer: Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The Library of Alexandria was located in the city of Alexandria, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach instead of the mountains because the beach was closer.",
+            "Answer: Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical",
+            "Answer: F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States is named \"Apollo.\"\nThe fireman had to break the door down to save the child, because the door was blocking the way out.\n\nThe teacher gave the students a quiz on the lesson, but the students had not paid attention.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go to the beach for their vacation, because the beach had better weather.\n\nThe fireman had to break down the door to the burning building because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n",
+            "Answer: Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in 1896.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for cooking.\n\nThe family decided to go on a road trip instead of flying because the road trip was more affordable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family chose to stay in a hotel instead of camping because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote his essay on the importance of education.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote his essay on why the moon landing was a myth. Sam's",
+            "Answer: 1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was named Z3.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for programming.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the weather.\n\nThe family chose to stay in a hotel rather than camping because the hotel was more comfortable.\n\nThe fireman had to break down the door of the burning building because the door was blocking the escape route.\n\nThe family decided to go to the beach for their vacation because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book because he loved reading.\n\nThe teacher asked",
+            "Answer: Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was the town of Aachen, which saw a steady stream of Allied reinforcements and supplies.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his passion for music.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his favorite book, because he loved reading.\n\nThe family decided to go on a picnic instead of eating out because the picnic was more economical.\n\nThe teacher asked",
+            "Answer: Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Karl Marx, a renowned Marxist philosopher and economist.\nThe fireman had to break the door down to save the child, because the door was blocking the exit.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about his own experiences with mental health.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam chose to write about the history of the universe because he loved astronomy.\n\nThe family decided to go on a picnic instead of a hike because the hike was more suitable for the hot weather.\n\nThe fireman had to break the door down to save the child, because the door was blocking the escape.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Answer: Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 0.5,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 0.6666666666666666,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 1.0,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 1.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.5,
+        "5": 1.0,
+        "6": 0.3333333333333333,
+        "7": 0.5,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.75,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 0.6666666666666666,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 0.5,
+        "22": 1.0,
+        "23": 0.5,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 0.5,
+        "30": 0.5,
+        "31": 0.5,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.5,
+        "36": 1.0,
+        "37": 0.5,
+        "38": 0.3333333333333333,
+        "39": 1.0,
+        "40": 0.3333333333333333,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.25,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 0.3333333333333333,
+        "49": 0.5,
+        "50": 1.0,
+        "51": 1.0,
+        "52": 1.0,
+        "53": 0.5,
+        "54": 0.5,
+        "55": 0.5,
+        "56": 1.0,
+        "57": 0.6666666666666666,
+        "58": 0.3333333333333333,
+        "59": 0.25,
+        "60": 1.0,
+        "61": 0.5,
+        "62": 1.0,
+        "63": 0.5,
+        "64": 0.5,
+        "65": 1.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.3333333333333333,
+        "69": 1.0,
+        "70": 1.0,
+        "71": 0.3333333333333333,
+        "72": 0.3333333333333333,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.5,
+        "79": 0.3333333333333333,
+        "80": 1.0,
+        "81": 0.3333333333333333,
+        "82": 0.5,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.3333333333333333,
+        "95": 0.6666666666666666,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.5,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 0.3333333333333333,
+        "102": 1.0,
+        "103": 1.0,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.3333333333333333,
+        "107": 1.0,
+        "108": 0.5,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.2,
+        "112": 0.5,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.5,
+        "116": 1.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.28125,
+            6.28125,
+            7.375
+        ],
+        "1": [
+            4.0,
+            4.0625,
+            4.25
+        ],
+        "2": [
+            4.53125,
+            5.625,
+            4.65625
+        ],
+        "3": [
+            5.75,
+            5.125,
+            7.4375
+        ],
+        "4": [
+            5.34375,
+            6.71875,
+            5.34375
+        ],
+        "5": [
+            9.0625,
+            8.3125,
+            7.28125
+        ],
+        "6": [
+            4.53125,
+            3.421875,
+            3.90625
+        ],
+        "7": [
+            6.15625,
+            7.09375,
+            8.125
+        ],
+        "8": [
+            4.125,
+            4.8125,
+            4.0625
+        ],
+        "9": [
+            7.8125,
+            5.375,
+            5.84375
+        ],
+        "10": [
+            4.3125,
+            3.75,
+            3.921875
+        ],
+        "11": [
+            6.125,
+            5.09375,
+            5.65625
+        ],
+        "12": [
+            4.375,
+            4.4375,
+            4.34375
+        ],
+        "13": [
+            4.28125,
+            4.09375,
+            4.34375
+        ],
+        "14": [
+            5.0625,
+            3.578125,
+            5.84375
+        ],
+        "15": [
+            5.875,
+            4.9375,
+            5.5625
+        ],
+        "16": [
+            3.09375,
+            4.34375,
+            3.765625
+        ],
+        "17": [
+            4.34375,
+            4.96875,
+            4.375
+        ],
+        "18": [
+            4.90625,
+            5.28125,
+            4.5625
+        ],
+        "19": [
+            6.40625,
+            5.625,
+            6.15625
+        ],
+        "20": [
+            5.34375,
+            5.65625,
+            5.71875
+        ],
+        "21": [
+            6.59375,
+            6.8125,
+            6.8125
+        ],
+        "22": [
+            8.25,
+            7.6875,
+            5.5625
+        ],
+        "23": [
+            5.21875,
+            6.25,
+            2.953125
+        ],
+        "24": [
+            6.53125,
+            5.125,
+            4.78125
+        ],
+        "25": [
+            4.625,
+            5.09375,
+            6.21875
+        ],
+        "26": [
+            5.5,
+            6.625,
+            6.84375
+        ],
+        "27": [
+            4.4375,
+            4.4375,
+            4.625
+        ],
+        "28": [
+            4.90625,
+            5.78125,
+            7.15625
+        ],
+        "29": [
+            4.78125,
+            5.03125,
+            6.0625
+        ],
+        "30": [
+            3.609375,
+            2.953125,
+            2.453125
+        ],
+        "31": [
+            6.71875,
+            5.375,
+            6.5
+        ],
+        "32": [
+            5.4375,
+            4.90625,
+            4.875
+        ],
+        "33": [
+            3.65625,
+            4.59375,
+            3.75
+        ],
+        "34": [
+            3.90625,
+            5.40625,
+            5.84375
+        ],
+        "35": [
+            6.875,
+            6.84375,
+            6.78125
+        ],
+        "36": [
+            3.21875,
+            3.078125,
+            3.84375
+        ],
+        "37": [
+            6.03125,
+            5.96875,
+            6.21875
+        ],
+        "38": [
+            4.5625,
+            5.03125,
+            3.46875
+        ],
+        "39": [
+            3.703125,
+            4.6875,
+            6.125
+        ],
+        "40": [
+            4.65625,
+            4.1875,
+            4.65625
+        ],
+        "41": [
+            3.578125,
+            5.21875,
+            4.1875
+        ],
+        "42": [
+            4.125,
+            4.3125,
+            6.0
+        ],
+        "43": [
+            9.4375,
+            7.15625,
+            7.5625
+        ],
+        "44": [
+            4.09375,
+            4.625,
+            4.4375
+        ],
+        "45": [
+            4.40625,
+            4.21875,
+            4.96875
+        ],
+        "46": [
+            7.0625,
+            6.25,
+            6.125
+        ],
+        "47": [
+            5.1875,
+            3.390625,
+            4.84375
+        ],
+        "48": [
+            6.1875,
+            6.65625,
+            5.40625
+        ],
+        "49": [
+            6.34375,
+            5.78125,
+            7.0
+        ],
+        "50": [
+            4.6875,
+            5.09375,
+            5.28125
+        ],
+        "51": [
+            7.40625,
+            8.0,
+            6.4375
+        ],
+        "52": [
+            5.625,
+            6.125,
+            5.25
+        ],
+        "53": [
+            4.03125,
+            3.4375,
+            3.875
+        ],
+        "54": [
+            5.90625,
+            6.0625,
+            5.875
+        ],
+        "55": [
+            4.0625,
+            4.96875,
+            5.5
+        ],
+        "56": [
+            3.71875,
+            5.78125,
+            5.96875
+        ],
+        "57": [
+            3.96875,
+            4.21875,
+            2.96875
+        ],
+        "58": [
+            5.0625,
+            5.3125,
+            5.34375
+        ],
+        "59": [
+            4.5625,
+            5.53125,
+            5.65625
+        ],
+        "60": [
+            2.5625,
+            3.515625,
+            3.546875
+        ],
+        "61": [
+            7.3125,
+            7.25,
+            7.21875
+        ],
+        "62": [
+            6.40625,
+            7.375,
+            7.59375
+        ],
+        "63": [
+            6.3125,
+            5.375,
+            6.1875
+        ],
+        "64": [
+            7.21875,
+            8.875,
+            7.90625
+        ],
+        "65": [
+            7.0,
+            7.5625,
+            9.4375
+        ],
+        "66": [
+            5.21875,
+            6.3125,
+            5.625
+        ],
+        "67": [
+            4.15625,
+            3.53125,
+            5.78125
+        ],
+        "68": [
+            4.71875,
+            5.90625,
+            5.5
+        ],
+        "69": [
+            5.75,
+            5.15625,
+            6.1875
+        ],
+        "70": [
+            3.75,
+            4.3125,
+            5.5625
+        ],
+        "71": [
+            5.78125,
+            7.84375,
+            7.25
+        ],
+        "72": [
+            4.65625,
+            3.703125,
+            2.953125
+        ],
+        "73": [
+            7.65625,
+            7.15625,
+            7.75
+        ],
+        "74": [
+            3.0,
+            3.15625,
+            3.671875
+        ],
+        "75": [
+            2.78125,
+            4.8125,
+            3.265625
+        ],
+        "76": [
+            5.21875,
+            5.21875,
+            5.1875
+        ],
+        "77": [
+            3.96875,
+            5.53125,
+            5.59375
+        ],
+        "78": [
+            3.203125,
+            4.46875,
+            6.5625
+        ],
+        "79": [
+            2.90625,
+            5.375,
+            5.25
+        ],
+        "80": [
+            5.5625,
+            6.625,
+            6.0
+        ],
+        "81": [
+            4.0625,
+            5.65625,
+            5.40625
+        ],
+        "82": [
+            4.59375,
+            5.25,
+            6.03125
+        ],
+        "83": [
+            4.21875,
+            5.5,
+            2.453125
+        ],
+        "84": [
+            3.34375,
+            3.59375,
+            4.8125
+        ],
+        "85": [
+            5.21875,
+            4.40625,
+            5.25
+        ],
+        "86": [
+            5.78125,
+            5.9375,
+            6.0625
+        ],
+        "87": [
+            6.28125,
+            6.5625,
+            5.375
+        ],
+        "88": [
+            4.75,
+            5.65625,
+            3.984375
+        ],
+        "89": [
+            7.8125,
+            7.5625,
+            6.84375
+        ],
+        "90": [
+            3.625,
+            5.5625,
+            4.65625
+        ],
+        "91": [
+            4.40625,
+            4.03125,
+            3.5625
+        ],
+        "92": [
+            4.34375,
+            5.4375,
+            6.34375
+        ],
+        "93": [
+            6.6875,
+            7.71875,
+            6.96875
+        ],
+        "94": [
+            3.03125,
+            3.203125,
+            4.53125
+        ],
+        "95": [
+            4.59375,
+            4.4375,
+            3.765625
+        ],
+        "96": [
+            4.59375,
+            4.90625,
+            5.65625
+        ],
+        "97": [
+            4.5625,
+            4.625,
+            5.5
+        ],
+        "98": [
+            3.765625,
+            2.78125,
+            4.34375
+        ],
+        "99": [
+            4.71875,
+            5.3125,
+            5.40625
+        ],
+        "100": [
+            4.1875,
+            4.09375,
+            5.28125
+        ],
+        "101": [
+            4.78125,
+            6.8125,
+            3.125
+        ],
+        "102": [
+            5.03125,
+            4.6875,
+            8.125
+        ],
+        "103": [
+            3.078125,
+            4.25,
+            3.734375
+        ],
+        "104": [
+            4.71875,
+            5.34375,
+            5.28125
+        ],
+        "105": [
+            2.828125,
+            2.90625,
+            4.5625
+        ],
+        "106": [
+            5.9375,
+            4.3125,
+            3.203125
+        ],
+        "107": [
+            3.4375,
+            4.71875,
+            3.515625
+        ],
+        "108": [
+            5.125,
+            6.96875,
+            6.0
+        ],
+        "109": [
+            4.90625,
+            3.46875,
+            4.0625
+        ],
+        "110": [
+            6.1875,
+            7.46875,
+            7.0
+        ],
+        "111": [
+            3.171875,
+            4.21875,
+            5.84375
+        ],
+        "112": [
+            6.96875,
+            6.09375,
+            7.46875
+        ],
+        "113": [
+            6.4375,
+            6.53125,
+            7.53125
+        ],
+        "114": [
+            6.5,
+            6.375,
+            8.5
+        ],
+        "115": [
+            6.59375,
+            6.9375,
+            7.90625
+        ],
+        "116": [
+            4.4375,
+            4.5625,
+            4.9375
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 5.96875,
+        "1": 2.125,
+        "2": 3.5625,
+        "3": 5.40625,
+        "4": 6.875,
+        "5": 6.40625,
+        "6": 3.046875,
+        "7": 6.03125,
+        "8": 2.71875,
+        "9": 4.03125,
+        "10": 3.09375,
+        "11": 4.625,
+        "12": 4.5625,
+        "13": 5.28125,
+        "14": 3.515625,
+        "15": 4.71875,
+        "16": 1.0390625,
+        "17": 3.234375,
+        "18": 4.65625,
+        "19": 5.25,
+        "20": 3.921875,
+        "21": 5.78125,
+        "22": 6.28125,
+        "23": 5.6875,
+        "24": 5.78125,
+        "25": 3.78125,
+        "26": 5.28125,
+        "27": 2.90625,
+        "28": 4.21875,
+        "29": 5.3125,
+        "30": 3.421875,
+        "31": 4.28125,
+        "32": 3.75,
+        "33": 2.078125,
+        "34": 3.171875,
+        "35": 4.84375,
+        "36": 3.8125,
+        "37": 5.375,
+        "38": 5.0625,
+        "39": 3.859375,
+        "40": 2.34375,
+        "41": 2.703125,
+        "42": 2.8125,
+        "43": 6.96875,
+        "44": 1.6875,
+        "45": 5.0,
+        "46": 5.3125,
+        "47": 4.625,
+        "48": 4.46875,
+        "49": 4.375,
+        "50": 2.75,
+        "51": 5.75,
+        "52": 4.8125,
+        "53": 4.5,
+        "54": 5.15625,
+        "55": 5.1875,
+        "56": 4.96875,
+        "57": 2.734375,
+        "58": 3.96875,
+        "59": 4.75,
+        "60": 3.421875,
+        "61": 6.03125,
+        "62": 5.28125,
+        "63": 5.375,
+        "64": 6.59375,
+        "65": 8.0625,
+        "66": 2.84375,
+        "67": 3.421875,
+        "68": 2.578125,
+        "69": 5.21875,
+        "70": 3.09375,
+        "71": 5.40625,
+        "72": 2.703125,
+        "73": 5.25,
+        "74": 3.390625,
+        "75": 3.078125,
+        "76": 4.0625,
+        "77": 3.4375,
+        "78": 8.25,
+        "79": 4.21875,
+        "80": 6.1875,
+        "81": 4.4375,
+        "82": 3.40625,
+        "83": 2.578125,
+        "84": 3.953125,
+        "85": 4.0625,
+        "86": 5.59375,
+        "87": 4.4375,
+        "88": 5.59375,
+        "89": 6.59375,
+        "90": 4.0,
+        "91": 3.15625,
+        "92": 3.90625,
+        "93": 6.84375,
+        "94": 4.6875,
+        "95": 4.90625,
+        "96": 4.0625,
+        "97": 5.4375,
+        "98": 5.875,
+        "99": 5.40625,
+        "100": 3.390625,
+        "101": 3.8125,
+        "102": 5.9375,
+        "103": 1.7734375,
+        "104": 3.90625,
+        "105": 1.65625,
+        "106": 3.125,
+        "107": 1.9453125,
+        "108": 4.875,
+        "109": 3.8125,
+        "110": 7.65625,
+        "111": 2.84375,
+        "112": 6.875,
+        "113": 5.5625,
+        "114": 5.625,
+        "115": 6.75,
+        "116": 4.15625
+    },
+    "truth_ratio": {
+        "0": 0.5080966949462891,
+        "1": 0.1381843090057373,
+        "2": 0.252839595079422,
+        "3": 0.4976207911968231,
+        "4": 2.9238946437835693,
+        "5": 0.16324551403522491,
+        "6": 0.4040365219116211,
+        "7": 0.3349580466747284,
+        "8": 0.19897352159023285,
+        "9": 0.09901341050863266,
+        "10": 0.406146377325058,
+        "11": 0.3678794801235199,
+        "12": 1.193730115890503,
+        "13": 2.8339357376098633,
+        "14": 0.2691463530063629,
+        "15": 0.47731268405914307,
+        "16": 0.06752128154039383,
+        "17": 0.26497364044189453,
+        "18": 0.7707301378250122,
+        "19": 0.44374731183052063,
+        "20": 0.19184990227222443,
+        "21": 0.38353151082992554,
+        "22": 0.4125421345233917,
+        "23": 2.4114012718200684,
+        "24": 1.3526735305786133,
+        "25": 0.21626517176628113,
+        "26": 0.35286596417427063,
+        "27": 0.2031623274087906,
+        "28": 0.17743214964866638,
+        "29": 1.0210515260696411,
+        "30": 1.5168964862823486,
+        "31": 0.1470964252948761,
+        "32": 0.2663572132587433,
+        "33": 0.14633232355117798,
+        "34": 0.15255829691886902,
+        "35": 0.13675236701965332,
+        "36": 1.5407841205596924,
+        "37": 0.4976207911968231,
+        "38": 2.0306034088134766,
+        "39": 0.375623881816864,
+        "40": 0.11575840413570404,
+        "41": 0.19691166281700134,
+        "42": 0.1353352814912796,
+        "43": 0.33846521377563477,
+        "44": 0.06734564900398254,
+        "45": 1.597995400428772,
+        "46": 0.3114031255245209,
+        "47": 1.1630449295043945,
+        "48": 0.19897352159023285,
+        "49": 0.1353352814912796,
+        "50": 0.10322610288858414,
+        "51": 0.21626517176628113,
+        "52": 0.4256376326084137,
+        "53": 2.0518667697906494,
+        "54": 0.4530888795852661,
+        "55": 1.4102261066436768,
+        "56": 0.8290291428565979,
+        "57": 0.3736727237701416,
+        "58": 0.28059762716293335,
+        "59": 0.6065306663513184,
+        "60": 1.238054871559143,
+        "61": 0.2925361692905426,
+        "62": 0.1582229882478714,
+        "63": 0.5580350160598755,
+        "64": 0.24506054818630219,
+        "65": 1.0644944906234741,
+        "66": 0.056416142731904984,
+        "67": 0.34379541873931885,
+        "68": 0.061000388115644455,
+        "69": 0.6192991137504578,
+        "70": 0.23505941033363342,
+        "71": 0.21180622279644012,
+        "72": 0.34379541873931885,
+        "73": 0.10322610288858414,
+        "74": 1.1214059591293335,
+        "75": 0.5817777514457703,
+        "76": 0.317958801984787,
+        "77": 0.2031623274087906,
+        "78": 33.288368225097656,
+        "79": 0.7470172643661499,
+        "80": 1.133148431777954,
+        "81": 0.5465295314788818,
+        "82": 0.15176576375961304,
+        "83": 0.22782741487026215,
+        "84": 1.0371310710906982,
+        "85": 0.40826717019081116,
+        "86": 0.7165312170982361,
+        "87": 0.19487109780311584,
+        "88": 2.218596935272217,
+        "89": 0.44374731183052063,
+        "90": 0.5408661365509033,
+        "91": 0.4300946593284607,
+        "92": 0.23021307587623596,
+        "93": 0.7548395991325378,
+        "94": 3.001038074493408,
+        "95": 1.897666573524475,
+        "96": 0.3717314898967743,
+        "97": 1.7188689708709717,
+        "98": 9.438446998596191,
+        "99": 1.2974703311920166,
+        "100": 0.32296591997146606,
+        "101": 0.3349580466747284,
+        "102": 0.9896370768547058,
+        "103": 0.14748002588748932,
+        "104": 0.2986946403980255,
+        "105": 0.16930699348449707,
+        "106": 0.25682124495506287,
+        "107": 0.14294254779815674,
+        "108": 0.31466394662857056,
+        "109": 0.7165312170982361,
+        "110": 2.1615660190582275,
+        "111": 0.2085224688053131,
+        "112": 1.0317434072494507,
+        "113": 0.28059762716293335,
+        "114": 0.22313016653060913,
+        "115": 0.6731187701225281,
+        "116": 0.6128816604614258
+    },
+    "paraphrased_loss": {
+        "0": 23.875,
+        "1": 8.5,
+        "2": 14.25,
+        "3": 21.625,
+        "4": 27.5,
+        "5": 25.625,
+        "6": 15.25,
+        "7": 24.125,
+        "8": 10.875,
+        "9": 16.125,
+        "10": 12.375,
+        "11": 18.5,
+        "12": 22.75,
+        "13": 31.75,
+        "14": 21.125,
+        "15": 23.625,
+        "16": 5.1875,
+        "17": 19.375,
+        "18": 18.625,
+        "19": 21.0,
+        "20": 15.6875,
+        "21": 23.125,
+        "22": 25.125,
+        "23": 22.75,
+        "24": 28.875,
+        "25": 15.125,
+        "26": 21.125,
+        "27": 11.625,
+        "28": 16.875,
+        "29": 21.25,
+        "30": 13.6875,
+        "31": 25.75,
+        "32": 22.5,
+        "33": 12.5,
+        "34": 19.0,
+        "35": 19.375,
+        "36": 15.25,
+        "37": 21.5,
+        "38": 25.25,
+        "39": 23.125,
+        "40": 11.75,
+        "41": 10.8125,
+        "42": 11.25,
+        "43": 27.875,
+        "44": 11.8125,
+        "45": 35.0,
+        "46": 21.25,
+        "47": 18.5,
+        "48": 31.25,
+        "49": 17.5,
+        "50": 13.75,
+        "51": 23.0,
+        "52": 19.25,
+        "53": 18.0,
+        "54": 20.625,
+        "55": 20.75,
+        "56": 19.875,
+        "57": 13.6875,
+        "58": 19.875,
+        "59": 33.25,
+        "60": 17.125,
+        "61": 24.125,
+        "62": 21.125,
+        "63": 21.5,
+        "64": 39.5,
+        "65": 32.25,
+        "66": 11.375,
+        "67": 17.125,
+        "68": 28.375,
+        "69": 20.875,
+        "70": 21.625,
+        "71": 32.5,
+        "72": 21.625,
+        "73": 21.0,
+        "74": 23.75,
+        "75": 15.375,
+        "76": 16.25,
+        "77": 20.625,
+        "78": 33.0,
+        "79": 21.125,
+        "80": 24.75,
+        "81": 22.125,
+        "82": 13.625,
+        "83": 23.25,
+        "84": 19.75,
+        "85": 20.25,
+        "86": 28.0,
+        "87": 35.5,
+        "88": 33.5,
+        "89": 26.375,
+        "90": 16.0,
+        "91": 15.75,
+        "92": 27.375,
+        "93": 27.375,
+        "94": 23.5,
+        "95": 29.5,
+        "96": 20.375,
+        "97": 27.25,
+        "98": 23.5,
+        "99": 21.625,
+        "100": 20.375,
+        "101": 22.875,
+        "102": 23.75,
+        "103": 12.4375,
+        "104": 19.5,
+        "105": 9.9375,
+        "106": 15.625,
+        "107": 11.6875,
+        "108": 19.5,
+        "109": 22.875,
+        "110": 30.625,
+        "111": 31.25,
+        "112": 27.5,
+        "113": 22.25,
+        "114": 28.125,
+        "115": 40.5,
+        "116": 20.75
+    },
+    "perturb_loss": {
+        "0": [
+            25.125,
+            25.125,
+            29.5
+        ],
+        "1": [
+            16.0,
+            20.25,
+            17.0
+        ],
+        "2": [
+            18.125,
+            22.5,
+            18.625
+        ],
+        "3": [
+            23.0,
+            30.75,
+            29.75
+        ],
+        "4": [
+            21.375,
+            26.875,
+            26.75
+        ],
+        "5": [
+            36.25,
+            33.25,
+            29.125
+        ],
+        "6": [
+            18.125,
+            20.5,
+            19.5
+        ],
+        "7": [
+            24.625,
+            28.375,
+            32.5
+        ],
+        "8": [
+            20.625,
+            19.25,
+            16.25
+        ],
+        "9": [
+            31.25,
+            26.875,
+            29.25
+        ],
+        "10": [
+            17.25,
+            15.0,
+            15.6875
+        ],
+        "11": [
+            24.5,
+            20.375,
+            22.625
+        ],
+        "12": [
+            21.875,
+            22.125,
+            26.0
+        ],
+        "13": [
+            25.625,
+            24.5,
+            26.0
+        ],
+        "14": [
+            25.25,
+            17.875,
+            35.0
+        ],
+        "15": [
+            29.375,
+            24.625,
+            27.875
+        ],
+        "16": [
+            15.4375,
+            21.75,
+            15.0625
+        ],
+        "17": [
+            26.0,
+            39.75,
+            26.25
+        ],
+        "18": [
+            19.625,
+            21.125,
+            18.25
+        ],
+        "19": [
+            25.625,
+            22.5,
+            24.625
+        ],
+        "20": [
+            21.375,
+            22.625,
+            22.875
+        ],
+        "21": [
+            26.375,
+            27.25,
+            27.25
+        ],
+        "22": [
+            33.0,
+            30.75,
+            27.75
+        ],
+        "23": [
+            26.125,
+            25.0,
+            23.625
+        ],
+        "24": [
+            26.125,
+            25.625,
+            23.875
+        ],
+        "25": [
+            18.5,
+            25.5,
+            24.875
+        ],
+        "26": [
+            22.0,
+            26.5,
+            27.375
+        ],
+        "27": [
+            17.75,
+            17.75,
+            18.5
+        ],
+        "28": [
+            19.625,
+            23.125,
+            28.625
+        ],
+        "29": [
+            19.125,
+            20.125,
+            24.25
+        ],
+        "30": [
+            14.4375,
+            11.8125,
+            9.8125
+        ],
+        "31": [
+            40.25,
+            32.25,
+            39.0
+        ],
+        "32": [
+            38.0,
+            34.25,
+            44.0
+        ],
+        "33": [
+            18.25,
+            18.375,
+            18.75
+        ],
+        "34": [
+            27.375,
+            32.5,
+            35.0
+        ],
+        "35": [
+            27.5,
+            34.25,
+            27.125
+        ],
+        "36": [
+            12.875,
+            18.5,
+            15.375
+        ],
+        "37": [
+            24.125,
+            23.875,
+            24.875
+        ],
+        "38": [
+            22.875,
+            25.125,
+            27.75
+        ],
+        "39": [
+            22.25,
+            28.125,
+            24.5
+        ],
+        "40": [
+            18.625,
+            20.875,
+            18.625
+        ],
+        "41": [
+            17.875,
+            20.875,
+            16.75
+        ],
+        "42": [
+            20.625,
+            17.25,
+            24.0
+        ],
+        "43": [
+            37.75,
+            35.75,
+            30.25
+        ],
+        "44": [
+            24.5,
+            23.125,
+            35.5
+        ],
+        "45": [
+            30.875,
+            29.625,
+            34.75
+        ],
+        "46": [
+            28.25,
+            31.25,
+            30.625
+        ],
+        "47": [
+            25.875,
+            20.375,
+            19.375
+        ],
+        "48": [
+            43.25,
+            40.0,
+            37.75
+        ],
+        "49": [
+            25.375,
+            23.125,
+            28.0
+        ],
+        "50": [
+            23.5,
+            25.5,
+            31.75
+        ],
+        "51": [
+            29.625,
+            32.0,
+            32.25
+        ],
+        "52": [
+            22.5,
+            24.5,
+            21.0
+        ],
+        "53": [
+            16.125,
+            13.75,
+            19.375
+        ],
+        "54": [
+            23.625,
+            24.25,
+            29.375
+        ],
+        "55": [
+            16.25,
+            19.875,
+            22.0
+        ],
+        "56": [
+            18.625,
+            23.125,
+            23.875
+        ],
+        "57": [
+            19.875,
+            21.125,
+            20.75
+        ],
+        "58": [
+            20.25,
+            21.25,
+            21.375
+        ],
+        "59": [
+            27.375,
+            44.25,
+            28.25
+        ],
+        "60": [
+            15.375,
+            21.125,
+            31.875
+        ],
+        "61": [
+            29.25,
+            29.0,
+            28.875
+        ],
+        "62": [
+            25.625,
+            29.5,
+            38.0
+        ],
+        "63": [
+            25.25,
+            21.5,
+            24.75
+        ],
+        "64": [
+            28.875,
+            35.5,
+            39.5
+        ],
+        "65": [
+            35.0,
+            30.25,
+            37.75
+        ],
+        "66": [
+            20.875,
+            25.25,
+            22.5
+        ],
+        "67": [
+            25.0,
+            24.75,
+            28.875
+        ],
+        "68": [
+            28.375,
+            47.25,
+            44.0
+        ],
+        "69": [
+            23.0,
+            20.625,
+            24.75
+        ],
+        "70": [
+            18.75,
+            21.5,
+            27.875
+        ],
+        "71": [
+            40.5,
+            39.25,
+            43.5
+        ],
+        "72": [
+            23.25,
+            18.5,
+            20.625
+        ],
+        "73": [
+            30.625,
+            28.625,
+            31.0
+        ],
+        "74": [
+            24.0,
+            25.25,
+            29.375
+        ],
+        "75": [
+            19.5,
+            19.25,
+            19.625
+        ],
+        "76": [
+            20.875,
+            20.875,
+            20.75
+        ],
+        "77": [
+            35.75,
+            27.625,
+            39.25
+        ],
+        "78": [
+            19.25,
+            22.375,
+            26.25
+        ],
+        "79": [
+            14.5625,
+            21.5,
+            21.0
+        ],
+        "80": [
+            22.25,
+            26.5,
+            24.0
+        ],
+        "81": [
+            20.25,
+            34.0,
+            27.0
+        ],
+        "82": [
+            18.375,
+            21.0,
+            24.125
+        ],
+        "83": [
+            29.625,
+            33.0,
+            29.375
+        ],
+        "84": [
+            16.75,
+            18.0,
+            19.25
+        ],
+        "85": [
+            26.125,
+            22.0,
+            26.25
+        ],
+        "86": [
+            28.875,
+            29.625,
+            30.375
+        ],
+        "87": [
+            37.75,
+            46.0,
+            43.0
+        ],
+        "88": [
+            33.25,
+            34.0,
+            31.875
+        ],
+        "89": [
+            31.25,
+            30.25,
+            27.375
+        ],
+        "90": [
+            18.125,
+            22.25,
+            27.875
+        ],
+        "91": [
+            22.0,
+            28.25,
+            21.375
+        ],
+        "92": [
+            30.5,
+            27.125,
+            31.75
+        ],
+        "93": [
+            26.75,
+            30.875,
+            27.875
+        ],
+        "94": [
+            15.125,
+            19.25,
+            22.625
+        ],
+        "95": [
+            27.625,
+            26.625,
+            26.375
+        ],
+        "96": [
+            23.0,
+            24.5,
+            28.25
+        ],
+        "97": [
+            22.75,
+            23.125,
+            27.5
+        ],
+        "98": [
+            26.375,
+            22.25,
+            30.5
+        ],
+        "99": [
+            18.875,
+            21.25,
+            21.625
+        ],
+        "100": [
+            29.375,
+            24.5,
+            31.625
+        ],
+        "101": [
+            28.75,
+            34.0,
+            28.125
+        ],
+        "102": [
+            20.125,
+            23.375,
+            32.5
+        ],
+        "103": [
+            21.5,
+            25.5,
+            29.875
+        ],
+        "104": [
+            23.625,
+            26.75,
+            26.375
+        ],
+        "105": [
+            22.625,
+            23.25,
+            22.875
+        ],
+        "106": [
+            29.625,
+            21.625,
+            25.625
+        ],
+        "107": [
+            27.5,
+            33.0,
+            21.125
+        ],
+        "108": [
+            20.5,
+            27.875,
+            24.0
+        ],
+        "109": [
+            24.5,
+            27.75,
+            20.25
+        ],
+        "110": [
+            24.75,
+            29.875,
+            28.0
+        ],
+        "111": [
+            15.875,
+            25.375,
+            52.5
+        ],
+        "112": [
+            27.875,
+            24.375,
+            29.875
+        ],
+        "113": [
+            25.75,
+            26.125,
+            30.125
+        ],
+        "114": [
+            39.0,
+            38.25,
+            42.5
+        ],
+        "115": [
+            26.375,
+            27.75,
+            31.625
+        ],
+        "116": [
+            22.125,
+            22.875,
+            24.75
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 5.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 5.0,
+        "13": 6.0,
+        "14": 6.0,
+        "15": 5.0,
+        "16": 5.0,
+        "17": 6.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 4.0,
+        "21": 4.0,
+        "22": 4.0,
+        "23": 4.0,
+        "24": 5.0,
+        "25": 4.0,
+        "26": 4.0,
+        "27": 4.0,
+        "28": 4.0,
+        "29": 4.0,
+        "30": 4.0,
+        "31": 6.0,
+        "32": 6.0,
+        "33": 6.0,
+        "34": 6.0,
+        "35": 4.0,
+        "36": 4.0,
+        "37": 4.0,
+        "38": 5.0,
+        "39": 6.0,
+        "40": 5.0,
+        "41": 4.0,
+        "42": 4.0,
+        "43": 4.0,
+        "44": 7.0,
+        "45": 7.0,
+        "46": 4.0,
+        "47": 4.0,
+        "48": 7.0,
+        "49": 4.0,
+        "50": 5.0,
+        "51": 4.0,
+        "52": 4.0,
+        "53": 4.0,
+        "54": 4.0,
+        "55": 4.0,
+        "56": 4.0,
+        "57": 5.0,
+        "58": 5.0,
+        "59": 7.0,
+        "60": 5.0,
+        "61": 4.0,
+        "62": 4.0,
+        "63": 4.0,
+        "64": 6.0,
+        "65": 4.0,
+        "66": 4.0,
+        "67": 5.0,
+        "68": 11.0,
+        "69": 4.0,
+        "70": 7.0,
+        "71": 6.0,
+        "72": 8.0,
+        "73": 4.0,
+        "74": 7.0,
+        "75": 5.0,
+        "76": 4.0,
+        "77": 6.0,
+        "78": 4.0,
+        "79": 5.0,
+        "80": 4.0,
+        "81": 5.0,
+        "82": 4.0,
+        "83": 9.0,
+        "84": 5.0,
+        "85": 5.0,
+        "86": 5.0,
+        "87": 8.0,
+        "88": 6.0,
+        "89": 4.0,
+        "90": 4.0,
+        "91": 5.0,
+        "92": 7.0,
+        "93": 4.0,
+        "94": 5.0,
+        "95": 6.0,
+        "96": 5.0,
+        "97": 5.0,
+        "98": 4.0,
+        "99": 4.0,
+        "100": 6.0,
+        "101": 6.0,
+        "102": 4.0,
+        "103": 7.0,
+        "104": 5.0,
+        "105": 6.0,
+        "106": 5.0,
+        "107": 6.0,
+        "108": 4.0,
+        "109": 6.0,
+        "110": 4.0,
+        "111": 11.0,
+        "112": 4.0,
+        "113": 4.0,
+        "114": 5.0,
+        "115": 6.0,
+        "116": 5.0
+    },
+    "num_token_perturb": {
+        "0": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "1": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "2": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "3": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "4": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "5": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "6": [
+            4.0,
+            6.0,
+            5.0
+        ],
+        "7": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "8": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "9": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "10": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "11": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "12": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "13": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "14": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "15": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "16": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "17": [
+            6.0,
+            8.0,
+            6.0
+        ],
+        "18": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "19": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "20": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "21": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "22": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "23": [
+            5.0,
+            4.0,
+            8.0
+        ],
+        "24": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "25": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "26": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "27": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "28": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "29": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "30": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "31": [
+            6.0,
+            6.0,
+            6.0
+        ],
+        "32": [
+            7.0,
+            7.0,
+            9.0
+        ],
+        "33": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "34": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "35": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "36": [
+            4.0,
+            6.0,
+            4.0
+        ],
+        "37": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "38": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "39": [
+            6.0,
+            6.0,
+            4.0
+        ],
+        "40": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "41": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "42": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "43": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "44": [
+            6.0,
+            5.0,
+            8.0
+        ],
+        "45": [
+            7.0,
+            7.0,
+            7.0
+        ],
+        "46": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "47": [
+            5.0,
+            6.0,
+            4.0
+        ],
+        "48": [
+            7.0,
+            6.0,
+            7.0
+        ],
+        "49": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "50": [
+            5.0,
+            5.0,
+            6.0
+        ],
+        "51": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "52": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "53": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "54": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "55": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "56": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "57": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "58": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "59": [
+            6.0,
+            8.0,
+            5.0
+        ],
+        "60": [
+            6.0,
+            6.0,
+            9.0
+        ],
+        "61": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "62": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "63": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "64": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "65": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "66": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "67": [
+            6.0,
+            7.0,
+            5.0
+        ],
+        "68": [
+            6.0,
+            8.0,
+            8.0
+        ],
+        "69": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "70": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "71": [
+            7.0,
+            5.0,
+            6.0
+        ],
+        "72": [
+            5.0,
+            5.0,
+            7.0
+        ],
+        "73": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "74": [
+            8.0,
+            8.0,
+            8.0
+        ],
+        "75": [
+            7.0,
+            4.0,
+            6.0
+        ],
+        "76": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "77": [
+            9.0,
+            5.0,
+            7.0
+        ],
+        "78": [
+            6.0,
+            5.0,
+            4.0
+        ],
+        "79": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "80": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "81": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "82": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "83": [
+            7.0,
+            6.0,
+            12.0
+        ],
+        "84": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "85": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "86": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "87": [
+            6.0,
+            7.0,
+            8.0
+        ],
+        "88": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "89": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "90": [
+            5.0,
+            4.0,
+            6.0
+        ],
+        "91": [
+            5.0,
+            7.0,
+            6.0
+        ],
+        "92": [
+            7.0,
+            5.0,
+            5.0
+        ],
+        "93": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "94": [
+            5.0,
+            6.0,
+            5.0
+        ],
+        "95": [
+            6.0,
+            6.0,
+            7.0
+        ],
+        "96": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "97": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "98": [
+            7.0,
+            8.0,
+            7.0
+        ],
+        "99": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "100": [
+            7.0,
+            6.0,
+            6.0
+        ],
+        "101": [
+            6.0,
+            5.0,
+            9.0
+        ],
+        "102": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "103": [
+            7.0,
+            6.0,
+            8.0
+        ],
+        "104": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "105": [
+            8.0,
+            8.0,
+            5.0
+        ],
+        "106": [
+            5.0,
+            5.0,
+            8.0
+        ],
+        "107": [
+            8.0,
+            7.0,
+            6.0
+        ],
+        "108": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "109": [
+            5.0,
+            8.0,
+            5.0
+        ],
+        "110": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "111": [
+            5.0,
+            6.0,
+            9.0
+        ],
+        "112": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "113": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "114": [
+            6.0,
+            6.0,
+            5.0
+        ],
+        "115": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "116": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.996318102989032,
+        "1": 0.3484372228405919,
+        "2": 0.6106624323864636,
+        "3": 1.1521727696123882,
+        "4": 2.435105640663607,
+        "5": 0.49207682038403605,
+        "6": 0.8490220312771968,
+        "7": 0.8549733991326404,
+        "8": 0.48805859241025,
+        "9": 0.36942698556470266,
+        "10": 0.8114901690742689,
+        "11": 0.7909429734021116,
+        "12": 1.522549904616851,
+        "13": 2.2566191676234246,
+        "14": 0.8108429665238864,
+        "15": 0.9354190830139506,
+        "16": 0.20724781665833047,
+        "17": 0.6020701036514781,
+        "18": 1.227400427466093,
+        "19": 0.8779613629602165,
+        "20": 0.4596931382302398,
+        "21": 0.7686577588985821,
+        "22": 1.2344705633808595,
+        "23": 2.9214339402855423,
+        "24": 1.8112677446068948,
+        "25": 0.5803255753822929,
+        "26": 0.8215401961051245,
+        "27": 0.4773642571180451,
+        "28": 0.5684005308583057,
+        "29": 1.5036792315897647,
+        "30": 1.8019859429645682,
+        "31": 0.42597469082366385,
+        "32": 0.6011951613734139,
+        "33": 0.3887044196087099,
+        "34": 0.5043970628384151,
+        "35": 0.3439941592171671,
+        "36": 1.768862366593436,
+        "37": 0.9167467304737775,
+        "38": 2.1520688059766404,
+        "39": 0.9968568420881333,
+        "40": 0.3047233855155801,
+        "41": 0.5448318171672892,
+        "42": 0.4275862470571593,
+        "43": 0.9025861413081612,
+        "44": 0.18820310473201624,
+        "45": 1.79620130472671,
+        "46": 0.6977002397411477,
+        "47": 1.7595006371990005,
+        "48": 0.5206329569186005,
+        "49": 0.37646983374696147,
+        "50": 0.27732127467108314,
+        "51": 0.5872777256351214,
+        "52": 0.8580437100516505,
+        "53": 1.9960378335230413,
+        "54": 0.8602553285423458,
+        "55": 1.8011077353173213,
+        "56": 1.6680783946695181,
+        "57": 0.8366957059234401,
+        "58": 0.6144627967438984,
+        "59": 1.1210585214521571,
+        "60": 1.6399072599443334,
+        "61": 0.6303522984225004,
+        "62": 0.43624649819870354,
+        "63": 1.0421664221146996,
+        "64": 0.645302778521807,
+        "65": 1.7570225360764522,
+        "66": 0.17069712763035938,
+        "67": 0.9044928920350609,
+        "68": 0.18836514761866022,
+        "69": 1.109196517648996,
+        "70": 0.6413712735315624,
+        "71": 0.6590169550003279,
+        "72": 0.8279011182785401,
+        "73": 0.27829398952769313,
+        "74": 1.5033798747096896,
+        "75": 1.2093145177679072,
+        "76": 0.6698685174367935,
+        "77": 0.6025944054371768,
+        "78": 5.326965318551606,
+        "79": 1.6839284376208736,
+        "80": 1.5518352257908938,
+        "81": 1.141080299976319,
+        "82": 0.4289508149863162,
+        "83": 0.8674533464688251,
+        "84": 1.546528355736898,
+        "85": 0.845332893460809,
+        "86": 1.151811547122057,
+        "87": 0.5123813555832564,
+        "88": 2.226154073819459,
+        "89": 0.8977019894273589,
+        "90": 1.1579485412612875,
+        "91": 0.8626833630244692,
+        "92": 0.6674665988084906,
+        "93": 1.243715698935845,
+        "94": 2.4698734427375504,
+        "95": 1.9591868505021557,
+        "96": 0.7980145610778964,
+        "97": 1.885829963362831,
+        "98": 3.5814804074823505,
+        "99": 1.6266927104720161,
+        "100": 0.7403878729122048,
+        "101": 1.2290794949204922,
+        "102": 1.9569297267229975,
+        "103": 0.40280511078829034,
+        "104": 0.6596460960906798,
+        "105": 0.5013634438268765,
+        "106": 0.8285021437658632,
+        "107": 0.4023317669685384,
+        "108": 0.8005105318374749,
+        "109": 1.2595924120721995,
+        "110": 2.137425349396454,
+        "111": 0.7045319495048217,
+        "112": 1.536214021873077,
+        "113": 0.6606500701996963,
+        "114": 0.665593393571755,
+        "115": 1.1977972322845727,
+        "116": 1.057379298056124
+    }
+}

@@ -1,0 +1,27 @@
+model_family: qwen3-4b
+resume_from: none
+data_paths:
+- talmahmud/tofu_custom_split_UnReLDP
+- talmahmud/tofu_custom_split_UnReLDP
+- talmahmud/tofu_custom_split_UnReLDP
+- talmahmud/tofu_custom_split_UnReLDP
+splits:
+- retain_shard4_1_forget05
+- retain_shard4_2_forget05
+- retain_shard4_3_forget05
+- retain_shard4_4_forget05
+num_shards: 4
+forget: forget20
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 8
+lr: 5.0e-05
+weight_decay: 0.01
+seed: 42
+save_dir: /data/urveim/talmahmud/UnReLDP/checkpoints/SISA/SISA_ITr_R_${num_shards}slices_epoch_${num_epochs}_${model_family}_mrr0.1_trr0.85_cali4
+continual:
+  osl:
+    mrr: 0.1
+    trr: 0.85
+    cali_batches: 4
+    target_linear_only: true

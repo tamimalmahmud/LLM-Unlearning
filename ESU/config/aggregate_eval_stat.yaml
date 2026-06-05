@@ -1,0 +1,7 @@
+retain_result: /home/talmahmud/ESU/checkpoints/Traditional_RFS_on_retain198_epoch10_phi/eval_results/ds_size400/eval_log_aggregated.json
+model_path: /data/urveim/talmahmud/ESU/checkpoints/P3_UM_EP1_P50_Rshards_4_epoch_5_lr_5e-05_phi_mrr0.1_trr0.85_cali4/Final_Model_forget02
+ckpt_result: ${model_path}/eval_results/ds_size400/eval_log_aggregated.json
+#ckpt_result: /data/urveim/talmahmud/ESU/checkpoints/pretrained Qwen/eval_results/ds_size400/eval_log_aggregated.json
+method_name: Final_Model_forget02
+submitted_by: tamim
+save_file: results/P3_UM_EP1_P50_Rshards_4_epoch_5_lr_5e-05_phi_mrr0.1_trr0.85_cali4_Final_Model_forget02.csv

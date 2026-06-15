@@ -73,21 +73,6 @@ cd UnReL
 cd ESU
 ```
 
-Create an environment if required by the selected project:
-
-```bash
-conda create --name torch-env pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia
-conda activate torch-env
-```
-
-Install the common dependencies:
-
-```bash
-pip install datasets accelerate evaluate matplotlib hydra-core omegaconf peft rouge_score tqdm einops packaging bitsandbytes scipy ninja
-```
-
-Project-specific dependencies, model paths, dataset paths, and configuration details are provided inside each project folder.
-
 ## Repository Structure
 
 ```text

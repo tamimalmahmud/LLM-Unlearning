@@ -73,19 +73,6 @@ cd UnReL
 cd ESU
 ```
 
-## Repository Structure
-
-```text
-LLM-Unlearning/
-├── DP2Unlearning/
-│   └── README.md
-├── UnReL/
-│   └── README.md
-├── ESU/
-│   └── README.md
-└── README.md
-```
-
 ## Contributing
 
 Contributions are welcome. You can help by improving existing methods, adding new baselines, testing more datasets or models, reporting bugs, improving documentation, or adding new evaluation metrics.

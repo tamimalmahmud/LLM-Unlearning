@@ -1,5 +1,5 @@
 # UnReL: Unlearning via Relearning
-
+Paper: [[UnReL: Unlearning via ReLearning](https://link.springer.com/chapter/10.1007/978-3-032-37976-4_30)]
 This repository contains the reproducibility code for **UnReL**, an experimental framework exploring efficient data unlearning in large language models (LLMs). The project focuses on estimating how likely each data instance is to be requested for removal and preparing models for targeted retraining with minimal cost.
 
 ---

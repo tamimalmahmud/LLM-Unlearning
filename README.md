@@ -28,7 +28,7 @@ Then follow the detailed README inside the project directory.
 
 ## Project 2: UnReL
 
-**Paper:** [UnReL: Unlearning via ReLearning]
+**Paper:** [[UnReL: Unlearning via ReLearning](https://link.springer.com/chapter/10.1007/978-3-032-37976-4_30)]
 
 **UnReL** focuses on reducing unlearning cost through data scoring, shard assignment, and targeted relearning. It estimates which data may be more likely to require removal and uses that information to support efficient retraining strategies.
 
